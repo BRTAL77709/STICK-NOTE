@@ -1,0 +1,46 @@
+{
+  "source": "CMU 02_03 running, BVH conversion by Bruce Hahne",
+  "sourceRate": 120.00048000192001,
+  "cycleFrames": 92,
+  "rootSpeedPxPerSecond": 451.757883118489,
+  "style": "Original painted sprite parts; no new artwork generated.",
+  "maxReach": 0,
+  "maxPinDrift": 0,
+  "maxJointJump": 18.37773431286718,
+  "footfalls": [
+    0,
+    0.23333333333333334,
+    0.6166666666666667,
+    1,
+    1.3833333333333333,
+    1.7666666666666666,
+    2.15,
+    2.533333333333333,
+    2.9166666666666665,
+    3.3,
+    3.683333333333333,
+    4.066666666666666,
+    4.45,
+    4.833333333333333,
+    5.216666666666667,
+    5.6,
+    5.983333333333333
+  ],
+  "review": "Pending rendered-motion and user review; not a realism certification.",
+  "export": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 450,
+    "duration_seconds": 15,
+    "video": "H.264",
+    "audio": "AAC",
+    "full_decode": "passed",
+    "adjacent_identical_decoded_frames": 0
+  },
+  "file": {
+    "bytes": 10722758,
+    "sha256": "6dae1d189c2851098a24a351132d5effd311df134046380427e3165ad55b8d97"
+  },
+  "limits": "No human real-time playback or listening certification is claimed. Existing painted assets are an earlier approximation; exact locked-art fidelity and naturalness remain unapproved."
+}
