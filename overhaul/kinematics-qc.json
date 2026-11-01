@@ -1,0 +1,57 @@
+{
+  "sample_rate_hz": 120,
+  "rig": {
+    "door": {
+      "max_reach_error_px": 0,
+      "max_limb_length_error_px": 1.7053025658242404e-13,
+      "max_planted_contact_error_px": 5.684341886080802e-14,
+      "max_floor_penetration_px": 0,
+      "max_prop_contact_error_px": 3.2155493553843715e-13,
+      "max_joint_step_at_120hz_px": 6.312167797608551
+    },
+    "run": {
+      "max_reach_error_px": 0,
+      "max_limb_length_error_px": 1.8474111129762605e-13,
+      "max_planted_contact_error_px": 1.1368683772161603e-13,
+      "max_floor_penetration_px": 0,
+      "max_prop_contact_error_px": 0,
+      "max_joint_step_at_120hz_px": 7.425923573699727
+    },
+    "phone": {
+      "max_reach_error_px": 0,
+      "max_limb_length_error_px": 1.7053025658242404e-13,
+      "max_planted_contact_error_px": 0,
+      "max_floor_penetration_px": 0,
+      "max_prop_contact_error_px": 0,
+      "max_joint_step_at_120hz_px": 6.296440005738578
+    }
+  },
+  "driver": {
+    "max_arm_reach_error_px": 0,
+    "max_hand_to_wheel_rim_error_px": 1.1368683772161603e-13,
+    "max_joint_step_at_120hz_px": 0.6513421941706548,
+    "mirror_gap_m_start_end": [
+      12,
+      6
+    ]
+  },
+  "vehicle": {
+    "route_length_m": 25.889794808354043,
+    "shared_rear_axle_route_gap_m": 6,
+    "max_lateral_acceleration_m_s2": 3.4193108908343826,
+    "max_ackermann_front_wheel_steer_degrees": 32.136505986062296,
+    "wheel_radius_m": 0.4,
+    "wheel_rotation": "negative integrated per-wheel travel / radius; inner and outer travel differ",
+    "suspension": "body-only heave; wheel bottoms stay on road plane"
+  },
+  "approval": "Pending user review. Preview only; full-film integration is not claimed.",
+  "preservation": {
+    "head_artwork_identical": true,
+    "original_files_hash_verified": [
+      "/workspace/chase-film/source/Film.tsx",
+      "/workspace/chase-film/output/the_price_of_silence.mp4",
+      "/workspace/chase-film/output/master.wav",
+      "/workspace/output/download-01/video.mp4"
+    ]
+  }
+}
