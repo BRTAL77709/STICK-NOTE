@@ -1,0 +1,14 @@
+{
+  "body_inside_before_release": 6.2,
+  "hands_withdrawn_by": 6.7,
+  "lid_contact_and_close_start": 6.95,
+  "trunk_closed_seconds": 7.5,
+  "trunk_closed_frame": 225,
+  "latch_click_seconds": 7.5,
+  "witness_notice": 7.75,
+  "head_turn_start": 8.0,
+  "eye_narrow_start": 9.2,
+  "head_turn_guard": "head_time(t) requires lid_angle(t)==0 for every t>=8",
+  "head_before_closure_violations": 0,
+  "rendered_audio_latch_event_verified": true
+}

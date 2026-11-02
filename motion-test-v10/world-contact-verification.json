@@ -1,0 +1,37 @@
+{
+  "frames": 300,
+  "world_axes": "X=car width; Y=forward along sedan; Z=height. Pavement Z=0.",
+  "projection": "Orthographic yaw20\u00b0, elevation35\u00b0; same fixed basis for car and all articulated joints.",
+  "max_stance_Z_error": 0.0,
+  "max_world_stance_displacement": 0.0,
+  "projected_shoe_bumper_polygon_overlaps": 0,
+  "shoe_car_ground_footprint_intrusions": 0,
+  "all_four_feet_planted_through_lift_3_to_4_6": true,
+  "max_shoulder_to_hand_reach": 173.63117565004447,
+  "max_3D_bone_length_variation": 1.9895196601282805e-13,
+  "victim_torso_angle_range": [
+    0,
+    90
+  ],
+  "maximum_victim_marker_3D_frame_step": 20.562492433615333,
+  "final_skeletal_anchors_inside_cavity": true,
+  "final_shoulder": [
+    505.0,
+    65.0,
+    155.0
+  ],
+  "final_pelvis": [
+    643.265790691742,
+    65.0,
+    126.24985001104577
+  ],
+  "max_closing_hand_lid_gap": 0.0,
+  "trunk_closed_time": 7.5,
+  "trunk_closed_frame": 225,
+  "head_turn_start": 8.0,
+  "latch_sound_time": 7.5,
+  "limits": "Shoe and bumper polygon separation is a projected-geometry check; articulated capsule/silhouette overlaps and 2.5D interior holdouts also need encoded visual review. Not a full dynamic/collision simulation.",
+  "arm_centerline_below_sill_crossings": 0,
+  "minimum_arm_rear_plane_crossing_height": 235.84082346999634,
+  "sill_height": 235
+}

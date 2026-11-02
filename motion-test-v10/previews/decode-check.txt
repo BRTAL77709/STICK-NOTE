@@ -1,0 +1,48 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from '/workspace/STICK-NOTE/motion-test-v10/THE_PRICE_OF_SILENCE_MOTION_TEST_V10_10s.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Duration: 00:00:10.00, start: 0.000000, bitrate: 3227 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920, 3025 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 191 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+[Parsed_volumedetect_0 @ 0x561e9db4a100] n_samples: 0
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> wrapped_avframe (native))
+  Stream #0:1 -> #0:1 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.103
+  Stream #0:0(und): Video: wrapped_avframe, yuv420p(progressive), 1080x1920, q=2-31, 200 kb/s, 30 fps, 30 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 wrapped_avframe
+  Stream #0:1(und): Audio: pcm_s16le, 48000 Hz, stereo, s16, 1536 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 pcm_s16le
+frame=   40 fps=0.0 q=-0.0 size=N/A time=00:00:01.33 bitrate=N/A speed=2.67x    frame=   92 fps= 92 q=-0.0 size=N/A time=00:00:03.06 bitrate=N/A speed=3.07x    frame=  150 fps=100 q=-0.0 size=N/A time=00:00:05.00 bitrate=N/A speed=3.33x    frame=  216 fps=108 q=-0.0 size=N/A time=00:00:07.23 bitrate=N/A speed=3.61x    frame=  267 fps=107 q=-0.0 size=N/A time=00:00:08.90 bitrate=N/A speed=3.56x    [Parsed_volumedetect_0 @ 0x7f2304001d40] n_samples: 960512
+[Parsed_volumedetect_0 @ 0x7f2304001d40] mean_volume: -28.0 dB
+[Parsed_volumedetect_0 @ 0x7f2304001d40] max_volume: -8.7 dB
+[Parsed_volumedetect_0 @ 0x7f2304001d40] histogram_8db: 1
+[Parsed_volumedetect_0 @ 0x7f2304001d40] histogram_9db: 29
+[Parsed_volumedetect_0 @ 0x7f2304001d40] histogram_10db: 79
+[Parsed_volumedetect_0 @ 0x7f2304001d40] histogram_11db: 180
+[Parsed_volumedetect_0 @ 0x7f2304001d40] histogram_12db: 416
+[Parsed_volumedetect_0 @ 0x7f2304001d40] histogram_13db: 772
+[out#0/null @ 0x561e9dad75c0] video:129KiB audio:1876KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: unknown
+frame=  300 fps=109 q=-0.0 Lsize=N/A time=00:00:10.00 bitrate=N/A speed=3.65x    
