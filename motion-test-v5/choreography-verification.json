@@ -1,0 +1,134 @@
+{
+  "frames": 150,
+  "root_displacement_to_3_2": [
+    300.0,
+    300.0
+  ],
+  "root_held_through_0_9": true,
+  "max_planted_foot_slide_world_units": 0.0,
+  "max_hand_upper_arm_gap_world_units": 1.1368683772161603e-13,
+  "minimum_hips_below_shoulders": 136.9950487280562,
+  "victim_heel_y_values": [
+    1413,
+    1418
+  ],
+  "victim_heel_spacing_constant": 30,
+  "minimum_knee_ahead_of_dragging_ankle": 68.93,
+  "victim_has_walk_cycle": false,
+  "asynchronous_support_frames": 32,
+  "maximum_segment_length_variation_svg_rounding": 0.019632448109760503,
+  "limb_length_ranges": {
+    "actor-1-leg-0:0": [
+      84.99255143834674,
+      85.00837899877865
+    ],
+    "actor-1-leg-0:1": [
+      84.99191726276091,
+      85.00812431762027
+    ],
+    "actor-1-leg-1:0": [
+      84.9909295160371,
+      85.0080113871628
+    ],
+    "actor-1-leg-1:1": [
+      84.99387095549882,
+      85.00883012958128
+    ],
+    "actor-1-free-arm:0": [
+      64.99201489413923,
+      65.01047915528692
+    ],
+    "actor-1-free-arm:1": [
+      62.99087235465161,
+      63.01047055847145
+    ],
+    "actor-2-leg-0:0": [
+      84.98977173754488,
+      85.00940418565465
+    ],
+    "actor-2-leg-0:1": [
+      84.98871277999207,
+      85.00619565655207
+    ],
+    "actor-2-leg-1:0": [
+      84.99092951603713,
+      85.0097059164423
+    ],
+    "actor-2-leg-1:1": [
+      84.99401978963009,
+      85.00894364712444
+    ],
+    "actor-2-free-arm:0": [
+      64.99335119841112,
+      65.01003768649883
+    ],
+    "actor-2-free-arm:1": [
+      62.99214236712377,
+      63.0094167565452
+    ],
+    "victim-leg-0:0": [
+      76.99180475868849,
+      77.00865016347173
+    ],
+    "victim-leg-0:1": [
+      79.99061194915322,
+      80.00883263740324
+    ],
+    "victim-leg-1:0": [
+      76.9902935440567,
+      77.00896701034226
+    ],
+    "victim-leg-1:1": [
+      79.99131515358405,
+      80.00716780389115
+    ],
+    "victim-arm-bones-0:0": [
+      77.4209274033836,
+      77.42092740338367
+    ],
+    "victim-arm-bones-0:1": [
+      42.426406871192846,
+      42.42640687119285
+    ],
+    "victim-arm-bones-1:0": [
+      78.24321056807422,
+      78.24321056807422
+    ],
+    "victim-arm-bones-1:1": [
+      42.42640687119285,
+      42.42640687119285
+    ],
+    "actor-1-support-arm:0": [
+      89.99169961724235,
+      90.01057993369456
+    ],
+    "actor-1-support-arm:1": [
+      86.99281637008883,
+      87.00760024273737
+    ],
+    "actor-2-support-arm:0": [
+      89.99065395917498,
+      90.0088867834727
+    ],
+    "actor-2-support-arm:1": [
+      86.99283878572982,
+      87.00703477305721
+    ]
+  },
+  "hard_cut_frame": 96,
+  "head_side_to_front": {
+    "rx": [
+      52.0,
+      61.0
+    ],
+    "bill_projection": [
+      99.0,
+      76.0
+    ],
+    "mask_chin_shift": [
+      18.0,
+      0.0
+    ]
+  },
+  "note": "World-space pose checks, actual SVG joint points rounded to 0.01 units. Perceptual quality and encoded playback are checked separately; head orientation is a 2D pose rig, not a 3D simulation."
+}
