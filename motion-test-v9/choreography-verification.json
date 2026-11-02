@@ -1,0 +1,19 @@
+{
+  "frames": 300,
+  "world_stance_slide_max": 0.0,
+  "max_criminal_shoulder_to_hand_reach": 172.05707105290136,
+  "hand_to_lid_gap_during_closing": 0.0,
+  "max_rounded_normalized_bone_length_variation": 0.023653271244000962,
+  "victim_markers_max_frame_displacement": 16.810941228835222,
+  "V8_original_same_markers_max_frame_displacement": 19.289858915153587,
+  "victim_clearance_at_4_6": [
+    205.9843357083023,
+    216.66876988967488
+  ],
+  "V8_engine_snapshot_unchanged": true,
+  "note": "Source-model geometry; maximum marker displacement is not a perceptual smoothness score. Occlusion and playback are inspected separately. V8 comparison uses the original separately imported V8 source and easing.",
+  "max_lift_support_gap": 0.0,
+  "withdrawn_hand_top_min_at_6_7": 1321.0,
+  "near_sill_y": 1312.5,
+  "max_pose_boundary_difference_at_plus_minus_10_microseconds": 0.014974259280512535
+}

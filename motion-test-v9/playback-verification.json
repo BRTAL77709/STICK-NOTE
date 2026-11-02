@@ -1,0 +1,1241 @@
+{
+  "preview": {
+    "ended": true,
+    "currentTime": 10,
+    "duration": 10,
+    "rate": 1,
+    "wallTime": 10.07839999999851,
+    "totalFrames": 300,
+    "droppedFrames": 0,
+    "corruptedFrames": 0,
+    "lastPresentedTime": 9.966667,
+    "sampled_presented_frames": [
+      {
+        "time": 0.033333,
+        "presented": 2
+      },
+      {
+        "time": 0.133333,
+        "presented": 5
+      },
+      {
+        "time": 0.233333,
+        "presented": 8
+      },
+      {
+        "time": 0.333333,
+        "presented": 11
+      },
+      {
+        "time": 0.433333,
+        "presented": 14
+      },
+      {
+        "time": 0.533333,
+        "presented": 17
+      },
+      {
+        "time": 0.633333,
+        "presented": 20
+      },
+      {
+        "time": 0.733333,
+        "presented": 23
+      },
+      {
+        "time": 0.833333,
+        "presented": 26
+      },
+      {
+        "time": 0.933333,
+        "presented": 29
+      },
+      {
+        "time": 1.033333,
+        "presented": 32
+      },
+      {
+        "time": 1.133333,
+        "presented": 35
+      },
+      {
+        "time": 1.233333,
+        "presented": 38
+      },
+      {
+        "time": 1.333333,
+        "presented": 41
+      },
+      {
+        "time": 1.433333,
+        "presented": 44
+      },
+      {
+        "time": 1.533333,
+        "presented": 47
+      },
+      {
+        "time": 1.633333,
+        "presented": 50
+      },
+      {
+        "time": 1.733333,
+        "presented": 53
+      },
+      {
+        "time": 1.833333,
+        "presented": 56
+      },
+      {
+        "time": 1.933333,
+        "presented": 59
+      },
+      {
+        "time": 2.033333,
+        "presented": 62
+      },
+      {
+        "time": 2.133333,
+        "presented": 65
+      },
+      {
+        "time": 2.233333,
+        "presented": 68
+      },
+      {
+        "time": 2.333333,
+        "presented": 71
+      },
+      {
+        "time": 2.433333,
+        "presented": 74
+      },
+      {
+        "time": 2.533333,
+        "presented": 77
+      },
+      {
+        "time": 2.633333,
+        "presented": 80
+      },
+      {
+        "time": 2.733333,
+        "presented": 83
+      },
+      {
+        "time": 2.833333,
+        "presented": 86
+      },
+      {
+        "time": 2.933333,
+        "presented": 89
+      },
+      {
+        "time": 3.033333,
+        "presented": 92
+      },
+      {
+        "time": 3.133333,
+        "presented": 95
+      },
+      {
+        "time": 3.233333,
+        "presented": 98
+      },
+      {
+        "time": 3.333333,
+        "presented": 101
+      },
+      {
+        "time": 3.433333,
+        "presented": 104
+      },
+      {
+        "time": 3.533333,
+        "presented": 107
+      },
+      {
+        "time": 3.633333,
+        "presented": 110
+      },
+      {
+        "time": 3.733333,
+        "presented": 113
+      },
+      {
+        "time": 3.833333,
+        "presented": 116
+      },
+      {
+        "time": 3.933333,
+        "presented": 119
+      },
+      {
+        "time": 4.033333,
+        "presented": 122
+      },
+      {
+        "time": 4.133333,
+        "presented": 125
+      },
+      {
+        "time": 4.233333,
+        "presented": 128
+      },
+      {
+        "time": 4.333333,
+        "presented": 131
+      },
+      {
+        "time": 4.433333,
+        "presented": 134
+      },
+      {
+        "time": 4.533333,
+        "presented": 137
+      },
+      {
+        "time": 4.633333,
+        "presented": 140
+      },
+      {
+        "time": 4.733333,
+        "presented": 143
+      },
+      {
+        "time": 4.833333,
+        "presented": 146
+      },
+      {
+        "time": 4.933333,
+        "presented": 149
+      },
+      {
+        "time": 5.033333,
+        "presented": 152
+      },
+      {
+        "time": 5.133333,
+        "presented": 155
+      },
+      {
+        "time": 5.233333,
+        "presented": 158
+      },
+      {
+        "time": 5.333333,
+        "presented": 161
+      },
+      {
+        "time": 5.433333,
+        "presented": 164
+      },
+      {
+        "time": 5.533333,
+        "presented": 167
+      },
+      {
+        "time": 5.633333,
+        "presented": 170
+      },
+      {
+        "time": 5.733333,
+        "presented": 173
+      },
+      {
+        "time": 5.833333,
+        "presented": 176
+      },
+      {
+        "time": 5.933333,
+        "presented": 179
+      },
+      {
+        "time": 6.033333,
+        "presented": 182
+      },
+      {
+        "time": 6.133333,
+        "presented": 185
+      },
+      {
+        "time": 6.233333,
+        "presented": 188
+      },
+      {
+        "time": 6.333333,
+        "presented": 191
+      },
+      {
+        "time": 6.433333,
+        "presented": 194
+      },
+      {
+        "time": 6.533333,
+        "presented": 197
+      },
+      {
+        "time": 6.633333,
+        "presented": 200
+      },
+      {
+        "time": 6.733333,
+        "presented": 203
+      },
+      {
+        "time": 6.833333,
+        "presented": 206
+      },
+      {
+        "time": 6.933333,
+        "presented": 209
+      },
+      {
+        "time": 7.033333,
+        "presented": 212
+      },
+      {
+        "time": 7.133333,
+        "presented": 215
+      },
+      {
+        "time": 7.233333,
+        "presented": 218
+      },
+      {
+        "time": 7.333333,
+        "presented": 221
+      },
+      {
+        "time": 7.433333,
+        "presented": 224
+      },
+      {
+        "time": 7.533333,
+        "presented": 227
+      },
+      {
+        "time": 7.633333,
+        "presented": 230
+      },
+      {
+        "time": 7.733333,
+        "presented": 233
+      },
+      {
+        "time": 7.833333,
+        "presented": 236
+      },
+      {
+        "time": 7.933333,
+        "presented": 239
+      },
+      {
+        "time": 8.033333,
+        "presented": 242
+      },
+      {
+        "time": 8.133333,
+        "presented": 245
+      },
+      {
+        "time": 8.233333,
+        "presented": 248
+      },
+      {
+        "time": 8.333333,
+        "presented": 251
+      },
+      {
+        "time": 8.433333,
+        "presented": 254
+      },
+      {
+        "time": 8.533333,
+        "presented": 257
+      },
+      {
+        "time": 8.633333,
+        "presented": 260
+      },
+      {
+        "time": 8.733333,
+        "presented": 263
+      },
+      {
+        "time": 8.833333,
+        "presented": 266
+      },
+      {
+        "time": 8.933333,
+        "presented": 269
+      },
+      {
+        "time": 9.033333,
+        "presented": 272
+      },
+      {
+        "time": 9.133333,
+        "presented": 275
+      },
+      {
+        "time": 9.233333,
+        "presented": 278
+      },
+      {
+        "time": 9.333333,
+        "presented": 281
+      },
+      {
+        "time": 9.433333,
+        "presented": 284
+      },
+      {
+        "time": 9.533333,
+        "presented": 287
+      },
+      {
+        "time": 9.633333,
+        "presented": 290
+      },
+      {
+        "time": 9.733333,
+        "presented": 293
+      },
+      {
+        "time": 9.833333,
+        "presented": 296
+      },
+      {
+        "time": 9.933333,
+        "presented": 299
+      }
+    ]
+  },
+  "final": {
+    "ended": true,
+    "currentTime": 10,
+    "duration": 10,
+    "rate": 1,
+    "wallTime": 10.074599999994039,
+    "totalFrames": 300,
+    "droppedFrames": 0,
+    "corruptedFrames": 0,
+    "lastPresentedTime": 9.966667,
+    "sampled_presented_frames": [
+      {
+        "time": 0.033333,
+        "presented": 2
+      },
+      {
+        "time": 0.133333,
+        "presented": 5
+      },
+      {
+        "time": 0.233333,
+        "presented": 8
+      },
+      {
+        "time": 0.333333,
+        "presented": 11
+      },
+      {
+        "time": 0.433333,
+        "presented": 14
+      },
+      {
+        "time": 0.533333,
+        "presented": 17
+      },
+      {
+        "time": 0.633333,
+        "presented": 20
+      },
+      {
+        "time": 0.733333,
+        "presented": 23
+      },
+      {
+        "time": 0.833333,
+        "presented": 26
+      },
+      {
+        "time": 0.933333,
+        "presented": 29
+      },
+      {
+        "time": 1.033333,
+        "presented": 32
+      },
+      {
+        "time": 1.133333,
+        "presented": 35
+      },
+      {
+        "time": 1.233333,
+        "presented": 38
+      },
+      {
+        "time": 1.333333,
+        "presented": 41
+      },
+      {
+        "time": 1.433333,
+        "presented": 44
+      },
+      {
+        "time": 1.533333,
+        "presented": 47
+      },
+      {
+        "time": 1.633333,
+        "presented": 50
+      },
+      {
+        "time": 1.733333,
+        "presented": 53
+      },
+      {
+        "time": 1.833333,
+        "presented": 56
+      },
+      {
+        "time": 1.933333,
+        "presented": 59
+      },
+      {
+        "time": 2.033333,
+        "presented": 62
+      },
+      {
+        "time": 2.133333,
+        "presented": 65
+      },
+      {
+        "time": 2.233333,
+        "presented": 68
+      },
+      {
+        "time": 2.333333,
+        "presented": 71
+      },
+      {
+        "time": 2.433333,
+        "presented": 74
+      },
+      {
+        "time": 2.533333,
+        "presented": 77
+      },
+      {
+        "time": 2.633333,
+        "presented": 80
+      },
+      {
+        "time": 2.733333,
+        "presented": 83
+      },
+      {
+        "time": 2.833333,
+        "presented": 86
+      },
+      {
+        "time": 2.933333,
+        "presented": 89
+      },
+      {
+        "time": 3.033333,
+        "presented": 92
+      },
+      {
+        "time": 3.133333,
+        "presented": 95
+      },
+      {
+        "time": 3.233333,
+        "presented": 98
+      },
+      {
+        "time": 3.333333,
+        "presented": 101
+      },
+      {
+        "time": 3.433333,
+        "presented": 104
+      },
+      {
+        "time": 3.533333,
+        "presented": 107
+      },
+      {
+        "time": 3.633333,
+        "presented": 110
+      },
+      {
+        "time": 3.733333,
+        "presented": 113
+      },
+      {
+        "time": 3.833333,
+        "presented": 116
+      },
+      {
+        "time": 3.933333,
+        "presented": 119
+      },
+      {
+        "time": 4.033333,
+        "presented": 122
+      },
+      {
+        "time": 4.133333,
+        "presented": 125
+      },
+      {
+        "time": 4.233333,
+        "presented": 128
+      },
+      {
+        "time": 4.333333,
+        "presented": 131
+      },
+      {
+        "time": 4.433333,
+        "presented": 134
+      },
+      {
+        "time": 4.533333,
+        "presented": 137
+      },
+      {
+        "time": 4.633333,
+        "presented": 140
+      },
+      {
+        "time": 4.733333,
+        "presented": 143
+      },
+      {
+        "time": 4.833333,
+        "presented": 146
+      },
+      {
+        "time": 4.933333,
+        "presented": 149
+      },
+      {
+        "time": 5.033333,
+        "presented": 152
+      },
+      {
+        "time": 5.133333,
+        "presented": 155
+      },
+      {
+        "time": 5.233333,
+        "presented": 158
+      },
+      {
+        "time": 5.333333,
+        "presented": 161
+      },
+      {
+        "time": 5.433333,
+        "presented": 164
+      },
+      {
+        "time": 5.533333,
+        "presented": 167
+      },
+      {
+        "time": 5.633333,
+        "presented": 170
+      },
+      {
+        "time": 5.733333,
+        "presented": 173
+      },
+      {
+        "time": 5.833333,
+        "presented": 176
+      },
+      {
+        "time": 5.933333,
+        "presented": 179
+      },
+      {
+        "time": 6.033333,
+        "presented": 182
+      },
+      {
+        "time": 6.133333,
+        "presented": 185
+      },
+      {
+        "time": 6.233333,
+        "presented": 188
+      },
+      {
+        "time": 6.333333,
+        "presented": 191
+      },
+      {
+        "time": 6.433333,
+        "presented": 194
+      },
+      {
+        "time": 6.533333,
+        "presented": 197
+      },
+      {
+        "time": 6.633333,
+        "presented": 200
+      },
+      {
+        "time": 6.733333,
+        "presented": 203
+      },
+      {
+        "time": 6.833333,
+        "presented": 206
+      },
+      {
+        "time": 6.933333,
+        "presented": 209
+      },
+      {
+        "time": 7.033333,
+        "presented": 212
+      },
+      {
+        "time": 7.133333,
+        "presented": 215
+      },
+      {
+        "time": 7.233333,
+        "presented": 218
+      },
+      {
+        "time": 7.333333,
+        "presented": 221
+      },
+      {
+        "time": 7.433333,
+        "presented": 224
+      },
+      {
+        "time": 7.533333,
+        "presented": 227
+      },
+      {
+        "time": 7.633333,
+        "presented": 230
+      },
+      {
+        "time": 7.733333,
+        "presented": 233
+      },
+      {
+        "time": 7.833333,
+        "presented": 236
+      },
+      {
+        "time": 7.933333,
+        "presented": 239
+      },
+      {
+        "time": 8.033333,
+        "presented": 242
+      },
+      {
+        "time": 8.133333,
+        "presented": 245
+      },
+      {
+        "time": 8.233333,
+        "presented": 248
+      },
+      {
+        "time": 8.333333,
+        "presented": 251
+      },
+      {
+        "time": 8.433333,
+        "presented": 254
+      },
+      {
+        "time": 8.533333,
+        "presented": 257
+      },
+      {
+        "time": 8.633333,
+        "presented": 260
+      },
+      {
+        "time": 8.733333,
+        "presented": 263
+      },
+      {
+        "time": 8.833333,
+        "presented": 266
+      },
+      {
+        "time": 8.933333,
+        "presented": 269
+      },
+      {
+        "time": 9.033333,
+        "presented": 272
+      },
+      {
+        "time": 9.133333,
+        "presented": 275
+      },
+      {
+        "time": 9.233333,
+        "presented": 278
+      },
+      {
+        "time": 9.333333,
+        "presented": 281
+      },
+      {
+        "time": 9.433333,
+        "presented": 284
+      },
+      {
+        "time": 9.533333,
+        "presented": 287
+      },
+      {
+        "time": 9.633333,
+        "presented": 290
+      },
+      {
+        "time": 9.733333,
+        "presented": 293
+      },
+      {
+        "time": 9.833333,
+        "presented": 296
+      },
+      {
+        "time": 9.933333,
+        "presented": 299
+      }
+    ]
+  },
+  "comparison": {
+    "ended": true,
+    "currentTime": 10,
+    "duration": 10,
+    "rate": 1,
+    "wallTime": 10.08829999999702,
+    "totalFrames": 300,
+    "droppedFrames": 0,
+    "corruptedFrames": 0,
+    "lastPresentedTime": 9.966667,
+    "sampled_presented_frames": [
+      {
+        "time": 0.033333,
+        "presented": 2
+      },
+      {
+        "time": 0.133333,
+        "presented": 5
+      },
+      {
+        "time": 0.233333,
+        "presented": 8
+      },
+      {
+        "time": 0.333333,
+        "presented": 11
+      },
+      {
+        "time": 0.433333,
+        "presented": 14
+      },
+      {
+        "time": 0.533333,
+        "presented": 17
+      },
+      {
+        "time": 0.633333,
+        "presented": 20
+      },
+      {
+        "time": 0.733333,
+        "presented": 23
+      },
+      {
+        "time": 0.833333,
+        "presented": 26
+      },
+      {
+        "time": 0.933333,
+        "presented": 29
+      },
+      {
+        "time": 1.033333,
+        "presented": 32
+      },
+      {
+        "time": 1.133333,
+        "presented": 35
+      },
+      {
+        "time": 1.233333,
+        "presented": 38
+      },
+      {
+        "time": 1.333333,
+        "presented": 41
+      },
+      {
+        "time": 1.433333,
+        "presented": 44
+      },
+      {
+        "time": 1.533333,
+        "presented": 47
+      },
+      {
+        "time": 1.633333,
+        "presented": 50
+      },
+      {
+        "time": 1.733333,
+        "presented": 53
+      },
+      {
+        "time": 1.833333,
+        "presented": 56
+      },
+      {
+        "time": 1.933333,
+        "presented": 59
+      },
+      {
+        "time": 2.033333,
+        "presented": 62
+      },
+      {
+        "time": 2.133333,
+        "presented": 65
+      },
+      {
+        "time": 2.233333,
+        "presented": 68
+      },
+      {
+        "time": 2.333333,
+        "presented": 71
+      },
+      {
+        "time": 2.433333,
+        "presented": 74
+      },
+      {
+        "time": 2.533333,
+        "presented": 77
+      },
+      {
+        "time": 2.633333,
+        "presented": 80
+      },
+      {
+        "time": 2.733333,
+        "presented": 83
+      },
+      {
+        "time": 2.833333,
+        "presented": 86
+      },
+      {
+        "time": 2.933333,
+        "presented": 89
+      },
+      {
+        "time": 3.033333,
+        "presented": 92
+      },
+      {
+        "time": 3.133333,
+        "presented": 95
+      },
+      {
+        "time": 3.233333,
+        "presented": 98
+      },
+      {
+        "time": 3.333333,
+        "presented": 101
+      },
+      {
+        "time": 3.433333,
+        "presented": 104
+      },
+      {
+        "time": 3.533333,
+        "presented": 107
+      },
+      {
+        "time": 3.633333,
+        "presented": 110
+      },
+      {
+        "time": 3.733333,
+        "presented": 113
+      },
+      {
+        "time": 3.833333,
+        "presented": 116
+      },
+      {
+        "time": 3.933333,
+        "presented": 119
+      },
+      {
+        "time": 4.033333,
+        "presented": 122
+      },
+      {
+        "time": 4.133333,
+        "presented": 125
+      },
+      {
+        "time": 4.233333,
+        "presented": 128
+      },
+      {
+        "time": 4.333333,
+        "presented": 131
+      },
+      {
+        "time": 4.433333,
+        "presented": 134
+      },
+      {
+        "time": 4.533333,
+        "presented": 137
+      },
+      {
+        "time": 4.633333,
+        "presented": 140
+      },
+      {
+        "time": 4.733333,
+        "presented": 143
+      },
+      {
+        "time": 4.833333,
+        "presented": 146
+      },
+      {
+        "time": 4.933333,
+        "presented": 149
+      },
+      {
+        "time": 5.033333,
+        "presented": 152
+      },
+      {
+        "time": 5.133333,
+        "presented": 155
+      },
+      {
+        "time": 5.233333,
+        "presented": 158
+      },
+      {
+        "time": 5.333333,
+        "presented": 161
+      },
+      {
+        "time": 5.433333,
+        "presented": 164
+      },
+      {
+        "time": 5.533333,
+        "presented": 167
+      },
+      {
+        "time": 5.633333,
+        "presented": 170
+      },
+      {
+        "time": 5.733333,
+        "presented": 173
+      },
+      {
+        "time": 5.833333,
+        "presented": 176
+      },
+      {
+        "time": 5.933333,
+        "presented": 179
+      },
+      {
+        "time": 6.033333,
+        "presented": 182
+      },
+      {
+        "time": 6.133333,
+        "presented": 185
+      },
+      {
+        "time": 6.233333,
+        "presented": 188
+      },
+      {
+        "time": 6.333333,
+        "presented": 191
+      },
+      {
+        "time": 6.433333,
+        "presented": 194
+      },
+      {
+        "time": 6.533333,
+        "presented": 197
+      },
+      {
+        "time": 6.633333,
+        "presented": 200
+      },
+      {
+        "time": 6.733333,
+        "presented": 203
+      },
+      {
+        "time": 6.833333,
+        "presented": 206
+      },
+      {
+        "time": 6.933333,
+        "presented": 209
+      },
+      {
+        "time": 7.033333,
+        "presented": 212
+      },
+      {
+        "time": 7.133333,
+        "presented": 215
+      },
+      {
+        "time": 7.233333,
+        "presented": 218
+      },
+      {
+        "time": 7.333333,
+        "presented": 221
+      },
+      {
+        "time": 7.433333,
+        "presented": 224
+      },
+      {
+        "time": 7.533333,
+        "presented": 227
+      },
+      {
+        "time": 7.633333,
+        "presented": 230
+      },
+      {
+        "time": 7.733333,
+        "presented": 233
+      },
+      {
+        "time": 7.833333,
+        "presented": 236
+      },
+      {
+        "time": 7.933333,
+        "presented": 239
+      },
+      {
+        "time": 8.033333,
+        "presented": 242
+      },
+      {
+        "time": 8.133333,
+        "presented": 245
+      },
+      {
+        "time": 8.233333,
+        "presented": 248
+      },
+      {
+        "time": 8.333333,
+        "presented": 251
+      },
+      {
+        "time": 8.433333,
+        "presented": 254
+      },
+      {
+        "time": 8.533333,
+        "presented": 257
+      },
+      {
+        "time": 8.633333,
+        "presented": 260
+      },
+      {
+        "time": 8.733333,
+        "presented": 263
+      },
+      {
+        "time": 8.833333,
+        "presented": 266
+      },
+      {
+        "time": 8.933333,
+        "presented": 269
+      },
+      {
+        "time": 9.033333,
+        "presented": 272
+      },
+      {
+        "time": 9.133333,
+        "presented": 275
+      },
+      {
+        "time": 9.233333,
+        "presented": 278
+      },
+      {
+        "time": 9.333333,
+        "presented": 281
+      },
+      {
+        "time": 9.433333,
+        "presented": 284
+      },
+      {
+        "time": 9.533333,
+        "presented": 287
+      },
+      {
+        "time": 9.633333,
+        "presented": 290
+      },
+      {
+        "time": 9.733333,
+        "presented": 293
+      },
+      {
+        "time": 9.833333,
+        "presented": 296
+      },
+      {
+        "time": 9.933333,
+        "presented": 299
+      }
+    ]
+  }
+}

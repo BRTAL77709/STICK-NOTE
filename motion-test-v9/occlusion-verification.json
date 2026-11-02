@@ -1,0 +1,21 @@
+{
+  "method": "Same camera, rain and frame; remove only victim drawing. At/after closure there is no pixel difference, proving full raster occlusion rather than a visibility toggle. The victim drawing remains present in both closed source frames.",
+  "samples": [
+    {
+      "time": 6.7,
+      "changed_pixels_if_victim_removed": 4884
+    },
+    {
+      "time": 7.3,
+      "changed_pixels_if_victim_removed": 4079
+    },
+    {
+      "time": 7.5,
+      "changed_pixels_if_victim_removed": 0
+    },
+    {
+      "time": 7.8,
+      "changed_pixels_if_victim_removed": 0
+    }
+  ]
+}
