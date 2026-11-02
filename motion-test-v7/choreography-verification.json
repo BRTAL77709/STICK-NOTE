@@ -1,0 +1,175 @@
+{
+  "frames": 150,
+  "criminal_ground_heights": [
+    1384.0,
+    1404.0
+  ],
+  "root_displacement_to_3_2": [
+    300.0,
+    300.0
+  ],
+  "root_held_through_0_9": true,
+  "max_planted_foot_slide_world_units": 0.0,
+  "max_hand_upper_arm_gap_world_units": 0.008649808248816428,
+  "minimum_hips_below_shoulders": 128.82260452468677,
+  "victim_heel_y_values": [
+    1413,
+    1418
+  ],
+  "victim_heel_spacing_range": [
+    29.875183896046394,
+    30.106717583625198
+  ],
+  "minimum_knee_ahead_of_dragging_ankle": 68.42999999999998,
+  "victim_has_walk_cycle": false,
+  "asynchronous_support_frames": 53,
+  "maximum_segment_length_variation_svg_rounding": 0.021353665801953525,
+  "limb_length_ranges": {
+    "actor-1-leg-0:0": [
+      84.99079538397078,
+      85.01086283528709
+    ],
+    "actor-1-leg-0:1": [
+      84.99114777434175,
+      85.00682619648853
+    ],
+    "actor-1-leg-1:0": [
+      84.99000000000001,
+      85.01098576066518
+    ],
+    "actor-1-leg-1:1": [
+      84.99136191402039,
+      85.00701441645859
+    ],
+    "actor-1-free-arm:0": [
+      64.99201489413923,
+      65.00930394951163
+    ],
+    "actor-1-free-arm:1": [
+      62.98818381252157,
+      63.00846451073061
+    ],
+    "actor-2-leg-0:0": [
+      84.99064007289272,
+      85.00912009896346
+    ],
+    "actor-2-leg-0:1": [
+      84.99214375458475,
+      85.00940771467597
+    ],
+    "actor-2-leg-1:0": [
+      84.99204962818585,
+      85.01012939644303
+    ],
+    "actor-2-leg-1:1": [
+      84.99135073641321,
+      85.00774376490652
+    ],
+    "actor-2-free-arm:0": [
+      64.99044622096397,
+      65.00826793570175
+    ],
+    "actor-2-free-arm:1": [
+      62.99078424658631,
+      63.010257101522704
+    ],
+    "victim-leg-0:0": [
+      76.99131964059332,
+      77.0097143222854
+    ],
+    "victim-leg-0:1": [
+      79.99158080698251,
+      80.00974003207362
+    ],
+    "victim-leg-1:0": [
+      76.99209829586404,
+      77.0099798727412
+    ],
+    "victim-leg-1:1": [
+      79.99089198152502,
+      80.00896199801619
+    ],
+    "victim-arm-bones-0:0": [
+      77.41251384627687,
+      77.42920637588888
+    ],
+    "victim-arm-bones-0:1": [
+      42.426406871192846,
+      42.42640687119286
+    ],
+    "victim-arm-bones-1:0": [
+      78.23349985779757,
+      78.25485352359952
+    ],
+    "victim-arm-bones-1:1": [
+      42.42640687119285,
+      42.42640687119285
+    ],
+    "actor-1-support-arm:0": [
+      89.99128013313293,
+      90.00971336472519
+    ],
+    "actor-1-support-arm:1": [
+      86.99193640792232,
+      87.00838120549079
+    ],
+    "actor-2-support-arm:0": [
+      89.99361088432885,
+      90.00959337759514
+    ],
+    "actor-2-support-arm:1": [
+      86.99159327199382,
+      87.00925238157146
+    ]
+  },
+  "hard_cut_frame": 96,
+  "head_side_to_front": {
+    "rx": [
+      54.70713536426563,
+      61.0
+    ],
+    "bill_projection": [
+      111.15052980384229,
+      75.0
+    ],
+    "mask_chin_shift": [
+      20.365727413383297,
+      0.0
+    ]
+  },
+  "note": "World-space pose checks from SVG joint points rounded to 0.01 units. Head/cap/mask are coherent orthographic projections of local 3D coordinates into flat SVG; the existing body rig retains contact constraints with distinct support plans and a deterministic passive pelvis/heel/head model. Encoded-foot strips and eyes-hidden views are separate visual checks.",
+  "V7_interaction": {
+    "step_landings": [
+      [
+        1.48,
+        2.18,
+        3.02,
+        1.17,
+        1.83,
+        2.56
+      ],
+      [
+        1.75,
+        2.66,
+        1.34,
+        2.23,
+        3.1
+      ]
+    ],
+    "pelvis_horizontal_target_lag_range": [
+      -6.134261814544743,
+      44.02997654588626
+    ],
+    "supported_torso_rotation_degrees": [
+      -4.145339249295253,
+      3.6866874746086893
+    ],
+    "passive_head_roll_degrees": [
+      19.776610002065993,
+      34.61730422290852
+    ],
+    "physics_hz": 120,
+    "max_spine_projection": 0.0,
+    "sag_threshold_explanation": "Minimum 128.82 world units; 120-unit lower bound allows rotation and passive compression. The former V6 >130 constant-pose check was replaced after examining the new rotating torso. Pelvis is still low in every frame."
+  }
+}

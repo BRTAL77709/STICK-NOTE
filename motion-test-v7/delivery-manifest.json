@@ -1,0 +1,177 @@
+[
+  {
+    "name": "PROGRESS.md",
+    "bytes": 238,
+    "git_sha": "70e060c499bef3b6f89643b108258b6ccf77e1a5",
+    "sha256": "499d8ab9bca54ef8a0f1241a79bbbe6fbdf2ff62cb247a344dd16f88c645224a",
+    "binary": false
+  },
+  {
+    "name": "QUALITY_LOG.md",
+    "bytes": 3800,
+    "git_sha": "6aa2a90477dec8d65523a03bc87039546c9ca210",
+    "sha256": "3a942a35da2cb07c57471059bdc243ed3267dc008d0f535d9602e616ccf93256",
+    "binary": false
+  },
+  {
+    "name": "README.md",
+    "bytes": 1428,
+    "git_sha": "ec8800820431b47ef89e60c658a57e681a9d03ae",
+    "sha256": "690637d5fdd9c1408514e873f04da04b65a0d6e49fea68ec37912dcd0b2c292e",
+    "binary": false
+  },
+  {
+    "name": "TECHNICAL_VALIDATION.md",
+    "bytes": 3935,
+    "git_sha": "c66b91ad2fe18cf22acb498c7267cab1da4c1816",
+    "sha256": "b576bdef40c46c1b34d4965d28205868e4714e40718e95b9bd70b1358a9c59c5",
+    "binary": false
+  },
+  {
+    "name": "THE_PRICE_OF_SILENCE_MOTION_TEST_V7_5s.mp4",
+    "bytes": 2589342,
+    "git_sha": "1cb37569290cecbcd1711c9f6b5ba97cfd93e4a1",
+    "sha256": "bd597647bd5b2a4f2c1faab0d5c836c8e992430a0838fdad46bff7e76d8c502c",
+    "binary": true
+  },
+  {
+    "name": "THE_PRICE_OF_SILENCE_V6_V7_COMPARISON.mp4",
+    "bytes": 1316772,
+    "git_sha": "89f46ac5d27b211a0fefd6e565b204412deafcdb",
+    "sha256": "53b4cafd8d75442e9885b2864b234864f660ea87f01df84ab521421ec579e267",
+    "binary": true
+  },
+  {
+    "name": "THE_PRICE_OF_SILENCE_V7_CONTACT_SHEET.png",
+    "bytes": 1903016,
+    "git_sha": "82f9c2a12ef2a682f38244b9dae8c5df3ed8543e",
+    "sha256": "acf6a1f85da8186f2b1b2d2c4806b31a0a8cd13d254e6965a33f55b27a9b395e",
+    "binary": true
+  },
+  {
+    "name": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2435,
+    "git_sha": "711561a49a4bf5a296273ceaa7cd26150c9a9249",
+    "sha256": "3971c72240424ae3393fe887b97dbc0ec7c8dcbbc5e29ef5a8128bfd37cfae23",
+    "binary": false
+  },
+  {
+    "name": "V7_ENCODED_CONTACTS.png",
+    "bytes": 640436,
+    "git_sha": "6dfc2d8aaf2cf5abb3e5a7578b7007cecaedaf9e",
+    "sha256": "f0c33c321a9747ea4f18c467500a9eb57a695847f4dc428e4e7f20716ab817ef",
+    "binary": true
+  },
+  {
+    "name": "V7_HEAD_TURN_EYES_HIDDEN.png",
+    "bytes": 127168,
+    "git_sha": "424db43b6bdbf2822b5c60759161bb06866589f3",
+    "sha256": "9b20166e6e06ecf8c8ec1d3205a80ca9efe80401c7d6c251672435d4340bc894",
+    "binary": true
+  },
+  {
+    "name": "VERSION_HISTORY.md",
+    "bytes": 544,
+    "git_sha": "a6dd79fed29d6de9b3943e5035f479987d6b9ad4",
+    "sha256": "d594717d2a694d3472f5275eb0c094703749d9c7827cf0d8503a233d36993d59",
+    "binary": false
+  },
+  {
+    "name": "build.sh",
+    "bytes": 558,
+    "git_sha": "c6d2c21af272f4a8effb5f7b68a62a167af5283c",
+    "sha256": "09314e7a166b362a6ade5114291d04225445fc56630906cffec2eb95384e80ec",
+    "binary": false
+  },
+  {
+    "name": "choreography-verification.json",
+    "bytes": 4160,
+    "git_sha": "3ef55c2e0378d09c8b5b29c4beadb7408375c104",
+    "sha256": "2f10dfbd673a37cb420daf1daeb0d97e9cc9be4c42c45a492453c3a14e4829b7",
+    "binary": false
+  },
+  {
+    "name": "encoded-foot-verification.json",
+    "bytes": 1535,
+    "git_sha": "2404da8fea5cec7ce9bf7eca53a5f6a7e74fbf18",
+    "sha256": "08ceb3816f3cdf781ca5ba6a23cf05782a8051ed06628741c4aeee59ec21dd41",
+    "binary": false
+  },
+  {
+    "name": "encoded-visual-verification.json",
+    "bytes": 551,
+    "git_sha": "050ed1774b1ad41d2b2bbef7fb3e7940d6fe9ff0",
+    "sha256": "23d67aeff7cc2bb96b305f12b01cdd95ca36d173ce6f011ef07ff99b9d94c9c7",
+    "binary": false
+  },
+  {
+    "name": "encoding-verification.json",
+    "bytes": 471,
+    "git_sha": "6b71fa379af55440db828371f2ce9107d9e5933e",
+    "sha256": "7a45bdc8f48571146302463310e1f32ec22ac34ef56761a8a9d755cc83edae53",
+    "binary": false
+  },
+  {
+    "name": "head-preservation.json",
+    "bytes": 85,
+    "git_sha": "4a780313704d1c12b47d4fdfdb8d606879c3ae97",
+    "sha256": "7520bcc80702fce3535b2c2ce654c55d735eda5ea1340d20556a87751dc6f384",
+    "binary": false
+  },
+  {
+    "name": "playback-verification.json",
+    "bytes": 3202,
+    "git_sha": "69dea6bc284426d8d0951c45a99c507da5d84579",
+    "sha256": "f068132ff4cd280bb298ad12e33a324d78520e6d5e5f3d9dbec627060aad7cf7",
+    "binary": false
+  },
+  {
+    "name": "previews/comparison_playback.json",
+    "bytes": 3191,
+    "git_sha": "e186614b329264dd4f28a5f1bda92ffcaa172d57",
+    "sha256": "9c5982ad025b2c9890656bc727405a5d5da1570fce3680954649b9b6272e1b59",
+    "binary": false
+  },
+  {
+    "name": "previews/decode-check.txt",
+    "bytes": 2535,
+    "git_sha": "b9477e8a5a9e70a86bc1d575462afec62d24b592",
+    "sha256": "96523790ccd64d3b1356cc38ce1ed1ae2a8657c2ca2be942bad3131801bdd21c",
+    "binary": false
+  },
+  {
+    "name": "src/audit_v7.py",
+    "bytes": 6310,
+    "git_sha": "807acc6cfb02de30580d6932776a0f480c98ae06",
+    "sha256": "9e1e99dc72e68f22d036c90c1ee97947a8663a8351158899147ae5ceb42c66cc",
+    "binary": false
+  },
+  {
+    "name": "src/check_playback.py",
+    "bytes": 3152,
+    "git_sha": "4e9b2ec595da764b5b50fbe40d339b325fc45716",
+    "sha256": "b6732cc0302e30f0f963a1070f0e08760632237a4aa7b735c52462c73c9c724c",
+    "binary": false
+  },
+  {
+    "name": "src/make_motion_proofs.py",
+    "bytes": 4478,
+    "git_sha": "4b4e8dd1000f8f9779de740ce046d3ec19b3bd50",
+    "sha256": "c364e101999217d9c67298ea722493c166b2d653a52b5a14cb386d07e0de55af",
+    "binary": false
+  },
+  {
+    "name": "src/make_review_artifacts.py",
+    "bytes": 1358,
+    "git_sha": "3146b2b2337d11fbc95f0f4c9547168e3cc6f684",
+    "sha256": "4100e2eab077869a4e2315297daabd2dd4f27cd221cef1c4f5cc3618814e6f0e",
+    "binary": false
+  },
+  {
+    "name": "src/render_test_v7.py",
+    "bytes": 35599,
+    "git_sha": "afd4585a8df8d066c7f1ed36a449a686022274d7",
+    "sha256": "15f9d54a3533dce30e8801bb0875cde7a87c0e655aa3816fd0d61268b7939127",
+    "binary": false
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "method": "Consecutive actual decoded frames; inverse camera translation registers pavement and planted feet to world space. Cyan guides show fixed predicted sole height/anchor. Brightest sole row is measured locally at half resolution in the displayed samples; not a universal optical-flow guarantee.",
+  "samples": [
+    {
+      "actor": 1,
+      "leg": 0,
+      "frames": [
+        71,
+        72,
+        73,
+        74
+      ],
+      "world_foot_x": 288.0,
+      "encoded_sole_peak_rows_half_resolution": [
+        623,
+        623,
+        623,
+        623
+      ],
+      "observed_sole_row_range_pixels": 0
+    },
+    {
+      "actor": 1,
+      "leg": 1,
+      "frames": [
+        84,
+        85,
+        86,
+        87
+      ],
+      "world_foot_x": 420.0,
+      "encoded_sole_peak_rows_half_resolution": [
+        627,
+        627,
+        626,
+        627
+      ],
+      "observed_sole_row_range_pixels": 1
+    },
+    {
+      "actor": 2,
+      "leg": 0,
+      "frames": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "world_foot_x": 631.0,
+      "encoded_sole_peak_rows_half_resolution": [
+        634,
+        634,
+        634,
+        634
+      ],
+      "observed_sole_row_range_pixels": 0
+    },
+    {
+      "actor": 2,
+      "leg": 1,
+      "frames": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "world_foot_x": 623.0,
+      "encoded_sole_peak_rows_half_resolution": [
+        634,
+        634,
+        634,
+        634
+      ],
+      "observed_sole_row_range_pixels": 0
+    }
+  ]
+}
