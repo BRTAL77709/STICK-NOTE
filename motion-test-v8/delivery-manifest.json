@@ -1,0 +1,149 @@
+[
+  {
+    "name": "PROGRESS.md",
+    "bytes": 220,
+    "git_sha": "e53ab7892e42be571ab22e7bfe5effe8acac2640",
+    "sha256": "ccee6387d438bc03a76d447cf7ca164ce79bfb91d72ed09fcf225b587342167d",
+    "binary": false
+  },
+  {
+    "name": "QUALITY_LOG.md",
+    "bytes": 3219,
+    "git_sha": "af7023d528a77f0996aa9ecd94c1ba4280d9306a",
+    "sha256": "25fca719637126264dda19086ea420760d59bef9b2ee318c126326fea1dc5442",
+    "binary": false
+  },
+  {
+    "name": "README.md",
+    "bytes": 1920,
+    "git_sha": "a4c31f2a72a604baa85a51635a12c7f3e57621a1",
+    "sha256": "e70cefca2be90f182b21f45a2eed7740ab19795280eab2d27b9d6ba8d34873b4",
+    "binary": false
+  },
+  {
+    "name": "TECHNICAL_VALIDATION.md",
+    "bytes": 5666,
+    "git_sha": "927d740da8d0ad7a03a6ca247f6efa755febcf09",
+    "sha256": "3eeb8ebafcb372213179924b86b7db5f767da60755d1477346ab280619297da3",
+    "binary": false
+  },
+  {
+    "name": "THE_PRICE_OF_SILENCE_MOTION_TEST_V8_8s.mp4",
+    "bytes": 3414037,
+    "git_sha": "2679b1061e89d8892bc1d82eacc27146ec13c2f7",
+    "sha256": "ddcfeca3aaf2cb653ce4481cdea108f8751565e5f42db3d95d4cb39ec248c763",
+    "binary": true
+  },
+  {
+    "name": "THE_PRICE_OF_SILENCE_V7_V8_COMPARISON.mp4",
+    "bytes": 1616790,
+    "git_sha": "5c5f5d946665a57efd77631535c2d7d13b08f5d2",
+    "sha256": "f66cd424b6632a4105e740a9fe82215e850f7273a3701b9072e3705cd6608683",
+    "binary": true
+  },
+  {
+    "name": "THE_PRICE_OF_SILENCE_V8_CONTACT_SHEET.jpg",
+    "bytes": 876684,
+    "git_sha": "5c854cf2e1844c77fb96da653870aa3fe4a2c496",
+    "sha256": "0b85d3e2bcd392a57a07c3bdedee49da2255c20817bf3c7ec8bd36a5b792bf31",
+    "binary": true
+  },
+  {
+    "name": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2610,
+    "git_sha": "263f7982698190187c8d64dfaf43f6ef6e4db6f8",
+    "sha256": "2ac8205f197ae01502a3e4ac20844ca8bbe97d1e709b3c7e3098243a3da951b6",
+    "binary": false
+  },
+  {
+    "name": "V8_LOADING_DETAIL.jpg",
+    "bytes": 840904,
+    "git_sha": "9b58b2b3485b9d2058beed2abe45843c78b13543",
+    "sha256": "bfaa1f2cd9bbb860782b0d1794085a25c39777b7f05086f5c5c3fb727cf3e156",
+    "binary": true
+  },
+  {
+    "name": "V8_PLANTED_FEET.jpg",
+    "bytes": 135857,
+    "git_sha": "ac1090932b37fd169f6c6a63f18d1bc38bdb8426",
+    "sha256": "034d19fcf83e3a4f36cd8af8b90fd509ebfbac55ba18a53b5a3c75a8a7e837d6",
+    "binary": true
+  },
+  {
+    "name": "build.sh",
+    "bytes": 535,
+    "git_sha": "139706df68e208bf0b4522abaf2516a7e28c3393",
+    "sha256": "2660bb8b11c1a6ac086361a575475b0a7d4d01333e234fdd507fedca46573b3b",
+    "binary": false
+  },
+  {
+    "name": "choreography-verification.json",
+    "bytes": 1629,
+    "git_sha": "34f373acf81f6e031f65f8fe5cfea6d000dbabb0",
+    "sha256": "8cb0d0cde9c09f0af8179732005e216cec4b530a999c7a4ab6ed8398f894cde9",
+    "binary": false
+  },
+  {
+    "name": "encoded-visual-verification.json",
+    "bytes": 1172,
+    "git_sha": "b8e4695ce52503b1bbab6e101ea04ad1f675d38e",
+    "sha256": "59a93a512635093ed4d36e0dbf4101484039a7aa27a0564a41107b1679b5b9b5",
+    "binary": false
+  },
+  {
+    "name": "encoding-verification.json",
+    "bytes": 471,
+    "git_sha": "990f5f0e3a4f5d48ba8cc340a032a7260ed8bcbc",
+    "sha256": "197785988df0c4408a91c4905021c366145d3cf98c2a5517631013a33a6b2f16",
+    "binary": false
+  },
+  {
+    "name": "playback-verification.json",
+    "bytes": 16928,
+    "git_sha": "757c49187d2291e811cc4b0f575d1a3a9fe08d01",
+    "sha256": "cbb35b7a55d557a430133fb5ab55382f218619eb55da31220ec2b57da8dfb137",
+    "binary": false
+  },
+  {
+    "name": "previews/decode-check.txt",
+    "bytes": 2703,
+    "git_sha": "3e327a98cec192db8f074cc656177acac8f71534",
+    "sha256": "91a6752c9e022ada518782e701d4c515abaff026346af56382853fe6bf1cec2b",
+    "binary": false
+  },
+  {
+    "name": "previews/preview05_playback.json",
+    "bytes": 4991,
+    "git_sha": "ca2f81ad4c4a3c92b8db1cfe67a46541184f36ef",
+    "sha256": "33d961027cc111fff197325346c62061530a464acec566dd8a09e265d1c3d6ee",
+    "binary": false
+  },
+  {
+    "name": "src/audit_v8.py",
+    "bytes": 5243,
+    "git_sha": "b3fa7b790b6ffb94e0165653d5df2c7125b7e6b3",
+    "sha256": "8099baf66012e89ccc4063c366490d95635fb2ac674ab2c03ce584640debf52c",
+    "binary": false
+  },
+  {
+    "name": "src/check_playback.py",
+    "bytes": 3153,
+    "git_sha": "3368b75e17d2b0f0c91c4f65bef8af508fd9eb94",
+    "sha256": "326e85b0914c1cf1372d0f639d2f43f3ae861a38ca68922db55f23b0211b63fa",
+    "binary": false
+  },
+  {
+    "name": "src/make_review_artifacts.py",
+    "bytes": 2973,
+    "git_sha": "c5c53aa602f398264a77a9bd6c61f154321c9266",
+    "sha256": "bd424173ccf021737978b717a167fb2b41411714e5f85d2a837ddb6fb2d2efce",
+    "binary": false
+  },
+  {
+    "name": "src/render_test_v8.py",
+    "bytes": 34801,
+    "git_sha": "5b81173e50b79f406c0032640619923b7434a53c",
+    "sha256": "ca59e73908bf1cb5cb4b373144c0ff00f68528e262898249a7d621cb3d7c2a2c",
+    "binary": false
+  }
+]

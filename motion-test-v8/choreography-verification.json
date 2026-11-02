@@ -1,0 +1,63 @@
+{
+  "frames_checked": 240,
+  "duration": 8,
+  "world_stance_slide_max": 0.0,
+  "named_support_contact_gap_max": 0.0,
+  "minimum_dragging_pelvis_below_shoulders": 138.0,
+  "trunk_angles_at_1_5_and_2_5": [
+    0,
+    102
+  ],
+  "hinge_axis_world": [
+    [
+      300,
+      1005
+    ],
+    [
+      825,
+      1005
+    ]
+  ],
+  "lid_geometry": "One fixed pivot and one rigid rotating panel; gas struts finish opening after C1 release at 1.94 s.",
+  "victim_heel_heights_at_3_1": [
+    [
+      389.0,
+      1480.0
+    ],
+    [
+      419.0,
+      1488.0
+    ]
+  ],
+  "victim_heel_heights_at_4_5": [
+    [
+      691.6920404575347,
+      1273.3205859947361
+    ],
+    [
+      704.9798086592715,
+      1270.9715377343337
+    ]
+  ],
+  "lift_effort_starts": 3.1,
+  "both_feet_clear_by_1_world_unit_at": 3.566666666666667,
+  "loading_knee_angle_range_degrees": [
+    93.2853430572995,
+    170.85049502922837
+  ],
+  "loading_torso_angle_range_degrees": [
+    -95.98525000000001,
+    -82.028032
+  ],
+  "max_limb_length_variation_after_projection_normalization": 0.022399788753787675,
+  "head_functions_byte_identical_to_V7": {
+    "draw_head": true,
+    "draw_head_legacy": true,
+    "hull": true,
+    "curved_outline": true,
+    "reaction": true
+  },
+  "head_clock": "3.2 + (V8_time - 6.4) * 1.125; turn precedes narrowing.",
+  "depth_order": "Head-first entry split, identical inside/outside pose, cavity clip, fixed foreground sill. No opacity fade of victim.",
+  "limits": "Deterministic 2.5D projection and authored key poses, not a collision-certified 3D simulation. Pixel occlusion and actual playback require separate visual review."
+}
