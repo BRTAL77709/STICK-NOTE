@@ -5,6 +5,7 @@ from PIL import Image,ImageDraw
 from io import BytesIO
 from playwright.sync_api import sync_playwright
 root=Path(__file__).resolve().parents[1]
+(root/'previews').mkdir(parents=True,exist_ok=True)
 video=Path(sys.argv[1]).resolve();label=sys.argv[2]
 player=root/'previews'/f'{label}_player.html'
 player.write_text('<!doctype html><meta charset="utf-8"><body style="margin:0;background:#06101b"><video id="v" style="height:960px" preload="auto" playsinline src="'+video.as_uri()+'"></video>')

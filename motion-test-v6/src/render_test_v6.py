@@ -509,6 +509,8 @@ def main():
  out=ROOT/args.out
  if out.exists():raise SystemExit('Refusing to overwrite '+str(out))
  out.parent.mkdir(parents=True,exist_ok=True)
+ (ROOT/'assets').mkdir(parents=True,exist_ok=True)
+ (ROOT/'previews').mkdir(parents=True,exist_ok=True)
  wav=audio()
  cmd=['ffmpeg','-v','error','-y','-f','rawvideo','-pix_fmt','rgb24','-s',f'{w}x{h}','-r',str(args.fps),'-i','pipe:0','-i',str(wav),'-c:v','libx264','-preset','medium','-crf','18','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-t','5','-movflags','+faststart',str(out)]
  proc=subprocess.Popen(cmd,stdin=subprocess.PIPE)
