@@ -1,0 +1,66 @@
+[
+  {
+    "file": "THE_PRICE_OF_SILENCE_CINEMATIC_REBUILD_V3_15s.mp4",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/THE_PRICE_OF_SILENCE_CINEMATIC_REBUILD_V3_15s.mp4",
+    "status": 200,
+    "bytes": 8392936,
+    "sha256": "76d6ab47a7497648298c60d5230727a72f162fba40ca2f8ac06d33d9f61e59f3",
+    "matches_local": true
+  },
+  {
+    "file": "HYPERFRAMES_HUD_DEMO_V3_FINAL.mp4",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/HYPERFRAMES_HUD_DEMO_V3_FINAL.mp4",
+    "status": 200,
+    "bytes": 321124,
+    "sha256": "762cc25792f2283b2373751bdf755dd5ff3dbcc50ad5ca29d07576fe8170ae81",
+    "matches_local": true
+  },
+  {
+    "file": "audio/NARRATOR_SAMPLE_am_michael.wav",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/audio/NARRATOR_SAMPLE_am_michael.wav",
+    "status": 200,
+    "bytes": 420908,
+    "sha256": "7adc37ab99078b2b5d6a78ebe1058c28b2a334b77c7ed2701c62483ed52b1bd9",
+    "matches_local": true
+  },
+  {
+    "file": "audio/NARRATOR_SAMPLE_bm_george.wav",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/audio/NARRATOR_SAMPLE_bm_george.wav",
+    "status": 200,
+    "bytes": 466988,
+    "sha256": "ec09172113f3ba8d8504afb7803ccb7f4748f7c2a9cf54360ea5e4e9aa9bd1d1",
+    "matches_local": true
+  },
+  {
+    "file": "audio/NARRATION_ONLY.wav",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/audio/NARRATION_ONLY.wav",
+    "status": 200,
+    "bytes": 1440044,
+    "sha256": "c47276a840c05c245b3a8a3f18002084a23e890890a5271bb9f774c1221f18c6",
+    "matches_local": true
+  },
+  {
+    "file": "audio/MIX_MASTER.wav",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/audio/MIX_MASTER.wav",
+    "status": 200,
+    "bytes": 2880078,
+    "sha256": "5a258128208dbb70af933bf04048f4ed0437b43c4760b4ae1607eaa4b1ecd593",
+    "matches_local": true
+  },
+  {
+    "file": "CONTACT_SHEET.jpg",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/CONTACT_SHEET.jpg",
+    "status": 200,
+    "bytes": 1151541,
+    "sha256": "717b889febce11f1943a788598d9468e044f1f2f91e57be460ecd66635e566d6",
+    "matches_local": true
+  },
+  {
+    "file": "V2_V3_COMPARISON.jpg",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v3/V2_V3_COMPARISON.jpg",
+    "status": 200,
+    "bytes": 205320,
+    "sha256": "a4b5ede77e2c99eb16fee4e98be90503043aa468dabd0010fd4ed1eaf7a74a2a",
+    "matches_local": true
+  }
+]

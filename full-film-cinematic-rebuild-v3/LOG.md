@@ -5,3 +5,5 @@
 - Resolved initialmissing-audiodirectory,mixfile andmultiple-rootlint problems. Correctedclockoverflow/typefloor andvisuallywrappedpursuitlabel. FinalmainHyperFramescheck allsectionszeroerrors/warnings; snapshotsinspected. Preservedinitialcomposite/demo/logs.
 - OfficialHyperFramesCLIrendered exactnamed15sV3MP4; finalencodedplayback/metadata/content/mixreview and publicationverification follow. No86sfilm.
 - OfficialfinalHyperFramesrendercompleted15.000s/450frames; actual6s/180frameHUDdemocompleted. Full decode/encodedcontact/sourcecheckscompleted. Initialbrowserstressplay12dropsretained; isolated3spreloadrepeat0drops/0corrupt. FinalAAC−16.10LUFS/−1.91dBTP. Newvoice remainscandidatependinglisteningapproval. Packaging/repositoryverificationnext; no86sfilm.
+
+Published V3 on branch work (media commit 044b4d8d1cdafcaf5e725839524afb1673ff7700). Verified 83 files and preserved all 401 prior repository entries. Downloaded the MP4, HUD demo, two voice candidates, narration, mix and contact/comparison sheets: HTTP 200, identical bytes and SHA-256. Stopped at user review; no full-film render.

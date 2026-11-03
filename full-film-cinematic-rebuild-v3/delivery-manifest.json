@@ -1,7 +1,8 @@
 {
   "project": "THE PRICE OF SILENCE",
   "version": "cinematic-rebuild-v3",
-  "scope": "15-second sample only; creative review pending",
+  "mediaCommit": "044b4d8d1cdafcaf5e725839524afb1673ff7700",
+  "status": "Delivered; audio creative approval pending; full film paused",
   "files": [
     {
       "name": "AUDIO_QUALITY_REPORT.md",
@@ -40,9 +41,9 @@
     },
     {
       "name": "LOG.md",
-      "bytes": 1547,
-      "git_sha": "ba1a23753edf73365f155c99dbbe595bd7d2ca96",
-      "sha256": "e0cb17626ea7cbefc07396e9eff869ef571fe9268b921c252c482b788bf44eb7",
+      "bytes": 1881,
+      "git_sha": "495e6a6a093d8c78ad941e00f732f29949c5dbcb",
+      "sha256": "f70b83d12b35ae663f112ac572a3c0bb269a8eb70320185864f4e0a73cc197ce",
       "binary": false
     },
     {
@@ -54,9 +55,9 @@
     },
     {
       "name": "PROGRESS.md",
-      "bytes": 845,
-      "git_sha": "8ef27a9852f5bdb0c7072f88990ce60a42d2487d",
-      "sha256": "5a028b0ce8bbcc426460c06661581bdd5f76111c3b8a40d7366aee59d449b40b",
+      "bytes": 895,
+      "git_sha": "687a0d824b852e4b1993326e5ce111382781e491",
+      "sha256": "3a1a8d6cba36f99254917854e3b109dfc8464c877f54ba06911a3bc9bd7d21da",
       "binary": false
     },
     {
