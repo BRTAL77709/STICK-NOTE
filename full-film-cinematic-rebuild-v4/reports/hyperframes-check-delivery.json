@@ -1,0 +1,198 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 3
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 2,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 4.167,
+        "selector": "#speed-needle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 180.48,
+          "top": 363.11,
+          "right": 445.01,
+          "bottom": 627.63,
+          "width": 264.53,
+          "height": 264.53
+        },
+        "containerSelector": "#speed-panel > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 142.74,
+          "top": 363,
+          "right": 482.74,
+          "bottom": 602,
+          "width": 340,
+          "height": 239
+        },
+        "overflow": {
+          "bottom": 25.63
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/hud.html",
+        "bbox": {
+          "x": 180.48,
+          "y": 363.11,
+          "width": 264.53,
+          "height": 264.53
+        },
+        "firstSeen": 4.167,
+        "lastSeen": 7.5,
+        "occurrences": 3,
+        "heldMs": 0,
+        "times": [
+          4.167,
+          5.833,
+          7.5
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "info",
+        "time": 4.167,
+        "selector": "#rpm-needle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 620.97,
+          "top": 368.47,
+          "right": 874.77,
+          "bottom": 622.27,
+          "width": 253.8,
+          "height": 253.8
+        },
+        "containerSelector": "#rpm-panel > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 577.87,
+          "top": 363,
+          "right": 917.87,
+          "bottom": 602,
+          "width": 340,
+          "height": 239
+        },
+        "overflow": {
+          "bottom": 20.27
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/hud.html",
+        "bbox": {
+          "x": 620.97,
+          "y": 368.47,
+          "width": 253.8,
+          "height": 253.8
+        },
+        "firstSeen": 4.167,
+        "lastSeen": 5.833,
+        "occurrences": 2,
+        "heldMs": 0,
+        "times": [
+          4.167,
+          5.833
+        ]
+      }
+    ],
+    "duration": 15,
+    "samples": [
+      0.833,
+      2.5,
+      4.167,
+      5.833,
+      7.5,
+      9.167,
+      10.833,
+      12.5,
+      14.167
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 2,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "specPath": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/index.motion.json",
+    "samples": 300
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      0.833,
+      4.167,
+      7.5,
+      10.833,
+      14.167
+    ],
+    "checked": 32,
+    "passed": 32
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 120
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "00684843-4fa9-47cc-9100-18a47f908950",
+    "revision": "e30e7654-580d-4888-af67-98f71de9a6e4",
+    "report": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/checks/00684843-4fa9-47cc-9100-18a47f908950.json",
+    "attribution": "recorded-revision"
+  },
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

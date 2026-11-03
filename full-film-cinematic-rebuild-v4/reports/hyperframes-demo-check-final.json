@@ -1,0 +1,224 @@
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 2
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 2,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "container_overflow",
+        "severity": "warning",
+        "time": 3.667,
+        "selector": "#rpm-needle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 630.88,
+          "top": 562.25,
+          "right": 877.12,
+          "bottom": 808.49,
+          "width": 246.25,
+          "height": 246.25
+        },
+        "containerSelector": "#rpm-panel > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 584,
+          "top": 553,
+          "right": 924,
+          "bottom": 792,
+          "width": 340,
+          "height": 239
+        },
+        "overflow": {
+          "bottom": 16.49
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/demo.html",
+        "bbox": {
+          "x": 630.88,
+          "y": 562.25,
+          "width": 246.25,
+          "height": 246.25
+        },
+        "firstSeen": 0.333,
+        "lastSeen": 5,
+        "occurrences": 7,
+        "heldMs": 2000,
+        "times": [
+          0.333,
+          1,
+          1.667,
+          2.333,
+          3.667,
+          4.333,
+          5
+        ]
+      },
+      {
+        "code": "container_overflow",
+        "severity": "warning",
+        "time": 3.667,
+        "selector": "#speed-needle",
+        "message": "Element extends outside a clipping layout container.",
+        "rect": {
+          "left": 171.24,
+          "top": 542.61,
+          "right": 456.76,
+          "bottom": 828.13,
+          "width": 285.53,
+          "height": 285.53
+        },
+        "containerSelector": "#speed-panel > svg:nth-of-type(1)",
+        "fixHint": "Resize/reposition the child or container, or mark intentional overflow with data-layout-allow-overflow.",
+        "containerRect": {
+          "left": 144,
+          "top": 553,
+          "right": 484,
+          "bottom": 792,
+          "width": 340,
+          "height": 239
+        },
+        "overflow": {
+          "top": 10.39,
+          "bottom": 36.13
+        },
+        "dataAttributes": {},
+        "sourceFile": "compositions/demo.html",
+        "bbox": {
+          "x": 171.24,
+          "y": 542.61,
+          "width": 285.53,
+          "height": 285.53
+        },
+        "firstSeen": 1,
+        "lastSeen": 5.667,
+        "occurrences": 8,
+        "heldMs": 4667,
+        "times": [
+          1,
+          1.667,
+          2.333,
+          3,
+          3.667,
+          4.333,
+          5,
+          5.667
+        ]
+      }
+    ],
+    "duration": 6,
+    "samples": [
+      0.333,
+      1,
+      1.667,
+      2.333,
+      3,
+      3.667,
+      4.333,
+      5,
+      5.667
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 2,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      0.333,
+      1.667,
+      3,
+      4.333,
+      5.667
+    ],
+    "checked": 80,
+    "passed": 80
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 48
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 1,
+    "findings": [
+      {
+        "code": "audio_none",
+        "severity": "info",
+        "message": "The film has no sound: no clip in it plays audio.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0
+      }
+    ]
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "da62e347-b3d2-4d22-b2f0-c54b0f7cc7a4",
+    "revision": "1588d6e0-c924-4de7-abb4-d06f791e0501",
+    "report": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes-demo/.hyperframes/artifacts/checks/da62e347-b3d2-4d22-b2f0-c54b0f7cc7a4.json",
+    "attribution": "recorded-revision"
+  },
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "outputDir": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/4525e85e-e0bb-4e86-ae1c-809afbd01c67",
+  "frames": [
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/4525e85e-e0bb-4e86-ae1c-809afbd01c67/frame-00-at-6.8s.png",
+      "time": 6.8
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/4525e85e-e0bb-4e86-ae1c-809afbd01c67/frame-01-at-12.6s.png",
+      "time": 12.6
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/4525e85e-e0bb-4e86-ae1c-809afbd01c67/frame-02-at-14.5s.png",
+      "time": 14.5
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/4525e85e-e0bb-4e86-ae1c-809afbd01c67/frame-03-at-14.75s.png",
+      "time": 14.75
+    }
+  ],
+  "contactSheets": [
+    "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/4525e85e-e0bb-4e86-ae1c-809afbd01c67/contact-sheet.jpg"
+  ],
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

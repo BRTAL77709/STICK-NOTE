@@ -1,0 +1,25 @@
+{
+  "ok": true,
+  "outputDir": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/bd6ee654-f5e2-48f7-9770-a58fcd7276a4",
+  "frames": [
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/bd6ee654-f5e2-48f7-9770-a58fcd7276a4/frame-00-at-6.8s.png",
+      "time": 6.8
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/bd6ee654-f5e2-48f7-9770-a58fcd7276a4/frame-01-at-9.8s.png",
+      "time": 9.8
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/bd6ee654-f5e2-48f7-9770-a58fcd7276a4/frame-02-at-14.75s.png",
+      "time": 14.75
+    }
+  ],
+  "contactSheets": [
+    "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/bd6ee654-f5e2-48f7-9770-a58fcd7276a4/contact-sheet.jpg"
+  ],
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

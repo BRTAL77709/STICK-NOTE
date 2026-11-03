@@ -1,0 +1,7 @@
+{
+  "decoded_frames": 450,
+  "minimum_frame_mean_255": 25.969264403292183,
+  "zero_pixel_change_frame_pairs": 0,
+  "minimum_frame_pair_mean_absolute_difference": 0.021669238683127572,
+  "note": "Pixel changes are technical evidence; they do not establish subjective motion quality."
+}

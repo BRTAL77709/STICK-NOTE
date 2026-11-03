@@ -1,0 +1,42 @@
+[
+  {
+    "text": "I hit the gas.",
+    "start": 2.55,
+    "end": 3.915333333333333,
+    "asset": "assets/phrase_0.wav",
+    "voice": "am_michael",
+    "sample_rate": 24000
+  },
+  {
+    "text": "But the headlights followed.",
+    "start": 5.7,
+    "end": 7.3213333333333335,
+    "asset": "assets/phrase_1.wav",
+    "voice": "am_michael",
+    "sample_rate": 24000
+  },
+  {
+    "text": "Every turn.",
+    "start": 9.72,
+    "end": 10.936,
+    "asset": "assets/phrase_2.wav",
+    "voice": "am_michael",
+    "sample_rate": 24000
+  },
+  {
+    "text": "Every street.",
+    "start": 11.05,
+    "end": 12.287333333333335,
+    "asset": "assets/phrase_3.wav",
+    "voice": "am_michael",
+    "sample_rate": 24000
+  },
+  {
+    "text": "They were still behind me.",
+    "start": 12.38,
+    "end": 14.108,
+    "asset": "assets/phrase_4.wav",
+    "voice": "am_michael",
+    "sample_rate": 24000
+  }
+]

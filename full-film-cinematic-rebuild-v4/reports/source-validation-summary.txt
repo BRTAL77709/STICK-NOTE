@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "poses_checked": 451,
+  "data_max_error": 0.0,
+  "hand_wheel_max_error_px": 0.0,
+  "arm_length_max_error_px": 2.5579538487363607e-13,
+  "velocity_position_max_error_mps": 2.7270116817135204e-05,
+  "steering_wheel_range_degrees": [
+    -37.17236607347113,
+    0.0
+  ],
+  "prior_files_hash_matched": 1619,
+  "prior_files_not_present_in_this_checkout": 0,
+  "caption_timing": "Measured whole-sentence boundaries; no verified word alignment",
+  "audio_listening": "Unsupported; creative review pending"
+}

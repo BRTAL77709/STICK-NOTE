@@ -1,0 +1,103 @@
+{
+  "ok": true,
+  "outputDir": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34",
+  "frames": [
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-01-at-1.5s.png",
+      "time": 1.5,
+      "role": "beat",
+      "label": "t=1.5"
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-02-at-4.5s.png",
+      "time": 4.5,
+      "role": "beat",
+      "label": "t=4.5"
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-03-at-7.5s.png",
+      "time": 7.5,
+      "role": "beat",
+      "label": "t=7.5"
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-04-at-10.5s.png",
+      "time": 10.5,
+      "role": "beat",
+      "label": "t=10.5"
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-05-at-13.5s.png",
+      "time": 13.5,
+      "role": "beat",
+      "label": "t=13.5"
+    }
+  ],
+  "contactSheets": [
+    "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/review-beats.jpg",
+    "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/review-phone.jpg"
+  ],
+  "review": {
+    "window": [
+      0,
+      15
+    ],
+    "scenes": [
+      {
+        "id": "scene-layer",
+        "start": 0,
+        "end": 15
+      },
+      {
+        "id": "hud",
+        "start": 0,
+        "end": 15
+      }
+    ],
+    "beats": [
+      {
+        "time": 1.5,
+        "label": "t=1.5",
+        "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-01-at-1.5s.png"
+      },
+      {
+        "time": 4.5,
+        "label": "t=4.5",
+        "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-02-at-4.5s.png"
+      },
+      {
+        "time": 7.5,
+        "label": "t=7.5",
+        "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-03-at-7.5s.png"
+      },
+      {
+        "time": 10.5,
+        "label": "t=10.5",
+        "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-04-at-10.5s.png"
+      },
+      {
+        "time": 13.5,
+        "label": "t=13.5",
+        "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/beat-05-at-13.5s.png"
+      }
+    ],
+    "seams": [],
+    "sheets": {
+      "beats": [
+        "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/review-beats.jpg"
+      ],
+      "seams": [],
+      "phone": [
+        "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v4/hyperframes/.hyperframes/artifacts/snapshots/c81fe4e0-75bd-4be1-bcef-51cd4a708c34/review-phone.jpg"
+      ]
+    },
+    "notes": [
+      "hud holds several timed clips; run --review --composition hud to review its cuts.",
+      "Fewer than two scene starts; 5 beats are spread evenly instead. Time scenes as sub-composition hosts or clips to review each one."
+    ]
+  },
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

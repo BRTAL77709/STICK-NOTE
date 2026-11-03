@@ -1,0 +1,138 @@
+[
+  {
+    "t": 3.35,
+    "frame": 100,
+    "event": "accelerator pressure / hinge"
+  },
+  {
+    "t": 4.2,
+    "frame": 126,
+    "event": "boot/pedal settle"
+  },
+  {
+    "t": 2.15,
+    "frame": 64,
+    "event": "danger recognition low accent"
+  },
+  {
+    "t": 12.1,
+    "frame": 363,
+    "event": "steering load and body cloth"
+  },
+  {
+    "t": 14.7,
+    "frame": 441,
+    "event": "suspense cut accent"
+  },
+  {
+    "t": 1.8396037037309965,
+    "frame": 55,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 12
+  },
+  {
+    "t": 4.600224419670754,
+    "frame": 138,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 36
+  },
+  {
+    "t": 6.296604546901779,
+    "frame": 189,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 60
+  },
+  {
+    "t": 7.451275305289182,
+    "frame": 224,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 84
+  },
+  {
+    "t": 8.41624968322482,
+    "frame": 252,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 108
+  },
+  {
+    "t": 9.3203125,
+    "frame": 280,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 132
+  },
+  {
+    "t": 10.2203125,
+    "frame": 307,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 156
+  },
+  {
+    "t": 11.1203125,
+    "frame": 334,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 180
+  },
+  {
+    "t": 12.020697170421544,
+    "frame": 361,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 204
+  },
+  {
+    "t": 13.008615064449701,
+    "frame": 390,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 228
+  },
+  {
+    "t": 14.53797855754844,
+    "frame": 436,
+    "event": "fixed lamp/pole wet pass",
+    "world_z_m": 252
+  },
+  {
+    "t": 3.04,
+    "frame": 91,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 5.695398273197231,
+    "frame": 171,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 7.1876743967169645,
+    "frame": 216,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 8.339468502658924,
+    "frame": 250,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 9.395312500000001,
+    "frame": 282,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 10.4453125,
+    "frame": 313,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 11.4953125,
+    "frame": 345,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 12.558071484788943,
+    "frame": 377,
+    "event": "road expansion joint / chassis"
+  },
+  {
+    "t": 13.793974685871266,
+    "frame": 414,
+    "event": "road expansion joint / chassis"
+  }
+]
