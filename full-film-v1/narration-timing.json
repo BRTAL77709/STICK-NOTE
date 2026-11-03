@@ -1,0 +1,332 @@
+[
+  {
+    "scene": 1,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 0.2,
+    "end": 1.6430833333333332,
+    "text": "At two seventeen,",
+    "asset": "assets/audio/s01_0_protagonist.wav",
+    "tempo": 1.0830985915492959
+  },
+  {
+    "scene": 1,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 1.7630833333333333,
+    "end": 3.7786041666666668,
+    "text": "the street should have been empty.",
+    "asset": "assets/audio/s01_1_protagonist.wav",
+    "tempo": 1.0830985915492959
+  },
+  {
+    "scene": 2,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 4.511,
+    "end": 7.024354166666667,
+    "text": "I was only a few turns from home.",
+    "asset": "assets/audio/s02_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 3,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 8.795166666666667,
+    "end": 10.36125,
+    "text": "Then I saw them.",
+    "asset": "assets/audio/s03_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 4,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 12.336958333333333,
+    "end": 13.221395833333334,
+    "text": "Two men.",
+    "asset": "assets/audio/s04_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 4,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 13.341395833333333,
+    "end": 15.321666666666667,
+    "text": "Someone who could not stand.",
+    "asset": "assets/audio/s04_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 4,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 15.441666666666666,
+    "end": 17.430458333333334,
+    "text": "A car with its engine running.",
+    "asset": "assets/audio/s04_2_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 5,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 18.565708333333333,
+    "end": 20.7211875,
+    "text": "They lifted him like luggage.",
+    "asset": "assets/audio/s05_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 5,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 20.8411875,
+    "end": 22.896645833333334,
+    "text": "I should have kept driving.",
+    "asset": "assets/audio/s05_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 6,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 24.248645833333335,
+    "end": 25.561208333333333,
+    "text": "The trunk shut.",
+    "asset": "assets/audio/s06_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 6,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 25.681208333333334,
+    "end": 27.636520833333332,
+    "text": "Then he looked straight at me.",
+    "asset": "assets/audio/s06_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 7,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 28.881479166666665,
+    "end": 30.159895833333334,
+    "text": "I hit the gas.",
+    "asset": "assets/audio/s07_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 8,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 32.51329166666667,
+    "end": 34.51227083333333,
+    "text": "The headlights behind me",
+    "asset": "assets/audio/s08_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 8,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 34.63227083333334,
+    "end": 36.019020833333336,
+    "text": "turned when I did.",
+    "asset": "assets/audio/s08_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 9,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 37.5860625,
+    "end": 39.78239583333333,
+    "text": "Every turn. Every street.",
+    "asset": "assets/audio/s09_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 9,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 39.90239583333334,
+    "end": 40.84916666666667,
+    "text": "Still there.",
+    "asset": "assets/audio/s09_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 10,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 42.38860416666667,
+    "end": 43.98520833333333,
+    "text": "One last turn.",
+    "asset": "assets/audio/s10_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 10,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 44.10520833333333,
+    "end": 46.309958333333334,
+    "text": "The road behind me was empty.",
+    "asset": "assets/audio/s10_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 11,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 47.655125,
+    "end": 49.68802083333333,
+    "text": "Home. Number seventeen.",
+    "asset": "assets/audio/s11_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 12,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 51.2,
+    "end": 52.461625,
+    "text": "My key would not fit.",
+    "asset": "assets/audio/s12_0_protagonist.wav",
+    "tempo": 1.2591549295774649
+  },
+  {
+    "scene": 12,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 52.581625,
+    "end": 54.7839375,
+    "text": "My hands would not stop shaking.",
+    "asset": "assets/audio/s12_1_protagonist.wav",
+    "tempo": 1.2591549295774649
+  },
+  {
+    "scene": 13,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 55.315729166666664,
+    "end": 56.77879166666666,
+    "text": "I locked the door.",
+    "asset": "assets/audio/s13_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 13,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 56.89879166666667,
+    "end": 58.4799375,
+    "text": "Then checked it again.",
+    "asset": "assets/audio/s13_1_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 14,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 59.2,
+    "end": 61.13229166666667,
+    "text": "Upstairs, I moved the curtain.",
+    "asset": "assets/audio/s14_0_protagonist.wav",
+    "tempo": 1.236619718309859
+  },
+  {
+    "scene": 14,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 61.252291666666665,
+    "end": 62.795,
+    "text": "The black car was waiting.",
+    "asset": "assets/audio/s14_1_protagonist.wav",
+    "tempo": 1.236619718309859
+  },
+  {
+    "scene": 15,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 63.8011875,
+    "end": 65.34722916666666,
+    "text": "Then my phone rang.",
+    "asset": "assets/audio/s15_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 16,
+    "speaker": "caller",
+    "voice": "awb",
+    "start": 67.73783333333333,
+    "end": 69.30602083333333,
+    "text": "One million dollars.",
+    "asset": "assets/audio/s16_0_caller.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 16,
+    "speaker": "caller",
+    "voice": "awb",
+    "start": 69.42602083333334,
+    "end": 70.75414583333334,
+    "text": "All you have to do",
+    "asset": "assets/audio/s16_1_caller.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 16,
+    "speaker": "caller",
+    "voice": "awb",
+    "start": 70.87414583333333,
+    "end": 72.4950625,
+    "text": "is forget what you saw.",
+    "asset": "assets/audio/s16_2_caller.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 17,
+    "speaker": "caller",
+    "voice": "awb",
+    "start": 74.60277083333334,
+    "end": 76.36208333333333,
+    "text": "Do not call the police.",
+    "asset": "assets/audio/s17_0_caller.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 17,
+    "speaker": "caller",
+    "voice": "awb",
+    "start": 76.48208333333334,
+    "end": 78.81020833333334,
+    "text": "We know which window you are standing at.",
+    "asset": "assets/audio/s17_1_caller.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 18,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 80.69164583333334,
+    "end": 83.27047916666666,
+    "text": "A million dollars. Or the police.",
+    "asset": "assets/audio/s18_0_protagonist.wav",
+    "tempo": 1.0
+  },
+  {
+    "scene": 18,
+    "speaker": "protagonist",
+    "voice": "rms",
+    "start": 83.39047916666667,
+    "end": 84.60283333333334,
+    "text": "What would you do?",
+    "asset": "assets/audio/s18_1_protagonist.wav",
+    "tempo": 1.0
+  }
+]

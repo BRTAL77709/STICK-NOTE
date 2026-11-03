@@ -1,0 +1,28 @@
+{
+  "target_lufs": -16,
+  "target_true_peak_dbtp": -1.5,
+  "first_pass": {
+    "input_i": "-16.88",
+    "input_tp": "-3.33",
+    "input_lra": "4.30",
+    "input_thresh": "-28.03",
+    "output_i": "-16.39",
+    "output_tp": "-2.46",
+    "output_lra": "4.30",
+    "output_thresh": "-27.35",
+    "normalization_type": "dynamic",
+    "target_offset": "0.39"
+  },
+  "master_pass": {
+    "input_i": "-16.85",
+    "input_tp": "-3.35",
+    "input_lra": "4.30",
+    "input_thresh": "-27.91",
+    "output_i": "-15.96",
+    "output_tp": "-2.47",
+    "output_lra": "4.30",
+    "output_thresh": "-27.03",
+    "normalization_type": "linear",
+    "target_offset": "-0.04"
+  }
+}

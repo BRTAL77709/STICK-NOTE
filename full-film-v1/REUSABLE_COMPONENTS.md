@@ -1,0 +1,9 @@
+# Reusable illustrated animation components
+
+src/illustration_engine.py provides SVG Art primitives, two-link IK, layered limb rendering and the retained side-to-front criminal head geometry. src/v10_trunk.py provides the V10 car/trunk geometry, hinged lid, continuous victim load trajectory, contact-driven criminals and world-ground projection. Full-film scenes4–6 map that sequence onto12–28s without changing the approved rigs.
+
+src/film_components.py supplies deterministic procedural layers: rainfall; street with integrated distance; road_point perspective; car_sprite with color/view/distance/steer; witness_head with emotion/yaw; witness_body with planted steps, hand targets, stair slope and head orientation; interior_car with wheel/hand coupling and wiper; house with door states; room; phone. Functions receive an Art accumulator and time, and emit SVG fragments. Colors and dimensions are in the source; illustrations remain editable as code.
+
+src/render_film.py owns18 scene functions, shot timing, shot-specific cameras, captions, source fingerprinting, frame rasterization, encoding and concatenation. Raster resolution changes independently of the1080×1920 coordinate system. Scene caches permit correction of individual shots. src/production_audio.py owns the original phrase script, local two-voice synthesis and procedural rain/engines/keys/locks/phone/score. src/master_audio.py masters the mix; src/export_audio_assets.py prepares portable stems. storyboard.json and narration-timing.json provide machine-readable editing boundaries.
+
+The components can support future NOIRFRAME stories by creating new scene functions and shot/audio manifests. They are a reusable illustrated source kit, not a general automatic animation service. Preserve this delivered version and use a new project/version folder for later changes.

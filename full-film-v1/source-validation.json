@@ -1,0 +1,114 @@
+{
+  "scenes": 18,
+  "duration_seconds": 86,
+  "frames": 2580,
+  "source_pose_checks": [
+    {
+      "scene": 1,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 2,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 3,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 4,
+      "frames_checked": 180,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 5,
+      "frames_checked": 180,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 6,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 7,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 8,
+      "frames_checked": 150,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 9,
+      "frames_checked": 150,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 10,
+      "frames_checked": 150,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 11,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 12,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 13,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 14,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 15,
+      "frames_checked": 120,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 16,
+      "frames_checked": 210,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 17,
+      "frames_checked": 180,
+      "all_poses_evaluated": true
+    },
+    {
+      "scene": 18,
+      "frames_checked": 180,
+      "all_poses_evaluated": true
+    }
+  ],
+  "caption_phrases": 33,
+  "caption_overlaps": 0,
+  "caption_timings": "Actual individually synthesized phrase clips, not transcript estimates.",
+  "local_voices": {
+    "protagonist": "Flite RMS",
+    "caller": "Flite AWB, telephone filtering"
+  },
+  "trunk_fully_closed_first_frame": 750,
+  "trunk_fully_closed_first_frame_seconds": 25.0,
+  "criminal_turn_first_frame": 768,
+  "criminal_turn_first_frame_seconds": 25.6,
+  "closing_latch_sound_time": 25.0,
+  "head_before_closure_violations": 0,
+  "final_choice_duration": 6,
+  "final_choice_burned_captions": false,
+  "promotional_logo_used_as_story": false,
+  "note": "Source/model and timing checks. Encoded video, audio, typography and normal-speed playback need separate review; this is not an artistic score."
+}

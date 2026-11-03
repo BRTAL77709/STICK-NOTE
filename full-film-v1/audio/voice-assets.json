@@ -1,0 +1,233 @@
+[
+  {
+    "source_wav": "assets/audio/s01_0_protagonist.wav",
+    "delivered": "audio/voices/s01_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 0.2,
+    "end": 1.6430833333333332
+  },
+  {
+    "source_wav": "assets/audio/s01_1_protagonist.wav",
+    "delivered": "audio/voices/s01_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 1.7630833333333333,
+    "end": 3.7786041666666668
+  },
+  {
+    "source_wav": "assets/audio/s02_0_protagonist.wav",
+    "delivered": "audio/voices/s02_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 4.511,
+    "end": 7.024354166666667
+  },
+  {
+    "source_wav": "assets/audio/s03_0_protagonist.wav",
+    "delivered": "audio/voices/s03_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 8.795166666666667,
+    "end": 10.36125
+  },
+  {
+    "source_wav": "assets/audio/s04_0_protagonist.wav",
+    "delivered": "audio/voices/s04_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 12.336958333333333,
+    "end": 13.221395833333334
+  },
+  {
+    "source_wav": "assets/audio/s04_1_protagonist.wav",
+    "delivered": "audio/voices/s04_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 13.341395833333333,
+    "end": 15.321666666666667
+  },
+  {
+    "source_wav": "assets/audio/s04_2_protagonist.wav",
+    "delivered": "audio/voices/s04_2_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 15.441666666666666,
+    "end": 17.430458333333334
+  },
+  {
+    "source_wav": "assets/audio/s05_0_protagonist.wav",
+    "delivered": "audio/voices/s05_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 18.565708333333333,
+    "end": 20.7211875
+  },
+  {
+    "source_wav": "assets/audio/s05_1_protagonist.wav",
+    "delivered": "audio/voices/s05_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 20.8411875,
+    "end": 22.896645833333334
+  },
+  {
+    "source_wav": "assets/audio/s06_0_protagonist.wav",
+    "delivered": "audio/voices/s06_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 24.248645833333335,
+    "end": 25.561208333333333
+  },
+  {
+    "source_wav": "assets/audio/s06_1_protagonist.wav",
+    "delivered": "audio/voices/s06_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 25.681208333333334,
+    "end": 27.636520833333332
+  },
+  {
+    "source_wav": "assets/audio/s07_0_protagonist.wav",
+    "delivered": "audio/voices/s07_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 28.881479166666665,
+    "end": 30.159895833333334
+  },
+  {
+    "source_wav": "assets/audio/s08_0_protagonist.wav",
+    "delivered": "audio/voices/s08_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 32.51329166666667,
+    "end": 34.51227083333333
+  },
+  {
+    "source_wav": "assets/audio/s08_1_protagonist.wav",
+    "delivered": "audio/voices/s08_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 34.63227083333334,
+    "end": 36.019020833333336
+  },
+  {
+    "source_wav": "assets/audio/s09_0_protagonist.wav",
+    "delivered": "audio/voices/s09_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 37.5860625,
+    "end": 39.78239583333333
+  },
+  {
+    "source_wav": "assets/audio/s09_1_protagonist.wav",
+    "delivered": "audio/voices/s09_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 39.90239583333334,
+    "end": 40.84916666666667
+  },
+  {
+    "source_wav": "assets/audio/s10_0_protagonist.wav",
+    "delivered": "audio/voices/s10_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 42.38860416666667,
+    "end": 43.98520833333333
+  },
+  {
+    "source_wav": "assets/audio/s10_1_protagonist.wav",
+    "delivered": "audio/voices/s10_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 44.10520833333333,
+    "end": 46.309958333333334
+  },
+  {
+    "source_wav": "assets/audio/s11_0_protagonist.wav",
+    "delivered": "audio/voices/s11_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 47.655125,
+    "end": 49.68802083333333
+  },
+  {
+    "source_wav": "assets/audio/s12_0_protagonist.wav",
+    "delivered": "audio/voices/s12_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 51.2,
+    "end": 52.461625
+  },
+  {
+    "source_wav": "assets/audio/s12_1_protagonist.wav",
+    "delivered": "audio/voices/s12_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 52.581625,
+    "end": 54.7839375
+  },
+  {
+    "source_wav": "assets/audio/s13_0_protagonist.wav",
+    "delivered": "audio/voices/s13_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 55.315729166666664,
+    "end": 56.77879166666666
+  },
+  {
+    "source_wav": "assets/audio/s13_1_protagonist.wav",
+    "delivered": "audio/voices/s13_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 56.89879166666667,
+    "end": 58.4799375
+  },
+  {
+    "source_wav": "assets/audio/s14_0_protagonist.wav",
+    "delivered": "audio/voices/s14_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 59.2,
+    "end": 61.13229166666667
+  },
+  {
+    "source_wav": "assets/audio/s14_1_protagonist.wav",
+    "delivered": "audio/voices/s14_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 61.252291666666665,
+    "end": 62.795
+  },
+  {
+    "source_wav": "assets/audio/s15_0_protagonist.wav",
+    "delivered": "audio/voices/s15_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 63.8011875,
+    "end": 65.34722916666666
+  },
+  {
+    "source_wav": "assets/audio/s16_0_caller.wav",
+    "delivered": "audio/voices/s16_0_caller.flac",
+    "speaker": "caller",
+    "start": 67.73783333333333,
+    "end": 69.30602083333333
+  },
+  {
+    "source_wav": "assets/audio/s16_1_caller.wav",
+    "delivered": "audio/voices/s16_1_caller.flac",
+    "speaker": "caller",
+    "start": 69.42602083333334,
+    "end": 70.75414583333334
+  },
+  {
+    "source_wav": "assets/audio/s16_2_caller.wav",
+    "delivered": "audio/voices/s16_2_caller.flac",
+    "speaker": "caller",
+    "start": 70.87414583333333,
+    "end": 72.4950625
+  },
+  {
+    "source_wav": "assets/audio/s17_0_caller.wav",
+    "delivered": "audio/voices/s17_0_caller.flac",
+    "speaker": "caller",
+    "start": 74.60277083333334,
+    "end": 76.36208333333333
+  },
+  {
+    "source_wav": "assets/audio/s17_1_caller.wav",
+    "delivered": "audio/voices/s17_1_caller.flac",
+    "speaker": "caller",
+    "start": 76.48208333333334,
+    "end": 78.81020833333334
+  },
+  {
+    "source_wav": "assets/audio/s18_0_protagonist.wav",
+    "delivered": "audio/voices/s18_0_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 80.69164583333334,
+    "end": 83.27047916666666
+  },
+  {
+    "source_wav": "assets/audio/s18_1_protagonist.wav",
+    "delivered": "audio/voices/s18_1_protagonist.flac",
+    "speaker": "protagonist",
+    "start": 83.39047916666667,
+    "end": 84.60283333333334
+  }
+]

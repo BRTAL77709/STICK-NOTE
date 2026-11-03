@@ -1,0 +1,146 @@
+[
+  {
+    "scene": 1,
+    "start": 0.0,
+    "end": 4.0,
+    "duration": 4,
+    "title": "2:17 AM",
+    "frames": 120
+  },
+  {
+    "scene": 2,
+    "start": 4.0,
+    "end": 8.0,
+    "duration": 4,
+    "title": "The driver",
+    "frames": 120
+  },
+  {
+    "scene": 3,
+    "start": 8.0,
+    "end": 12.0,
+    "duration": 4,
+    "title": "Something wrong",
+    "frames": 120
+  },
+  {
+    "scene": 4,
+    "start": 12.0,
+    "end": 18.0,
+    "duration": 6,
+    "title": "The crime",
+    "frames": 180
+  },
+  {
+    "scene": 5,
+    "start": 18.0,
+    "end": 24.0,
+    "duration": 6,
+    "title": "The trunk",
+    "frames": 180
+  },
+  {
+    "scene": 6,
+    "start": 24.0,
+    "end": 28.0,
+    "duration": 4,
+    "title": "They saw him",
+    "frames": 120
+  },
+  {
+    "scene": 7,
+    "start": 28.0,
+    "end": 32.0,
+    "duration": 4,
+    "title": "Panic",
+    "frames": 120
+  },
+  {
+    "scene": 8,
+    "start": 32.0,
+    "end": 37.0,
+    "duration": 5,
+    "title": "Pursuit",
+    "frames": 150
+  },
+  {
+    "scene": 9,
+    "start": 37.0,
+    "end": 42.0,
+    "duration": 5,
+    "title": "Escape",
+    "frames": 150
+  },
+  {
+    "scene": 10,
+    "start": 42.0,
+    "end": 47.0,
+    "duration": 5,
+    "title": "Safe?",
+    "frames": 150
+  },
+  {
+    "scene": 11,
+    "start": 47.0,
+    "end": 51.0,
+    "duration": 4,
+    "title": "House 17",
+    "frames": 120
+  },
+  {
+    "scene": 12,
+    "start": 51.0,
+    "end": 55.0,
+    "duration": 4,
+    "title": "Locked door",
+    "frames": 120
+  },
+  {
+    "scene": 13,
+    "start": 55.0,
+    "end": 59.0,
+    "duration": 4,
+    "title": "Inside",
+    "frames": 120
+  },
+  {
+    "scene": 14,
+    "start": 59.0,
+    "end": 63.0,
+    "duration": 4,
+    "title": "The window",
+    "frames": 120
+  },
+  {
+    "scene": 15,
+    "start": 63.0,
+    "end": 67.0,
+    "duration": 4,
+    "title": "Unknown call",
+    "frames": 120
+  },
+  {
+    "scene": 16,
+    "start": 67.0,
+    "end": 74.0,
+    "duration": 7,
+    "title": "The offer",
+    "frames": 210
+  },
+  {
+    "scene": 17,
+    "start": 74.0,
+    "end": 80.0,
+    "duration": 6,
+    "title": "The warning",
+    "frames": 180
+  },
+  {
+    "scene": 18,
+    "start": 80.0,
+    "end": 86.0,
+    "duration": 6,
+    "title": "The choice",
+    "frames": 180
+  }
+]
