@@ -36,9 +36,9 @@
   },
   {
     "name": "LOG.md",
-    "bytes": 2028,
-    "git_sha": "f9e73f9beac5307b5e941af048ceeb9c8fd9511c",
-    "sha256": "59a24aec8736660c4f8b5c6b9b515f07c4135d4603e7acfea8636a45db4bcc90",
+    "bytes": 2363,
+    "git_sha": "f4ad174cbc8e7f689b45455e46989be91ea42ce5",
+    "sha256": "645876192e66ad0d7cafdd38903c0892faf3801e74814b6500132737542d994f",
     "binary": false
   },
   {
@@ -50,9 +50,9 @@
   },
   {
     "name": "PROGRESS.md",
-    "bytes": 1108,
-    "git_sha": "637ec35b75489bb1f1cd6d52aca3df66d271a670",
-    "sha256": "7e7772a4eb4afa50bffb7bc12e4f88d998ae24a17e0bce543519d2bc7a054c61",
+    "bytes": 1320,
+    "git_sha": "b373c8d74c7c57fe7bae62a1ef20fedc18c04ac9",
+    "sha256": "b6b4fb53786d6f0d06e2065484d88610e5f3f678ee661658bc32981915dcadbe",
     "binary": false
   },
   {
@@ -112,6 +112,13 @@
     "binary": false
   },
   {
+    "name": "audio-cues.json",
+    "bytes": 1139,
+    "git_sha": "1d5c0f0c500f51cd519087e27e44fbf85c79bf39",
+    "sha256": "5fe8d50c09067ea207d481bd71bbe23a76ce1729fcc361096f7389ef44f04b2c",
+    "binary": false
+  },
+  {
     "name": "audio/fx_stem.m4a",
     "bytes": 364945,
     "git_sha": "454e4b864e258fbd44bca79f3a8ef7ee72eabb80",
@@ -138,13 +145,6 @@
     "git_sha": "2ddc712238aa16b0c21920c62c04e24755de62f3",
     "sha256": "64d543078df076b2dde7c0aa9226aed05e26fcfb203dc7e48ce7ad84f139a14e",
     "binary": true
-  },
-  {
-    "name": "audio-cues.json",
-    "bytes": 1139,
-    "git_sha": "1d5c0f0c500f51cd519087e27e44fbf85c79bf39",
-    "sha256": "5fe8d50c09067ea207d481bd71bbe23a76ce1729fcc361096f7389ef44f04b2c",
-    "binary": false
   },
   {
     "name": "build.sh",
@@ -215,6 +215,13 @@
     "git_sha": "6670543ffdcbe8a94ad0bd5fb3d0e6f148a72714",
     "sha256": "4635c374899a5e508b1b85424ff4b79786fd421df0e9a5ef16234b8459e4f89d",
     "binary": true
+  },
+  {
+    "name": "publication-verification.json",
+    "bytes": 468,
+    "git_sha": "c525bcb6f961e9a02dca81617babe63b45cab71b",
+    "sha256": "0ee33decbd8975b02f21562b4ec48ae88a63362993894dcbe2cab6e3bb96dda3",
+    "binary": false
   },
   {
     "name": "reports/DELIVERY_playback.json",
