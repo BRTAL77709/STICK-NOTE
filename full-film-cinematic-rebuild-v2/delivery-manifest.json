@@ -29,9 +29,9 @@
   },
   {
     "name": "LOG.md",
-    "bytes": 1611,
-    "git_sha": "673a2773116453225ef938ed9764d07ffaf0a3f9",
-    "sha256": "8449249deb5c2714563274ce8a4f9f2d89f10a6c16a852331c0a7eb7804123e4",
+    "bytes": 1942,
+    "git_sha": "1f4366dd98f4753ec341ed4003fd1fe9d098dbc5",
+    "sha256": "5f34a8c6b6ae335397965cfbc4f4d9e350c0b90c10e8281dd44d0cae12d2bc4b",
     "binary": false
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "name": "PROGRESS.md",
-    "bytes": 1527,
-    "git_sha": "daa06e2b8cba03d2376a91b1864925844e792283",
-    "sha256": "d9cdf0925fb99da381b4fb31578cdadd337566c347cc15013c620537af91a907",
+    "bytes": 1721,
+    "git_sha": "e902761bfc570a7b1599c97dce52e7ae13de81a2",
+    "sha256": "38cc920369a2b617bbf80515c8deedee68ef13ce93134f48cb8e1d78b814ccdc",
     "binary": false
   },
   {
@@ -126,6 +126,13 @@
     "binary": false
   },
   {
+    "name": "audio-cues.json",
+    "bytes": 2269,
+    "git_sha": "068ad87d3136e81c9b123669bd02f64b1ff756c9",
+    "sha256": "a7965a71071a68ace1c35e33d5b5d71b1cab028636bb1136d99208014fda032c",
+    "binary": false
+  },
+  {
     "name": "audio/AUDITION_am_michael.wav",
     "bytes": 200748,
     "git_sha": "d798cf910bb7a3435ff70b278dcee16abfd8fb81",
@@ -161,17 +168,17 @@
     "binary": true
   },
   {
-    "name": "audio-cues.json",
-    "bytes": 2269,
-    "git_sha": "068ad87d3136e81c9b123669bd02f64b1ff756c9",
-    "sha256": "a7965a71071a68ace1c35e33d5b5d71b1cab028636bb1136d99208014fda032c",
-    "binary": false
-  },
-  {
     "name": "build.sh",
     "bytes": 611,
     "git_sha": "0deee486d8a43881efa0834f2e65488ad55f9d0d",
     "sha256": "78913ff65b6156267f3a703132556f5bffe9ecf24448f3f5d7a5eb2adc64c456",
+    "binary": false
+  },
+  {
+    "name": "download-verification.json",
+    "bytes": 1045,
+    "git_sha": "0e93bd14462d1d4b47626d15b2aeb36df878b46a",
+    "sha256": "77d19d9cbe1a81e4c28336c0bca3a6fc7eb73fbdf5b8660b769061b01fc50d1a",
     "binary": false
   },
   {

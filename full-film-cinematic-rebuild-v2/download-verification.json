@@ -1,0 +1,26 @@
+[
+  {
+    "name": "THE_PRICE_OF_SILENCE_CINEMATIC_REBUILD_V2_15s.mp4",
+    "http_status": 200,
+    "bytes": 5858832,
+    "sha256": "c8ccc1fa51a216e9ae06b830b57c0879937ff69673343011fd89457b756315f8",
+    "matches_local": true,
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v2/THE_PRICE_OF_SILENCE_CINEMATIC_REBUILD_V2_15s.mp4"
+  },
+  {
+    "name": "audio/NARRATION_ONLY.wav",
+    "http_status": 200,
+    "bytes": 1440044,
+    "sha256": "6e9953eb832e97f4afb13041a13c26bb5619555bad1f3a3092b1dc469d7f17ba",
+    "matches_local": true,
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v2/audio/NARRATION_ONLY.wav"
+  },
+  {
+    "name": "audio/MIX_MASTER.m4a",
+    "http_status": 200,
+    "bytes": 364922,
+    "sha256": "ee753bcee8d3675b3f8f4bf2506561151c51f09fdc6039797ecc456418336e3f",
+    "matches_local": true,
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v2/audio/MIX_MASTER.m4a"
+  }
+]
