@@ -1,0 +1,106 @@
+[
+  {
+    "file": "THE_PRICE_OF_SILENCE_CINEMATIC_REBUILD_V4_15s.mp4",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/THE_PRICE_OF_SILENCE_CINEMATIC_REBUILD_V4_15s.mp4",
+    "status": 200,
+    "bytes": 7689479,
+    "sha256": "338756b74f1e6ec50ca592867cc0c79078d57299fe8221c251e0bf5b6831399d",
+    "matches_local": true
+  },
+  {
+    "file": "HYPERFRAMES_HUD_DEMO_V4.mp4",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/HYPERFRAMES_HUD_DEMO_V4.mp4",
+    "status": 200,
+    "bytes": 321825,
+    "sha256": "3fd8e53782f710c8cbcdb204b307f22a7a589e520f2eca3b8d8bdbe0ec5497dd",
+    "matches_local": true
+  },
+  {
+    "file": "CONTACT_SHEET.jpg",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/CONTACT_SHEET.jpg",
+    "status": 200,
+    "bytes": 1169060,
+    "sha256": "3f4200cf5128bc0031e9956e9c56f28e9fc3ed5bc877e704f8d91c9158115dc6",
+    "matches_local": true
+  },
+  {
+    "file": "V3_V4_COMPARISON.jpg",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/V3_V4_COMPARISON.jpg",
+    "status": 200,
+    "bytes": 205356,
+    "sha256": "7fd2e2653661860e7c7d8d65614933273af191fa6ce58c65e183eb59d8e68601",
+    "matches_local": true
+  },
+  {
+    "file": "DRIVER_MOTION_STRIP.jpg",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/DRIVER_MOTION_STRIP.jpg",
+    "status": 200,
+    "bytes": 264370,
+    "sha256": "34665f74248cd7b31aafe4b50914a4bdc43373cfa91882da657d57ce4b90387c",
+    "matches_local": true
+  },
+  {
+    "file": "TECHNICAL_VALIDATION.md",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/TECHNICAL_VALIDATION.md",
+    "status": 200,
+    "bytes": 2894,
+    "sha256": "da82cf937f196be29cc91473fd0454b169b343ce5b2fee1acf2ea0e1d06f5be7",
+    "matches_local": true
+  },
+  {
+    "file": "MOTION_QUALITY_REPORT.md",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/MOTION_QUALITY_REPORT.md",
+    "status": 200,
+    "bytes": 3462,
+    "sha256": "70fe14e9db5add8c7dce9bba44968794a5b24d14c051c3be76e695253a6d642b",
+    "matches_local": true
+  },
+  {
+    "file": "src/driver_rig.py",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/src/driver_rig.py",
+    "status": 200,
+    "bytes": 5658,
+    "sha256": "04cd53872b74054a77e44b673c7f230bd1c46e44344e93bc389e952a2d0052b2",
+    "matches_local": true
+  },
+  {
+    "file": "hyperframes/index.html",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/hyperframes/index.html",
+    "status": 200,
+    "bytes": 1619,
+    "sha256": "92b77ee2f7e5b465f1be90154eb115ab503ade2f759f3c197d36f317938b6f0f",
+    "matches_local": true
+  },
+  {
+    "file": "hyperframes/compositions/captions.html",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/hyperframes/compositions/captions.html",
+    "status": 200,
+    "bytes": 4476,
+    "sha256": "9bee335ce36655f944dd40de11200d98abf711407bf81ad9e93441616ba8c137",
+    "matches_local": true
+  },
+  {
+    "file": "README.md",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/README.md",
+    "status": 200,
+    "bytes": 3024,
+    "sha256": "1b4a17453b46a4b77d9a88833954b12cad66dde0a58de9e4840fdeb87e1ed228",
+    "matches_local": true
+  },
+  {
+    "file": "audio/NARRATION_ONLY.wav",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/audio/NARRATION_ONLY.wav",
+    "status": 200,
+    "bytes": 1440044,
+    "sha256": "c47276a840c05c245b3a8a3f18002084a23e890890a5271bb9f774c1221f18c6",
+    "matches_local": true
+  },
+  {
+    "file": "audio/MIX_MASTER.wav",
+    "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-cinematic-rebuild-v4/audio/MIX_MASTER.wav",
+    "status": 200,
+    "bytes": 2880078,
+    "sha256": "b016f2030d7c85c5f30f56f05f76b3435befb28ccfcf9abdb0e17493d69b4bb9",
+    "matches_local": true
+  }
+]

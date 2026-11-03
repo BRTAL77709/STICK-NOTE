@@ -1,7 +1,8 @@
 {
   "project": "THE PRICE OF SILENCE",
   "version": "cinematic-rebuild-v4",
-  "scope": "15-second review sample; full film paused",
+  "mediaCommit": "e9248ae225e23c16c8c829cc6245ed84ade08248",
+  "status": "Delivered and download-verified; awaiting user review; full film paused",
   "audioStatus": "Listening approval pending",
   "captionTiming": "Measured phrases; word alignment unavailable",
   "files": [
@@ -49,9 +50,9 @@
     },
     {
       "name": "LOG.md",
-      "bytes": 1417,
-      "git_sha": "cb16d659bccc9829139994588770b6a39b2e0268",
-      "sha256": "bcaffb85dac164fb522b0a9fed95c6d5681c55517d9626b85f08dd1ae3c6e571",
+      "bytes": 1888,
+      "git_sha": "48469d6fe3ddaee91f06d4e0d993e41de8a848c8",
+      "sha256": "23f0664d85c39072db6f807033b66ec497bb56a7a6e38eb5dc85b960e6b9e68f",
       "binary": false
     },
     {
@@ -70,9 +71,9 @@
     },
     {
       "name": "PROGRESS.md",
-      "bytes": 960,
-      "git_sha": "9aa07c5983b8552cfc08f067f7899777d203a791",
-      "sha256": "89ffab8bf90750c8337db457168d11c3548124a4c9d84c18bcb039b6e4012d54",
+      "bytes": 1079,
+      "git_sha": "247f24992dd94c4eb1dda3b66455ac50afbfd1e5",
+      "sha256": "e3aa1f831aeff720acbc1adc7810a1c3fbdc1f2930e532ef7f54edf74db5c09c",
       "binary": false
     },
     {
@@ -437,6 +438,13 @@
       "bytes": 262,
       "git_sha": "97136bd6589319f15669b1a3968db5912249b93e",
       "sha256": "58fab1526efd8f2028e13106c1d02b124a37c02d7c37ac2b314a40a8c2901b6f",
+      "binary": false
+    },
+    {
+      "name": "reports/download-verification.json",
+      "bytes": 4261,
+      "git_sha": "79fa9c44c5097c426b6ec49b4d1f284096edac35",
+      "sha256": "931da3b619d924c68d3b5ebbb37ec2bce200586b7761ec91c1b34dc4be080b3c",
       "binary": false
     },
     {

@@ -10,3 +10,5 @@
 - Rendered the six-second actual HyperFrames HUD demo; playback completed 180 frames with zero drops/corruption.
 - Final MP4 validation, encoded contact/comparison and public download verification are recorded in the delivery reports.
 - Stop after V4 for review. No full 86-second movie has been rendered.
+
+Media/source commit: e9248ae225e23c16c8c829cc6245ed84ade08248 on work. Verified 98 published files against local Git blob hashes/byte sizes; all 498 prior repository entries retained. Independently downloaded 13 final/review/source/audio artifacts: HTTP 200, exact bytes and SHA-256. Main MP4: 7,689,479 bytes; SHA-256 338756b74f1e6ec50ca592867cc0c79078d57299fe8221c251e0bf5b6831399d. Final source check: all seven sections zero errors/warnings. Stopped at user review.
