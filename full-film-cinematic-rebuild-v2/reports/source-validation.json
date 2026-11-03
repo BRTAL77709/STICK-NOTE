@@ -1,0 +1,88 @@
+{
+  "source_poses_evaluated": 450,
+  "fps": 30,
+  "duration": 15,
+  "maximum_world_speed_error_mps": [
+    1.4122185021392397e-06,
+    2.7269854172118357e-05
+  ],
+  "speed_kmh_samples": {
+    "0": 18.0,
+    "2": 26.0,
+    "4": 26.0,
+    "5": 29.82339553937187,
+    "7": 52.545289030496136,
+    "10": 84.9895311788803,
+    "12": 86.0,
+    "14.5": 54.0,
+    "15": 54.0
+  },
+  "heading_change_corner_degrees": -35.093138782036924,
+  "tire_radius_m": 0.32,
+  "wheel_travel_relation": "Exact distance/radius for independent blue/black odometers",
+  "ground_tire_bottom_m": 0,
+  "vehicle_state_fields": [
+    "t",
+    "x",
+    "z",
+    "yaw",
+    "heading",
+    "speed_mps",
+    "speed_kmh",
+    "velocity_x",
+    "velocity_z",
+    "acceleration_mps2",
+    "distance_m",
+    "wheel_rad",
+    "steer_rad",
+    "steering_wheel_rad",
+    "pitch",
+    "roll",
+    "suspension_m",
+    "rpm",
+    "throttle"
+  ],
+  "projected_movement": {
+    "Departure": {
+      "world_distance_m": 11.981504292942393,
+      "projected_center_first": [
+        376.6492442781081,
+        942.1364810177224
+      ],
+      "projected_center_last": [
+        594.0931239138224,
+        866.8906090466335
+      ],
+      "projected_center_delta_px": 230.09515866206428
+    },
+    "Street acceleration": {
+      "world_distance_m": 58.568109664259374,
+      "projected_center_first": [
+        475.5656313372217,
+        819.7847605885248
+      ],
+      "projected_center_last": [
+        620.5137491061614,
+        807.103035164859
+      ],
+      "projected_center_delta_px": 145.5018316189857
+    },
+    "Corner escape": {
+      "world_distance_m": 27.83333833333333,
+      "projected_center_first": [
+        449.29112321474105,
+        905.0216146784775
+      ],
+      "projected_center_last": [
+        630.5134594514138,
+        918.5438324195006
+      ],
+      "projected_center_delta_px": 181.7261277959593
+    }
+  },
+  "mirror_distance_10s_m": 13.022673507060595,
+  "mirror_distance_12_5s_m": 9.131765401416526,
+  "captions": 4,
+  "caption_overlaps": 0,
+  "note": "Source/model/IK and camera checks, not an artistic certification or a replacement for encoded playback."
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "start": 0.28,
+    "end": 1.432,
+    "text": "He saw me.",
+    "asset": "assets/audio/voice_0.wav",
+    "voice": "am_onyx",
+    "sample_rate": 24000
+  },
+  {
+    "start": 3.5,
+    "end": 4.801333333333333,
+    "text": "I hit the gas.",
+    "asset": "assets/audio/voice_1.wav",
+    "voice": "am_onyx",
+    "sample_rate": 24000
+  },
+  {
+    "start": 10.05,
+    "end": 11.735333333333333,
+    "text": "The headlights followed.",
+    "asset": "assets/audio/voice_2.wav",
+    "voice": "am_onyx",
+    "sample_rate": 24000
+  },
+  {
+    "start": 12.75,
+    "end": 13.944666666666667,
+    "text": "Every turn.",
+    "asset": "assets/audio/voice_3.wav",
+    "voice": "am_onyx",
+    "sample_rate": 24000
+  }
+]

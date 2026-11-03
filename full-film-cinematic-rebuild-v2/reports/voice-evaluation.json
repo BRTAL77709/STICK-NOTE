@@ -1,0 +1,37 @@
+{
+  "runtime": "existing localKokoroONNX CPU; no download or network call",
+  "models": [
+    {
+      "path": "/workspace/stick-note-dev/models/kokoro-v1.0.onnx",
+      "bytes": 325532387,
+      "sha256": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5"
+    },
+    {
+      "path": "/workspace/stick-note-dev/models/voices-v1.0.bin",
+      "bytes": 28214398,
+      "sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+    }
+  ],
+  "auditions": [
+    {
+      "voice": "am_onyx",
+      "speed": 0.92,
+      "duration": 4.224,
+      "peak": 0.5963516235351562,
+      "median_voiced_f0_hz_estimate": 88.25438027255029,
+      "text": "He saw me. I hit the gas. The headlights followed every turn."
+    },
+    {
+      "voice": "am_michael",
+      "speed": 0.96,
+      "duration": 4.181333333333333,
+      "peak": 0.5108836889266968,
+      "median_voiced_f0_hz_estimate": 115.7170740775165,
+      "text": "He saw me. I hit the gas. The headlights followed every turn."
+    }
+  ],
+  "selected": "am_onyx",
+  "selection": "Lower-register stock synthetic male delivery; explicit pauses and short sentences. Auditions supplied for user comparison; final voice performance approval remains subjective.",
+  "wording": "Original previous test wording retained; no actor imitation.",
+  "no_paid_api": true
+}

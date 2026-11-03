@@ -1,0 +1,12 @@
+{
+  "decoded_frames": 450,
+  "minimum_frame_mean_rgb": 21.906394675925927,
+  "near_black_frame_count_mean_below_1": 0,
+  "cluster_interval_frames": [
+    150,
+    209
+  ],
+  "cluster_consecutive_frames": 60,
+  "cluster_unique_decoded_crops": 60,
+  "note": "Whole-frame freeze heuristic flags5\u20137s fixed cluster housing; all60 actual instrument crops differ and needle/digits were inspected."
+}

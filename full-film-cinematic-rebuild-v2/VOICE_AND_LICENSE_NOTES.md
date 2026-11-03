@@ -1,0 +1,15 @@
+# Voice evaluation, original audio and licenses
+
+No callableElevenLabs tool, ready runtime credential or confirmed zero-cost entitlement was available. No login, API call, credit use or payment was attempted. The existing separatePython environment/workspace/stick-note-dev/.venv containsKokoroONNX0.6.1, ONNXRuntime, phonemizer/runtime, and the existing311MBKokoro-v1.0ONNX plus27MBvoices. All synthesis ran locally onCPU, with no model download. Paths/hashes are recorded in reports/voice-evaluation.json.
+
+Two original short auditions use stock syntheticmale voices am_onyx and am_michael, with identical text: “He saw me. I hit the gas. The headlights followed every turn.” Both are supplied as WAVs. Onyx was selected for its lower register and restrained short-line delivery. The automatic voiced-F0 estimate was about88Hz versus116Hz forMichael; this supports register choice, not a numerical claim of human naturalness or intelligibility. Listen to both samples before deciding whether this is the final narrator. Full test wording preserves the prior four approved lines. No identifiable actor's voice was cloned or requested.
+
+Kokoro repository/model documentation states Apache-licensed weights; kokoro-onnx is MIT. Full notices are supplied in assets/licenses/. The large model, voice database and runtime binaries are NOT redistributed. This is not a claim of proprietary training-data rights or an independently audited voice-rights chain. The project uses a stock synthetic voice under the documented local model license rather than inventing access to a commercial voice service.
+
+All motor harmonics, wet tires, rain, world-pole passes, pedal/chassis sounds and tonal suspense music are original procedural synthesis from src/audio.py, with seeded randomness and shared vehicle state. No commercial sample/music track/reference-film audio is inserted. Voice stem, unmastered mix and master are separate. The public delivery includes narration-onlyWAV, mastered stereoWAV and compactM4A; editable original stems remain local and can be regenerated.
+
+Visuals are original/user-authorized vector reconstruction retaining the cap/hoodie/pale round-face identity and navy/teal/amber palette. The earlier approved source/render files are preserved. DejaVuSans is an installed font rendered into frames; no font/runtime binaries are bundled. NumPy/Pillow/librsvg/Cairo/FFmpeg/libx264/Playwright/Chromium are runtime tools, whose licenses apply to their own distributions.
+
+The supplied CASH/SUSPICION image is not accessible in current attachments/workspace. The HUD follows the explicit written translucent-panel/compact-uppercase/white-counter/amber-bar brief. No exact-match claim is made. Only actual speed, time and measured vehicle separation are displayed; noCASH/SUSPICION value is invented.
+
+License provenance: https://huggingface.co/hexgrad/Kokoro-82M ; https://github.com/hexgrad/kokoro/blob/main/LICENSE ; https://github.com/thewh1teagle/kokoro-onnx/blob/main/LICENSE . The checked-in notices are copied from the existing installed source package/model documentation; model weights are not bundled.

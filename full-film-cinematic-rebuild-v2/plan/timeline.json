@@ -1,0 +1,42 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "shot": "Departure"
+  },
+  {
+    "start": 2,
+    "end": 4,
+    "shot": "Driver danger"
+  },
+  {
+    "start": 4,
+    "end": 5,
+    "shot": "Pedal"
+  },
+  {
+    "start": 5,
+    "end": 7,
+    "shot": "Acceleration instruments"
+  },
+  {
+    "start": 7,
+    "end": 10,
+    "shot": "Street acceleration"
+  },
+  {
+    "start": 10,
+    "end": 12.5,
+    "shot": "Mirror threat"
+  },
+  {
+    "start": 12.5,
+    "end": 13.266666666666667,
+    "shot": "Steering anticipation"
+  },
+  {
+    "start": 13.266666666666667,
+    "end": 15,
+    "shot": "Corner escape"
+  }
+]
