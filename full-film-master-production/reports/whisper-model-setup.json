@@ -1,0 +1,9 @@
+{
+  "available": false,
+  "file": "model.safetensors",
+  "error_type": "URLError",
+  "status": null,
+  "reason": "Tunnel connection failed: 403 Forbidden",
+  "retries": 0,
+  "paid_service": false
+}

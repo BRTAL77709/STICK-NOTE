@@ -1,0 +1,12 @@
+{
+  "narrator": "bm_daniel",
+  "caller": "am_echo",
+  "new_performances": true,
+  "old_rejected_audio_reused": false,
+  "timing": "Measured whole-phrase sample counts",
+  "voice_quality": "NOT CERTIFIED: auditory input unavailable; listening review pending",
+  "paid_api": false,
+  "model_outputs": [
+    "audio"
+  ]
+}

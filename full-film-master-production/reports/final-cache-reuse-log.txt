@@ -1,0 +1,27 @@
+CONTENT CACHE 1 renders/final/scene_01_aa14d0018fa1.mp4
+final 2 0 120
+final 2 90 120
+final 3 0 120
+final 3 90 120
+CONTENT CACHE 4 renders/final/scene_04_3ca0da84eb9d.mp4
+CONTENT CACHE 5 renders/final/scene_05_2d1b6e7ab453.mp4
+CONTENT CACHE 6 renders/final/scene_06_1a3bd81677b1.mp4
+final 7 0 120
+final 7 90 120
+final 8 0 150
+final 8 90 150
+final 9 0 150
+Traceback (most recent call last):
+  File "/workspace/STICK-NOTE/full-film-master-production/scripts/render_scenes.py", line 49, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/workspace/STICK-NOTE/full-film-master-production/scripts/render_scenes.py", line 48, in main
+    for i in range(lo,hi+1):render(i,scale,args.stage)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/STICK-NOTE/full-film-master-production/scripts/render_scenes.py", line 39, in render
+    im=rr.render(svgs[f]);pr.stdin.write(im.tobytes())
+       ^^^^^^^^^^^^^^^^^^
+  File "/workspace/STICK-NOTE/full-film-master-production/engine/animation/illustration_engine.py", line 526, in render
+    if not self.r.rsvg_handle_render_cairo(handle,ctx):raise RuntimeError('SVG render failed')
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

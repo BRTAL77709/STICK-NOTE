@@ -1,0 +1,7 @@
+# Audio direction and limitations
+
+New stock Kokoro narrator bm_daniel and caller am_echo replace the rejected narration. The narrator is cast for intimate English storytelling; the distinct caller uses controlled phrasing and 280–3200Hz telephone filtering. Both are local performances using existing weights. No voice is cloned and no paid service is used. NARRATION_SCRIPT.md, narration-timing.json and the individual phrase WAVs preserve wording and actual sample durations.
+
+The existing Transformers runtime can import Whisper, but its model-weight download failed with “Tunnel connection failed: 403 Forbidden”. No retry was made and no local recognition model is available. Because the script is generated and known, captions use measured phrase boundaries; no invented word alignment is supplied. Auditory input is unavailable to this assistant. Intelligibility, emotional emphasis and naturalness remain unverified by listening. A valid WAV, AAC stream or loudness reading is not voice approval. Gate E remains pending creative review.
+
+The sound cue sheet includes rain, wind/traffic texture, model-driven engine/road, wheel/contact cues, footsteps, cloth, trunk hinge/closure/latch, keys, handle, lock, door, curtain, phone vibration/ring/answer and original tonal suspense. Foley event times are tied to visible state changes; music ducks under speech. Near-silences precede the witness stare and incoming call. Master target is approximately −16 LUFS and −2dBTP before AAC. Actual encoded measurements are reported separately.

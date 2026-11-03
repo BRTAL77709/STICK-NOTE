@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "outputDir": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df",
+  "frames": [
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df/frame-00-at-52.6s.png",
+      "time": 52.6
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df/frame-01-at-56.4s.png",
+      "time": 56.4
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df/frame-02-at-69s.png",
+      "time": 69
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df/frame-03-at-77s.png",
+      "time": 77
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df/frame-04-at-85.75s.png",
+      "time": 85.75
+    }
+  ],
+  "contactSheets": [
+    "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/4d6443b4-8e1a-4fe2-ba11-fab4b2f6f5df/contact-sheet.jpg"
+  ],
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

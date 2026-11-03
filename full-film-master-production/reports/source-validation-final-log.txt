@@ -1,0 +1,35 @@
+SOURCE VALIDATED 1
+SOURCE VALIDATED 2
+SOURCE VALIDATED 3
+SOURCE VALIDATED 4
+SOURCE VALIDATED 5
+SOURCE VALIDATED 6
+SOURCE VALIDATED 7
+SOURCE VALIDATED 8
+SOURCE VALIDATED 9
+SOURCE VALIDATED 10
+SOURCE VALIDATED 11
+SOURCE VALIDATED 12
+SOURCE VALIDATED 13
+SOURCE VALIDATED 14
+SOURCE VALIDATED 15
+SOURCE VALIDATED 16
+SOURCE VALIDATED 17
+SOURCE VALIDATED 18
+{
+  "ok": true,
+  "source_frames": 2580,
+  "vehicle_samples": 2581,
+  "export_max_error": 0.0,
+  "velocity_position_max_error_mps": 7.628676677029489e-07,
+  "correct_pitch_sign": true,
+  "trunk_close_before_turn": true,
+  "door_unlock_before_open": true,
+  "door_close_before_relock": true,
+  "prior_files_matched": 1759,
+  "prior_files_missing_in_checkout": 0,
+  "prior_files_changed": 0,
+  "narration_phrases": 30,
+  "word_alignment": "not available; measured phrases used",
+  "voice_quality": "listening unverified; creative approval pending"
+}

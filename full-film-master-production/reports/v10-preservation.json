@@ -1,0 +1,8 @@
+{
+  "all_common_functions_unchanged": true,
+  "functions_compared": 29,
+  "source": "motion-test-v10/src/render_test_v10.py",
+  "master_copy": "engine/animation/v10_trunk.py",
+  "original_sha256": "995bae2fece7d1c0a7d19eebbb8ff2432be173bce38f3902680aed7965a4d7fa",
+  "master_sha256": "995bae2fece7d1c0a7d19eebbb8ff2432be173bce38f3902680aed7965a4d7fa"
+}

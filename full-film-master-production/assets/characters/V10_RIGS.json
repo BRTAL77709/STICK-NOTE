@@ -1,0 +1,10 @@
+{
+  "source": "engine/animation/v10_trunk.py",
+  "actors": [
+    "Criminal 01",
+    "Criminal 02",
+    "Injured victim"
+  ],
+  "world": "orthographic shared ground plane",
+  "preserved_choreography": true
+}

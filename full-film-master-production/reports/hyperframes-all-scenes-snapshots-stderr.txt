@@ -1,0 +1,51 @@
+[SystemMemory] cgroup memory limit detected: 8192 MiB. It governs memory-adaptive render behaviour instead of host RAM.
+◆  Capturing 18 frames at [1.5s, 5.5s, 10s, 15s, 21s, 26s, 29s, 35s, 38s, 45s, 49s, 52.6s, 56s, 61.7s, 64s, 69s, 77s, 83s] from hyperframes
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+   Fonts: 2 loaded
+   Note: added an end-of-timeline frame at 85.75s. Short beats between your --at times may still be skipped — pass them explicitly.
+[hyperframes] snapshot: frame 1/19 at 1.5s
+[hyperframes] snapshot: frame 2/19 at 5.5s
+[hyperframes] snapshot: frame 3/19 at 10s
+[hyperframes] snapshot: frame 4/19 at 15s
+[hyperframes] snapshot: frame 5/19 at 21s
+[hyperframes] snapshot: frame 6/19 at 26s
+[hyperframes] snapshot: frame 7/19 at 29s
+[hyperframes] snapshot: frame 8/19 at 35s
+[hyperframes] snapshot: frame 9/19 at 38s
+[hyperframes] snapshot: frame 10/19 at 45s
+[hyperframes] snapshot: frame 11/19 at 49s
+[hyperframes] snapshot: frame 12/19 at 52.6s
+[hyperframes] snapshot: frame 13/19 at 56s
+[hyperframes] snapshot: frame 14/19 at 61.7s
+[hyperframes] snapshot: frame 15/19 at 64s
+[hyperframes] snapshot: frame 16/19 at 69s
+[hyperframes] snapshot: frame 17/19 at 77s
+[hyperframes] snapshot: frame 18/19 at 83s
+[hyperframes] snapshot: frame 19/19 at 85.75s
+   Revision: 918ddf18-1369-4110-b450-ed07a9fa44de (recorded-revision)
+   State: /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/video-state.json
+
+◇  19 snapshots saved to /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-00-at-1.5s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-01-at-5.5s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-02-at-10s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-03-at-15s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-04-at-21s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-05-at-26s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-06-at-29s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-07-at-35s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-08-at-38s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-09-at-45s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-10-at-49s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-11-at-52.6s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-12-at-56s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-13-at-61.7s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-14-at-64s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-15-at-69s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-16-at-77s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-17-at-83s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/frame-18-at-85.75s.png
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/contact-sheet-1.jpg (grid view for AI review)
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/contact-sheet-2.jpg (grid view for AI review)
+   /workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/d176de0a-1d3a-4cf4-a270-c0e396f7afde/contact-sheet-3.jpg (grid view for AI review)

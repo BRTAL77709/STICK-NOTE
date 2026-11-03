@@ -1,0 +1,13 @@
+[SystemMemory] cgroup memory limit detected: 8192 MiB. It governs memory-adaptive render behaviour instead of host RAM.
+┌  hyperframes preview
+
+  Project   hyperframes
+  Studio    http://localhost:4090/#project/hyperframes
+  Server    http://localhost:4090
+  Desktop   Keep editing by chatting with Framey in the HyperFrames desktop app → https://hyperframes.studio/studio/download?os=linux&src=cli
+
+  Running in the background. Log: /home/agent/.local/state/hyperframes/previews/04214c7a19285f15.log
+  Changes reload automatically in the studio.
+
+  Stop with: hyperframes preview "/workspace/STICK-NOTE/full-film-master-production/hyperframes" --stop
+

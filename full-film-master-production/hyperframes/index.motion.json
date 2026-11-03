@@ -1,0 +1,26 @@
+{
+  "duration": 86,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#clock-panel",
+      "bySec": 0.35
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#speed-panel"
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#offer"
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#choice-a"
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#choice-b"
+    }
+  ]
+}

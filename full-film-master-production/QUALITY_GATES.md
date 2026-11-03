@@ -1,0 +1,5 @@
+# Internal gates — technical evidence versus creative approval
+
+A: shared motion state, actual position changes, wheel odometers and contact rigs. B: world-locked roads/buildings, route projection and window aperture. C: key/handle/door order, planted stair anchors, curtain and phone grips. D: actual HyperFrames rendering, animated values and safe typography. E: new speech files and measured timings; subjective voice quality remains UNVERIFIED because listening input is unavailable. F: cue sheet linked to visible events, headroom and synchronized render. G: low-resolution scene previews and interaction sheet, followed by integrated playback. H: complete 18-scene review assembly after structural checks.
+
+No gate automatically confers artistic approval. The complete film is a best-viable review candidate, not an assertion that the requested professional quality has been achieved. If a gate fails, record the failing scene/time, fix the underlying implementation and preserve earlier candidates. Avoid rerendering unchanged scenes. All unavailable checks and creative weaknesses must be disclosed with delivery.

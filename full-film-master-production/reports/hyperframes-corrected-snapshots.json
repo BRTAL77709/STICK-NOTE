@@ -1,0 +1,58 @@
+{
+  "ok": true,
+  "outputDir": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59",
+  "frames": [
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-00-at-5.2s.png",
+      "time": 5.2
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-01-at-10s.png",
+      "time": 10
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-02-at-15s.png",
+      "time": 15
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-03-at-35s.png",
+      "time": 35
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-04-at-45s.png",
+      "time": 45
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-05-at-61.7s.png",
+      "time": 61.7
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-06-at-64s.png",
+      "time": 64
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-07-at-69s.png",
+      "time": 69
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-08-at-77s.png",
+      "time": 77
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-09-at-83s.png",
+      "time": 83
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/frame-10-at-85.75s.png",
+      "time": 85.75
+    }
+  ],
+  "contactSheets": [
+    "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/contact-sheet-1.jpg",
+    "/workspace/STICK-NOTE/full-film-master-production/hyperframes/.hyperframes/artifacts/snapshots/b1c81432-b06f-4d2a-8f9c-f2f5288a4a59/contact-sheet-2.jpg"
+  ],
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

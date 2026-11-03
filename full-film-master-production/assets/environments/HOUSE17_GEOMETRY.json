@@ -1,0 +1,9 @@
+{
+  "door_width": 1.0,
+  "door_height": 2.1,
+  "floor_to_floor": 3.0,
+  "window_sill": 3.8,
+  "window_x": 1.4,
+  "roof_height": 6.5,
+  "curb_to_facade": 6.0
+}
