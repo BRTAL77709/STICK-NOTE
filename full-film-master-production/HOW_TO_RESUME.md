@@ -2,6 +2,8 @@
 
 Read PROGRESS.md, PRODUCTION_BIBLE.md, QUALITY_GATES.md and the final reports first. Check running render processes before launching another. All work is inside full-film-master-production; do not overwrite previous version directories.
 
+The complete 86-second candidate has been delivered and download-verified. Stop for user review. Do not rerender it or start another production pass without a new user request. The original and smaller download encoding are both preserved.
+
 Current scene assets are identified by scenes/scene_XX/final-cache.json. scripts/render_scenes.py --stage final validates and reuses caches based on the evaluated picture content. It preserves interrupted files. Do not rerender unchanged scenes. scripts/build_hyperframes.py --stage final mounts the current assets; preserve hand-edited HTML before regenerating it.
 
 The official local CLI is /workspace/stick-note-dev/tools/node_modules/hyperframes/bin/hyperframes.mjs. Use HYPERFRAMES_BROWSER_PATH=/usr/bin/chromium and HYPERFRAMES_TELEMETRY_DISABLED=1. Check hyperframes, inspect snapshots, then render to a NEW output path with --fps 30 --quality looks --crf 26 --workers 1 --no-browser-gpu. A shell wrapper is build.sh.

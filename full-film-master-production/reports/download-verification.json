@@ -1,0 +1,114 @@
+{
+  "commit": "97b9b61ee4b4af4656180ecbaa511e5ca4621cb6",
+  "branch": "work",
+  "prior_entries_checked": 612,
+  "prior_entries_changed": [],
+  "delivery_files_checked": 290,
+  "delivery_blob_mismatches": [],
+  "downloads": [
+    {
+      "file": "renders/final/THE_PRICE_OF_SILENCE_MASTER_86s.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/renders/final/THE_PRICE_OF_SILENCE_MASTER_86s.mp4",
+      "http_status": 200,
+      "bytes": 13399267,
+      "sha256": "3252ce1b592796730b7cbcf2dc34d416a534d6220d18f4d86122a73169bdcc66",
+      "matches_local": true
+    },
+    {
+      "file": "renders/final/THE_PRICE_OF_SILENCE_MASTER_86s_DOWNLOAD.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/renders/final/THE_PRICE_OF_SILENCE_MASTER_86s_DOWNLOAD.mp4",
+      "http_status": 200,
+      "bytes": 9673740,
+      "sha256": "227b24d292d00a92ea3ac895b2ff5cc2a9615c80c636ab792ec7370aa67980ca",
+      "matches_local": true
+    },
+    {
+      "file": "CONTACT_SHEET_18_SCENES.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/CONTACT_SHEET_18_SCENES.jpg",
+      "http_status": 200,
+      "bytes": 330825,
+      "sha256": "72f422539b68e14c67fc09e26b80c7c240c83f0ad794e210ab0a938a9c115b68",
+      "matches_local": true
+    },
+    {
+      "file": "CONTACT_SHEET_FULL.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/CONTACT_SHEET_FULL.jpg",
+      "http_status": 200,
+      "bytes": 1386595,
+      "sha256": "89a1ffa58394fa0ec2740e1619b8a970b581e81126ecacccc308316c0ccc577f",
+      "matches_local": true
+    },
+    {
+      "file": "ACTION_CONTACT_STRIPS.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/ACTION_CONTACT_STRIPS.jpg",
+      "http_status": 200,
+      "bytes": 1073769,
+      "sha256": "24340a31857e643fd6853d6f848fd3f59ac05f37c82c6f2474b7582f003b610f",
+      "matches_local": true
+    },
+    {
+      "file": "README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/README.md",
+      "http_status": 200,
+      "bytes": 3754,
+      "sha256": "52cb43bc365a0a1079cd84e0fd337e25700b18a6f66281a970353e9d9f3f1be0",
+      "matches_local": true
+    },
+    {
+      "file": "TECHNICAL_VALIDATION.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/TECHNICAL_VALIDATION.md",
+      "http_status": 200,
+      "bytes": 2571,
+      "sha256": "5dba59d020c44c1b7ceb5e7544bf2cb29490be7f97d12ee2ca839054998117eb",
+      "matches_local": true
+    },
+    {
+      "file": "ARTISTIC_QUALITY_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/ARTISTIC_QUALITY_REPORT.md",
+      "http_status": 200,
+      "bytes": 3089,
+      "sha256": "44a02ae436e82de7afaa456ccf069fa0c83200907fecec13485a8e84d0950a1d",
+      "matches_local": true
+    },
+    {
+      "file": "DELIVERABLES.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/DELIVERABLES.md",
+      "http_status": 200,
+      "bytes": 2239,
+      "sha256": "3077b71bf36aebf41ac856ff6f41f7a4065c6ea417a603aba7d7527dc5ac2dfe",
+      "matches_local": true
+    },
+    {
+      "file": "assets/audio/NARRATOR.flac",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/assets/audio/NARRATOR.flac",
+      "http_status": 200,
+      "bytes": 1322184,
+      "sha256": "9020a08df36750f40607a5f343dcf06e3851844f45a5bafe4fe7d5c070f751e8",
+      "matches_local": true
+    },
+    {
+      "file": "assets/audio/CALLER.flac",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/assets/audio/CALLER.flac",
+      "http_status": 200,
+      "bytes": 205457,
+      "sha256": "d655064c1ba833f514bbc9747995d6e0c46e86f4cd91eddd2509c60e02ed7030",
+      "matches_local": true
+    },
+    {
+      "file": "assets/audio/MIX_MASTER.flac",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/assets/audio/MIX_MASTER.flac",
+      "http_status": 200,
+      "bytes": 9377256,
+      "sha256": "0c08f63d85edbfdce3234da0593426bfac3ca268734c8a24102812f81adeae53",
+      "matches_local": true
+    },
+    {
+      "file": "engine/animation/house17.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/work/full-film-master-production/engine/animation/house17.py",
+      "http_status": 200,
+      "bytes": 8112,
+      "sha256": "5409a694df4fda14e35996fe1dc93ed5c2b24e4d674acf833ff7c886500478f2",
+      "matches_local": true
+    }
+  ]
+}

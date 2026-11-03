@@ -1,3 +1,5 @@
 # Master rebuild changes
 
 Created an isolated full-film-master-production area and protected prior files by hash. Preserved V10 crime source; extended the global physical vehicle clock; added reusable full-body/stair gait, shared door/key/hardware states, a projected upstairs street aperture, curtain grip/folds and held phone. Generated new narrator/caller performances locally. Added event-driven sound, source-level checks, scene caching and actual HyperFrames graphics. Structural defects found during previews are recorded in reports and the final artistic report. Earlier renders remain in renders/previews. No previous production version is overwritten.
+
+Exported the full 86-second HyperFrames master and a separate smaller review encoding. Both passed full decode and normal-speed browser playback. Published movie, source, assets, audio and review reports on work; verified public downloads against local SHA-256 hashes and preservation of all previous repository objects. Editable scene entry points now feed the renderer, with evaluated content included in cache keys. Stop at user review; voice performance and professional artistic quality remain unapproved.
