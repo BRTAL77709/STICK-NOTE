@@ -1,0 +1,90 @@
+{
+  "candidates": [
+    {
+      "voice": "am_michael",
+      "speed": 0.94,
+      "phrase_pause": 0.4,
+      "total_duration": 8.768,
+      "script": "I hit the gas. But the headlights followed. Every turn. Every street. They were still behind me.",
+      "phrases": [
+        {
+          "text": "I hit the gas.",
+          "duration": 1.3653333333333333,
+          "timing_records": 0,
+          "peak": 0.6718470454216003
+        },
+        {
+          "text": "But the headlights followed.",
+          "duration": 1.6213333333333333,
+          "timing_records": 0,
+          "peak": 0.5715657472610474
+        },
+        {
+          "text": "Every turn.",
+          "duration": 1.216,
+          "timing_records": 0,
+          "peak": 0.6122449636459351
+        },
+        {
+          "text": "Every street.",
+          "duration": 1.2373333333333334,
+          "timing_records": 0,
+          "peak": 0.8459507822990417
+        },
+        {
+          "text": "They were still behind me.",
+          "duration": 1.728,
+          "timing_records": 0,
+          "peak": 0.432993084192276
+        }
+      ]
+    },
+    {
+      "voice": "bm_george",
+      "speed": 0.91,
+      "phrase_pause": 0.56,
+      "total_duration": 9.728,
+      "script": "I hit the gas. But the headlights followed. Every turn. Every street. They were still behind me.",
+      "phrases": [
+        {
+          "text": "I hit the gas.",
+          "duration": 1.3866666666666667,
+          "timing_records": 0,
+          "peak": 0.42714887857437134
+        },
+        {
+          "text": "But the headlights followed.",
+          "duration": 1.8133333333333332,
+          "timing_records": 0,
+          "peak": 0.5082322955131531
+        },
+        {
+          "text": "Every turn.",
+          "duration": 1.2373333333333334,
+          "timing_records": 0,
+          "peak": 0.48902571201324463
+        },
+        {
+          "text": "Every street.",
+          "duration": 1.1733333333333333,
+          "timing_records": 0,
+          "peak": 0.46559274196624756
+        },
+        {
+          "text": "They were still behind me.",
+          "duration": 1.8773333333333333,
+          "timing_records": 0,
+          "peak": 0.4709349572658539
+        }
+      ]
+    }
+  ],
+  "selected": "am_michael",
+  "selection_basis": "New warmer US stock-neural performance, clearer mid-register contrast to rejected lowOnyx. George supplies a slower British alternative. Neither is an identifiable-person clone. No paidAPI.",
+  "audio_status": "Creative listening/voice approval pending; no professional-quality certification from metadata.",
+  "model_outputs": [
+    "audio"
+  ],
+  "timing_method": "Actual independently synthesized full-sentence clip boundaries; phoneme timings only if model exposes them; no guessed word timestamps.",
+  "no_v2_audio_reused": true
+}

@@ -1,0 +1,22 @@
+{
+  "duration": 15,
+  "assertions": [
+    {
+      "kind": "appearsBy",
+      "selector": "#hf-clock-panel",
+      "bySec": 0.35
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#hf-dial-panel"
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#hf-speed-panel"
+    },
+    {
+      "kind": "staysInFrame",
+      "selector": "#hf-gap-panel"
+    }
+  ]
+}

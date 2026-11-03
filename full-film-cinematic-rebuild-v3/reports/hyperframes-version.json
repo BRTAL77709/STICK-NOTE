@@ -1,0 +1,21 @@
+{
+  "package": "hyperframes",
+  "version": "0.8.226",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heygen-com/hyperframes",
+    "directory": "packages/cli"
+  },
+  "license": "Apache-2.0",
+  "cli_sha256": "e65ed25c36426b6e9ade59c4d20d92c5a78bd2a9f459ab3bfb461cdd2a1ef56f",
+  "gsap": "3.15.0 from installed package vendor",
+  "installation": "Already present; no installation/download orGitHubclone attempted",
+  "usage_status": {
+    "status": "unknown",
+    "reason": "no_subscription_login"
+  },
+  "execution": "LocalofficialCLI,screenshotcapture/softwareCPU; no paidcloud service",
+  "scene_layer": "PythonSVG/librsvg only; does not bakeHUD/captions",
+  "graphics_and_final_composition": "ActualHyperFramesCLI withHTMLsubcompositions,pausedregisteredGSAPtimelines and hf-seek",
+  "fallback": "None forHyperFrames graphics/composition; engine ran successfully"
+}

@@ -1,0 +1,7 @@
+- ReadV3brief; inspected actualHyperFramespackage0.8.226, bundledskills/docs/registry andverifiedCLIversion. Existing installationusable; noinstall/download/ZIP request. Paidusageunknown/no_subscription_login; localCLIrender works.
+- Generated newexact-scriptMichael/Georgeauditions, fiveactualsentenceclips, candidateMichaelmix; V2Onyxnotreused. Voicecreativeapprovalpending; audioinputunsupported, so nohuman-listening/professionalclaim.
+- Updatedscene-layer timing, movingPOV andtwo-carcorner. Removedbakedgraphics/captioncalls. Exported451vehicleframes to actualHyperFramescounter/clock/needle/bar handlers.
+- Builtroot/sub-compositionHTMLandnine-reusablecomponentJS using documentedpausedGSAPtimeline/__timelines/hf-seek. Generated/rendered6sHyperFramesdemo with actualCLI.
+- Resolved initialmissing-audiodirectory,mixfile andmultiple-rootlint problems. Correctedclockoverflow/typefloor andvisuallywrappedpursuitlabel. FinalmainHyperFramescheck allsectionszeroerrors/warnings; snapshotsinspected. Preservedinitialcomposite/demo/logs.
+- OfficialHyperFramesCLIrendered exactnamed15sV3MP4; finalencodedplayback/metadata/content/mixreview and publicationverification follow. No86sfilm.
+- OfficialfinalHyperFramesrendercompleted15.000s/450frames; actual6s/180frameHUDdemocompleted. Full decode/encodedcontact/sourcecheckscompleted. Initialbrowserstressplay12dropsretained; isolated3spreloadrepeat0drops/0corrupt. FinalAAC−16.10LUFS/−1.91dBTP. Newvoice remainscandidatependinglisteningapproval. Packaging/repositoryverificationnext; no86sfilm.

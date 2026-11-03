@@ -1,0 +1,27 @@
+{
+  "source_poses_evaluated": 450,
+  "vehicle_dataset_frames": 451,
+  "hf_dataset_vs_python_state_max_error": 0,
+  "maximum_position_velocity_error_mps": [
+    1.409228573834298e-06,
+    2.7269117958361733e-05
+  ],
+  "wheel_radius_m": 0.32,
+  "actual_speed_samples_kmh": {
+    "0": 18.0,
+    "2": 28.0,
+    "3.2": 28.0,
+    "4": 30.295949521677176,
+    "6.5": 56.67685222878078,
+    "10": 88.0,
+    "12": 88.0,
+    "15": 56.0
+  },
+  "corner_heading_change_degrees": -36.19212105639748,
+  "independent_tire_odometer": true,
+  "caption_phrases": 5,
+  "caption_timing_method": "Actual synthesized full-sentence boundaries. Model returned no phoneme timings; no invented word timestamps.",
+  "hyperframes_components": "DocumentedpausedGSAPtimelines/__timelines and hf-seek, actualCLI rendered",
+  "no_full_film": true,
+  "note": "Source/state checks complement realHyperFrames render, encoded frames, playback and pending creative audio review."
+}

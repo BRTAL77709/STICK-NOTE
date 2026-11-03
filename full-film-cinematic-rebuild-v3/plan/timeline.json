@@ -1,0 +1,58 @@
+[
+  {
+    "start": 0,
+    "end": 2,
+    "label": "Departure",
+    "first_frame": 0,
+    "end_frame": 60
+  },
+  {
+    "start": 2,
+    "end": 3.2,
+    "label": "Driver danger",
+    "first_frame": 60,
+    "end_frame": 96
+  },
+  {
+    "start": 3.2,
+    "end": 4,
+    "label": "Pedal",
+    "first_frame": 96,
+    "end_frame": 120
+  },
+  {
+    "start": 4,
+    "end": 6.5,
+    "label": "Acceleration POV",
+    "first_frame": 120,
+    "end_frame": 195
+  },
+  {
+    "start": 6.5,
+    "end": 10,
+    "label": "Street acceleration",
+    "first_frame": 195,
+    "end_frame": 300
+  },
+  {
+    "start": 10,
+    "end": 12.5,
+    "label": "Mirror threat",
+    "first_frame": 300,
+    "end_frame": 375
+  },
+  {
+    "start": 12.5,
+    "end": 13.266666666666667,
+    "label": "Steering anticipation",
+    "first_frame": 375,
+    "end_frame": 398
+  },
+  {
+    "start": 13.266666666666667,
+    "end": 15,
+    "label": "Corner escape",
+    "first_frame": 398,
+    "end_frame": 450
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "outputDir": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v3/hyperframes/.hyperframes/artifacts/snapshots/621c1377-4dd2-46f8-a559-8f864294a911",
+  "frames": [
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v3/hyperframes/.hyperframes/artifacts/snapshots/621c1377-4dd2-46f8-a559-8f864294a911/frame-00-at-10.8s.png",
+      "time": 10.8
+    },
+    {
+      "path": "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v3/hyperframes/.hyperframes/artifacts/snapshots/621c1377-4dd2-46f8-a559-8f864294a911/frame-01-at-14.75s.png",
+      "time": 14.75
+    }
+  ],
+  "contactSheets": [
+    "/workspace/STICK-NOTE/full-film-cinematic-rebuild-v3/hyperframes/.hyperframes/artifacts/snapshots/621c1377-4dd2-46f8-a559-8f864294a911/contact-sheet.jpg"
+  ],
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}
