@@ -1,0 +1,52 @@
+[
+  {
+    "in": 0,
+    "out": 2.4,
+    "title": "Ash Avenue tracking"
+  },
+  {
+    "in": 2.4,
+    "out": 4.2,
+    "title": "Witness reaction"
+  },
+  {
+    "in": 4.2,
+    "out": 5.1,
+    "title": "Pedal contact"
+  },
+  {
+    "in": 5.1,
+    "out": 6.5,
+    "title": "Instrument acceleration"
+  },
+  {
+    "in": 6.5,
+    "out": 7.4,
+    "title": "Driver under acceleration"
+  },
+  {
+    "in": 7.4,
+    "out": 9.6,
+    "title": "Low pursuit / Mercer bend"
+  },
+  {
+    "in": 9.6,
+    "out": 11.3,
+    "title": "Instrument under load"
+  },
+  {
+    "in": 11.3,
+    "out": 12.3,
+    "title": "Over shoulder"
+  },
+  {
+    "in": 12.3,
+    "out": 13.4,
+    "title": "Instrument culmination"
+  },
+  {
+    "in": 13.4,
+    "out": 15.0,
+    "title": "Mirror / driver"
+  }
+]

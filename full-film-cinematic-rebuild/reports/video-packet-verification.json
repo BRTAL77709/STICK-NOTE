@@ -1,0 +1,6 @@
+{
+  "video_stream_packet_hash": "SHA256=c844b9eb7cdcdc3608ad2fdaa34518f27659c496b467229d55521e7cdb79df72",
+  "v2_and_delivery_identical_h264_packets": true,
+  "delivery_gain_db": -0.3,
+  "audio_source": "original48kHz PCM master, fresh single AAC encode"
+}

@@ -1,0 +1,73 @@
+{
+  "source_poses_checked": 450,
+  "duration_s": 15,
+  "fps": 30,
+  "speed_range_kmh": [
+    20.0,
+    100.0
+  ],
+  "speedometer_relation": "exact same speed_kmh value as metric motion state",
+  "maximum_world_speed_error_mps": 0.0004615150761253517,
+  "maximum_pursuer_world_speed_error_mps": 0.0003180225710188722,
+  "maximum_acceleration_mps2": 3.875968992248062,
+  "wheel_radius_m": 0.32,
+  "wheel_roll_relation": "distance/radius, separate pursuer odometer includes closing gap",
+  "minimum_tire_y_m": 0.0,
+  "driver_hand_contact": "two-link IK endpoints attached to rotating rim; all source poses evaluated",
+  "caption_phrases": 4,
+  "caption_overlaps": 0,
+  "door_prototype_order": "unlock and key withdrawal before opening",
+  "shots": [
+    {
+      "in": 0,
+      "out": 2.4,
+      "title": "Ash Avenue tracking"
+    },
+    {
+      "in": 2.4,
+      "out": 4.2,
+      "title": "Witness reaction"
+    },
+    {
+      "in": 4.2,
+      "out": 5.1,
+      "title": "Pedal contact"
+    },
+    {
+      "in": 5.1,
+      "out": 6.5,
+      "title": "Instrument acceleration"
+    },
+    {
+      "in": 6.5,
+      "out": 7.4,
+      "title": "Driver under acceleration"
+    },
+    {
+      "in": 7.4,
+      "out": 9.6,
+      "title": "Low pursuit / Mercer bend"
+    },
+    {
+      "in": 9.6,
+      "out": 11.3,
+      "title": "Instrument under load"
+    },
+    {
+      "in": 11.3,
+      "out": 12.3,
+      "title": "Over shoulder"
+    },
+    {
+      "in": 12.3,
+      "out": 13.4,
+      "title": "Instrument culmination"
+    },
+    {
+      "in": 13.4,
+      "out": 15.0,
+      "title": "Mirror / driver"
+    }
+  ],
+  "note": "Mathematical/model checks only; encoded appearance/audio and artistic review are separate."
+}

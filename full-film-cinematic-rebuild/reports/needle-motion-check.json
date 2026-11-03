@@ -1,0 +1,15 @@
+{
+  "dashboard_frames_checked": 93,
+  "unique_decoded_crops": 93,
+  "selected_frames": [
+    [
+      153,
+      194
+    ],
+    [
+      288,
+      338
+    ]
+  ],
+  "note": "All consecutive selected encoded cluster crops differ; corroborates visible changing needle/digits. Whole-frame freeze heuristic can flag a largely static panel despite its moving instruments."
+}

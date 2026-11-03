@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0.3,
+    "end": 1.465,
+    "text": "He saw me.",
+    "asset": "assets/audio/phrase_0.wav"
+  },
+  {
+    "start": 3.0,
+    "end": 4.285,
+    "text": "I hit the gas.",
+    "asset": "assets/audio/phrase_1.wav"
+  },
+  {
+    "start": 8.1,
+    "end": 9.955,
+    "text": "The headlights followed.",
+    "asset": "assets/audio/phrase_2.wav"
+  },
+  {
+    "start": 12.9,
+    "end": 14.105,
+    "text": "Every turn.",
+    "asset": "assets/audio/phrase_3.wav"
+  }
+]

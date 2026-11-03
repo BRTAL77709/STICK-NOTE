@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/workspace/STICK-NOTE/full-film-v1/src/illustration_engine.py",
+    "sha256": "ca59e73908bf1cb5cb4b373144c0ff00f68528e262898249a7d621cb3d7c2a2c",
+    "use": "read-only baseline"
+  },
+  {
+    "path": "/workspace/STICK-NOTE/full-film-v1/src/film_components.py",
+    "sha256": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "use": "read-only baseline"
+  },
+  {
+    "path": "/workspace/STICK-NOTE/motion-test-v10/PROGRESS.md",
+    "sha256": "3afc4f1ce4d7b8358f8920317103f8e681d266e85adc209dabd822d6f9b8c5d6",
+    "use": "read-only baseline"
+  }
+]

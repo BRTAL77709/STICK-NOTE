@@ -1,0 +1,15 @@
+{
+  "Python": "3.12.14",
+  "FFmpeg": "7.1.5",
+  "NumPy": "2.3.5",
+  "Pillow": "12.3.0",
+  "Playwright": "1.62.0",
+  "libraries": {
+    "rsvg-2": "librsvg-2.so.2",
+    "cairo": "libcairo.so.2",
+    "gobject-2.0": "libgobject-2.0.so.0"
+  },
+  "Chromium": true,
+  "paid_services": false,
+  "new_downloads": false
+}

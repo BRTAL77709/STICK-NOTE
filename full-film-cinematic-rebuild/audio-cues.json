@@ -1,0 +1,61 @@
+[
+  {
+    "time": 2.161209572957903,
+    "frame": 65,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 12
+  },
+  {
+    "time": 6.134530621009802,
+    "frame": 184,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 36
+  },
+  {
+    "time": 8.181133841939225,
+    "frame": 245,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 60
+  },
+  {
+    "time": 9.518065859161045,
+    "frame": 286,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 84
+  },
+  {
+    "time": 10.597051278208937,
+    "frame": 318,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 108
+  },
+  {
+    "time": 11.55051938149804,
+    "frame": 347,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 132
+  },
+  {
+    "time": 12.43956743796333,
+    "frame": 373,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 156
+  },
+  {
+    "time": 13.305816583664573,
+    "frame": 399,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 180
+  },
+  {
+    "time": 14.170255859619083,
+    "frame": 425,
+    "event": "wet lamp/pole pass",
+    "route_z_m": 204
+  },
+  {
+    "time": 4.2,
+    "frame": 126,
+    "event": "accelerator press starts; shared throttle/engine load"
+  }
+]

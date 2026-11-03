@@ -1,0 +1,28 @@
+{
+  "house": {
+    "facade_width_m": 8,
+    "floor_to_floor_m": 3,
+    "door_facade_x_m": -1.1,
+    "window_facade_x_m": 1.4,
+    "window_sill_m": 3.8,
+    "curb_to_facade_m": 6
+  },
+  "door": {
+    "hinge": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "width": 1.0,
+    "height": 2.1,
+    "lock": [
+      0.84,
+      1.1
+    ],
+    "handle": [
+      0.84,
+      0.95
+    ],
+    "insertion_m": 0.035
+  }
+}
