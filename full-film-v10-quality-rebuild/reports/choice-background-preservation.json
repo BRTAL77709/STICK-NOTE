@@ -1,0 +1,20 @@
+{
+  "all_180_preview_pixel_frames_match": true,
+  "baseline": {
+    "frames": 180,
+    "size": [
+      360,
+      640
+    ],
+    "pixel_sha256": "77250139ec116f020fdeea1a3160e02c6112aa31bf0758670540fd3cb5582902"
+  },
+  "rebuild": {
+    "frames": 180,
+    "size": [
+      360,
+      640
+    ],
+    "pixel_sha256": "77250139ec116f020fdeea1a3160e02c6112aa31bf0758670540fd3cb5582902"
+  },
+  "design": "Choice-card HTML/GSAP design retained for later official composite checks"
+}

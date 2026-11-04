@@ -1,0 +1,14 @@
+{
+  "driving_samples": 1441,
+  "max_arm_segment_error_px": 2.5579538487363607e-13,
+  "max_normalized_rim_error": 1.2212453270876722e-15,
+  "max_shoulder_hand_distance_px": 271.7893054184603,
+  "vehicle_travel_scene01_m": 24.444444444444443,
+  "camera_translation_scene01_m": 8.555555555555554,
+  "mirror_gaze_head_lead_s": 0.25,
+  "alley_gaze_head_lead_s": 0.14000000000000057,
+  "approved_v10_source_unchanged": true,
+  "baseline_files_preserved": 292,
+  "baseline_changes": [],
+  "artistic_approval": "not inferred from constraints"
+}

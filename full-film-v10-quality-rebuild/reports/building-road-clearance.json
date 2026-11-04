@@ -1,0 +1,6 @@
+{
+  "old_min_horizontal_distance_from_road_center_m": 0.5436946967473517,
+  "new_min_horizontal_distance_from_road_center_m": 7.516360248789458,
+  "road_halfwidth_world_x_m": 4.5,
+  "note": "Rigid houses now follow local road tangent. This corner-distance check is not an exhaustive polygon intersection proof."
+}

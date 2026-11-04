@@ -1,0 +1,41 @@
+{
+  "ended": true,
+  "rate": 1,
+  "mediaTime": 4,
+  "wallTime": 4.01320000000298,
+  "totalFrames": 120,
+  "droppedFrames": 19,
+  "corruptedFrames": 0,
+  "scene": 12,
+  "stage": "final",
+  "path": "renders/final/scene_12_ad7063dbeca4.mp4",
+  "frames": 120,
+  "size": [
+    1080,
+    1920
+  ],
+  "fingerprint": "ad7063dbeca4",
+  "samples": [
+    0.033333,
+    0.233333,
+    0.433333,
+    0.633333,
+    0.833333,
+    1.033333,
+    1.233333,
+    1.433333,
+    1.633333,
+    1.833333,
+    2.033333,
+    2.233333,
+    2.433333,
+    2.633333,
+    2.9,
+    3.1,
+    3.3,
+    3.5,
+    3.7,
+    3.9
+  ],
+  "visual_approval": "requires inspection; never inferred from playback metrics"
+}

@@ -1,0 +1,186 @@
+{
+  "ok": true,
+  "source_frames": 2580,
+  "HD_replacement_scenes": [
+    {
+      "scene": 1,
+      "path": "renders/final/scene_01_d5f23887a19c.mp4",
+      "sha256": "6095dfa9151224540d4b7a1bfc3751068c241a42371e4017fcf63bc05591c55c",
+      "frames": 120
+    },
+    {
+      "scene": 2,
+      "path": "renders/final/scene_02_68f619556f88.mp4",
+      "sha256": "eed2db163508a3deabdc3d6f5e570701fbb250cd8bf108258155da1c89bc333b",
+      "frames": 120
+    },
+    {
+      "scene": 3,
+      "path": "renders/final/scene_03_c67d19185b19.mp4",
+      "sha256": "244fbfc1c0a65b1ae8f37db92142b6694f08bde2040ce82cdd54836b88fdd0ee",
+      "frames": 120
+    },
+    {
+      "scene": 4,
+      "path": "renders/final/scene_04_3ca0da84eb9d.mp4",
+      "sha256": "9c3a47849e10d5a39f8cfb003c3b2ddc01ebffbdb365a54638a517914b44aaa2",
+      "frames": 180
+    },
+    {
+      "scene": 5,
+      "path": "renders/final/scene_05_2d1b6e7ab453.mp4",
+      "sha256": "89f840cb4def41cc95813ba8325169019077f1a5a471664dd7d6f027e7330c79",
+      "frames": 180
+    },
+    {
+      "scene": 6,
+      "path": "renders/final/scene_06_1a3bd81677b1.mp4",
+      "sha256": "28147bdb3ea7f30027f90abf0749f446a32cf6c1013954c3f71ba7c82efd4b8e",
+      "frames": 120
+    },
+    {
+      "scene": 7,
+      "path": "renders/final/scene_07_0d32db04a366.mp4",
+      "sha256": "680e189bda3c1bbfad0a3cef38862138515bd68b69cc7c88ed0fe41c68deb8a6",
+      "frames": 120
+    },
+    {
+      "scene": 8,
+      "path": "renders/final/scene_08_8dbd793b906d.mp4",
+      "sha256": "f23dc4671115fdc64faec8443f312b4a090831732f2a750f5ec6bd2e5a6108a0",
+      "frames": 150
+    },
+    {
+      "scene": 9,
+      "path": "renders/final/scene_09_1e635fedd188.mp4",
+      "sha256": "c5580a24d7a785e59a8b6dd08b4a50b384a7696e19b89ec1b8c4b8ace8281e66",
+      "frames": 150
+    },
+    {
+      "scene": 10,
+      "path": "renders/final/scene_10_babaa55427ed.mp4",
+      "sha256": "89ad45560decb4960db148b463fcdbb5e06291edf18e148275adeddf6ef7814e",
+      "frames": 150
+    },
+    {
+      "scene": 11,
+      "path": "renders/final/scene_11_1878dff97dc6.mp4",
+      "sha256": "0bb9e63a1f5136b541973ce1d2e43e366b4138804e05f2d1ef645f0568637776",
+      "frames": 120
+    },
+    {
+      "scene": 12,
+      "path": "renders/final/scene_12_ad7063dbeca4.mp4",
+      "sha256": "e3a0b95c893b52936b14a8a76e3c41171f9e98ee2e195f69bf5ee87f5a3e9499",
+      "frames": 120
+    },
+    {
+      "scene": 13,
+      "path": "renders/final/scene_13_83a71fd91371.mp4",
+      "sha256": "09d752184a671133cd9afac6f6a9666f50f35bc5279f0bbe669fdc9c7013aea8",
+      "frames": 120
+    },
+    {
+      "scene": 14,
+      "path": "renders/final/scene_14_7322a0f6692c.mp4",
+      "sha256": "3018395514ebd4016ee422d3b705f8c79a9184397b728c31345e22fdc173a0ae",
+      "frames": 120
+    },
+    {
+      "scene": 15,
+      "path": "renders/final/scene_15_c7b9acfdaa01.mp4",
+      "sha256": "4f566a44e940d19a115b6130037e1e19ddfd12357430c9bf1463e383ef53726e",
+      "frames": 120
+    },
+    {
+      "scene": 16,
+      "path": "renders/final/scene_16_f98574b8ddb9.mp4",
+      "sha256": "bde61b647942cce2150a0a17f10f281439da6aad5eeb2bf35d3773cf5e5b61d8",
+      "frames": 210
+    },
+    {
+      "scene": 17,
+      "path": "renders/final/scene_17_f793851ceee9.mp4",
+      "sha256": "e532e2faab0afbeb8ebd1ae827d5ee9ecceee0f95e76d658e4ed77749bc9b053",
+      "frames": 180
+    },
+    {
+      "scene": 18,
+      "path": "renders/final/scene_18_a22699436431.mp4",
+      "sha256": "2fb2006d6852cb14bdf906eb187c5b69f70d58ee93b48f7c709cc1b6d3bbe0dc",
+      "frames": 180
+    }
+  ],
+  "V10_picture_frames_preserved": 480,
+  "baseline_files_unchanged": 292,
+  "vehicle_samples": 2581,
+  "export_max_error": 0.0,
+  "velocity_position_max_error_mps": 7.628676677029489e-07,
+  "contact_cues": 96,
+  "narration_phrases": 30,
+  "word_alignment": "measured phrase boundaries only",
+  "voice_quality": "retained performances; listening unverified",
+  "artistic_approval": "pending user review",
+  "active_source_sha256": {
+    "engine/api.py": "edb8475652e11360f76fd0c9bb267650583fadd198d59378a8bc1cf61c070cd7",
+    "engine/lighting/streetlights.py": "6c24885262035e8661b62248c8885a229b9b042913b9974b6e5dcd29e86b6907",
+    "engine/environments/house17.py": "5a3be05a7b75e33eeadaf1ee36693f821d7d3428b48014ef2e1d2ea468e6b4eb",
+    "engine/environments/city.py": "de2e172bf0d05b7318319c1f25aa1c8e87453b3eb76aed4c7c1a97c6f9322304",
+    "engine/graphics/design.py": "e88b9a1e1c32c66b06724997c548dfb54456d6d549f765786ae0b62bfb49d085",
+    "engine/audio/voice.py": "3bef555e15aa3a7beae671147adc4ce9d49aaf80f4993fc08688b6572eb3ae93",
+    "engine/audio/mix.py": "4681e33f39b498138672eb1e19ee63aa1388c099942158c8dacc7f527a659856",
+    "engine/audio/mix_rebuild.py": "d5ff8aaad4d00be6fd0f844267c332adb77f906de7a57210e9387c393ef5fde8",
+    "engine/particles/rain.py": "3ce62d983cd780f18acb0309511a8e7d77c2b5a759230fe7bb7202b367a81eff",
+    "engine/composition/scene_builder.py": "9ce8e28b2da2873054231a68eb6c19c780ea1ec4a6b113443a4738f4a54778d1",
+    "engine/composition/scene_sources.py": "d9fd4a4a745aacff7ea146a3d13347f587d8b93774f5006b95861a8ba905e82f",
+    "engine/characters/witness.py": "a48d13ca0796a8704ba94ac2676b9ea246ec1c28fc7439aaecee4de7e8d8eb96",
+    "engine/animation/driving.py": "1696ecf6be51504c764cc82a175e29946346a535edc3c58ff48a0d691232a82d",
+    "engine/animation/house17.py": "5409a694df4fda14e35996fe1dc93ed5c2b24e4d674acf833ff7c886500478f2",
+    "engine/animation/articulated.py": "81d82826143e81875357abff0ec1f330eab6d00d78bf68e383f9015f5d6fc904",
+    "engine/animation/world.py": "8d0edce236a53d5e2dacc46747f62192c53c4ecb05e9f4d3df265c47209a61df",
+    "engine/animation/film_components.py": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "engine/animation/house_actions.py": "63352534d02f24645ccb6b8e66f049d8b197b1364eb3b059c6e9174f23497be7",
+    "engine/animation/actor.py": "2f6b35579eecb329680243bbcefd4b53c19f17911763e17e7d86cf41629eb0fe",
+    "engine/animation/stairs_actions.py": "8ba9086762bb122956fcd275a29f0c241abff74c79029c1ecc31fb11053d5256",
+    "engine/animation/driver_rig.py": "a5af50a7082956bd8d47bafd1b98809a5e1ff83973f01de765954205c461fc3b",
+    "engine/animation/choreography.py": "785fd3b694e3f6355551f06b32d447c74596ebfe8f16f1dca653af1126e45f9f",
+    "engine/animation/room_actions.py": "13a6b2e0581aab5e3fe850d8115a85d82ea1fdb891edc996ce7ea3f6ebf878de",
+    "engine/animation/v10_trunk.py": "995bae2fece7d1c0a7d19eebbb8ff2432be173bce38f3902680aed7965a4d7fa",
+    "engine/animation/vehicle.py": "bad6a76243082703a7968c896e368070f5d8f2ca72d73abeea504122dca3d1cd",
+    "engine/animation/render_base.py": "da060d793856320280e7f2cca395d4e3f91b46c8de931f709b1827c0d490b731",
+    "engine/animation/approved_components.py": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "engine/animation/illustration_engine.py": "ca59e73908bf1cb5cb4b373144c0ff00f68528e262898249a7d621cb3d7c2a2c",
+    "engine/animation/motion_state.py": "6583de2c84f0b8d05314011600aa52e973350e3272d494ba89cbef2dcf91cd78",
+    "engine/animation/house_site.py": "29536387eaf99eb23b91da1f0acfeb1ee991d002c475209a16463de43434c30e",
+    "engine/camera/projection.py": "51fbcffd79206848a881271acb402fc3ae5bb83f03b5c690e838877ff9f26a17",
+    "engine/vehicles/sedan.py": "82f82570ee3d19ab4e883c955770b267c7bcfc00baa0eaa3359eaee72416f86c",
+    "engine/physics/contacts.py": "de70eef2e6044acfc4a6c28cb074e74bafa5d8476b636f4ad56f4ac6c1c16843",
+    "scenes/scene_05/scene.py": "ef69af79c680f62de5316e6d120f30e8c0e487f8c1efc54c01a6ca7631c5495d",
+    "scenes/scene_01/scene.py": "d185e902048f5709b2b1eb80a74a572880b45a29883116dfea0726af51b40845",
+    "scenes/scene_15/scene.py": "f24b380e9fdde7765fbfce400c565cf893a9ea0e3b7f9d84854ed71c12ffb431",
+    "scenes/scene_03/scene.py": "f00b759ad2ae59e7a7a59713a615f496f71f1be4bae9597f230f443fb45e1e7a",
+    "scenes/scene_02/scene.py": "8c91f9e3494aaa461d913255477d364d38a4e019f378a699f79a9c1ca30f31bf",
+    "scenes/scene_06/scene.py": "362b6c995b9ad4ddb9ae853284b4a2b6256247e18777c8ce23edcc943032996f",
+    "scenes/scene_18/scene.py": "a01d9405d28018d20bab58dacf42bc6a846f62168ff6e42ed99edc847218328a",
+    "scenes/scene_04/scene.py": "473f256ba506a2b6a2561f5de4743b74c83f23de414b013abd013e7f1bcd6e92",
+    "scenes/scene_10/scene.py": "0d0702049ae3c137371bbc2f80bd5f886b3b8855e4188ac6ecd0fcd5c28123bb",
+    "scenes/scene_14/scene.py": "cb1f1a1dbf78c6e1ae85078c76d9587109c2e8169a7af9409c7cc72655e9ab15",
+    "scenes/scene_08/scene.py": "97695c3b8f07a414d4ba9ee92c3ee4335861244e742c86f2f27e5f74a5d5a481",
+    "scenes/scene_09/scene.py": "09ad1dd8d1fc837b92254e9543a2950a3f8d355fd453df43c522ed93967474e4",
+    "scenes/scene_11/scene.py": "df1fa9b1de5d33e8d6d02225cf260f955f075367e91f9e3d07a04f216e8866ca",
+    "scenes/scene_13/scene.py": "b707fde7858a28239be6f3478e97f1e6bb86602b1da07787df84266c98d3cddf",
+    "scenes/scene_07/scene.py": "1b2fa6a56f26887c2de23043b1d1618fed71dfed6370490fae44a3b5aee9c860",
+    "scenes/scene_12/scene.py": "673cd6ab1aeb1cf538acb1bb2499776511dabf770e720b15a47fb78bf147acf3",
+    "scenes/scene_16/scene.py": "de1aee51280f01a389f13dcca57c9788f67da0955ac87d8112465742a6c6ec90",
+    "scenes/scene_17/scene.py": "1a41c3bc2c7d70cd97885b3af740788fc2ae1e2add19797200bf152880ada791",
+    "hyperframes/index.html": "61cfc44f38452c434c26eb1a6f7565b0f0d40aa2774dbe03f818518adef1ec52",
+    "hyperframes/compositions/story-graphics.html": "1fcbc208fef499334e684a93163b5d5d72f76f966bc7b5b680a4784dc18ac771",
+    "hyperframes/compositions/captions.html": "1208c41474d7eb8d7fb106228c137008171695a9e56a23861d1cc07d93aa7551",
+    "hyperframes/compositions/hud.html": "80d5a3459a7531012dbc72e50ae6e3cc6140cbfc8f13b3f4234f72eb83cfd2d6",
+    "hyperframes/assets/vehicle-state.js": "add825985ef469262722956267c4d7033d8d84e11effc407092a1e21b95f57ca",
+    "storyboard.json": "598aa8b3cc578e220a95a017b690925e5414d7b9915715c141fb39f93a1d45e1",
+    "narration-timing.json": "620fd3c3cd1899f49213097112646cd98d031b37db2453e06e74e892ecf9c0b3",
+    "CONTACT_SOUND_CUES.json": "d2a1c424a14ebf4646f1b89930e129bff4735630004974fd65d18510cb535a71",
+    "AUDIO_OUTPUT.json": "5decd90e2f71600b8d476a6dde4480aa1ef592355cc7abbbecb7015d97628026"
+  }
+}

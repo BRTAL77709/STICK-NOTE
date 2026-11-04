@@ -1,0 +1,1075 @@
+[SystemMemory] cgroup memory limit detected: 8192 MiB. It governs memory-adaptive render behaviour instead of host RAM.
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+[hyperframes] check: samples 1/309
+[hyperframes] check: samples 2/309
+[hyperframes] check: samples 3/309
+[hyperframes] check: samples 4/309
+[hyperframes] check: samples 5/309
+[hyperframes] check: samples 6/309
+[hyperframes] check: samples 7/309
+[hyperframes] check: samples 8/309
+[hyperframes] check: samples 9/309
+[hyperframes] check: samples 10/309
+[hyperframes] check: samples 11/309
+[hyperframes] check: samples 12/309
+[hyperframes] check: samples 13/309
+[hyperframes] check: samples 14/309
+[hyperframes] check: samples 15/309
+[hyperframes] check: samples 16/309
+[hyperframes] check: samples 17/309
+[hyperframes] check: samples 18/309
+[hyperframes] check: samples 19/309
+[hyperframes] check: samples 20/309
+[hyperframes] check: samples 21/309
+[hyperframes] check: samples 22/309
+[hyperframes] check: samples 23/309
+[hyperframes] check: samples 24/309
+[hyperframes] check: samples 25/309
+[hyperframes] check: samples 26/309
+[hyperframes] check: samples 27/309
+[hyperframes] check: samples 28/309
+[hyperframes] check: samples 29/309
+[hyperframes] check: samples 30/309
+[hyperframes] check: samples 31/309
+[hyperframes] check: samples 32/309
+[hyperframes] check: samples 33/309
+[hyperframes] check: samples 34/309
+[hyperframes] check: samples 35/309
+[hyperframes] check: samples 36/309
+[hyperframes] check: samples 37/309
+[hyperframes] check: samples 38/309
+[hyperframes] check: samples 39/309
+[hyperframes] check: samples 40/309
+[hyperframes] check: samples 41/309
+[hyperframes] check: samples 42/309
+[hyperframes] check: samples 43/309
+[hyperframes] check: samples 44/309
+[hyperframes] check: samples 45/309
+[hyperframes] check: samples 46/309
+[hyperframes] check: samples 47/309
+[hyperframes] check: samples 48/309
+[hyperframes] check: samples 49/309
+[hyperframes] check: samples 50/309
+[hyperframes] check: samples 51/309
+[hyperframes] check: samples 52/309
+[hyperframes] check: samples 53/309
+[hyperframes] check: samples 54/309
+[hyperframes] check: samples 55/309
+[hyperframes] check: samples 56/309
+[hyperframes] check: samples 57/309
+[hyperframes] check: samples 58/309
+[hyperframes] check: samples 59/309
+[hyperframes] check: samples 60/309
+[hyperframes] check: samples 61/309
+[hyperframes] check: samples 62/309
+[hyperframes] check: samples 63/309
+[hyperframes] check: samples 64/309
+[hyperframes] check: samples 65/309
+[hyperframes] check: samples 66/309
+[hyperframes] check: samples 67/309
+[hyperframes] check: samples 68/309
+[hyperframes] check: samples 69/309
+[hyperframes] check: samples 70/309
+[hyperframes] check: samples 71/309
+[hyperframes] check: samples 72/309
+[hyperframes] check: samples 73/309
+[hyperframes] check: samples 74/309
+[hyperframes] check: samples 75/309
+[hyperframes] check: samples 76/309
+[hyperframes] check: samples 77/309
+[hyperframes] check: samples 78/309
+[hyperframes] check: samples 79/309
+[hyperframes] check: samples 80/309
+[hyperframes] check: samples 81/309
+[hyperframes] check: samples 82/309
+[hyperframes] check: samples 83/309
+[hyperframes] check: samples 84/309
+[hyperframes] check: samples 85/309
+[hyperframes] check: samples 86/309
+[hyperframes] check: samples 87/309
+[hyperframes] check: samples 88/309
+[hyperframes] check: samples 89/309
+[hyperframes] check: samples 90/309
+[hyperframes] check: samples 91/309
+[hyperframes] check: samples 92/309
+[hyperframes] check: samples 93/309
+[hyperframes] check: samples 94/309
+[hyperframes] check: samples 95/309
+[hyperframes] check: samples 96/309
+[hyperframes] check: samples 97/309
+[hyperframes] check: samples 98/309
+[hyperframes] check: samples 99/309
+[hyperframes] check: samples 100/309
+[hyperframes] check: samples 101/309
+[hyperframes] check: samples 102/309
+[hyperframes] check: samples 103/309
+[hyperframes] check: samples 104/309
+[hyperframes] check: samples 105/309
+[hyperframes] check: samples 106/309
+[hyperframes] check: samples 107/309
+[hyperframes] check: samples 108/309
+[hyperframes] check: samples 109/309
+[hyperframes] check: samples 110/309
+[hyperframes] check: samples 111/309
+[hyperframes] check: samples 112/309
+[hyperframes] check: samples 113/309
+[hyperframes] check: samples 114/309
+[hyperframes] check: samples 115/309
+[hyperframes] check: samples 116/309
+[hyperframes] check: samples 117/309
+[hyperframes] check: samples 118/309
+[hyperframes] check: samples 119/309
+[hyperframes] check: samples 120/309
+[hyperframes] check: samples 121/309
+[hyperframes] check: samples 122/309
+[hyperframes] check: samples 123/309
+[hyperframes] check: samples 124/309
+[hyperframes] check: samples 125/309
+[hyperframes] check: samples 126/309
+[hyperframes] check: samples 127/309
+[hyperframes] check: samples 128/309
+[hyperframes] check: samples 129/309
+[hyperframes] check: samples 130/309
+[hyperframes] check: samples 131/309
+[hyperframes] check: samples 132/309
+[hyperframes] check: samples 133/309
+[hyperframes] check: samples 134/309
+[hyperframes] check: samples 135/309
+[hyperframes] check: samples 136/309
+[hyperframes] check: samples 137/309
+[hyperframes] check: samples 138/309
+[hyperframes] check: samples 139/309
+[hyperframes] check: samples 140/309
+[hyperframes] check: samples 141/309
+[hyperframes] check: samples 142/309
+[hyperframes] check: samples 143/309
+[hyperframes] check: samples 144/309
+[hyperframes] check: samples 145/309
+[hyperframes] check: samples 146/309
+[hyperframes] check: samples 147/309
+[hyperframes] check: samples 148/309
+[hyperframes] check: samples 149/309
+[hyperframes] check: samples 150/309
+[hyperframes] check: samples 151/309
+[hyperframes] check: samples 152/309
+[hyperframes] check: samples 153/309
+[hyperframes] check: samples 154/309
+[hyperframes] check: samples 155/309
+[hyperframes] check: samples 156/309
+[hyperframes] check: samples 157/309
+[hyperframes] check: samples 158/309
+[hyperframes] check: samples 159/309
+[hyperframes] check: samples 160/309
+[hyperframes] check: samples 161/309
+[hyperframes] check: samples 162/309
+[hyperframes] check: samples 163/309
+[hyperframes] check: samples 164/309
+[hyperframes] check: samples 165/309
+[hyperframes] check: samples 166/309
+[hyperframes] check: samples 167/309
+[hyperframes] check: samples 168/309
+[hyperframes] check: samples 169/309
+[hyperframes] check: samples 170/309
+[hyperframes] check: samples 171/309
+[hyperframes] check: samples 172/309
+[hyperframes] check: samples 173/309
+[hyperframes] check: samples 174/309
+[hyperframes] check: samples 175/309
+[hyperframes] check: samples 176/309
+[hyperframes] check: samples 177/309
+[hyperframes] check: samples 178/309
+[hyperframes] check: samples 179/309
+[hyperframes] check: samples 180/309
+[hyperframes] check: samples 181/309
+[hyperframes] check: samples 182/309
+[hyperframes] check: samples 183/309
+[hyperframes] check: samples 184/309
+[hyperframes] check: samples 185/309
+[hyperframes] check: samples 186/309
+[hyperframes] check: samples 187/309
+[hyperframes] check: samples 188/309
+[hyperframes] check: samples 189/309
+[hyperframes] check: samples 190/309
+[hyperframes] check: samples 191/309
+[hyperframes] check: samples 192/309
+[hyperframes] check: samples 193/309
+[hyperframes] check: samples 194/309
+[hyperframes] check: samples 195/309
+[hyperframes] check: samples 196/309
+[hyperframes] check: samples 197/309
+[hyperframes] check: samples 198/309
+[hyperframes] check: samples 199/309
+[hyperframes] check: samples 200/309
+[hyperframes] check: samples 201/309
+[hyperframes] check: samples 202/309
+[hyperframes] check: samples 203/309
+[hyperframes] check: samples 204/309
+[hyperframes] check: samples 205/309
+[hyperframes] check: samples 206/309
+[hyperframes] check: samples 207/309
+[hyperframes] check: samples 208/309
+[hyperframes] check: samples 209/309
+[hyperframes] check: samples 210/309
+[hyperframes] check: samples 211/309
+[hyperframes] check: samples 212/309
+[hyperframes] check: samples 213/309
+[hyperframes] check: samples 214/309
+[hyperframes] check: samples 215/309
+[hyperframes] check: samples 216/309
+[hyperframes] check: samples 217/309
+[hyperframes] check: samples 218/309
+[hyperframes] check: samples 219/309
+[hyperframes] check: samples 220/309
+[hyperframes] check: samples 221/309
+[hyperframes] check: samples 222/309
+[hyperframes] check: samples 223/309
+[hyperframes] check: samples 224/309
+[hyperframes] check: samples 225/309
+[hyperframes] check: samples 226/309
+[hyperframes] check: samples 227/309
+[hyperframes] check: samples 228/309
+[hyperframes] check: samples 229/309
+[hyperframes] check: samples 230/309
+[hyperframes] check: samples 231/309
+[hyperframes] check: samples 232/309
+[hyperframes] check: samples 233/309
+[hyperframes] check: samples 234/309
+[hyperframes] check: samples 235/309
+[hyperframes] check: samples 236/309
+[hyperframes] check: samples 237/309
+[hyperframes] check: samples 238/309
+[hyperframes] check: samples 239/309
+[hyperframes] check: samples 240/309
+[hyperframes] check: samples 241/309
+[hyperframes] check: samples 242/309
+[hyperframes] check: samples 243/309
+[hyperframes] check: samples 244/309
+[hyperframes] check: samples 245/309
+[hyperframes] check: samples 246/309
+[hyperframes] check: samples 247/309
+[hyperframes] check: samples 248/309
+[hyperframes] check: samples 249/309
+[hyperframes] check: samples 250/309
+[hyperframes] check: samples 251/309
+[hyperframes] check: samples 252/309
+[hyperframes] check: samples 253/309
+[hyperframes] check: samples 254/309
+[hyperframes] check: samples 255/309
+[hyperframes] check: samples 256/309
+[hyperframes] check: samples 257/309
+[hyperframes] check: samples 258/309
+[hyperframes] check: samples 259/309
+[hyperframes] check: samples 260/309
+[hyperframes] check: samples 261/309
+[hyperframes] check: samples 262/309
+[hyperframes] check: samples 263/309
+[hyperframes] check: samples 264/309
+[hyperframes] check: samples 265/309
+[hyperframes] check: samples 266/309
+[hyperframes] check: samples 267/309
+[hyperframes] check: samples 268/309
+[hyperframes] check: samples 269/309
+[hyperframes] check: samples 270/309
+[hyperframes] check: samples 271/309
+[hyperframes] check: samples 272/309
+[hyperframes] check: samples 273/309
+[hyperframes] check: samples 274/309
+[hyperframes] check: samples 275/309
+[hyperframes] check: samples 276/309
+[hyperframes] check: samples 277/309
+[hyperframes] check: samples 278/309
+[hyperframes] check: samples 279/309
+[hyperframes] check: samples 280/309
+[hyperframes] check: samples 281/309
+[hyperframes] check: samples 282/309
+[hyperframes] check: samples 283/309
+[hyperframes] check: samples 284/309
+[hyperframes] check: samples 285/309
+[hyperframes] check: samples 286/309
+[hyperframes] check: samples 287/309
+[hyperframes] check: samples 288/309
+[hyperframes] check: samples 289/309
+[hyperframes] check: samples 290/309
+[hyperframes] check: samples 291/309
+[hyperframes] check: samples 292/309
+[hyperframes] check: samples 293/309
+[hyperframes] check: samples 294/309
+[hyperframes] check: samples 295/309
+[hyperframes] check: samples 296/309
+[hyperframes] check: samples 297/309
+[hyperframes] check: samples 298/309
+[hyperframes] check: samples 299/309
+[hyperframes] check: samples 300/309
+[hyperframes] check: samples 301/309
+[hyperframes] check: samples 302/309
+[hyperframes] check: samples 303/309
+[hyperframes] check: samples 304/309
+[hyperframes] check: samples 305/309
+[hyperframes] check: samples 306/309
+[hyperframes] check: samples 307/309
+[hyperframes] check: samples 308/309
+[hyperframes] check: samples 309/309
+[hyperframes] check: craft 1/599
+[hyperframes] check: craft 2/599
+[hyperframes] check: craft 3/599
+[hyperframes] check: craft 4/599
+[hyperframes] check: craft 5/599
+[hyperframes] check: craft 6/599
+[hyperframes] check: craft 7/599
+[hyperframes] check: craft 8/599
+[hyperframes] check: craft 9/599
+[hyperframes] check: craft 10/599
+[hyperframes] check: craft 11/599
+[hyperframes] check: craft 12/599
+[hyperframes] check: craft 13/599
+[hyperframes] check: craft 14/599
+[hyperframes] check: craft 15/599
+[hyperframes] check: craft 16/599
+[hyperframes] check: craft 17/599
+[hyperframes] check: craft 18/599
+[hyperframes] check: craft 19/599
+[hyperframes] check: craft 20/599
+[hyperframes] check: craft 21/599
+[hyperframes] check: craft 22/599
+[hyperframes] check: craft 23/599
+[hyperframes] check: craft 24/599
+[hyperframes] check: craft 25/599
+[hyperframes] check: craft 26/599
+[hyperframes] check: craft 27/599
+[hyperframes] check: craft 28/599
+[hyperframes] check: craft 29/599
+[hyperframes] check: craft 30/599
+[hyperframes] check: craft 31/599
+[hyperframes] check: craft 32/599
+[hyperframes] check: craft 33/599
+[hyperframes] check: craft 34/599
+[hyperframes] check: craft 35/599
+[hyperframes] check: craft 36/599
+[hyperframes] check: craft 37/599
+[hyperframes] check: craft 38/599
+[hyperframes] check: craft 39/599
+[hyperframes] check: craft 40/599
+[hyperframes] check: craft 41/599
+[hyperframes] check: craft 42/599
+[hyperframes] check: craft 43/599
+[hyperframes] check: craft 44/599
+[hyperframes] check: craft 45/599
+[hyperframes] check: craft 46/599
+[hyperframes] check: craft 47/599
+[hyperframes] check: craft 48/599
+[hyperframes] check: craft 49/599
+[hyperframes] check: craft 50/599
+[hyperframes] check: craft 51/599
+[hyperframes] check: craft 52/599
+[hyperframes] check: craft 53/599
+[hyperframes] check: craft 54/599
+[hyperframes] check: craft 55/599
+[hyperframes] check: craft 56/599
+[hyperframes] check: craft 57/599
+[hyperframes] check: craft 58/599
+[hyperframes] check: craft 59/599
+[hyperframes] check: craft 60/599
+[hyperframes] check: craft 61/599
+[hyperframes] check: craft 62/599
+[hyperframes] check: craft 63/599
+[hyperframes] check: craft 64/599
+[hyperframes] check: craft 65/599
+[hyperframes] check: craft 66/599
+[hyperframes] check: craft 67/599
+[hyperframes] check: craft 68/599
+[hyperframes] check: craft 69/599
+[hyperframes] check: craft 70/599
+[hyperframes] check: craft 71/599
+[hyperframes] check: craft 72/599
+[hyperframes] check: craft 73/599
+[hyperframes] check: craft 74/599
+[hyperframes] check: craft 75/599
+[hyperframes] check: craft 76/599
+[hyperframes] check: craft 77/599
+[hyperframes] check: craft 78/599
+[hyperframes] check: craft 79/599
+[hyperframes] check: craft 80/599
+[hyperframes] check: craft 81/599
+[hyperframes] check: craft 82/599
+[hyperframes] check: craft 83/599
+[hyperframes] check: craft 84/599
+[hyperframes] check: craft 85/599
+[hyperframes] check: craft 86/599
+[hyperframes] check: craft 87/599
+[hyperframes] check: craft 88/599
+[hyperframes] check: craft 89/599
+[hyperframes] check: craft 90/599
+[hyperframes] check: craft 91/599
+[hyperframes] check: craft 92/599
+[hyperframes] check: craft 93/599
+[hyperframes] check: craft 94/599
+[hyperframes] check: craft 95/599
+[hyperframes] check: craft 96/599
+[hyperframes] check: craft 97/599
+[hyperframes] check: craft 98/599
+[hyperframes] check: craft 99/599
+[hyperframes] check: craft 100/599
+[hyperframes] check: craft 101/599
+[hyperframes] check: craft 102/599
+[hyperframes] check: craft 103/599
+[hyperframes] check: craft 104/599
+[hyperframes] check: craft 105/599
+[hyperframes] check: craft 106/599
+[hyperframes] check: craft 107/599
+[hyperframes] check: craft 108/599
+[hyperframes] check: craft 109/599
+[hyperframes] check: craft 110/599
+[hyperframes] check: craft 111/599
+[hyperframes] check: craft 112/599
+[hyperframes] check: craft 113/599
+[hyperframes] check: craft 114/599
+[hyperframes] check: craft 115/599
+[hyperframes] check: craft 116/599
+[hyperframes] check: craft 117/599
+[hyperframes] check: craft 118/599
+[hyperframes] check: craft 119/599
+[hyperframes] check: craft 120/599
+[hyperframes] check: craft 121/599
+[hyperframes] check: craft 122/599
+[hyperframes] check: craft 123/599
+[hyperframes] check: craft 124/599
+[hyperframes] check: craft 125/599
+[hyperframes] check: craft 126/599
+[hyperframes] check: craft 127/599
+[hyperframes] check: craft 128/599
+[hyperframes] check: craft 129/599
+[hyperframes] check: craft 130/599
+[hyperframes] check: craft 131/599
+[hyperframes] check: craft 132/599
+[hyperframes] check: craft 133/599
+[hyperframes] check: craft 134/599
+[hyperframes] check: craft 135/599
+[hyperframes] check: craft 136/599
+[hyperframes] check: craft 137/599
+[hyperframes] check: craft 138/599
+[hyperframes] check: craft 139/599
+[hyperframes] check: craft 140/599
+[hyperframes] check: craft 141/599
+[hyperframes] check: craft 142/599
+[hyperframes] check: craft 143/599
+[hyperframes] check: craft 144/599
+[hyperframes] check: craft 145/599
+[hyperframes] check: craft 146/599
+[hyperframes] check: craft 147/599
+[hyperframes] check: craft 148/599
+[hyperframes] check: craft 149/599
+[hyperframes] check: craft 150/599
+[hyperframes] check: craft 151/599
+[hyperframes] check: craft 152/599
+[hyperframes] check: craft 153/599
+[hyperframes] check: craft 154/599
+[hyperframes] check: craft 155/599
+[hyperframes] check: craft 156/599
+[hyperframes] check: craft 157/599
+[hyperframes] check: craft 158/599
+[hyperframes] check: craft 159/599
+[hyperframes] check: craft 160/599
+[hyperframes] check: craft 161/599
+[hyperframes] check: craft 162/599
+[hyperframes] check: craft 163/599
+[hyperframes] check: craft 164/599
+[hyperframes] check: craft 165/599
+[hyperframes] check: craft 166/599
+[hyperframes] check: craft 167/599
+[hyperframes] check: craft 168/599
+[hyperframes] check: craft 169/599
+[hyperframes] check: craft 170/599
+[hyperframes] check: craft 171/599
+[hyperframes] check: craft 172/599
+[hyperframes] check: craft 173/599
+[hyperframes] check: craft 174/599
+[hyperframes] check: craft 175/599
+[hyperframes] check: craft 176/599
+[hyperframes] check: craft 177/599
+[hyperframes] check: craft 178/599
+[hyperframes] check: craft 179/599
+[hyperframes] check: craft 180/599
+[hyperframes] check: craft 181/599
+[hyperframes] check: craft 182/599
+[hyperframes] check: craft 183/599
+[hyperframes] check: craft 184/599
+[hyperframes] check: craft 185/599
+[hyperframes] check: craft 186/599
+[hyperframes] check: craft 187/599
+[hyperframes] check: craft 188/599
+[hyperframes] check: craft 189/599
+[hyperframes] check: craft 190/599
+[hyperframes] check: craft 191/599
+[hyperframes] check: craft 192/599
+[hyperframes] check: craft 193/599
+[hyperframes] check: craft 194/599
+[hyperframes] check: craft 195/599
+[hyperframes] check: craft 196/599
+[hyperframes] check: craft 197/599
+[hyperframes] check: craft 198/599
+[hyperframes] check: craft 199/599
+[hyperframes] check: craft 200/599
+[hyperframes] check: craft 201/599
+[hyperframes] check: craft 202/599
+[hyperframes] check: craft 203/599
+[hyperframes] check: craft 204/599
+[hyperframes] check: craft 205/599
+[hyperframes] check: craft 206/599
+[hyperframes] check: craft 207/599
+[hyperframes] check: craft 208/599
+[hyperframes] check: craft 209/599
+[hyperframes] check: craft 210/599
+[hyperframes] check: craft 211/599
+[hyperframes] check: craft 212/599
+[hyperframes] check: craft 213/599
+[hyperframes] check: craft 214/599
+[hyperframes] check: craft 215/599
+[hyperframes] check: craft 216/599
+[hyperframes] check: craft 217/599
+[hyperframes] check: craft 218/599
+[hyperframes] check: craft 219/599
+[hyperframes] check: craft 220/599
+[hyperframes] check: craft 221/599
+[hyperframes] check: craft 222/599
+[hyperframes] check: craft 223/599
+[hyperframes] check: craft 224/599
+[hyperframes] check: craft 225/599
+[hyperframes] check: craft 226/599
+[hyperframes] check: craft 227/599
+[hyperframes] check: craft 228/599
+[hyperframes] check: craft 229/599
+[hyperframes] check: craft 230/599
+[hyperframes] check: craft 231/599
+[hyperframes] check: craft 232/599
+[hyperframes] check: craft 233/599
+[hyperframes] check: craft 234/599
+[hyperframes] check: craft 235/599
+[hyperframes] check: craft 236/599
+[hyperframes] check: craft 237/599
+[hyperframes] check: craft 238/599
+[hyperframes] check: craft 239/599
+[hyperframes] check: craft 240/599
+[hyperframes] check: craft 241/599
+[hyperframes] check: craft 242/599
+[hyperframes] check: craft 243/599
+[hyperframes] check: craft 244/599
+[hyperframes] check: craft 245/599
+[hyperframes] check: craft 246/599
+[hyperframes] check: craft 247/599
+[hyperframes] check: craft 248/599
+[hyperframes] check: craft 249/599
+[hyperframes] check: craft 250/599
+[hyperframes] check: craft 251/599
+[hyperframes] check: craft 252/599
+[hyperframes] check: craft 253/599
+[hyperframes] check: craft 254/599
+[hyperframes] check: craft 255/599
+[hyperframes] check: craft 256/599
+[hyperframes] check: craft 257/599
+[hyperframes] check: craft 258/599
+[hyperframes] check: craft 259/599
+[hyperframes] check: craft 260/599
+[hyperframes] check: craft 261/599
+[hyperframes] check: craft 262/599
+[hyperframes] check: craft 263/599
+[hyperframes] check: craft 264/599
+[hyperframes] check: craft 265/599
+[hyperframes] check: craft 266/599
+[hyperframes] check: craft 267/599
+[hyperframes] check: craft 268/599
+[hyperframes] check: craft 269/599
+[hyperframes] check: craft 270/599
+[hyperframes] check: craft 271/599
+[hyperframes] check: craft 272/599
+[hyperframes] check: craft 273/599
+[hyperframes] check: craft 274/599
+[hyperframes] check: craft 275/599
+[hyperframes] check: craft 276/599
+[hyperframes] check: craft 277/599
+[hyperframes] check: craft 278/599
+[hyperframes] check: craft 279/599
+[hyperframes] check: craft 280/599
+[hyperframes] check: craft 281/599
+[hyperframes] check: craft 282/599
+[hyperframes] check: craft 283/599
+[hyperframes] check: craft 284/599
+[hyperframes] check: craft 285/599
+[hyperframes] check: craft 286/599
+[hyperframes] check: craft 287/599
+[hyperframes] check: craft 288/599
+[hyperframes] check: craft 289/599
+[hyperframes] check: craft 290/599
+[hyperframes] check: craft 291/599
+[hyperframes] check: craft 292/599
+[hyperframes] check: craft 293/599
+[hyperframes] check: craft 294/599
+[hyperframes] check: craft 295/599
+[hyperframes] check: craft 296/599
+[hyperframes] check: craft 297/599
+[hyperframes] check: craft 298/599
+[hyperframes] check: craft 299/599
+[hyperframes] check: craft 300/599
+[hyperframes] check: craft 301/599
+[hyperframes] check: craft 302/599
+[hyperframes] check: craft 303/599
+[hyperframes] check: craft 304/599
+[hyperframes] check: craft 305/599
+[hyperframes] check: craft 306/599
+[hyperframes] check: craft 307/599
+[hyperframes] check: craft 308/599
+[hyperframes] check: craft 309/599
+[hyperframes] check: craft 310/599
+[hyperframes] check: craft 311/599
+[hyperframes] check: craft 312/599
+[hyperframes] check: craft 313/599
+[hyperframes] check: craft 314/599
+[hyperframes] check: craft 315/599
+[hyperframes] check: craft 316/599
+[hyperframes] check: craft 317/599
+[hyperframes] check: craft 318/599
+[hyperframes] check: craft 319/599
+[hyperframes] check: craft 320/599
+[hyperframes] check: craft 321/599
+[hyperframes] check: craft 322/599
+[hyperframes] check: craft 323/599
+[hyperframes] check: craft 324/599
+[hyperframes] check: craft 325/599
+[hyperframes] check: craft 326/599
+[hyperframes] check: craft 327/599
+[hyperframes] check: craft 328/599
+[hyperframes] check: craft 329/599
+[hyperframes] check: craft 330/599
+[hyperframes] check: craft 331/599
+[hyperframes] check: craft 332/599
+[hyperframes] check: craft 333/599
+[hyperframes] check: craft 334/599
+[hyperframes] check: craft 335/599
+[hyperframes] check: craft 336/599
+[hyperframes] check: craft 337/599
+[hyperframes] check: craft 338/599
+[hyperframes] check: craft 339/599
+[hyperframes] check: craft 340/599
+[hyperframes] check: craft 341/599
+[hyperframes] check: craft 342/599
+[hyperframes] check: craft 343/599
+[hyperframes] check: craft 344/599
+[hyperframes] check: craft 345/599
+[hyperframes] check: craft 346/599
+[hyperframes] check: craft 347/599
+[hyperframes] check: craft 348/599
+[hyperframes] check: craft 349/599
+[hyperframes] check: craft 350/599
+[hyperframes] check: craft 351/599
+[hyperframes] check: craft 352/599
+[hyperframes] check: craft 353/599
+[hyperframes] check: craft 354/599
+[hyperframes] check: craft 355/599
+[hyperframes] check: craft 356/599
+[hyperframes] check: craft 357/599
+[hyperframes] check: craft 358/599
+[hyperframes] check: craft 359/599
+[hyperframes] check: craft 360/599
+[hyperframes] check: craft 361/599
+[hyperframes] check: craft 362/599
+[hyperframes] check: craft 363/599
+[hyperframes] check: craft 364/599
+[hyperframes] check: craft 365/599
+[hyperframes] check: craft 366/599
+[hyperframes] check: craft 367/599
+[hyperframes] check: craft 368/599
+[hyperframes] check: craft 369/599
+[hyperframes] check: craft 370/599
+[hyperframes] check: craft 371/599
+[hyperframes] check: craft 372/599
+[hyperframes] check: craft 373/599
+[hyperframes] check: craft 374/599
+[hyperframes] check: craft 375/599
+[hyperframes] check: craft 376/599
+[hyperframes] check: craft 377/599
+[hyperframes] check: craft 378/599
+[hyperframes] check: craft 379/599
+[hyperframes] check: craft 380/599
+[hyperframes] check: craft 381/599
+[hyperframes] check: craft 382/599
+[hyperframes] check: craft 383/599
+[hyperframes] check: craft 384/599
+[hyperframes] check: craft 385/599
+[hyperframes] check: craft 386/599
+[hyperframes] check: craft 387/599
+[hyperframes] check: craft 388/599
+[hyperframes] check: craft 389/599
+[hyperframes] check: craft 390/599
+[hyperframes] check: craft 391/599
+[hyperframes] check: craft 392/599
+[hyperframes] check: craft 393/599
+[hyperframes] check: craft 394/599
+[hyperframes] check: craft 395/599
+[hyperframes] check: craft 396/599
+[hyperframes] check: craft 397/599
+[hyperframes] check: craft 398/599
+[hyperframes] check: craft 399/599
+[hyperframes] check: craft 400/599
+[hyperframes] check: craft 401/599
+[hyperframes] check: craft 402/599
+[hyperframes] check: craft 403/599
+[hyperframes] check: craft 404/599
+[hyperframes] check: craft 405/599
+[hyperframes] check: craft 406/599
+[hyperframes] check: craft 407/599
+[hyperframes] check: craft 408/599
+[hyperframes] check: craft 409/599
+[hyperframes] check: craft 410/599
+[hyperframes] check: craft 411/599
+[hyperframes] check: craft 412/599
+[hyperframes] check: craft 413/599
+[hyperframes] check: craft 414/599
+[hyperframes] check: craft 415/599
+[hyperframes] check: craft 416/599
+[hyperframes] check: craft 417/599
+[hyperframes] check: craft 418/599
+[hyperframes] check: craft 419/599
+[hyperframes] check: craft 420/599
+[hyperframes] check: craft 421/599
+[hyperframes] check: craft 422/599
+[hyperframes] check: craft 423/599
+[hyperframes] check: craft 424/599
+[hyperframes] check: craft 425/599
+[hyperframes] check: craft 426/599
+[hyperframes] check: craft 427/599
+[hyperframes] check: craft 428/599
+[hyperframes] check: craft 429/599
+[hyperframes] check: craft 430/599
+[hyperframes] check: craft 431/599
+[hyperframes] check: craft 432/599
+[hyperframes] check: craft 433/599
+[hyperframes] check: craft 434/599
+[hyperframes] check: craft 435/599
+[hyperframes] check: craft 436/599
+[hyperframes] check: craft 437/599
+[hyperframes] check: craft 438/599
+[hyperframes] check: craft 439/599
+[hyperframes] check: craft 440/599
+[hyperframes] check: craft 441/599
+[hyperframes] check: craft 442/599
+[hyperframes] check: craft 443/599
+[hyperframes] check: craft 444/599
+[hyperframes] check: craft 445/599
+[hyperframes] check: craft 446/599
+[hyperframes] check: craft 447/599
+[hyperframes] check: craft 448/599
+[hyperframes] check: craft 449/599
+[hyperframes] check: craft 450/599
+[hyperframes] check: craft 451/599
+[hyperframes] check: craft 452/599
+[hyperframes] check: craft 453/599
+[hyperframes] check: craft 454/599
+[hyperframes] check: craft 455/599
+[hyperframes] check: craft 456/599
+[hyperframes] check: craft 457/599
+[hyperframes] check: craft 458/599
+[hyperframes] check: craft 459/599
+[hyperframes] check: craft 460/599
+[hyperframes] check: craft 461/599
+[hyperframes] check: craft 462/599
+[hyperframes] check: craft 463/599
+[hyperframes] check: craft 464/599
+[hyperframes] check: craft 465/599
+[hyperframes] check: craft 466/599
+[hyperframes] check: craft 467/599
+[hyperframes] check: craft 468/599
+[hyperframes] check: craft 469/599
+[hyperframes] check: craft 470/599
+[hyperframes] check: craft 471/599
+[hyperframes] check: craft 472/599
+[hyperframes] check: craft 473/599
+[hyperframes] check: craft 474/599
+[hyperframes] check: craft 475/599
+[hyperframes] check: craft 476/599
+[hyperframes] check: craft 477/599
+[hyperframes] check: craft 478/599
+[hyperframes] check: craft 479/599
+[hyperframes] check: craft 480/599
+[hyperframes] check: craft 481/599
+[hyperframes] check: craft 482/599
+[hyperframes] check: craft 483/599
+[hyperframes] check: craft 484/599
+[hyperframes] check: craft 485/599
+[hyperframes] check: craft 486/599
+[hyperframes] check: craft 487/599
+[hyperframes] check: craft 488/599
+[hyperframes] check: craft 489/599
+[hyperframes] check: craft 490/599
+[hyperframes] check: craft 491/599
+[hyperframes] check: craft 492/599
+[hyperframes] check: craft 493/599
+[hyperframes] check: craft 494/599
+[hyperframes] check: craft 495/599
+[hyperframes] check: craft 496/599
+[hyperframes] check: craft 497/599
+[hyperframes] check: craft 498/599
+[hyperframes] check: craft 499/599
+[hyperframes] check: craft 500/599
+[hyperframes] check: craft 501/599
+[hyperframes] check: craft 502/599
+[hyperframes] check: craft 503/599
+[hyperframes] check: craft 504/599
+[hyperframes] check: craft 505/599
+[hyperframes] check: craft 506/599
+[hyperframes] check: craft 507/599
+[hyperframes] check: craft 508/599
+[hyperframes] check: craft 509/599
+[hyperframes] check: craft 510/599
+[hyperframes] check: craft 511/599
+[hyperframes] check: craft 512/599
+[hyperframes] check: craft 513/599
+[hyperframes] check: craft 514/599
+[hyperframes] check: craft 515/599
+[hyperframes] check: craft 516/599
+[hyperframes] check: craft 517/599
+[hyperframes] check: craft 518/599
+[hyperframes] check: craft 519/599
+[hyperframes] check: craft 520/599
+[hyperframes] check: craft 521/599
+[hyperframes] check: craft 522/599
+[hyperframes] check: craft 523/599
+[hyperframes] check: craft 524/599
+[hyperframes] check: craft 525/599
+[hyperframes] check: craft 526/599
+[hyperframes] check: craft 527/599
+[hyperframes] check: craft 528/599
+[hyperframes] check: craft 529/599
+[hyperframes] check: craft 530/599
+[hyperframes] check: craft 531/599
+[hyperframes] check: craft 532/599
+[hyperframes] check: craft 533/599
+[hyperframes] check: craft 534/599
+[hyperframes] check: craft 535/599
+[hyperframes] check: craft 536/599
+[hyperframes] check: craft 537/599
+[hyperframes] check: craft 538/599
+[hyperframes] check: craft 539/599
+[hyperframes] check: craft 540/599
+[hyperframes] check: craft 541/599
+[hyperframes] check: craft 542/599
+[hyperframes] check: craft 543/599
+[hyperframes] check: craft 544/599
+[hyperframes] check: craft 545/599
+[hyperframes] check: craft 546/599
+[hyperframes] check: craft 547/599
+[hyperframes] check: craft 548/599
+[hyperframes] check: craft 549/599
+[hyperframes] check: craft 550/599
+[hyperframes] check: craft 551/599
+[hyperframes] check: craft 552/599
+[hyperframes] check: craft 553/599
+[hyperframes] check: craft 554/599
+[hyperframes] check: craft 555/599
+[hyperframes] check: craft 556/599
+[hyperframes] check: craft 557/599
+[hyperframes] check: craft 558/599
+[hyperframes] check: craft 559/599
+[hyperframes] check: craft 560/599
+[hyperframes] check: craft 561/599
+[hyperframes] check: craft 562/599
+[hyperframes] check: craft 563/599
+[hyperframes] check: craft 564/599
+[hyperframes] check: craft 565/599
+[hyperframes] check: craft 566/599
+[hyperframes] check: craft 567/599
+[hyperframes] check: craft 568/599
+[hyperframes] check: craft 569/599
+[hyperframes] check: craft 570/599
+[hyperframes] check: craft 571/599
+[hyperframes] check: craft 572/599
+[hyperframes] check: craft 573/599
+[hyperframes] check: craft 574/599
+[hyperframes] check: craft 575/599
+[hyperframes] check: craft 576/599
+[hyperframes] check: craft 577/599
+[hyperframes] check: craft 578/599
+[hyperframes] check: craft 579/599
+[hyperframes] check: craft 580/599
+[hyperframes] check: craft 581/599
+[hyperframes] check: craft 582/599
+[hyperframes] check: craft 583/599
+[hyperframes] check: craft 584/599
+[hyperframes] check: craft 585/599
+[hyperframes] check: craft 586/599
+[hyperframes] check: craft 587/599
+[hyperframes] check: craft 588/599
+[hyperframes] check: craft 589/599
+[hyperframes] check: craft 590/599
+[hyperframes] check: craft 591/599
+[hyperframes] check: craft 592/599
+[hyperframes] check: craft 593/599
+[hyperframes] check: craft 594/599
+[hyperframes] check: craft 595/599
+[hyperframes] check: craft 596/599
+[hyperframes] check: craft 597/599
+[hyperframes] check: craft 598/599
+[hyperframes] check: craft 599/599
+[hyperframes] check: overlap 1/22
+[hyperframes] check: overlap 2/22
+[hyperframes] check: overlap 3/22
+[hyperframes] check: overlap 4/22
+[hyperframes] check: overlap 5/22
+[hyperframes] check: overlap 6/22
+[hyperframes] check: overlap 7/22
+[hyperframes] check: overlap 8/22
+[hyperframes] check: overlap 9/22
+[hyperframes] check: overlap 10/22
+[hyperframes] check: overlap 11/22
+[hyperframes] check: overlap 12/22
+[hyperframes] check: overlap 13/22
+[hyperframes] check: overlap 14/22
+[hyperframes] check: overlap 15/22
+[hyperframes] check: overlap 16/22
+[hyperframes] check: overlap 17/22
+[hyperframes] check: overlap 18/22
+[hyperframes] check: overlap 19/22
+[hyperframes] check: overlap 20/22
+[hyperframes] check: overlap 21/22
+[hyperframes] check: overlap 22/22
+[hyperframes] check: analyze 0/3
+[hyperframes] check: analyze 1/3
+[hyperframes] check: analyze 2/3
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "filesScanned": 4
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 86,
+    "samples": [
+      4.778,
+      14.333,
+      23.889,
+      33.444,
+      43,
+      52.556,
+      62.111,
+      71.667,
+      81.222
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "specPath": "/workspace/STICK-NOTE/full-film-v10-quality-rebuild/hyperframes/index.motion.json",
+    "samples": 300
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      4.778,
+      23.889,
+      43,
+      62.111,
+      81.222
+    ],
+    "checked": 11,
+    "passed": 11
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "text_below_floor",
+        "severity": "warning",
+        "message": "Type floor is 28 px (2.6% of the 1080 px short side, what a phone can read) and \"INCOMING CALL\" renders at 27 px for 0.72 s: set reading text to at least 28 px, or put data-layout-ignore on text that is texture rather than reading; see references/look.md.",
+        "text": "INCOMING CALL",
+        "selector": "div.caller-label",
+        "dataAttributes": {},
+        "sourceFile": "compositions/story-graphics.html",
+        "bbox": {
+          "x": 139.1,
+          "y": 247,
+          "width": 280.61,
+          "height": 31
+        },
+        "time": 63.172,
+        "times": [
+          63.172
+        ],
+        "fontPx": 27,
+        "floorPx": 28,
+        "seconds": 0.718,
+        "elements": [
+          {
+            "selector": "div.caller-label",
+            "text": "INCOMING CALL",
+            "fontPx": 27,
+            "time": 63.172,
+            "seconds": 0.718
+          }
+        ]
+      }
+    ],
+    "enabled": true,
+    "step": 0.14399999999999835,
+    "samples": 599
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "3992f854-a7b3-4e1f-9826-a35b9577cb91",
+    "revision": null,
+    "report": "/workspace/STICK-NOTE/full-film-v10-quality-rebuild/hyperframes/.hyperframes/artifacts/checks/3992f854-a7b3-4e1f-9826-a35b9577cb91.json",
+    "attribution": "unversioned"
+  },
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

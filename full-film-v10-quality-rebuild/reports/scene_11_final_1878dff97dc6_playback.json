@@ -1,0 +1,41 @@
+{
+  "ended": true,
+  "rate": 1,
+  "mediaTime": 4,
+  "wallTime": 4.0065,
+  "totalFrames": 120,
+  "droppedFrames": 12,
+  "corruptedFrames": 0,
+  "scene": 11,
+  "stage": "final",
+  "path": "renders/final/scene_11_1878dff97dc6.mp4",
+  "frames": 120,
+  "size": [
+    1080,
+    1920
+  ],
+  "fingerprint": "1878dff97dc6",
+  "samples": [
+    0.033333,
+    0.266667,
+    0.466667,
+    0.666667,
+    0.866667,
+    1.066667,
+    1.266667,
+    1.466667,
+    1.666667,
+    1.866667,
+    2.066667,
+    2.266667,
+    2.466667,
+    2.666667,
+    2.866667,
+    3.066667,
+    3.266667,
+    3.466667,
+    3.666667,
+    3.866667
+  ],
+  "visual_approval": "requires inspection; never inferred from playback metrics"
+}

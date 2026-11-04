@@ -1,0 +1,6 @@
+{
+  "directory": "assets/audio-rebuild-v2",
+  "mix": "assets/audio-rebuild-v2/MIX_MASTER.flac",
+  "cue_source": "CONTACT_SOUND_CUES.json",
+  "listening_verified": false
+}

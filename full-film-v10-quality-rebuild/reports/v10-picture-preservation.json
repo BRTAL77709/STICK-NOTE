@@ -1,0 +1,13 @@
+{
+  "all_480_svg_frames_match": true,
+  "baseline": {
+    "4": "f6e60de7905308cd7415b021dccc285663e592e9c8d0d76ef672a7be0f93ee14",
+    "5": "b7ec589d4ebea5076aa099c82210d1f3b1f4e97172d9eccf06c5828fe99bc0e5",
+    "6": "f0f7d829a68acbf7ed4d28fe4f5741627aab9454c78aa670b639827f16ed7acd"
+  },
+  "rebuild": {
+    "4": "f6e60de7905308cd7415b021dccc285663e592e9c8d0d76ef672a7be0f93ee14",
+    "5": "b7ec589d4ebea5076aa099c82210d1f3b1f4e97172d9eccf06c5828fe99bc0e5",
+    "6": "f0f7d829a68acbf7ed4d28fe4f5741627aab9454c78aa670b639827f16ed7acd"
+  }
+}

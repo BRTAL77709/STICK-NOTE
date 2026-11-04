@@ -1,0 +1,41 @@
+{
+  "ended": true,
+  "rate": 1,
+  "mediaTime": 4,
+  "wallTime": 4.00239999999851,
+  "totalFrames": 120,
+  "droppedFrames": 0,
+  "corruptedFrames": 0,
+  "scene": 3,
+  "stage": "previews",
+  "path": "renders/previews/scene_03_eb59d5f3a999.mp4",
+  "frames": 120,
+  "size": [
+    360,
+    640
+  ],
+  "fingerprint": "eb59d5f3a999",
+  "samples": [
+    0.033333,
+    0.233333,
+    0.433333,
+    0.633333,
+    0.833333,
+    1.033333,
+    1.233333,
+    1.433333,
+    1.633333,
+    1.833333,
+    2.033333,
+    2.233333,
+    2.433333,
+    2.633333,
+    2.833333,
+    3.066667,
+    3.266667,
+    3.466667,
+    3.666667,
+    3.866667
+  ],
+  "visual_approval": "requires inspection; never inferred from playback metrics"
+}

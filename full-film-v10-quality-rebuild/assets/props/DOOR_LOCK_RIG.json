@@ -1,0 +1,52 @@
+{
+  "source": "engine/animation/house_actions.py",
+  "hinge": [
+    0,
+    0,
+    0
+  ],
+  "handle": [
+    0.84,
+    0.95
+  ],
+  "lock": [
+    0.84,
+    1.12
+  ],
+  "key_depth_m": 0.035,
+  "events": "CONTACT_SOUND_CUES.json",
+  "phases": {
+    "handle_test": [
+      51.22,
+      51.62
+    ],
+    "key_retrieve": [
+      52.12,
+      52.3
+    ],
+    "insert": [
+      52.5,
+      52.72
+    ],
+    "unlock": [
+      52.76,
+      52.99
+    ],
+    "withdraw": [
+      53.12,
+      53.3
+    ],
+    "open": [
+      53.85,
+      54.65
+    ],
+    "close": [
+      55.35,
+      55.95
+    ],
+    "inside_lock": [
+      56.1,
+      56.55
+    ]
+  }
+}

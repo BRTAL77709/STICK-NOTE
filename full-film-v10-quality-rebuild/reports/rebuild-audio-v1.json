@@ -1,0 +1,233 @@
+{
+  "output_directory": "assets/audio-rebuild-v1",
+  "sample_rate": 48000,
+  "duration": 86,
+  "contact_cues": 96,
+  "voice_timing": [
+    {
+      "asset": "assets/audio/scene_01_phrase_0.wav",
+      "actual_start": 0.3676041666666667,
+      "actual_end": 1.6902708333333334,
+      "samples": 63488,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_01_phrase_1.wav",
+      "actual_start": 1.8102708333333333,
+      "actual_end": 3.3889375,
+      "samples": 75776,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_02_phrase_0.wav",
+      "actual_start": 4.800395833333333,
+      "actual_end": 6.3790625,
+      "samples": 75776,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_03_phrase_0.wav",
+      "actual_start": 8.666,
+      "actual_end": 10.692666666666666,
+      "samples": 97280,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_04_phrase_0.wav",
+      "actual_start": 12.948395833333333,
+      "actual_end": 13.8870625,
+      "samples": 45056,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_04_phrase_1.wav",
+      "actual_start": 14.0070625,
+      "actual_end": 16.033729166666667,
+      "samples": 97280,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_05_phrase_0.wav",
+      "actual_start": 18.903604166666668,
+      "actual_end": 20.9089375,
+      "samples": 96256,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_05_phrase_1.wav",
+      "actual_start": 21.0289375,
+      "actual_end": 22.138270833333333,
+      "samples": 53248,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_06_phrase_0.wav",
+      "actual_start": 24.47,
+      "actual_end": 25.707333333333334,
+      "samples": 59392,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_06_phrase_1.wav",
+      "actual_start": 25.827333333333332,
+      "actual_end": 27.15,
+      "samples": 63488,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_07_phrase_0.wav",
+      "actual_start": 28.883604166666668,
+      "actual_end": 30.1849375,
+      "samples": 62464,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_08_phrase_0.wav",
+      "actual_start": 32.94679166666667,
+      "actual_end": 35.03745833333333,
+      "samples": 100352,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_09_phrase_0.wav",
+      "actual_start": 37.558791666666664,
+      "actual_end": 39.393458333333335,
+      "samples": 88064,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_09_phrase_1.wav",
+      "actual_start": 39.51345833333333,
+      "actual_end": 40.942791666666665,
+      "samples": 68608,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_10_phrase_0.wav",
+      "actual_start": 42.66760416666666,
+      "actual_end": 44.054270833333334,
+      "samples": 66560,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_10_phrase_1.wav",
+      "actual_start": 44.17427083333333,
+      "actual_end": 45.6889375,
+      "samples": 72704,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_11_phrase_0.wav",
+      "actual_start": 47.749208333333335,
+      "actual_end": 49.49854166666667,
+      "samples": 83968,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_12_phrase_0.wav",
+      "actual_start": 51.393208333333334,
+      "actual_end": 52.182541666666665,
+      "samples": 37888,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_12_phrase_1.wav",
+      "actual_start": 52.30254166666667,
+      "actual_end": 54.329208333333334,
+      "samples": 97280,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_13_phrase_0.wav",
+      "actual_start": 55.278,
+      "actual_end": 56.89933333333333,
+      "samples": 77824,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_13_phrase_1.wav",
+      "actual_start": 57.019333333333336,
+      "actual_end": 58.598,
+      "samples": 75776,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_14_phrase_0.wav",
+      "actual_start": 59.38039583333333,
+      "actual_end": 60.53239583333333,
+      "samples": 55296,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_14_phrase_1.wav",
+      "actual_start": 61.85,
+      "actual_end": 63.556666666666665,
+      "samples": 81920,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_15_phrase_0.wav",
+      "actual_start": 63.78760416666667,
+      "actual_end": 65.4089375,
+      "samples": 77824,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_16_phrase_0.wav",
+      "actual_start": 67.762,
+      "actual_end": 69.51133333333334,
+      "samples": 83968,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_16_phrase_1.wav",
+      "actual_start": 69.63133333333333,
+      "actual_end": 72.46866666666666,
+      "samples": 136192,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_17_phrase_0.wav",
+      "actual_start": 74.62839583333333,
+      "actual_end": 76.88972916666667,
+      "samples": 108544,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_17_phrase_1.wav",
+      "actual_start": 77.00972916666667,
+      "actual_end": 78.78039583333333,
+      "samples": 84992,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_18_phrase_0.wav",
+      "actual_start": 80.814,
+      "actual_end": 82.88333333333334,
+      "samples": 99328,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    },
+    {
+      "asset": "assets/audio/scene_18_phrase_1.wav",
+      "actual_start": 83.00333333333333,
+      "actual_end": 84.34733333333334,
+      "samples": 64512,
+      "speech_performance": "retained stock Kokoro; listening unverified"
+    }
+  ],
+  "normalization_report": {
+    "input_i": "-18.24",
+    "input_tp": "-5.86",
+    "input_lra": "7.90",
+    "input_thresh": "-30.69",
+    "output_i": "-16.00",
+    "output_tp": "-3.62",
+    "output_lra": "7.90",
+    "output_thresh": "-28.45",
+    "normalization_type": "linear",
+    "target_offset": "-0.00"
+  },
+  "speech": "Existing stock performances retained, phrase placement revised; no new paid generation.",
+  "listening": "UNVERIFIED: no auditory input; signal measurements do not certify professional audio quality.",
+  "buzz": "Same 63.1\u201364.15 envelope and 66 rad/s motion modulation as the supported device."
+}

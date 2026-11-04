@@ -1,0 +1,34 @@
+{
+  "ok": true,
+  "audit_hz": 120,
+  "samples": 3837,
+  "max_segment_length_error_rig_units": 5.684341886080802e-14,
+  "max_consecutive_planted_foot_displacement_m": 2.3268289183799712e-17,
+  "max_projected_sole_error_px": 0.0,
+  "max_full_grip_error_px": 5.684341886080802e-14,
+  "max_ear_anchor_error_rig_units": 0.0,
+  "max_phone_table_support_error_px": 2.2737367544323206e-13,
+  "max_key_length_error_m": 5.551115123125783e-17,
+  "max_world_depth_shoe_width_error_px": 5.684341886080802e-14,
+  "max_fixed_camera_planted_shoe_width_delta_px": 4.263256414560601e-14,
+  "foot_nightstand_collisions": [],
+  "stair_actor_conservative_screen_bounds_px": [
+    64.77534511051326,
+    1059.718152487847,
+    446.645329310621,
+    1676.6606748758632
+  ],
+  "contacts_sampled": {
+    "car-door handoff": 134,
+    "locked handle": 52,
+    "key bow grip": 187,
+    "opening lever": 39,
+    "palm on leaf": 60,
+    "inside closing grip": 73,
+    "thumbturn grip": 66,
+    "rail grip": 251,
+    "curtain grip": 90,
+    "phone grip": 1902
+  },
+  "limits": "Checks rig/contact geometry and foot points, not every painted mesh vertex or subjective weight/acting quality. Foot plans are independent of camera motion."
+}

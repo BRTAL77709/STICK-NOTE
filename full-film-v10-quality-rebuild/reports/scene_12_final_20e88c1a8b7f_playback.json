@@ -1,0 +1,41 @@
+{
+  "ended": true,
+  "rate": 1,
+  "mediaTime": 4,
+  "wallTime": 4.064199999995529,
+  "totalFrames": 120,
+  "droppedFrames": 0,
+  "corruptedFrames": 0,
+  "scene": 12,
+  "stage": "final",
+  "path": "renders/final/scene_12_20e88c1a8b7f.mp4",
+  "frames": 120,
+  "size": [
+    1080,
+    1920
+  ],
+  "fingerprint": "20e88c1a8b7f",
+  "samples": [
+    0,
+    0.2,
+    0.4,
+    0.6,
+    0.8,
+    1,
+    1.2,
+    1.4,
+    1.6,
+    1.8,
+    2,
+    2.2,
+    2.4,
+    2.6,
+    2.8,
+    3,
+    3.2,
+    3.4,
+    3.6,
+    3.8
+  ],
+  "visual_approval": "requires inspection; never inferred from playback metrics"
+}

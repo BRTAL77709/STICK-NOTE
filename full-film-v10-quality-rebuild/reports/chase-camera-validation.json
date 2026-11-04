@@ -1,0 +1,18 @@
+{
+  "pursuit": {
+    "max_camera_road_x_offset_m": 6.853703703703703,
+    "min_vehicle_depth_m": 8.358844804742564,
+    "vehicle_horizontal_bounds_px": [
+      41.5836143898224,
+      966.9253653043829
+    ]
+  },
+  "corner": {
+    "max_camera_road_x_offset_m": 6.200000000000003,
+    "min_vehicle_depth_m": 10.581840216718028,
+    "vehicle_horizontal_bounds_px": [
+      54.678195377949635,
+      814.6120398835806
+    ]
+  }
+}

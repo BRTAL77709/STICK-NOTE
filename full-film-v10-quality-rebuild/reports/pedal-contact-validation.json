@@ -1,0 +1,16 @@
+{
+  "samples": 121,
+  "max_rigid_foot_and_leg_segment_error_px": 1.1368683772161603e-13,
+  "max_pedal_plane_contact_error_px": 7.105427357601002e-14,
+  "heel_fixed": [
+    470.0,
+    1530.0
+  ],
+  "pedal_contact_radius_range": [
+    133.89532401253348,
+    178.6369737639409
+  ],
+  "shoe_rotation_degrees": 11.637092708616086,
+  "shared_driver": "motion_state.throttle",
+  "artistic_approval": "not inferred"
+}

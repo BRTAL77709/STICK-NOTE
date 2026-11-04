@@ -1,0 +1,18 @@
+{
+  "active_plan": "HOUSE17_PLAN.json",
+  "site": "engine/animation/house_site.py",
+  "door": "engine/animation/house_actions.py",
+  "stairs": "engine/animation/stairs_actions.py",
+  "room": "engine/animation/room_actions.py",
+  "upper_floor_m": 2.7,
+  "stair_rise_m": 0.18,
+  "stair_tread_m": 0.25,
+  "stair_count": 15,
+  "facade_side": "left",
+  "window_local_bounds": [
+    -2.2,
+    3.7,
+    -1.05,
+    5.3
+  ]
+}

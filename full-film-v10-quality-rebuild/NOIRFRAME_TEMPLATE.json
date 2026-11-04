@@ -1,0 +1,39 @@
+{
+  "brand": "NOIRFRAME",
+  "film": "THE PRICE OF SILENCE",
+  "canvas": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "duration": 86
+  },
+  "palette": {
+    "navy": "#05111d",
+    "teal": "#173543",
+    "amber": "#f4a14b",
+    "white": "#f5f3ed",
+    "ink": "#030b13"
+  },
+  "timeline": "storyboard.json",
+  "scene_sources": "scenes/scene_XX/scene.py",
+  "state_api": "engine/api.py",
+  "graphics": "hyperframes",
+  "voice_script": "NARRATION_SCRIPT.md",
+  "captions": "narration-timing.json",
+  "sound": "CONTACT_SOUND_CUES.json",
+  "cache_engine": "scripts/render_scenes.py",
+  "review_required": true,
+  "additional_paid_budget": 0,
+  "audio_mix": "AUDIO_OUTPUT.json",
+  "physical_rigs": [
+    "driver_rig",
+    "articulated",
+    "house_site",
+    "house_actions",
+    "stairs_actions",
+    "room_actions"
+  ],
+  "quality_gate": "FINAL_GATE.json",
+  "baseline": "full-film-master-production (preserved)",
+  "artistic_approval": "pending user review"
+}

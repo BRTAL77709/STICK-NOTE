@@ -1,0 +1,20 @@
+[
+  {
+    "scene": 4,
+    "path": "renders/previews/scene_04_db2f4c736f90.mp4",
+    "sha256": "6d1637aca7113aa27c69e94405448828cf67caae81297f60597afa10bc1cd0ce",
+    "copied_existing_baseline_not_regenerated": true
+  },
+  {
+    "scene": 5,
+    "path": "renders/previews/scene_05_96f947e0b949.mp4",
+    "sha256": "34b7b44f0935d4cf4c7337a3980993aeb88c1ed51360d874d8378ebad63d8615",
+    "copied_existing_baseline_not_regenerated": true
+  },
+  {
+    "scene": 6,
+    "path": "renders/previews/scene_06_e5d1b3808479.mp4",
+    "sha256": "76f9acd771db43688bb43e155e25cf6ad0a33e0a328276750ac2034e2200c299",
+    "copied_existing_baseline_not_regenerated": true
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "css_rules": [
+    {
+      "rule": ".choice-title{",
+      "matches_baseline": true
+    },
+    {
+      "rule": ".brand{",
+      "matches_baseline": true
+    },
+    {
+      "rule": ".choice-card{",
+      "matches_baseline": true
+    },
+    {
+      "rule": ".choice-card strong{",
+      "matches_baseline": true
+    },
+    {
+      "rule": ".choice-cta{",
+      "matches_baseline": true
+    }
+  ],
+  "composite_inspected": "reviews/graphics-check/frame-09-at-85s.png",
+  "background_proof": "reports/choice-background-preservation.json"
+}
