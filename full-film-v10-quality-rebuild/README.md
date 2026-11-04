@@ -4,6 +4,8 @@ An 86-second, 18-scene **review candidate**, repaired scene by scene from the ex
 
 The previous master and all earlier versions are preserved. Scenes 04–06 retain all 480 approved V10 picture frames and byte-identical HD inputs. Other scenes receive articulated driving, accelerator, car-exit/run, key/door, stair, curtain, phone and acting repairs. See `ACTION_BREAKDOWN.md` and `SCENE_REPAIR_REGISTER.md` for the actual choreography, limitations and evidence.
 
+**[Download the verified review MP4](https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4)** · [Contact sheet](https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/CONTACT_SHEET_18_SCENES.jpg) · [Download verification](reports/download-verification.json)
+
 ## Review files
 
 - `renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4` — assembled review film (verify delivery status in `DELIVERABLES.md`).

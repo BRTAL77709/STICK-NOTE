@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "repository": "BRTAL77709/STICK-NOTE",
+  "branch": "work",
+  "commit": "aa7a24b70b63c9a5d960129df59e3c3391ba1861",
+  "manifest_files_verified": 450,
+  "all_prior_tree_entries_unchanged": 955,
+  "downloads": [
+    {
+      "path": "renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4",
+      "http_status": 200,
+      "bytes": 14154055,
+      "sha256": "2478d039720b69a28063317d8af8c772763c67c27110a45c5dda594e3b1134c2",
+      "matches_local": true
+    },
+    {
+      "path": "CONTACT_SHEET_18_SCENES.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/CONTACT_SHEET_18_SCENES.jpg",
+      "http_status": 200,
+      "bytes": 321039,
+      "sha256": "d4659ea58ccc934a40d2e8edf6574d247a91628349748285fc7cf19d6b82653f",
+      "matches_local": true
+    },
+    {
+      "path": "CONTACT_SHEET_FULL.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/CONTACT_SHEET_FULL.jpg",
+      "http_status": 200,
+      "bytes": 1351560,
+      "sha256": "f5299fe43b41b0f50e8a65675705cf66828951538ceac5daf7300f79b2d30b18",
+      "matches_local": true
+    },
+    {
+      "path": "ACTION_CONTACT_STRIPS.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/ACTION_CONTACT_STRIPS.jpg",
+      "http_status": 200,
+      "bytes": 1572884,
+      "sha256": "e281abd7ed6ce863380d818b5d5e68ee41f96dcbbca1bd3dc720a7fa0974862c",
+      "matches_local": true
+    },
+    {
+      "path": "engine/animation/house_actions.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/engine/animation/house_actions.py",
+      "http_status": 200,
+      "bytes": 7958,
+      "sha256": "63352534d02f24645ccb6b8e66f049d8b197b1364eb3b059c6e9174f23497be7",
+      "matches_local": true
+    },
+    {
+      "path": "engine/animation/room_actions.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/engine/animation/room_actions.py",
+      "http_status": 200,
+      "bytes": 9302,
+      "sha256": "13a6b2e0581aab5e3fe850d8115a85d82ea1fdb891edc996ce7ea3f6ebf878de",
+      "matches_local": true
+    },
+    {
+      "path": "SCENE_REPAIR_REGISTER.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/SCENE_REPAIR_REGISTER.md",
+      "http_status": 200,
+      "bytes": 8827,
+      "sha256": "594af7e041da2d379e14a6e1770764ff4690a9228b6a352589bbecbf0f0f5177",
+      "matches_local": true
+    },
+    {
+      "path": "reports/source-validation.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/reports/source-validation.json",
+      "http_status": 200,
+      "bytes": 10165,
+      "sha256": "87182464010b90420e708204dacf57cd4e73e4952bfef21894eb746ce8a96135",
+      "matches_local": true
+    },
+    {
+      "path": "reports/REBUILD_playback.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/reports/REBUILD_playback.json",
+      "http_status": 200,
+      "bytes": 800,
+      "sha256": "9163c8da4a561b706b9e641f7363555159ac9ab8a3d7cc8db878a42bc952a566",
+      "matches_local": true
+    },
+    {
+      "path": "assets/audio-rebuild-v2/MIX_MASTER.flac",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/assets/audio-rebuild-v2/MIX_MASTER.flac",
+      "http_status": 200,
+      "bytes": 9324150,
+      "sha256": "5582ffca7f54ad2c026f21468fad9616ab5675e5a686d8ff1c89cc553a871899",
+      "matches_local": true
+    },
+    {
+      "path": "assets/audio/scene_16_phrase_0.wav",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/assets/audio/scene_16_phrase_0.wav",
+      "http_status": 200,
+      "bytes": 84012,
+      "sha256": "7f0efa0cfb24b1894a48fbc4cee91ddd5ee0aef62a08f259fb14cb891d16b06c",
+      "matches_local": true
+    }
+  ],
+  "method": "Actual unauthenticated HTTPS GET and full byte comparison, not a generated link alone."
+}

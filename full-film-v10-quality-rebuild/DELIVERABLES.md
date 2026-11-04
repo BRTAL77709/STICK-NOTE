@@ -1,6 +1,6 @@
 # Review deliverables
 
-The locally validated film is [`THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4`](renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4): 1080×1920, 30 FPS, H.264/AAC, exactly 86 seconds / 2580 frames. Full decode and normal-speed end-to-end playback passed. Current remote verification is recorded in `reports/download-verification.json` after actual upload/download checks; a generated URL alone is not proof.
+The locally validated film is [`THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4`](renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4): 1080×1920, 30 FPS, H.264/AAC, exactly 86 seconds / 2580 frames. Full decode and normal-speed end-to-end playback passed. **Download verified:** [actual MP4](https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aa7a24b70b63c9a5d960129df59e3c3391ba1861/full-film-v10-quality-rebuild/renders/final/THE_PRICE_OF_SILENCE_V10_QUALITY_REBUILD_86s.mp4). Anonymous HTTPS GET returned 200 and all 14,154,055 bytes match the local SHA256. See [download verification](reports/download-verification.json). All 450 initial manifest file objects and all 955 previous repository entries were checked.
 
 - [18-scene contact sheet](CONTACT_SHEET_18_SCENES.jpg)
 - [One-second contact sheet](CONTACT_SHEET_FULL.jpg)

@@ -24,3 +24,7 @@ Final encoded-media, full-playback and download verification reports are added a
 Encoded contact sheets and 0.25-second action strips were inspected. Full normal-speed playback evidence is recorded separately in `reports/REBUILD_playback.json`; do not infer listening approval from this playback.
 
 Full actual MP4 playback completed at rate 1 and media time 86 s: 2580 total frames, one dropped presentation frame, zero corrupted frames; wall time 86.895 s. See `reports/REBUILD_playback.json` and `renders/previews/REBUILD_PRESENTED.jpg`. The presentation drop is recorded rather than described as zero; the encoded full decode has no errors.
+
+## Remote verification
+
+Delivery commit `aa7a24b70b63c9a5d960129df59e3c3391ba1861` on `work`: all 450 initial manifest file objects verified against GitHub tree SHAs; all 955 prior repository entries retain their SHA/mode. Eleven actual anonymous HTTP GET downloads, including the complete MP4, contact sheets, source, playback/source reports, mix and a voice sample, return 200 and match complete local bytes. See `reports/download-verification.json`. The linked media uses an immutable commit URL; the verification-record commit changes only documentation/manifest/report files.

@@ -68,9 +68,9 @@
     },
     {
       "name": "CHECKPOINT.md",
-      "bytes": 1978,
-      "git_sha": "951625ab6ac5b92f83b24e48a5328754a57d5743",
-      "sha256": "dffe0cb927cafef0a171f2945b2fa40b522137de66b9e5b4bf3a72b1bead4cde",
+      "bytes": 1030,
+      "git_sha": "680ff38b1cf276e0e40bcd5d362a4c19da3d89e9",
+      "sha256": "91afae7695b940cca644e966d24fbeda25c2d131044d74299f02c6a50aedcb88",
       "binary": false
     },
     {
@@ -96,9 +96,9 @@
     },
     {
       "name": "DELIVERABLES.md",
-      "bytes": 1437,
-      "git_sha": "4ed4c9c102aae4356a72569e8fee230cd8dee2c2",
-      "sha256": "5b71835410e57f0490004d469811353fc5ab02ebaa3fb8ebc105eb796965498e",
+      "bytes": 1751,
+      "git_sha": "8106e8238c2606ecfc60b681de5c6e43b0a720b1",
+      "sha256": "d6ed6790dad5b55fdf715ea5c9126691475bf326604887b3eb9ac7da80f0455c",
       "binary": false
     },
     {
@@ -158,10 +158,17 @@
       "binary": false
     },
     {
+      "name": "PROGRESS.md",
+      "bytes": 998,
+      "git_sha": "b8a95b399b86f872d93979b54982d85a5b7c8bf3",
+      "sha256": "a28a836aefce266802128714c69def293384629d84d19b9149285846c42a386d",
+      "binary": false
+    },
+    {
       "name": "README.md",
-      "bytes": 3769,
-      "git_sha": "dd97a831d6b1adfa962ece761dac8a72db0af08e",
-      "sha256": "c4eb803054c73575de1f1a005021022564f3109b6d3c8a140552fa9691f3c731",
+      "bytes": 4238,
+      "git_sha": "d150a4e8f629fb75a6b570eeca9291946a5bd245",
+      "sha256": "008c206a9eaf3fbfd9edb00212627b5d8eab9cb3b343202703044ca093fd0962",
       "binary": false
     },
     {
@@ -201,9 +208,9 @@
     },
     {
       "name": "TECHNICAL_VALIDATION.md",
-      "bytes": 3582,
-      "git_sha": "c6656a52dde2fc39c71dd147fce3ae6e37e8bf6c",
-      "sha256": "0eda7fdc92f513a5ea75c6c7af5e2dda99f424169d41b38853a0063cfb665823",
+      "bytes": 4164,
+      "git_sha": "cc95a9d96ba937dbd72d1c37fbf4dadb0b6dd867",
+      "sha256": "6003627bd3a9dcceadd2df233dd13858c666051baeac6d345cbfa9cde930814f",
       "binary": false
     },
     {
@@ -1366,6 +1373,13 @@
       "bytes": 539,
       "git_sha": "b70c291dabacdeba534f915d5b18a76872362622",
       "sha256": "b63ce09d2e360a23b4c131f385d0f64087a25d41134b25d6f81df79cbe0a2347",
+      "binary": false
+    },
+    {
+      "name": "reports/download-verification.json",
+      "bytes": 4737,
+      "git_sha": "ffab1fa4b2c6c49a60fbf05e1db0d47e68e9eee0",
+      "sha256": "860d456b08043b476fb7316ae45c2df422c6a9482bd1c7df4e86d8ab3bf7dd15",
       "binary": false
     },
     {
@@ -3154,5 +3168,7 @@
       "binary": false
     }
   ],
-  "exclusions": "Preserved local drafts/intermediate render caches, duplicate WAV stems, old mix v1, installed packages/models, original reference footage, internal baseline study files. Prior repository tree remains untouched."
+  "exclusions": "Preserved local drafts/intermediate render caches, duplicate WAV stems, old mix v1, installed packages/models, original reference footage, internal baseline study files. Prior repository tree remains untouched.",
+  "media_delivery_commit": "aa7a24b70b63c9a5d960129df59e3c3391ba1861",
+  "verification": "reports/download-verification.json"
 }
