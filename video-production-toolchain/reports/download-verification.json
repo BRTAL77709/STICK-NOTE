@@ -1,0 +1,149 @@
+{
+  "commit": "8f3697dfe073aca21887d3d9aa14a4c5a642c6cf",
+  "verified": [
+    {
+      "path": "renders/NOIRFRAME_TOOLCHAIN_INTEGRATION_DEMO.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/renders/NOIRFRAME_TOOLCHAIN_INTEGRATION_DEMO.mp4",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 2169524,
+      "sha256": "2baf882e7e4aa0aafcc301c843bbcad665fb084467db5d0448c1408c8feaaeb1",
+      "matches_local": true
+    },
+    {
+      "path": "renders/remotion-scene.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/renders/remotion-scene.mp4",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 3748788,
+      "sha256": "4c5e9d2892f0d1f7f303a35825dee7811600468aaf178852d552e20a3bc26b1b",
+      "matches_local": true
+    },
+    {
+      "path": "renders/hyperframes-hud.mov",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/renders/hyperframes-hud.mov",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 16718044,
+      "sha256": "1194618783cca41fc07c5dd12822f77bc6221a3200f3622ebef0e57300720393",
+      "matches_local": true
+    },
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/README.md",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 4360,
+      "sha256": "153105dd1e7277e2a56658045c93d10a5872631984de0958332f0217fab1f518",
+      "matches_local": true
+    },
+    {
+      "path": "TOOL_INSTALLATION_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/TOOL_INSTALLATION_REPORT.md",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 4290,
+      "sha256": "f065465887cb7cb7e2dc396a66fda7195c5dbb18985fb9054bf8e103e5ca7483",
+      "matches_local": true
+    },
+    {
+      "path": "TECHNICAL_VALIDATION.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/TECHNICAL_VALIDATION.md",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 2816,
+      "sha256": "f014d5153a2de944bb13b6648cf6d0fbe7d7728a896f71a40ef9fe0e1c52a012",
+      "matches_local": true
+    },
+    {
+      "path": "CONTACT_SHEET.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/CONTACT_SHEET.jpg",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 158200,
+      "sha256": "892085663a8bd2cbea96de158da4a891bb844e8dc58cb1c4549411bbf1fe6dba",
+      "matches_local": true
+    },
+    {
+      "path": "reports/whisper-model.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/reports/whisper-model.json",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 327,
+      "sha256": "f64a007018096c32f9313ab9ad1a5a0d0f39a18cd36a313ac160e3dd989afea6",
+      "matches_local": true
+    },
+    {
+      "path": "reports/whisper-transcription.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/reports/whisper-transcription.json",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 393,
+      "sha256": "c58416c6741216f96b14ac1112d0bf955ac09eb28334f43ef72581ef9c1649cc",
+      "matches_local": true
+    },
+    {
+      "path": "reports/demo-validation.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/reports/demo-validation.json",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 6179,
+      "sha256": "aa5da76ec94b75bbbf2f633c8bf4ebfdcfe7924411145ee56b5007f124dbc6ee",
+      "matches_local": true
+    },
+    {
+      "path": "reports/playback-and-hud-sync.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/reports/playback-and-hud-sync.json",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 1159,
+      "sha256": "dc9dff3ea9f7b9e811de518b6c923e01f7f7f415492844c7973f93701555d6ab",
+      "matches_local": true
+    },
+    {
+      "path": "remotion/src/index.tsx",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/remotion/src/index.tsx",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 1922,
+      "sha256": "c690e789f9888668892c64133f15a3c8e101c18de5f196f66c9b7d28042aef5b",
+      "matches_local": true
+    },
+    {
+      "path": "hyperframes/index.html",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/hyperframes/index.html",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 2843,
+      "sha256": "760314903adf5907b3af11e24fe50c8f1cabeae9cbdf070ab941c12a223d4609",
+      "matches_local": true
+    },
+    {
+      "path": "scripts/pipeline.sh",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/scripts/pipeline.sh",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 1462,
+      "sha256": "daa64dea6c0923c38b8f329ab748bdf8d13f6bb8ca987a38313f4f9e27dd76e4",
+      "matches_local": true
+    },
+    {
+      "path": "scripts/transcribe.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/scripts/transcribe.py",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 2193,
+      "sha256": "8778fb344d22a7f1e1459e41ac2c9699b0fd239cc3001151e43e244474fcecac",
+      "matches_local": true
+    },
+    {
+      "path": "scripts/reference_download.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f3697dfe073aca21887d3d9aa14a4c5a642c6cf/video-production-toolchain/scripts/reference_download.py",
+      "http_status": 200,
+      "anonymous": true,
+      "bytes": 1206,
+      "sha256": "a69d3537f7aa3979d7e0325b64b8134d91331b81c0be0c26d15811c1d690b6db",
+      "matches_local": true
+    }
+  ]
+}

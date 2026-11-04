@@ -14,6 +14,12 @@
       "git_sha": "b0f8040b974eded3df3fe7a5eb4cc8cd076572fd"
     },
     {
+      "path": "DELIVERY_STATUS.md",
+      "bytes": 1254,
+      "sha256": "3bcb178f0d87680f667feb344ccc176da4f5b2338a1f61f6bf9bd4aa8265b6c7",
+      "git_sha": "3155183c8bf96aa893d06aed026dd0902afa9385"
+    },
+    {
       "path": "DIRECTOR_REQUEST.md",
       "bytes": 7906,
       "sha256": "f5db3a913c1469c5553ea4f7f135954fddf4cc3051f57de91000b2a40ec99d8c",
@@ -374,10 +380,22 @@
       "git_sha": "dd69d17cdef9684c7726ef8b349bf1b290267605"
     },
     {
+      "path": "reports/download-verification.json",
+      "bytes": 6608,
+      "sha256": "e6a359a7e5e31eb321f3d8fadf71076ed7b49365938e5f31ae32b1497ec5379a",
+      "git_sha": "23b085cc810876bf73d860b95f33dc93e900e463"
+    },
+    {
       "path": "reports/ffmpeg-assembly-verified.log",
       "bytes": 263,
       "sha256": "6c67fc8594b85b8a05a9daf04b2f38509ff68e4d3c357eb8953643581f974e83",
       "git_sha": "968622b937248a8ee17600647a7785e98725b728"
+    },
+    {
+      "path": "reports/github-publication.json",
+      "bytes": 205,
+      "sha256": "96431f6cac718990ddfdefdb407959b7f10808cbf3300ca961f649bfef986d6e",
+      "git_sha": "3ba82e6fee71ab56e840d310d2ddf89bcf47f8ee"
     },
     {
       "path": "reports/hud-preview-http.txt",
@@ -575,7 +593,8 @@
       "path": "scripts/hf.sh",
       "bytes": 222,
       "sha256": "366e040be2a32948be8fc524854df846371208358a947fae8e55118290f44104",
-      "git_sha": "5c55bd5477d4eec47069ab65df47788f00650947"
+      "git_sha": "5c55bd5477d4eec47069ab65df47788f00650947",
+      "mode": "100755"
     },
     {
       "path": "scripts/inspect_environment.py",
@@ -587,7 +606,8 @@
       "path": "scripts/pipeline.sh",
       "bytes": 1462,
       "sha256": "daa64dea6c0923c38b8f329ab748bdf8d13f6bb8ca987a38313f4f9e27dd76e4",
-      "git_sha": "bf46f94aa20927321dff9b56cdf98fa4e3b866f8"
+      "git_sha": "bf46f94aa20927321dff9b56cdf98fa4e3b866f8",
+      "mode": "100755"
     },
     {
       "path": "scripts/reference_download.py",
