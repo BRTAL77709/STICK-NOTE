@@ -1,0 +1,238 @@
+{
+  "ok": true,
+  "format": {
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+        "profile": "High",
+        "codec_type": "video",
+        "codec_tag_string": "avc1",
+        "codec_tag": "0x31637661",
+        "width": 1080,
+        "height": 1920,
+        "coded_width": 1088,
+        "coded_height": 1920,
+        "closed_captions": 0,
+        "film_grain": 0,
+        "has_b_frames": 2,
+        "sample_aspect_ratio": "1:1",
+        "display_aspect_ratio": "9:16",
+        "pix_fmt": "yuv420p",
+        "level": 40,
+        "color_range": "tv",
+        "color_space": "bt709",
+        "chroma_location": "center",
+        "field_order": "progressive",
+        "refs": 4,
+        "is_avc": "true",
+        "nal_length_size": "4",
+        "id": "0x1",
+        "r_frame_rate": "30/1",
+        "avg_frame_rate": "30/1",
+        "time_base": "1/15360",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 107520,
+        "duration": "7.000000",
+        "bit_rate": "2435481",
+        "bits_per_raw_sample": "8",
+        "nb_frames": "210",
+        "nb_read_frames": "210",
+        "extradata_size": 51,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "VideoHandler",
+          "vendor_id": "[0][0][0][0]",
+          "encoder": "Lavc61.19.101 libx264"
+        },
+        "side_data_list": [
+          {
+            "side_data_type": "ICC Profile"
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "codec_long_name": "AAC (Advanced Audio Coding)",
+        "profile": "LC",
+        "codec_type": "audio",
+        "codec_tag_string": "mp4a",
+        "codec_tag": "0x6134706d",
+        "sample_fmt": "fltp",
+        "sample_rate": "48000",
+        "channels": 2,
+        "channel_layout": "stereo",
+        "bits_per_sample": 0,
+        "initial_padding": 0,
+        "id": "0x2",
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "time_base": "1/48000",
+        "start_pts": 0,
+        "start_time": "0.000000",
+        "duration_ts": 336000,
+        "duration": "7.000000",
+        "bit_rate": "32832",
+        "nb_frames": "330",
+        "nb_read_frames": "329",
+        "extradata_size": 5,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0,
+          "multilayer": 0
+        },
+        "tags": {
+          "language": "und",
+          "handler_name": "SoundHandler",
+          "vendor_id": "[0][0][0][0]"
+        }
+      }
+    ],
+    "format": {
+      "filename": "/workspace/STICK-NOTE/video-production-toolchain/renders/NOIRFRAME_TOOLCHAIN_INTEGRATION_DEMO.mp4",
+      "nb_streams": 2,
+      "nb_programs": 0,
+      "nb_stream_groups": 0,
+      "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+      "format_long_name": "QuickTime / MOV",
+      "start_time": "0.000000",
+      "duration": "7.000000",
+      "size": "2169524",
+      "bit_rate": "2479456",
+      "probe_score": 100,
+      "tags": {
+        "major_brand": "isom",
+        "minor_version": "512",
+        "compatible_brands": "isomiso2avc1mp41",
+        "encoder": "Lavf61.7.103",
+        "comment": "Made with Remotion 4.0.419"
+      }
+    }
+  },
+  "full_decode": "passed, zero errors",
+  "frames": 210,
+  "duration": 7,
+  "minimum_frame_mean": 41.362091692386834,
+  "identical_frame_indices": [],
+  "intentional_source_hold_frame_indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    24,
+    25,
+    26,
+    27
+  ],
+  "unexpected_duplicate_frames": [],
+  "hold_note": "Initial 0.25s planted anticipation is deliberately held in the approved pedal source.",
+  "transparent_overlay": {
+    "codec": "prores",
+    "pix_fmt": "yuva444p12le",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "partial_alpha_present": true
+  },
+  "subject_checks": [
+    {
+      "frame": 10,
+      "time": 0.3333333333333333,
+      "subject_MAE_255": 2.9263302469135803
+    },
+    {
+      "frame": 30,
+      "time": 1.0,
+      "subject_MAE_255": 2.9257901234567902
+    },
+    {
+      "frame": 60,
+      "time": 2.0,
+      "subject_MAE_255": 2.9244084362139917
+    },
+    {
+      "frame": 88,
+      "time": 2.933333333333333,
+      "subject_MAE_255": 2.933570987654321
+    },
+    {
+      "frame": 90,
+      "time": 3.0,
+      "subject_MAE_255": 3.393925925925926
+    },
+    {
+      "frame": 105,
+      "time": 3.5,
+      "subject_MAE_255": 3.3679989711934155
+    },
+    {
+      "frame": 135,
+      "time": 4.5,
+      "subject_MAE_255": 3.375024691358025
+    },
+    {
+      "frame": 165,
+      "time": 5.5,
+      "subject_MAE_255": 3.4750473251028806
+    },
+    {
+      "frame": 195,
+      "time": 6.5,
+      "subject_MAE_255": 3.4565493827160494
+    },
+    {
+      "frame": 209,
+      "time": 6.966666666666667,
+      "subject_MAE_255": 3.428725308641975
+    }
+  ],
+  "audio_zero_lag_correlation": 0.9999209637789205,
+  "subtitle_source": "measured source-script, NOT Whisper; inference blocked",
+  "whisper_inference": false,
+  "yt_dlp_downloads": 0,
+  "previous_files_unchanged": 4544,
+  "video_sha256": "2baf882e7e4aa0aafcc301c843bbcad665fb084467db5d0448c1408c8feaaeb1",
+  "artistic_approval": "not claimed"
+}

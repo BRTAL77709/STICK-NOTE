@@ -1,0 +1,37 @@
+{
+  "ok": true,
+  "full_decode": "passed, zero errors",
+  "frames": 210,
+  "duration": 7,
+  "minimum_frame_mean": 41.362091692386834,
+  "identical_frame_indices": [],
+  "intentional_source_hold_frame_indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    24,
+    25,
+    26,
+    27
+  ],
+  "unexpected_duplicate_frames": [],
+  "hold_note": "Initial 0.25s planted anticipation is deliberately held in the approved pedal source.",
+  "transparent_overlay": {
+    "codec": "prores",
+    "pix_fmt": "yuva444p12le",
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "partial_alpha_present": true
+  },
+  "audio_zero_lag_correlation": 0.9999209637789205,
+  "subtitle_source": "measured source-script, NOT Whisper; inference blocked",
+  "whisper_inference": false,
+  "yt_dlp_downloads": 0,
+  "previous_files_unchanged": 4544,
+  "video_sha256": "2baf882e7e4aa0aafcc301c843bbcad665fb084467db5d0448c1408c8feaaeb1",
+  "artistic_approval": "not claimed"
+}

@@ -1,0 +1,13 @@
+{
+  "frames": 210,
+  "fps": 30,
+  "duration": 7,
+  "SVG_sequence_sha256": "db42f84b5b54e2a0fc6f492bed49b9b063da4e4b30abc536e95ab9bc01c891a1",
+  "pedal_toe_contact_max_error": 1.1368683772161603e-13,
+  "vehicle_distance_m": 18.0,
+  "wheel_rule": "wheel_rad=distance_m/0.32",
+  "speech_start": 0.9333333333333333,
+  "speech_end": 2.2346666666666666,
+  "source": "copied approved physical_proofs.py + articulated/driver/vehicle/world modules",
+  "Remotion_role": "Selects per-frame SVG DOM from evaluated hierarchical rigs; not a held image with transforms."
+}

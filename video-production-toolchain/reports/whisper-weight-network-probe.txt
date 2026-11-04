@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+date: Wed, 04 Nov 2026 23:20:45 GMT
+server: envoy
+
+HTTP/2 302 
+content-type: text/plain; charset=utf-8
+content-length: 1167
+location: https://us.aws.cdn.hf.co/xet-bridge-us/63314d6d49a956391544c94d/84d414c2771c170533abfdb9fa9813f5656b24c1fcff376d9264ab8c151c5913?X-Xet-Cas-Uid=public&user_id=public&response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27pytorch_model.bin%3B+filename%3D%22pytorch_model.bin%22%3B&xip=yvYmdJkFTaQ&response-content-type=application%2Foctet-stream&Expires=1793838046&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjMzMTRkNmQ0OWE5NTYzOTE1NDRjOTRkLzg0ZDQxNGMyNzcxYzE3MDUzM2FiZmRiOWZhOTgxM2Y1NjU2YjI0YzFmY2ZmMzc2ZDkyNjRhYjhjMTUxYzU5MTNcXD9YLVhldC1DYXMtVWlkPXB1YmxpYyZ1c2VyX2lkPXB1YmxpYyZyZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWF0dGFjaG1lbnQlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN3B5dG9yY2hfbW9kZWwuYmluJTNCK2ZpbGVuYW1lJTNEJTIycHl0b3JjaF9tb2RlbC5iaW4lMjIlM0ImeGlwPXl2WW1kSmtGVGFRJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1hcHBsaWNhdGlvbiUyRm9jdGV0LXN0cmVhbSIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiRXBvY2hUaW1lIjoxNzkzODM4MDQ2fX19XX0_&Signature=MEYCIQDMVSRD4zhMhbyQlbzUBB3X56T4NCCMr-2WY6U%7EEnogXgIhAK%7EbldU0pv07fAYV2DZERhxtwj6abClSYzrvgVXLyzik&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256
+date: Wed, 04 Nov 2026 23:20:46 GMT
+x-powered-by: huggingface-moon
+x-request-id: 3653fef4-5cd5-4e8a-bef8-3c5f06c8b896
+ratelimit: "resolvers";r=2999;t=182
+ratelimit-policy: "fixed window";"resolvers";q=3000;w=300
+cross-origin-opener-policy: same-origin
+referrer-policy: strict-origin-when-cross-origin
+access-control-max-age: 86400
+access-control-allow-origin: https://huggingface.co
+vary: Origin, Accept
+access-control-expose-headers: X-Repo-Commit,X-HF-Warning,X-Request-Id,X-Error-Code,X-Error-Message,X-Total-Count,ETag,Link,Accept-Ranges,Content-Range,X-Linked-Size,X-Linked-ETag,X-Xet-Hash,RateLimit,RateLimit-Policy
+x-repo-commit: 87c7102498dcde7456f24cfd30239ca606ed9063
+accept-ranges: bytes
+x-hf-warning: unauthenticated; Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+x-hub-cache: MISS
+x-linked-size: 151093491
+x-linked-etag: "8548de43c352b2c4f327aacbd8291c893d788a7d6ba0a2ec0ef35c09e51dce8a"
+cache-control: no-store
+x-xet-hash: 84d414c2771c170533abfdb9fa9813f5656b24c1fcff376d9264ab8c151c5913
+link: <https://huggingface.co/api/models/openai/whisper-tiny.en/xet-read-token/87c7102498dcde7456f24cfd30239ca606ed9063>; rel="xet-auth", <https://cas-server.xethub.hf.co/v1/reconstructions/84d414c2771c170533abfdb9fa9813f5656b24c1fcff376d9264ab8c151c5913>; rel="xet-reconstruction-info"
+x-cache: Miss from cloudfront
+via: 1.1 6e29cf0d960987f63df46e463db96a44.cloudfront.net (CloudFront)
+x-amz-cf-pop: DFW59-P5
+alt-svc: h3=":443"; ma=86400
+x-amz-cf-id: nhfv8pl4gilKRmtHUbELyYEXb0pLKpGc6t0Nn8dqEFuRiiAP2EQQUQ==
+strict-transport-security: max-age=31536000
+x-envoy-upstream-service-time: 524
+server: envoy
+
+HTTP/1.1 403 Forbidden
+content-length: 16
+content-type: text/plain
+date: Wed, 04 Nov 2026 23:20:46 GMT
+server: envoy
+connection: close
+

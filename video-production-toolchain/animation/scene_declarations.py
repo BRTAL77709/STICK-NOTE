@@ -1,0 +1,1 @@
+DEFS='<defs><linearGradient id="citysky" x2="0" y2="1"><stop stop-color="#05111d"/><stop offset="1" stop-color="#345d6b"/></linearGradient><radialGradient id="lamphalo"><stop stop-color="#ffc476" stop-opacity=".35"/><stop offset="1" stop-color="#ffc476" stop-opacity="0"/></radialGradient></defs>'

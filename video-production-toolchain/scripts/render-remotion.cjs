@@ -1,0 +1,10 @@
+const path=require('path'),fs=require('fs');
+const root=path.resolve(__dirname,'..'),pkg=path.join(root,'remotion/node_modules');
+const {bundle}=require(path.join(pkg,'@remotion/bundler'));
+const {selectComposition,renderMedia}=require(path.join(pkg,'@remotion/renderer'));
+(async()=>{const out=path.join(process.env.NOIRFRAME_RUN_DIR||path.join(root,'renders'),'remotion-scene.mp4');if(fs.existsSync(out))throw Error('Refusing to overwrite '+out);
+const serveUrl=await bundle({entryPoint:path.join(root,'remotion/src/index.tsx'),publicDir:path.join(root,'remotion/public')});
+const options={serveUrl,id:'NOIRFRAME-TOOLCHAIN-DEMO',browserExecutable:'/usr/bin/chromium',chromiumOptions:{enableMultiProcessOnLinux:true,gl:'swangle'}};
+const composition=await selectComposition(options);
+await renderMedia({...options,composition,codec:'h264',outputLocation:out,crf:18,concurrency:1,overwrite:false,onProgress:({progress})=>process.stdout.write(Math.round(progress*100)+'%\n')});
+console.log('REMOTION_RENDER_OK',out);})().catch(e=>{console.error(e);process.exit(1)});

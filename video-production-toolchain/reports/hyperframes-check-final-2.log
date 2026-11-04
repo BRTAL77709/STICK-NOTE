@@ -1,0 +1,190 @@
+[SystemMemory] cgroup memory limit detected: 8192 MiB. It governs memory-adaptive render behaviour instead of host RAM.
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+[hyperframes] check: samples 1/9
+[hyperframes] check: samples 2/9
+[hyperframes] check: samples 3/9
+[hyperframes] check: samples 4/9
+[hyperframes] check: samples 5/9
+[hyperframes] check: samples 6/9
+[hyperframes] check: samples 7/9
+[hyperframes] check: samples 8/9
+[hyperframes] check: samples 9/9
+[hyperframes] check: craft 1/32
+[hyperframes] check: craft 2/32
+[hyperframes] check: craft 3/32
+[hyperframes] check: craft 4/32
+[hyperframes] check: craft 5/32
+[hyperframes] check: craft 6/32
+[hyperframes] check: craft 7/32
+[hyperframes] check: craft 8/32
+[hyperframes] check: craft 9/32
+[hyperframes] check: craft 10/32
+[hyperframes] check: craft 11/32
+[hyperframes] check: craft 12/32
+[hyperframes] check: craft 13/32
+[hyperframes] check: craft 14/32
+[hyperframes] check: craft 15/32
+[hyperframes] check: craft 16/32
+[hyperframes] check: craft 17/32
+[hyperframes] check: craft 18/32
+[hyperframes] check: craft 19/32
+[hyperframes] check: craft 20/32
+[hyperframes] check: craft 21/32
+[hyperframes] check: craft 22/32
+[hyperframes] check: craft 23/32
+[hyperframes] check: craft 24/32
+[hyperframes] check: craft 25/32
+[hyperframes] check: craft 26/32
+[hyperframes] check: craft 27/32
+[hyperframes] check: craft 28/32
+[hyperframes] check: craft 29/32
+[hyperframes] check: craft 30/32
+[hyperframes] check: craft 31/32
+[hyperframes] check: craft 32/32
+[hyperframes] check: overlap 1/4
+[hyperframes] check: overlap 2/4
+[hyperframes] check: overlap 3/4
+[hyperframes] check: overlap 4/4
+[hyperframes] check: analyze 0/3
+[hyperframes] check: analyze 1/3
+[hyperframes] check: analyze 2/3
+{
+  "ok": true,
+  "strict": false,
+  "browserSkipped": false,
+  "lint": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 1,
+    "infoCount": 0,
+    "findings": [
+      {
+        "code": "nested_structure_needs_subcomposition",
+        "severity": "warning",
+        "message": "<div id=\"hud\"> is a timeline element that contains nested <div id=\"panel\">. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.",
+        "selector": "#hud",
+        "dataAttributes": {},
+        "sourceFile": "/workspace/STICK-NOTE/video-production-toolchain/hyperframes/index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0,
+        "fixHint": "Move <div id=\"hud\"> and its contents into a sub-composition file and mount it with data-composition-src."
+      }
+    ],
+    "filesScanned": 1
+  },
+  "runtime": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": []
+  },
+  "layout": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "duration": 4,
+    "samples": [
+      0.222,
+      0.667,
+      1.111,
+      1.556,
+      2,
+      2.444,
+      2.889,
+      3.333,
+      3.778
+    ],
+    "transitionSamples": [],
+    "transitionSamplesDropped": 0,
+    "tolerance": 2,
+    "totalIssueCount": 0,
+    "truncated": false
+  },
+  "motion": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": false,
+    "samples": 0
+  },
+  "contrast": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "samples": [
+      0.222,
+      1.111,
+      2,
+      2.889,
+      3.778
+    ],
+    "checked": 0,
+    "passed": 0
+  },
+  "craft": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 0,
+    "findings": [],
+    "enabled": true,
+    "step": 0.125,
+    "samples": 32
+  },
+  "audio": {
+    "ok": true,
+    "errorCount": 0,
+    "warningCount": 0,
+    "infoCount": 1,
+    "findings": [
+      {
+        "code": "audio_none",
+        "severity": "info",
+        "message": "The film has no sound: no clip in it plays audio.",
+        "selector": "[data-composition-id]",
+        "dataAttributes": {},
+        "sourceFile": "index.html",
+        "bbox": {
+          "x": 0,
+          "y": 0,
+          "width": 0,
+          "height": 0
+        },
+        "time": 0
+      }
+    ]
+  },
+  "hdr": {
+    "autoPromotion": null,
+    "inspection": "available"
+  },
+  "snapshots": {
+    "enabled": false,
+    "files": [],
+    "times": [],
+    "findingFiles": []
+  },
+  "saved": {
+    "id": "1b93b583-9931-4281-917c-26fba09875d9",
+    "revision": "cc8dc22d-b430-4f40-bcab-ca2fddcbb070",
+    "report": "/workspace/STICK-NOTE/video-production-toolchain/hyperframes/.hyperframes/artifacts/checks/1b93b583-9931-4281-917c-26fba09875d9.json",
+    "attribution": "recorded-revision"
+  },
+  "_meta": {
+    "version": "0.8.226",
+    "updateAvailable": false
+  }
+}

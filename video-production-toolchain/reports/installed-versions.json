@@ -1,0 +1,110 @@
+{
+  "OS": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "architecture": "x86_64",
+  "versions": {
+    "node": {
+      "command": [
+        "node",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "v24.19.0"
+    },
+    "npm": {
+      "command": [
+        "npm",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "11.9.0"
+    },
+    "python": {
+      "command": [
+        "/workspace/STICK-NOTE/video-production-toolchain/.venv/bin/python",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "Python 3.12.14"
+    },
+    "ffmpeg": {
+      "command": [
+        "ffmpeg",
+        "-version"
+      ],
+      "exit_code": 0,
+      "output": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers"
+    },
+    "ffprobe": {
+      "command": [
+        "ffprobe",
+        "-version"
+      ],
+      "exit_code": 0,
+      "output": "ffprobe version 7.1.5-0+deb13u1 Copyright (c) 2007-2026 the FFmpeg developers"
+    },
+    "git": {
+      "command": [
+        "git",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "git version 2.52.0"
+    },
+    "chromium": {
+      "command": [
+        "chromium",
+        "--version"
+      ],
+      "exit_code": 0,
+      "output": "Chromium 154.0.8037.57 built on Debian GNU/Linux 13 (trixie)"
+    },
+    "yt-dlp": {
+      "version": "2026.10.26",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "openai-whisper": {
+      "version": "20250625",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "torch": {
+      "version": "2.15.0+cpu",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "numba": {
+      "version": "0.68.1",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "numpy": {
+      "version": "2.5.4",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "tiktoken": {
+      "version": "0.14.0",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "llvmlite": {
+      "version": "0.50.0",
+      "verified_by": "importlib.metadata + successful whisper/yt_dlp import"
+    },
+    "remotion": {
+      "version": "4.0.419",
+      "package_path": "/workspace/stick-note-dev/stickman-horror/external/vanta/node_modules/remotion/package.json"
+    },
+    "@remotion/renderer": {
+      "version": "4.0.419",
+      "package_path": "/workspace/stick-note-dev/stickman-horror/external/vanta/node_modules/@remotion/renderer/package.json"
+    },
+    "react": {
+      "version": "18.3.1",
+      "package_path": "/workspace/stick-note-dev/stickman-horror/external/vanta/node_modules/react/package.json"
+    },
+    "hyperframes": {
+      "version": "0.8.226",
+      "package_path": "/workspace/stick-note-dev/tools/node_modules/hyperframes/package.json"
+    }
+  },
+  "network": "Restricted proxy, package manager/GitHub access observed; official Whisper weights and HF probe returned CONNECT403.",
+  "CPU_only": true,
+  "no_cloud_rendering": true,
+  "cost_incurred": 0
+}

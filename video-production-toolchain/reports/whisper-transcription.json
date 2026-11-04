@@ -1,0 +1,8 @@
+{
+  "engine": "openai-whisper",
+  "inference_executed": false,
+  "audio": "shared/narration.wav",
+  "model": "/workspace/STICK-NOTE/video-production-toolchain/.models/tiny.en.pt",
+  "word_timing": "Whisper estimates are not forced alignment; inspect before publishing.",
+  "blocker": "Missing checkpoint. Official download returned CONNECT tunnel failed HTTP403; no fabricated ASR captions."
+}

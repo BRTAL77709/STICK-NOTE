@@ -1,0 +1,8 @@
+Resolved 6 packages in 4ms
+Installed 6 packages in 25ms
+ + llvmlite==0.50.0
+ + more-itertools==11.2.1
+ + numba==0.68.1
+ + openai-whisper==20250625
+ + tiktoken==0.14.0
+ + yt-dlp==2026.10.26

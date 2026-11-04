@@ -1,0 +1,62 @@
+{
+  "ok": true,
+  "HUD_shared_frame_checks": [
+    {
+      "globalFrame": 90,
+      "speed": 7.2,
+      "distance": 0
+    },
+    {
+      "globalFrame": 91,
+      "speed": 7.2,
+      "distance": 0.06666666666666667
+    },
+    {
+      "globalFrame": 105,
+      "speed": 7.2516357421875,
+      "distance": 1.0004806518554688
+    },
+    {
+      "globalFrame": 120,
+      "speed": 8.861132812500001,
+      "distance": 2.0955810546875
+    },
+    {
+      "globalFrame": 150,
+      "speed": 16.2,
+      "distance": 5.5
+    },
+    {
+      "globalFrame": 180,
+      "speed": 23.5388671875,
+      "distance": 11.0955810546875
+    },
+    {
+      "globalFrame": 209,
+      "speed": 25.2,
+      "distance": 17.766666666666666
+    }
+  ],
+  "playback": [
+    {
+      "ended": true,
+      "rate": 1,
+      "duration": 7,
+      "wallSeconds": 7.37590000000596,
+      "dropped": 5,
+      "corrupted": 0,
+      "total": 210
+    },
+    {
+      "ended": true,
+      "rate": 0.5,
+      "duration": 7,
+      "wallSeconds": 14.42679999999702,
+      "dropped": 0,
+      "corrupted": 0,
+      "total": 210
+    }
+  ],
+  "listening_verified": false,
+  "artistic_approval": "not claimed"
+}

@@ -1,0 +1,684 @@
+{
+  "base_commit": "d73a80417776f49df8758e3301d50567acb19fe5",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 96,
+      "sha256": "129bb0fb94d18266946dea2c1840084bef8dd53bb8cef9cfdf2b6859bd2d16e3",
+      "git_sha": "dc8b607e3b9b362dcfae18b951c1f874f8794269"
+    },
+    {
+      "path": "CONTACT_SHEET.jpg",
+      "bytes": 158200,
+      "sha256": "892085663a8bd2cbea96de158da4a891bb844e8dc58cb1c4549411bbf1fe6dba",
+      "git_sha": "b0f8040b974eded3df3fe7a5eb4cc8cd076572fd"
+    },
+    {
+      "path": "DIRECTOR_REQUEST.md",
+      "bytes": 7906,
+      "sha256": "f5db3a913c1469c5553ea4f7f135954fddf4cc3051f57de91000b2a40ec99d8c",
+      "git_sha": "876c8a218fa9da40f51ccc17008c82385ba23ef4"
+    },
+    {
+      "path": "FUTURE_STORIES.md",
+      "bytes": 2917,
+      "sha256": "8b17d4f1e0ca79ceae74ec86d3f62649db655bb28b8625cd848fc60aa1c4cc7c",
+      "git_sha": "5d4ee7fcc94e1165d4d57882850eb3e2cef11594"
+    },
+    {
+      "path": "LICENSE_REVIEW.md",
+      "bytes": 1555,
+      "sha256": "29acbd55260ef7c2355c5674d2f8865c308e3b19ad5e96d0d6a239bfe18f5504",
+      "git_sha": "7efc96ef83271ad9f20604a00bcb845a0ed4bb8f"
+    },
+    {
+      "path": "PREPARED_INPUTS.json",
+      "bytes": 2970,
+      "sha256": "c1145ba3666305979295f1c05edf5c686e7a95982fad4ac0c0a6c8b501fcb503",
+      "git_sha": "24dab8ec4459d43864328b02c8fabae038b625e4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4360,
+      "sha256": "153105dd1e7277e2a56658045c93d10a5872631984de0958332f0217fab1f518",
+      "git_sha": "474cd1ba5b3dbaef282dacb02ce3c2140133f91e"
+    },
+    {
+      "path": "REFERENCE_STATUS.md",
+      "bytes": 950,
+      "sha256": "a83ac20a2c93d6d27b344c6a26c2987d890c6f5c0425a741e94e4453e5685837",
+      "git_sha": "efc61e1a03e5aee0e173c6309ddb2ecb434a9607"
+    },
+    {
+      "path": "SETUP.md",
+      "bytes": 3498,
+      "sha256": "f5fc07bcaecbdf6ef242bd0c5b1b726cd77a90da79822ed26f5901f682784522",
+      "git_sha": "fa070944dfde0c7e95426fe1f2735b2339964eb6"
+    },
+    {
+      "path": "TECHNICAL_VALIDATION.md",
+      "bytes": 2816,
+      "sha256": "f014d5153a2de944bb13b6648cf6d0fbe7d7728a896f71a40ef9fe0e1c52a012",
+      "git_sha": "4de3b988e639062247c0613525c841dbbbddf265"
+    },
+    {
+      "path": "TOOL_INSTALLATION_REPORT.md",
+      "bytes": 4290,
+      "sha256": "f065465887cb7cb7e2dc396a66fda7195c5dbb18985fb9054bf8e103e5ca7483",
+      "git_sha": "4d7c99b883f46f3a34f0df25012346360906b856"
+    },
+    {
+      "path": "animation/actor.py",
+      "bytes": 3367,
+      "sha256": "2f6b35579eecb329680243bbcefd4b53c19f17911763e17e7d86cf41629eb0fe",
+      "git_sha": "b9545c4a19361c9b75abf2747ee0434a3a915471"
+    },
+    {
+      "path": "animation/approved_components.py",
+      "bytes": 14528,
+      "sha256": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+      "git_sha": "4a1be85d50ddc5ab6fc1752eb0d6e1d8f5eaf296"
+    },
+    {
+      "path": "animation/articulated.py",
+      "bytes": 4076,
+      "sha256": "4f9889d2d10ab72f903553a0d73795a33af2b8742827ddc44994e7880a48abbf",
+      "git_sha": "361fd767d7bff999229d8f51ad2ac25b3a499347"
+    },
+    {
+      "path": "animation/choreography.py",
+      "bytes": 211,
+      "sha256": "785fd3b694e3f6355551f06b32d447c74596ebfe8f16f1dca653af1126e45f9f",
+      "git_sha": "f1ea607932294f5fa966aebe706420baa4c529cf"
+    },
+    {
+      "path": "animation/driver_rig.py",
+      "bytes": 7382,
+      "sha256": "a14e28f4321753bce9506bd32620b163d60bd29338a6c44b554d7418b205a03a",
+      "git_sha": "46ada75a6e8428ab1a1c6b1effeea53181e4bb27"
+    },
+    {
+      "path": "animation/driving.py",
+      "bytes": 2616,
+      "sha256": "1696ecf6be51504c764cc82a175e29946346a535edc3c58ff48a0d691232a82d",
+      "git_sha": "ace12243e73c5d909f2f8c3fcc482d344faf8b52"
+    },
+    {
+      "path": "animation/film_components.py",
+      "bytes": 14528,
+      "sha256": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+      "git_sha": "4a1be85d50ddc5ab6fc1752eb0d6e1d8f5eaf296"
+    },
+    {
+      "path": "animation/film_performance.py",
+      "bytes": 3095,
+      "sha256": "2859bc63c35fb87df20c70564b309227369e09216c55fabc33fb33eadbe21128",
+      "git_sha": "6fdc1d30bfa2af59f5850152455371b5e1105123"
+    },
+    {
+      "path": "animation/house17.py",
+      "bytes": 8112,
+      "sha256": "5409a694df4fda14e35996fe1dc93ed5c2b24e4d674acf833ff7c886500478f2",
+      "git_sha": "77846724abe54aa5a323f08e0c0f48782d4958dd"
+    },
+    {
+      "path": "animation/house_actions.py",
+      "bytes": 7960,
+      "sha256": "e4d968929511a592cb7adbf8bb549e52fe027e3c56b0ae162900becff94e9e55",
+      "git_sha": "06cd93740463c5d18e64ff5bb1e311e539fbef4f"
+    },
+    {
+      "path": "animation/house_site.py",
+      "bytes": 8853,
+      "sha256": "dee85fd4ff1b7264d59aff2eecdb4d76153a2f734cecba0989f6fa169c324a75",
+      "git_sha": "94c03c4b8bbe123e2df2be08e3f0640af3650932"
+    },
+    {
+      "path": "animation/illustration_engine.py",
+      "bytes": 34801,
+      "sha256": "ca59e73908bf1cb5cb4b373144c0ff00f68528e262898249a7d621cb3d7c2a2c",
+      "git_sha": "5b81173e50b79f406c0032640619923b7434a53c"
+    },
+    {
+      "path": "animation/motion_state.py",
+      "bytes": 5699,
+      "sha256": "56bd2618be636b3e927c17aee7dafc288c2dc21f7fa3981291a543f0129eafa1",
+      "git_sha": "2687c6ec43adbc356ecb49048593fca38de2f625"
+    },
+    {
+      "path": "animation/physical_proofs.py",
+      "bytes": 13049,
+      "sha256": "e4dbdf33e67f65768424bb91a88918207fb954c8f2b0b10908cfb96af5618761",
+      "git_sha": "d1be82cf474aa228da8ab24c735f09739e0c63d8"
+    },
+    {
+      "path": "animation/render_base.py",
+      "bytes": 7036,
+      "sha256": "da060d793856320280e7f2cca395d4e3f91b46c8de931f709b1827c0d490b731",
+      "git_sha": "097aeb92cde893c02907a12207a28c3061493331"
+    },
+    {
+      "path": "animation/room_actions.py",
+      "bytes": 9817,
+      "sha256": "948afab1001ffb883cc62faae3eab42275a14fdf9510ebf876edd12f068fab8e",
+      "git_sha": "677d08c84c8f4d5a0d59d94f84fd0510003d8dd3"
+    },
+    {
+      "path": "animation/scene_declarations.py",
+      "bytes": 298,
+      "sha256": "6a19b156e4efa3dd16590333d52b276e2c2bce0282700d8a55119936a7007c0b",
+      "git_sha": "ee415c9e7bdc42f765b6ef634415ea0e7b2296c0"
+    },
+    {
+      "path": "animation/stairs_actions.py",
+      "bytes": 4438,
+      "sha256": "8ba9086762bb122956fcd275a29f0c241abff74c79029c1ecc31fb11053d5256",
+      "git_sha": "25c8084d76d3e4c0ae30e382d7563e1ca430b37f"
+    },
+    {
+      "path": "animation/v10_trunk.py",
+      "bytes": 25724,
+      "sha256": "995bae2fece7d1c0a7d19eebbb8ff2432be173bce38f3902680aed7965a4d7fa",
+      "git_sha": "1d76d816a38c3e760836a6b30bb6f979b76cb5ac"
+    },
+    {
+      "path": "animation/vehicle.py",
+      "bytes": 7191,
+      "sha256": "5183dc17f1b2af50de63346a6a98f51a2830279d548fb8dee152ce05501d4dff",
+      "git_sha": "495b7fb69f867e867aa053834437e24e59874ad9"
+    },
+    {
+      "path": "animation/world.py",
+      "bytes": 9766,
+      "sha256": "441cc67281cff03154c8f9190e5504a885cc39ee72caea51400887e06a1f774f",
+      "git_sha": "e1e075467e55ab4a119f2613bf71992d7dbd1d60"
+    },
+    {
+      "path": "docs/HYPERFRAMES_FORMAT.md",
+      "bytes": 13196,
+      "sha256": "e32bb65f8338e1aa5088292754601745a6a580d7a8c5876197e7b55c914a837c",
+      "git_sha": "b8c767991d0a8b3d99a4d908930c8cedb6d792d0"
+    },
+    {
+      "path": "docs/HYPERFRAMES_OFFICIAL.md",
+      "bytes": 24174,
+      "sha256": "c69daba1495e63274a9fc8992a9659d7fd00ab1e07ac04e7d13fe66dc188bb27",
+      "git_sha": "f84b4d4f64595ad0334c0e6878578c3a60413547"
+    },
+    {
+      "path": "docs/HYPERFRAMES_RENDER.md",
+      "bytes": 34432,
+      "sha256": "197e9f8c1d4c8f972e2250fc088dfc7696ecf31bb2ec7eec782fc0eb7a6a3753",
+      "git_sha": "31d1255cbff257a210dc9deb275f7e8a9ff04af5"
+    },
+    {
+      "path": "docs/WHISPER_OFFICIAL.md",
+      "bytes": 8246,
+      "sha256": "38c180c2a8d8ba628a3e131ad42bf06c8a51bb681efb30fbe28d5a0f4b65f288",
+      "git_sha": "196b48f62d3b6f0b77bac2b7dbc2df5e4cfb070b"
+    },
+    {
+      "path": "docs/YT_DLP_OFFICIAL.md",
+      "bytes": 179127,
+      "sha256": "6adba80a892aee34940550ee8d7085041afca6140b7ac56d6414f1e6eb484bfe",
+      "git_sha": "750fae655ea0d5221bf49901508deb44681f3db0"
+    },
+    {
+      "path": "hyperframes/assets/FilmSans-Bold.ttf",
+      "bytes": 708920,
+      "sha256": "a4c5bc453ca281d90ea079e596da7ae0dfeb5777497c29ec254e76d97ff6f890",
+      "git_sha": "0a7fb3f0407f69c14369e71baeb43e8d0e3a5138"
+    },
+    {
+      "path": "hyperframes/assets/gsap.min.js",
+      "bytes": 72927,
+      "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+      "git_sha": "3c73d761a9a7dbd166549451ba7afd62dc7121d0"
+    },
+    {
+      "path": "hyperframes/assets/shared-state.js",
+      "bytes": 135143,
+      "sha256": "debd93d35b492be8d6c56c45b5930db2b6ba01c465e0d3c00a3e87d2fd6b51f2",
+      "git_sha": "c52a3f861e7475c7ef6e559d0d43ee98a8885273"
+    },
+    {
+      "path": "hyperframes/hyperframes.json",
+      "bytes": 90,
+      "sha256": "bc78ac1c966a8b3abd84d6a71ef50cb2027597b1733653179b58e7824284e03c",
+      "git_sha": "2effccdeb93dc240b6a2be6bb8439130b556fa0b"
+    },
+    {
+      "path": "hyperframes/index.html",
+      "bytes": 2843,
+      "sha256": "760314903adf5907b3af11e24fe50c8f1cabeae9cbdf070ab941c12a223d4609",
+      "git_sha": "36c87f693d159d6f2f580bc94b65d75f9eaa9b5d"
+    },
+    {
+      "path": "licenses/FFMPEG-BUILD-LICENSE.txt",
+      "bytes": 2553,
+      "sha256": "c55d66ca90a465f50a863b905d8bcb864e008957ee268ceffca51fe9310a06fd",
+      "git_sha": "9b86bb0d51cfe28955fde5b86413f2d061be5e87"
+    },
+    {
+      "path": "licenses/FONT-DejaVu.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "git_sha": "b3d93a1235a82213fbc451853317c40e62ed9272"
+    },
+    {
+      "path": "licenses/HYPERFRAMES.txt",
+      "bytes": 10763,
+      "sha256": "4259155fb06f127687ee7b0a8a3682d45132db0f2da26cbc0b7a2d1e796436b8",
+      "git_sha": "ae06b37e1c5116ccfaa615ac25ec1aabf5658d8c"
+    },
+    {
+      "path": "licenses/KOKORO_APACHE_2.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "git_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "licenses/KOKORO_ONNX_MIT.txt",
+      "bytes": 1080,
+      "sha256": "f61fdd0217de9ece8fa699912848d91187d84879fc2e689f0906d0c1299e955e",
+      "git_sha": "4c2fe322532d289906ab4d35d05191444baae401"
+    },
+    {
+      "path": "licenses/REMOTION.md",
+      "bytes": 2823,
+      "sha256": "bd65083b940f61904f6ef298aade918a7cad72a3e35bc406e36fab365844b673",
+      "git_sha": "d655e2df830bbe19285e55607aefff636ed93d7b"
+    },
+    {
+      "path": "licenses/WHISPER.txt",
+      "bytes": 1063,
+      "sha256": "b5d65a59060e68c4ff940e1eddfa6f94b2d68fdf58ed7f4dd57721c997e35e9d",
+      "git_sha": "d25552598bb9c5400612159ed4bab92ce12a5ce5"
+    },
+    {
+      "path": "licenses/YT_DLP.txt",
+      "bytes": 1211,
+      "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+      "git_sha": "68a49daad8ff7e35068f2b7a97d643aab440eaec"
+    },
+    {
+      "path": "remotion/package-lock.json",
+      "bytes": 111575,
+      "sha256": "d404c1386e82e6e312496b222261abcb169d870d027ebf54af9d14e6040b3da2",
+      "git_sha": "fea6934742462ffaf5ae24226cef8cf6b8313cfb"
+    },
+    {
+      "path": "remotion/package.json",
+      "bytes": 451,
+      "sha256": "b8f901f2609691fa42dbcdda1dfaa39203d206ea82cde58cfad51b631d521d9b",
+      "git_sha": "9221c28ee04ed73b3736b601e389b04d4f96a172"
+    },
+    {
+      "path": "remotion/public/FilmSans-Bold.ttf",
+      "bytes": 708920,
+      "sha256": "a4c5bc453ca281d90ea079e596da7ae0dfeb5777497c29ec254e76d97ff6f890",
+      "git_sha": "0a7fb3f0407f69c14369e71baeb43e8d0e3a5138"
+    },
+    {
+      "path": "remotion/public/frames.json.gz",
+      "bytes": 10090322,
+      "sha256": "5edfe008b9c5883b29c325b961f611d436f47212a199e71d94bc112724c8b3fb",
+      "git_sha": "2613802d838a350826ee9739e4da5c0a78772228"
+    },
+    {
+      "path": "remotion/src/index.tsx",
+      "bytes": 1922,
+      "sha256": "c690e789f9888668892c64133f15a3c8e101c18de5f196f66c9b7d28042aef5b",
+      "git_sha": "ac2f120554d4d665c98aa525a6e6d26c90ae5413"
+    },
+    {
+      "path": "renders/NOIRFRAME_TOOLCHAIN_INTEGRATION_DEMO.mp4",
+      "bytes": 2169524,
+      "sha256": "2baf882e7e4aa0aafcc301c843bbcad665fb084467db5d0448c1408c8feaaeb1",
+      "git_sha": "f47c5c4ee8569c40d9bc816329f81745b2e44f27"
+    },
+    {
+      "path": "renders/hyperframes-hud.mov",
+      "bytes": 16718044,
+      "sha256": "1194618783cca41fc07c5dd12822f77bc6221a3200f3622ebef0e57300720393",
+      "git_sha": "d6928281cb26e0a2a2f8e13934f9e31490d05318"
+    },
+    {
+      "path": "renders/remotion-scene.mp4",
+      "bytes": 3748788,
+      "sha256": "4c5e9d2892f0d1f7f303a35825dee7811600468aaf178852d552e20a3bc26b1b",
+      "git_sha": "1af41e0ba0d2ba221a50fa64c00fc3f473b60906"
+    },
+    {
+      "path": "reports/assembly.json",
+      "bytes": 1637,
+      "sha256": "e6e5af378a55d85214b9fbc775a1075d5d01020e301baa8c58ef9b6edcf75b78",
+      "git_sha": "4017e345210c4f9c86e366557942aed05ca908ee"
+    },
+    {
+      "path": "reports/compatibility-status.json",
+      "bytes": 644,
+      "sha256": "5f576446571a84045ff6728bd0160477694ee31cac541802d900e63d17c989b6",
+      "git_sha": "1fcf2f05697d90bccb2b6362e60f25054423f9e7"
+    },
+    {
+      "path": "reports/demo-validation-verified.log",
+      "bytes": 947,
+      "sha256": "ff1f5ea4df3fa744e4935f05ad1c2066c20c262c7e3fd42fe5aa0a8cd8a3402d",
+      "git_sha": "35156f7a29e8d35544f58988a6ec7168d87eb2d6"
+    },
+    {
+      "path": "reports/demo-validation.json",
+      "bytes": 6179,
+      "sha256": "aa5da76ec94b75bbbf2f633c8bf4ebfdcfe7924411145ee56b5007f124dbc6ee",
+      "git_sha": "dd69d17cdef9684c7726ef8b349bf1b290267605"
+    },
+    {
+      "path": "reports/ffmpeg-assembly-verified.log",
+      "bytes": 263,
+      "sha256": "6c67fc8594b85b8a05a9daf04b2f38509ff68e4d3c357eb8953643581f974e83",
+      "git_sha": "968622b937248a8ee17600647a7785e98725b728"
+    },
+    {
+      "path": "reports/hud-preview-http.txt",
+      "bytes": 4,
+      "sha256": "c11e3f4837efde2441e23a7b9da02131f53bf59fddeb7147c4ab81afe400460f",
+      "git_sha": "08839f6bb296e888d311d8ea2f35f7ff82dd3f2d"
+    },
+    {
+      "path": "reports/hyperframes-check-final-2.log",
+      "bytes": 4982,
+      "sha256": "09d17b2b00487f24c255fb989025b30080ca5cea65ae2167c6e73cad74586db1",
+      "git_sha": "8504adc91be40453ca17ed31d576e80080499742"
+    },
+    {
+      "path": "reports/hyperframes-render-final.log",
+      "bytes": 14778,
+      "sha256": "f6b2b5167c97be5401d4acfc8a08e9d29a23f969b557e29b19e9deb9f677019d",
+      "git_sha": "247df20f3528db069b0477f8aef57b2dfde52e15"
+    },
+    {
+      "path": "reports/installed-versions.json",
+      "bytes": 3095,
+      "sha256": "4a8eacab9c2f56670d6b4ccea74d8be11ad780fcdb514d212cc22cdd49b46f4d",
+      "git_sha": "25553526e27e3037b7956cc5d34e9a0ba1e3f5ba"
+    },
+    {
+      "path": "reports/playback-and-hud-sync.json",
+      "bytes": 1159,
+      "sha256": "dc9dff3ea9f7b9e811de518b6c923e01f7f7f415492844c7973f93701555d6ab",
+      "git_sha": "0e8587432b27a9b684c9bb76e8eb2cb34d98b10c"
+    },
+    {
+      "path": "reports/playback-review-complete.log",
+      "bytes": 1144,
+      "sha256": "72912baccc74ae94451a2101f60143a9ae169e06baacacb9c6128bad7f506a0e",
+      "git_sha": "154519d574ff43e837c6be54df716939d7554b6b"
+    },
+    {
+      "path": "reports/preservation-before.json",
+      "bytes": 632727,
+      "sha256": "f544b31c59ff4d7460d1db173401991e684c1240a31c2e5da09007d8cf038f73",
+      "git_sha": "dcb26960e1768df23dcbd06659bcbbbeed501034"
+    },
+    {
+      "path": "reports/python-install-cpu.log",
+      "bytes": 189,
+      "sha256": "d7556fccdc9a726a76c7ade9259120e212961b6716340816535e800de8cc831f",
+      "git_sha": "7786e1cfa8aa04c45c4b5c051294b9b7bfe60c44"
+    },
+    {
+      "path": "reports/remotion-render-v2.log",
+      "bytes": 975,
+      "sha256": "e8ff3270c6d35dedb8441866629aa24c1b8e6d13af9e90dcab45f5fcbf3ca491",
+      "git_sha": "ad6b6daf27da58dd24e4d55c0ff7e466ab165ae2"
+    },
+    {
+      "path": "reports/shared-clock.json",
+      "bytes": 557,
+      "sha256": "5a55bedd252a2798262270fb648fc1e91e0a97245c62eb5e9325b47a567939ca",
+      "git_sha": "1a28563dd31380babded7d958f80ced7c59cda97"
+    },
+    {
+      "path": "reports/whisper-model-fetch.log",
+      "bytes": 328,
+      "sha256": "79b293319270d948ccef3e712a7e059f3ab2e14627f5e1362664c936f496f774",
+      "git_sha": "4cf9dd4593cc8bfd59bd900a593bb0b7f9d98600"
+    },
+    {
+      "path": "reports/whisper-model.json",
+      "bytes": 327,
+      "sha256": "f64a007018096c32f9313ab9ad1a5a0d0f39a18cd36a313ac160e3dd989afea6",
+      "git_sha": "8aa08db9b86449ebc828d69a0b1c385eb6249e30"
+    },
+    {
+      "path": "reports/whisper-transcription.json",
+      "bytes": 393,
+      "sha256": "c58416c6741216f96b14ac1112d0bf955ac09eb28334f43ef72581ef9c1649cc",
+      "git_sha": "2be9cc4cf92809336d83ced0a251afe9c68f3f5f"
+    },
+    {
+      "path": "reports/whisper-transcription.log",
+      "bytes": 106,
+      "sha256": "74c4e429039ab8e8220bc270a7546dfa90bbd75237d41f15e4dfa6e6ab45d5d0",
+      "git_sha": "1ff4ae8fbf1c355fa02f6a3077da5cecee221e12"
+    },
+    {
+      "path": "reports/whisper-weight-network-probe.txt",
+      "bytes": 3173,
+      "sha256": "6f63cb62e28b16967a95167ecdf4b85dc1cc86c2f067999498ba2565f2fea0c2",
+      "git_sha": "de518059e5278ce3bd3ab01a77182bc93491908d"
+    },
+    {
+      "path": "requirements-direct.txt",
+      "bytes": 115,
+      "sha256": "349678e2ffb00e20cdbc9ee87b2e9ac29c47718a1aca01090734b8294347068c",
+      "git_sha": "18768954f1038e891220d952e0ba2a342bd9d259"
+    },
+    {
+      "path": "requirements-runtime-observed.txt",
+      "bytes": 159,
+      "sha256": "083133bfda930fc4948b8398d70293fcf4c411ad42f99a1317a73258df4708e6",
+      "git_sha": "d6f710faf47626db74f59dbb1e7cf6b4729434ea"
+    },
+    {
+      "path": "reviews/PLAYBACK_0.5x-small.jpg",
+      "bytes": 79151,
+      "sha256": "b9f309ee1f8628681ccb64fee43dda5effe5759d4c5212b2e24f5ca2d0ecbde5",
+      "git_sha": "751bec02cfc157d08ed8461c2362c85c8137ad5a"
+    },
+    {
+      "path": "reviews/PLAYBACK_0.5x.jpg",
+      "bytes": 441954,
+      "sha256": "2ab63fe6a17455cd43cba998fc2da5900df897a6c42adba3a44aed580531d900",
+      "git_sha": "4289278c277435feda8df77b44fc268fa6aabdc0"
+    },
+    {
+      "path": "reviews/PLAYBACK_1x-small.jpg",
+      "bytes": 79151,
+      "sha256": "b9f309ee1f8628681ccb64fee43dda5effe5759d4c5212b2e24f5ca2d0ecbde5",
+      "git_sha": "751bec02cfc157d08ed8461c2362c85c8137ad5a"
+    },
+    {
+      "path": "reviews/PLAYBACK_1x.jpg",
+      "bytes": 441954,
+      "sha256": "2ab63fe6a17455cd43cba998fc2da5900df897a6c42adba3a44aed580531d900",
+      "git_sha": "4289278c277435feda8df77b44fc268fa6aabdc0"
+    },
+    {
+      "path": "reviews/hud/contact-sheet.jpg",
+      "bytes": 89004,
+      "sha256": "7d8b8cf97bd36e307ffd50a60a2270964ae09df68943a7017adf536968579e83",
+      "git_sha": "fa1611c6182ad713bec2fd334003f29a6e642158"
+    },
+    {
+      "path": "reviews/hud/frame-00-at-0s.png",
+      "bytes": 21032,
+      "sha256": "32f4e71d85241728039e38ff416ca0be85a9b9c81c60c0dba81d9c00663446fe",
+      "git_sha": "e11af4b36b2f3f83a8604460115c7fe3721356d7"
+    },
+    {
+      "path": "reviews/hud/frame-01-at-1s.png",
+      "bytes": 20800,
+      "sha256": "9de53c1f10ff36c572711bebc54e6d32cc0150108a06365e9784eb3974c627df",
+      "git_sha": "e0e552c2fde5ed01aa0833bec1d97333bcce77bd"
+    },
+    {
+      "path": "reviews/hud/frame-02-at-2s.png",
+      "bytes": 21013,
+      "sha256": "b50b284e869c16883c301f795fb75bce3fcb3cd7d87e9f44d871ea6cf3692217",
+      "git_sha": "7a8f7acc5c39103b90f9b51ba47a4ec03fc2855d"
+    },
+    {
+      "path": "reviews/hud/frame-03-at-3.8s.png",
+      "bytes": 22774,
+      "sha256": "8468e13b5f583d3c655c745fb29ffa38e5f48bf80b5c37b6c352a32b472c54e5",
+      "git_sha": "521db7133d0edc4160dcd07fde828ad27b236395"
+    },
+    {
+      "path": "reviews/hud/frame-04-at-3.88s.png",
+      "bytes": 20229,
+      "sha256": "a9c9c7e563aaf3096aa3111fb3e9b483906aafef43276137840aea386e73f99b",
+      "git_sha": "5fa61aa9c2b133764230db472abc9cc9df70740a"
+    },
+    {
+      "path": "scripts/assemble.py",
+      "bytes": 2781,
+      "sha256": "86fe1236b4bac17266c82163cf97748644f5d601ee99646a891e45e29461cf7d",
+      "git_sha": "f3c93ee8cf4c18b1d3e6d026f4f8c5ae95ddae95"
+    },
+    {
+      "path": "scripts/bootstrap.py",
+      "bytes": 2010,
+      "sha256": "0be033db03e05d34f05491e4a9c09ad64f97b667c9530153283a9f51876a1c18",
+      "git_sha": "b310b3839976c34d73e0f177e89d6c87229e29b0"
+    },
+    {
+      "path": "scripts/check_prepared.py",
+      "bytes": 1041,
+      "sha256": "110110f7e63a912149939e3c055a76281a31ca54b38dbf7ac2d4caa64460e7e2",
+      "git_sha": "5cda402471e3fa73b28f34edcbfa6f4e5dd767b7"
+    },
+    {
+      "path": "scripts/export_shared.py",
+      "bytes": 3383,
+      "sha256": "de6b1b7ae9f7aec6b1246ff186f25d98cc025323db9e232160ef6c173dc35de8",
+      "git_sha": "81acb6c7472864f1345a29d1011ba780f9c7e7eb"
+    },
+    {
+      "path": "scripts/fetch_whisper_model.py",
+      "bytes": 834,
+      "sha256": "0972cee40905119f209f8a0c3f13df05165e443461041082ec172ef76a0e553a",
+      "git_sha": "871049cc3e77efe4ba4082343c7e3f14ddf92622"
+    },
+    {
+      "path": "scripts/hf.sh",
+      "bytes": 222,
+      "sha256": "366e040be2a32948be8fc524854df846371208358a947fae8e55118290f44104",
+      "git_sha": "5c55bd5477d4eec47069ab65df47788f00650947"
+    },
+    {
+      "path": "scripts/inspect_environment.py",
+      "bytes": 1706,
+      "sha256": "908ae16f70e2dec3f47a4aefe9730f42d59878ea8400443725f6ca184acc3a98",
+      "git_sha": "cbd91146f46bb3ee081c7ee0b2a8d6b22a1f9442"
+    },
+    {
+      "path": "scripts/pipeline.sh",
+      "bytes": 1462,
+      "sha256": "daa64dea6c0923c38b8f329ab748bdf8d13f6bb8ca987a38313f4f9e27dd76e4",
+      "git_sha": "bf46f94aa20927321dff9b56cdf98fa4e3b866f8"
+    },
+    {
+      "path": "scripts/reference_download.py",
+      "bytes": 1206,
+      "sha256": "a69d3537f7aa3979d7e0325b64b8134d91331b81c0be0c26d15811c1d690b6db",
+      "git_sha": "92824607440a1e54b7af70b8b8ac0e3aed0d2b21"
+    },
+    {
+      "path": "scripts/render-remotion.cjs",
+      "bytes": 1066,
+      "sha256": "a540eac8ff816623049002c735eff20fc6d0b7e319607729e676defde9183959",
+      "git_sha": "b444e8b8deac31e92288a519639c9fc1287ed05e"
+    },
+    {
+      "path": "scripts/review_demo.py",
+      "bytes": 3516,
+      "sha256": "f0594818ac7147440d1f4adff9458c8d60e865d12147630e3565370ee6f6996c",
+      "git_sha": "13df77f150047c41242bb75beb426dfbb63673a4"
+    },
+    {
+      "path": "scripts/transcribe.py",
+      "bytes": 2193,
+      "sha256": "8778fb344d22a7f1e1459e41ac2c9699b0fd239cc3001151e43e244474fcecac",
+      "git_sha": "8361c16d192f80d1f5a434ccab1e0527d1166ec9"
+    },
+    {
+      "path": "scripts/validate_demo.py",
+      "bytes": 4544,
+      "sha256": "dc3ccc8d8e170d5c431fa0cc7f38ed9529e40385dc045f8993d2ebd9a8eebed0",
+      "git_sha": "86cbb8b1cb25ebb132600290b6da19c697e0bbaa"
+    },
+    {
+      "path": "shared/demo-audio.wav",
+      "bytes": 1344078,
+      "sha256": "1029437a8242c5e646f71ef3795bf497de391e72db82ccea9a618590cadc7de3",
+      "git_sha": "147f96162b1dfc50f2d86056b00c390c4ea7c9ac"
+    },
+    {
+      "path": "shared/fonts/FilmSans-Bold.ttf",
+      "bytes": 708920,
+      "sha256": "a4c5bc453ca281d90ea079e596da7ae0dfeb5777497c29ec254e76d97ff6f890",
+      "git_sha": "0a7fb3f0407f69c14369e71baeb43e8d0e3a5138"
+    },
+    {
+      "path": "shared/frame-states.json",
+      "bytes": 134772,
+      "sha256": "f4ac1c74156da969fc4b6b86f24ceb02c292143d8ee91e4383da289653f7cec3",
+      "git_sha": "3660670c02e0075e116f36e23abd10806a5fe847"
+    },
+    {
+      "path": "shared/narration-script.txt",
+      "bytes": 15,
+      "sha256": "480cc8bb274cc929c2c4e6daf364eff33d0c65cfb7ae2de3198b1007dd150689",
+      "git_sha": "71ef633e087f7d98046d0eb4d43072161dbc7a4f"
+    },
+    {
+      "path": "shared/narration.wav",
+      "bytes": 62508,
+      "sha256": "160e9008dd636716e51ea5b1f5b98c1cca91efabc1bf7dc15138411e5d964c1e",
+      "git_sha": "9ddef59428e16b904cc00ed426236d6a5808b36c"
+    },
+    {
+      "path": "shared/speech-source.json",
+      "bytes": 225,
+      "sha256": "fb5b01669e5519ef8593d52ba7e6d873b534f3b57f0f0fb51a2fc66216a98cf9",
+      "git_sha": "c2d782d4cd9602fa4ae89df081aaf442455d9225"
+    },
+    {
+      "path": "shared/timeline.json",
+      "bytes": 327,
+      "sha256": "919d109c27ad2a86770560f3c3a216f41498e6d2d2387c146e1f15c4c23dbd0e",
+      "git_sha": "cb0c0a0761d8615924e0de16a501362c934e4d00"
+    },
+    {
+      "path": "subtitles/demo.ass",
+      "bytes": 586,
+      "sha256": "977f00b2697d8935fb6d650b310e78a234ed244ca56e27f8a5e9a5b372467a62",
+      "git_sha": "d13588baa6281a76d1accbd858670ca94ac84f10"
+    },
+    {
+      "path": "subtitles/script-reference.json",
+      "bytes": 186,
+      "sha256": "598fde134ace37720a767c4d27d606e8d9ab828821bc0a40ecb3275334f17821",
+      "git_sha": "a480d97211cbde351f9a7509f6b4bcada3854691"
+    },
+    {
+      "path": "subtitles/script-reference.srt",
+      "bytes": 47,
+      "sha256": "76c93ebde1bcc3dbc46f44d573eb84a5d3cee6ef55faf5777575eaec9510a646",
+      "git_sha": "eca1b186093fd11d3a8b5365208ea9bd0a947a70"
+    }
+  ],
+  "self_excluded": true
+}

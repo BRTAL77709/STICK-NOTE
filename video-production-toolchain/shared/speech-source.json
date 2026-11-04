@@ -1,0 +1,10 @@
+{
+  "scene": 7,
+  "start": 28.883599999999998,
+  "end": 30.18493333333333,
+  "text": "I hit the gas.",
+  "speaker": "narrator",
+  "voice": "bm_daniel",
+  "asset": "assets/audio/scene_07_phrase_0.wav",
+  "sample_rate": 24000
+}

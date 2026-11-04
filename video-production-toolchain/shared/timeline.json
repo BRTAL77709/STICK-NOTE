@@ -1,0 +1,1 @@
+{"id":"NOIRFRAME-TOOLCHAIN-DEMO","fps":30,"width":1080,"height":1920,"frames":210,"duration":7,"shots":[{"id":"pedal","kind":"A","startFrame":0,"frames":90},{"id":"street","kind":"B","startFrame":90,"frames":120}],"speechStartFrame":28,"hud":{"startFrame":90,"endFrame":210,"region":{"x":80,"y":140,"width":920,"height":300}}}

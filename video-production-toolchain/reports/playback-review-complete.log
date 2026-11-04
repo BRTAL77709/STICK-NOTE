@@ -1,0 +1,29 @@
+127.0.0.1 - - [04/Nov/2026 23:37:32] "GET /hyperframes/index.html HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:37:32] "GET /hyperframes/assets/gsap.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:37:32] "GET /hyperframes/assets/shared-state.js HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:37:32] "GET /hyperframes/assets/FilmSans-Bold.ttf HTTP/1.1" 200 -
+127.0.0.1 - - [04/Nov/2026 23:37:32] code 404, message File not found
+127.0.0.1 - - [04/Nov/2026 23:37:32] "GET /favicon.ico HTTP/1.1" 404 -
+HUD DIAGNOSTIC {'url': 'http://127.0.0.1:35811/hyperframes/index.html', 'gsap': 'object', 'timeline': True, 'HUD': {'globalFrame': 90, 'speed': 7.2, 'distance': 0}, 'ready': 'complete'}
+127.0.0.1 - - [04/Nov/2026 23:37:33] code 404, message File not found
+127.0.0.1 - - [04/Nov/2026 23:37:33] "GET /favicon.ico HTTP/1.1" 404 -
+[
+  {
+    "ended": true,
+    "rate": 1,
+    "duration": 7,
+    "wallSeconds": 7.37590000000596,
+    "dropped": 5,
+    "corrupted": 0,
+    "total": 210
+  },
+  {
+    "ended": true,
+    "rate": 0.5,
+    "duration": 7,
+    "wallSeconds": 14.42679999999702,
+    "dropped": 0,
+    "corrupted": 0,
+    "total": 210
+  }
+]

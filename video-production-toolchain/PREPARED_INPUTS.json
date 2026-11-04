@@ -1,0 +1,35 @@
+{
+  "inputs": {
+    "shared/timeline.json": "919d109c27ad2a86770560f3c3a216f41498e6d2d2387c146e1f15c4c23dbd0e",
+    "shared/narration.wav": "160e9008dd636716e51ea5b1f5b98c1cca91efabc1bf7dc15138411e5d964c1e",
+    "shared/narration-script.txt": "480cc8bb274cc929c2c4e6daf364eff33d0c65cfb7ae2de3198b1007dd150689",
+    "animation/driving.py": "1696ecf6be51504c764cc82a175e29946346a535edc3c58ff48a0d691232a82d",
+    "animation/house17.py": "5409a694df4fda14e35996fe1dc93ed5c2b24e4d674acf833ff7c886500478f2",
+    "animation/articulated.py": "4f9889d2d10ab72f903553a0d73795a33af2b8742827ddc44994e7880a48abbf",
+    "animation/world.py": "441cc67281cff03154c8f9190e5504a885cc39ee72caea51400887e06a1f774f",
+    "animation/film_components.py": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "animation/scene_declarations.py": "6a19b156e4efa3dd16590333d52b276e2c2bce0282700d8a55119936a7007c0b",
+    "animation/house_actions.py": "e4d968929511a592cb7adbf8bb549e52fe027e3c56b0ae162900becff94e9e55",
+    "animation/actor.py": "2f6b35579eecb329680243bbcefd4b53c19f17911763e17e7d86cf41629eb0fe",
+    "animation/stairs_actions.py": "8ba9086762bb122956fcd275a29f0c241abff74c79029c1ecc31fb11053d5256",
+    "animation/driver_rig.py": "a14e28f4321753bce9506bd32620b163d60bd29338a6c44b554d7418b205a03a",
+    "animation/choreography.py": "785fd3b694e3f6355551f06b32d447c74596ebfe8f16f1dca653af1126e45f9f",
+    "animation/room_actions.py": "948afab1001ffb883cc62faae3eab42275a14fdf9510ebf876edd12f068fab8e",
+    "animation/v10_trunk.py": "995bae2fece7d1c0a7d19eebbb8ff2432be173bce38f3902680aed7965a4d7fa",
+    "animation/film_performance.py": "2859bc63c35fb87df20c70564b309227369e09216c55fabc33fb33eadbe21128",
+    "animation/vehicle.py": "5183dc17f1b2af50de63346a6a98f51a2830279d548fb8dee152ce05501d4dff",
+    "animation/render_base.py": "da060d793856320280e7f2cca395d4e3f91b46c8de931f709b1827c0d490b731",
+    "animation/approved_components.py": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "animation/physical_proofs.py": "e4dbdf33e67f65768424bb91a88918207fb954c8f2b0b10908cfb96af5618761",
+    "animation/illustration_engine.py": "ca59e73908bf1cb5cb4b373144c0ff00f68528e262898249a7d621cb3d7c2a2c",
+    "animation/motion_state.py": "56bd2618be636b3e927c17aee7dafc288c2dc21f7fa3981291a543f0129eafa1",
+    "animation/house_site.py": "dee85fd4ff1b7264d59aff2eecdb4d76153a2f734cecba0989f6fa169c324a75"
+  },
+  "outputs": {
+    "shared/frame-states.json": "f4ac1c74156da969fc4b6b86f24ceb02c292143d8ee91e4383da289653f7cec3",
+    "remotion/public/frames.json.gz": "5edfe008b9c5883b29c325b961f611d436f47212a199e71d94bc112724c8b3fb",
+    "hyperframes/assets/shared-state.js": "debd93d35b492be8d6c56c45b5930db2b6ba01c465e0d3c00a3e87d2fd6b51f2",
+    "shared/demo-audio.wav": "1029437a8242c5e646f71ef3795bf497de391e72db82ccea9a618590cadc7de3",
+    "subtitles/script-reference.json": "598fde134ace37720a767c4d27d606e8d9ab828821bc0a40ecb3275334f17821"
+  }
+}

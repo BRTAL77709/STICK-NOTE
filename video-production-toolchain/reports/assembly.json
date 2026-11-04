@@ -1,0 +1,77 @@
+{
+  "command": [
+    "ffmpeg",
+    "-v",
+    "warning",
+    "-n",
+    "-i",
+    "/workspace/STICK-NOTE/video-production-toolchain/renders/remotion-scene.mp4",
+    "-i",
+    "/workspace/STICK-NOTE/video-production-toolchain/renders/hyperframes-hud.mov",
+    "-i",
+    "shared/demo-audio.wav",
+    "-filter_complex",
+    "[1:v]setpts=PTS-STARTPTS+3.0/TB,format=rgba[hud];[0:v][hud]overlay=80:140:eof_action=pass:repeatlast=0:format=auto[visual];[visual]ass=subtitles/demo.ass:fontsdir=shared/fonts,format=yuv420p[v]",
+    "-map",
+    "[v]",
+    "-map",
+    "2:a",
+    "-c:v",
+    "libx264",
+    "-preset",
+    "medium",
+    "-crf",
+    "20",
+    "-r",
+    "30",
+    "-c:a",
+    "aac",
+    "-b:a",
+    "160k",
+    "-ar",
+    "48000",
+    "-ac",
+    "2",
+    "-t",
+    "7",
+    "-movflags",
+    "+faststart",
+    "/workspace/STICK-NOTE/video-production-toolchain/renders/NOIRFRAME_TOOLCHAIN_INTEGRATION_DEMO.mp4"
+  ],
+  "shared_timeline": {
+    "id": "NOIRFRAME-TOOLCHAIN-DEMO",
+    "fps": 30,
+    "width": 1080,
+    "height": 1920,
+    "frames": 210,
+    "duration": 7,
+    "shots": [
+      {
+        "id": "pedal",
+        "kind": "A",
+        "startFrame": 0,
+        "frames": 90
+      },
+      {
+        "id": "street",
+        "kind": "B",
+        "startFrame": 90,
+        "frames": 120
+      }
+    ],
+    "speechStartFrame": 28,
+    "hud": {
+      "startFrame": 90,
+      "endFrame": 210,
+      "region": {
+        "x": 80,
+        "y": 140,
+        "width": 920,
+        "height": 300
+      }
+    }
+  },
+  "subtitle_origin": "Measured source-script reference; Whisper inference blocked",
+  "cloud": false,
+  "paid_services": false
+}

@@ -1,0 +1,3 @@
+[aist#2:0/pcm_s16le @ 0x55d05473d840] Guessed Channel Layout: stereo
+[swscaler @ 0x7fefb0402740] deprecated pixel format used, make sure you did set range correctly
+/workspace/STICK-NOTE/video-production-toolchain/renders/NOIRFRAME_TOOLCHAIN_INTEGRATION_DEMO.mp4
