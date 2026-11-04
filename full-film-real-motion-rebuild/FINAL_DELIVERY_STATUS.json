@@ -119,6 +119,8 @@
       85.433333
     ]
   },
-  "downloads": "verification pending publication",
-  "production_stopped_for_user_review": true
+  "downloads": "verified anonymous HTTP200 byte-for-byte",
+  "production_stopped_for_user_review": true,
+  "media_commit": "36e81e1f8e419219fb48248f150e6a8ccb266028",
+  "verified_download_files": 37
 }

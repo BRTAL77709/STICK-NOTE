@@ -20,7 +20,7 @@ head=api('git/ref/heads/work')['object']['sha'];expected='202eff93a966b08f6d70ba
 base=api('git/commits/'+head)['tree']['sha'];old=api('git/trees/'+base+'?recursive=1');assert not old.get('truncated');assert not any(x['path'].startswith(prefix) for x in old['tree']);known={x['sha'] for x in old['tree'] if x['type']=='blob'}
 files=set()
 def add(p):
- if p.is_file() and '__pycache__' not in p.parts:files.add(p)
+ if p.is_file() and '__pycache__' not in p.parts and p.name!='DELIVERY_MANIFEST.json':files.add(p)
 for p in R.iterdir():
  if p.suffix in ['.md','.json','.srt','.sh']:add(p)
 for folder in ['engine','scripts','scenes']:

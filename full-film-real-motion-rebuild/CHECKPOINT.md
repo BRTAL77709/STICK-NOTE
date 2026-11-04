@@ -1,5 +1,5 @@
-# Delivery checkpoint
+# Delivery complete — awaiting user review
 
-All production and technical reviews are complete. The new film exists at renders/final/THE_PRICE_OF_SILENCE_REAL_MOTION_REBUILD_86s.mp4; never regenerate or overwrite it. Final delivery status and proof/scene/current-source/composite/audio/encoding/playback/fidelity evidence are saved.
+The five proof videos,86-second review film, source, contact sheets and motion/contact evidence are published on work. Media commit: 36e81e1f8e419219fb48248f150e6a8ccb266028. All six MP4s and supporting files passed actual anonymous byte-for-byte download verification. See DELIVERY_VERIFIED.md, DELIVERABLES.md, TECHNICAL_VALIDATION.md and reports/download-verification.json.
 
-Publish the current curated package with scripts/publish_review.py (prior blobs cached; expected work head202eff93a966b08f6d70baea86e39cf325db35da), then scripts/verify_downloads.py. These append a new prefix and preserve every previous tree entry. Verify actual anonymous download bytes before claiming links. Record final verification separately if needed. All production stops for user review; artistic approval and voice listening remain pending. Lower stair flight is elided. V10 and previous work remain preserved.
+V10 clips and all previous project work remain preserved. Three upper stairs are shown; the lower flight is elided. Existing voices remain listening-unverified. Artistic approval belongs to the user. Do not regenerate these files or continue production until the user reviews them.

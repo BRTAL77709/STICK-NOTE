@@ -1,0 +1,338 @@
+{
+  "commit": "36e81e1f8e419219fb48248f150e6a8ccb266028",
+  "verified": [
+    {
+      "path": "renders/final/THE_PRICE_OF_SILENCE_REAL_MOTION_REBUILD_86s.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/renders/final/THE_PRICE_OF_SILENCE_REAL_MOTION_REBUILD_86s.mp4",
+      "bytes": 14418254,
+      "sha256": "7ca515faf87d6b31e8ad72aed62bdc7d09ba0a5b2ee447a336eaa60c63d857c1",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "CONTACT_SHEET_18_SCENES.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/CONTACT_SHEET_18_SCENES.jpg",
+      "bytes": 325169,
+      "sha256": "65a5d599d2155a8adfea4bb3eba8b88c6a31a8d8703a437b96dfee42c974ac84",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "ANIMATION_FAILURE_AUDIT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/ANIMATION_FAILURE_AUDIT.md",
+      "bytes": 9210,
+      "sha256": "f1086e427332cdbb6c24b966aa0afc37e6e795c02c179d9eb0d42c32b03463ad",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "TECHNICAL_VALIDATION.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/TECHNICAL_VALIDATION.md",
+      "bytes": 5377,
+      "sha256": "04cec97cc7388ff28de6c946134428cebf8b2b42f7877cc61a283765296b63f5",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "engine/animation/physical_proofs.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/engine/animation/physical_proofs.py",
+      "bytes": 13049,
+      "sha256": "e4dbdf33e67f65768424bb91a88918207fb954c8f2b0b10908cfb96af5618761",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "engine/animation/film_performance.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+      "bytes": 3095,
+      "sha256": "2859bc63c35fb87df20c70564b309227369e09216c55fabc33fb33eadbe21128",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "reports/source-validation.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/reports/source-validation.json",
+      "bytes": 11597,
+      "sha256": "acd63c1889be080198a29fc6cab91e5b270b47745c1eb2e361e1cca466623c94",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/A/MOTION_PROOF_A_ACCELERATOR_final_9a1134d481.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/A/MOTION_PROOF_A_ACCELERATOR_final_9a1134d481.mp4",
+      "bytes": 210373,
+      "sha256": "1a4f2fdd0ba0fe0cf9d77e9a38be0e89bf564056b20dc4b66879e18367b8b846",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/A/final_CONTACT_SHEET.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/A/final_CONTACT_SHEET.jpg",
+      "bytes": 194637,
+      "sha256": "3c2c8de1730953805815d47dd0abe25a3761d1d737e4baa70935e489a9923354",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/A/MOTION_TRAJECTORY.csv",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/A/MOTION_TRAJECTORY.csv",
+      "bytes": 7553,
+      "sha256": "8e0e1d1d845f6a33eb49e0ee59122fbdd8a4a08e6edad1f6dd87c54f382abe9a",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/A/JOINT_TRANSFORMS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/A/JOINT_TRANSFORMS.json",
+      "bytes": 170259,
+      "sha256": "9807ae3ffa299055d7a171bbf8f0573d79df745411c465ebfc0d011dfda14dc1",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/A/CONTACT_EVENTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/A/CONTACT_EVENTS.json",
+      "bytes": 481,
+      "sha256": "b48960357d75e800d33052ff0697cb7487ab206cd52d0d1fe469311648257292",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/A/README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/A/README.md",
+      "bytes": 1146,
+      "sha256": "5dffed00fd06f2589e4c2a5106a529d39a6ac29c55baa11da38d0ea2e136b698",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/B/MOTION_PROOF_B_VEHICLE_final_dd24ad03b3.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/B/MOTION_PROOF_B_VEHICLE_final_dd24ad03b3.mp4",
+      "bytes": 1231690,
+      "sha256": "17fbbe0a0a3696cf01520a710b3155909e41238bd88db6feea2a5e70cc6f6f6d",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/B/final_CONTACT_SHEET.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/B/final_CONTACT_SHEET.jpg",
+      "bytes": 170130,
+      "sha256": "7a53582cd14f3b0a111ba71a7e954d0309d2bb36769f27b422a05166b37803da",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/B/MOTION_TRAJECTORY.csv",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/B/MOTION_TRAJECTORY.csv",
+      "bytes": 27458,
+      "sha256": "82b54f1fd2fee37a6736a9c31ab8ed2170761978052b5117a4d70e2228d579b2",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/B/JOINT_TRANSFORMS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/B/JOINT_TRANSFORMS.json",
+      "bytes": 61087,
+      "sha256": "260d538bbac607aeb2fbc71c8ad4dff42b2e8f34e8c2c3a929c07ad0f92ccab3",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/B/CONTACT_EVENTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/B/CONTACT_EVENTS.json",
+      "bytes": 517,
+      "sha256": "dbd2d36adc563e7220770b8d0ff7476bf24458a334411203fa06717692b914f2",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/B/README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/B/README.md",
+      "bytes": 1264,
+      "sha256": "f90366206387421dc0a12ed941eeadae139ee6be6b33332076002db99bb8f09d",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/C/MOTION_PROOF_C_DOOR_KEYS_final_ea39f8ecaf.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/C/MOTION_PROOF_C_DOOR_KEYS_final_ea39f8ecaf.mp4",
+      "bytes": 1439271,
+      "sha256": "9bc76e7e5c528967c68d5f7bbff3475ce7ac5a10712f01a0eb37d914644e3fe9",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/C/final_CONTACT_SHEET.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/C/final_CONTACT_SHEET.jpg",
+      "bytes": 153357,
+      "sha256": "b938ae1b39f5733d54ac7c9798f191e331b2f6f51f25e5b9ab12cb5769cc2df2",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/C/MOTION_TRAJECTORY.csv",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/C/MOTION_TRAJECTORY.csv",
+      "bytes": 23864,
+      "sha256": "4c434551a9bbe121d14326b7a5e5c5d643a5c36223e0905eb4981080c1710d2b",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/C/JOINT_TRANSFORMS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/C/JOINT_TRANSFORMS.json",
+      "bytes": 1254718,
+      "sha256": "9c3a80f1fa45b5cdb8bcb66352f81dd4015b41007a2b9c7c8ef182ddc834cead",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/C/CONTACT_EVENTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/C/CONTACT_EVENTS.json",
+      "bytes": 1353,
+      "sha256": "0604e28b287f3580dd60308b4520983f8821d656cd898a0a5875b37828003277",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/C/README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/C/README.md",
+      "bytes": 1271,
+      "sha256": "06822c1f5666fa5e2e976d52da0d7aba8331409973aeae05139351de9857add1",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/D/MOTION_PROOF_D_STAIRS_final_0d2ffd2dc7.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/D/MOTION_PROOF_D_STAIRS_final_0d2ffd2dc7.mp4",
+      "bytes": 327151,
+      "sha256": "5cce7ec2859c84e11d773ee7c602822fb06b892c8f22da68c942488b81dfabe9",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/D/final_CONTACT_SHEET.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/D/final_CONTACT_SHEET.jpg",
+      "bytes": 161686,
+      "sha256": "6a43983a95cd27b23b664980ffb6e47657565bedb3dc53039905ea2b12d98584",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/D/MOTION_TRAJECTORY.csv",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/D/MOTION_TRAJECTORY.csv",
+      "bytes": 12079,
+      "sha256": "ce6a015aa5e1ff4b57fddb138a903f98b7491a2a3c4dca5acfe012522afee755",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/D/JOINT_TRANSFORMS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/D/JOINT_TRANSFORMS.json",
+      "bytes": 642649,
+      "sha256": "a1d09196a7a9cb7c66bb814cac72d4925412f70741289ee71d5524cbc1fc3491",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/D/CONTACT_EVENTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/D/CONTACT_EVENTS.json",
+      "bytes": 793,
+      "sha256": "0946e6c67994c0b2fb626b8efc21b8d6d2409be14b576c12171a64501abe6f01",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/D/README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/D/README.md",
+      "bytes": 1200,
+      "sha256": "3216628fb986b5ef9943e5aeab6aa5c924fb813a03b989054fe7868002fecafb",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/E/MOTION_PROOF_E_CURTAIN_final_1a5cd876df.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/E/MOTION_PROOF_E_CURTAIN_final_1a5cd876df.mp4",
+      "bytes": 379793,
+      "sha256": "8fc226d5bdcc1c3356f19ae07e07fda8aa0b7aff979e59c76fad3e2f28ca343e",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/E/final_CONTACT_SHEET.jpg",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/E/final_CONTACT_SHEET.jpg",
+      "bytes": 132993,
+      "sha256": "0d74574081d9225d5b7a5db1035da7458ca731f5f13f6053d2f14e81daa75324",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/E/MOTION_TRAJECTORY.csv",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/E/MOTION_TRAJECTORY.csv",
+      "bytes": 13906,
+      "sha256": "d1bf74eb3ce70117fdea133b28fd62ae169cc2a81125698a8420362640c569ad",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/E/JOINT_TRANSFORMS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/E/JOINT_TRANSFORMS.json",
+      "bytes": 567411,
+      "sha256": "3e0bac148fda887c17110d476de5babe3e01c41dc799f77f674e3d3be81a5c09",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/E/CONTACT_EVENTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/E/CONTACT_EVENTS.json",
+      "bytes": 617,
+      "sha256": "7910dbb6b42218ca27231680a4c899128bcfc062ccaff92bd40c23dea19567d8",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    },
+    {
+      "path": "proofs/E/README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/36e81e1f8e419219fb48248f150e6a8ccb266028/full-film-real-motion-rebuild/proofs/E/README.md",
+      "bytes": 1213,
+      "sha256": "66687643b7c0588fcab8badaa0395b7c4c20fc79dc32d52beb14c85b0f9802ea",
+      "http_status": 200,
+      "anonymous": true,
+      "matches_local": true
+    }
+  ]
+}

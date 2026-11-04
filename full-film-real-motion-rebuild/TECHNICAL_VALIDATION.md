@@ -33,3 +33,8 @@ All57 selected exact-frame subject crops match the current raw clips. Maximum me
 Full normal-speed browser playback reached86 s/ended=true with zero corrupted frames. The presentation reported5 dropped frames out of2580 while validation work ran concurrently; the independent full FFmpeg decode has no error. Full half-speed review is recorded separately. This is presentation evidence and frame inspection, not a claim of human listening or artistic approval.
 
 Full half-speed playback also ended normally at86 s, rate0.5, wall time172.142 s, with0 dropped presentation frames and0 corrupted frames. Both complete presentation sheets were inspected. Artistic approval and voice listening remain pending.
+
+
+## Download verification
+
+Published media commit `36e81e1f8e419219fb48248f150e6a8ccb266028`. Anonymous HTTP200 downloads of all six MP4s and accompanying source/data/contact/report files match local bytes and SHA256. The initial publication preserved all1460 prior tree entries. See reports/download-verification.json and DELIVERY_MANIFEST.json. Production is stopped for user review.

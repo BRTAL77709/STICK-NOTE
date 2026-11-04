@@ -50,9 +50,9 @@
     },
     {
       "path": "CHECKPOINT.md",
-      "bytes": 833,
-      "sha256": "3a09b945ad4f6e3d0064f58b0a8f42341e51cf58b7439d707bb2e1d95888672c",
-      "git_sha": "f1494a8ebebeac6191b64bbca0fc256f57cd388c"
+      "bytes": 706,
+      "sha256": "481b2bb3765bc044f95d5aac505d41048e978fa1d7717a4bd471b7f71acfda75",
+      "git_sha": "a65b98e156882e75fbf1b2c6ada4d24008d9038b"
     },
     {
       "path": "CONTACT_SHEET_18_SCENES.jpg",
@@ -79,10 +79,10 @@
       "git_sha": "12dfbba9abc7fe3c21404eb430755b333d6f6ed0"
     },
     {
-      "path": "DELIVERY_MANIFEST.json",
-      "bytes": 137713,
-      "sha256": "ed990a7f7a9fadae4e39b00a958838cfa7634023a4b135ebbe2d29ccc7c00c70",
-      "git_sha": "b7edb69c4641f978b19379fa4129ffbb96e92424"
+      "path": "DELIVERY_VERIFIED.md",
+      "bytes": 652,
+      "sha256": "b216e3db182584354c20477bf6199792888812282533e4894d10388ecc0bb475",
+      "git_sha": "87d8f09c4e3ea2b7843dd24ba6e2e908230b4982"
     },
     {
       "path": "DEPENDENCIES.md",
@@ -98,9 +98,9 @@
     },
     {
       "path": "FINAL_DELIVERY_STATUS.json",
-      "bytes": 2261,
-      "sha256": "268d3803347d5cbea214bf559d741584057f8fee765a989693cd556411327513",
-      "git_sha": "aa304903a99563ae0aa1958263d4651d55bfa550"
+      "bytes": 2364,
+      "sha256": "ef7a4c2c37765429b63b969b23ee175c05b91b4ad7809dc7e09c8d3bf5ed5ea4",
+      "git_sha": "2cf743b732da60bd5f86cb1b684f88c84eda47ce"
     },
     {
       "path": "FINAL_GATE.json",
@@ -122,9 +122,9 @@
     },
     {
       "path": "PROGRESS.md",
-      "bytes": 730,
-      "sha256": "39e3393a548a0a7d7d5537b4fbdf71ba781b2de63d185c0f2b5b90a43a3dfba5",
-      "git_sha": "a440b37d3bf72b5a084189c12ac40f8e0f59a827"
+      "bytes": 706,
+      "sha256": "481b2bb3765bc044f95d5aac505d41048e978fa1d7717a4bd471b7f71acfda75",
+      "git_sha": "a65b98e156882e75fbf1b2c6ada4d24008d9038b"
     },
     {
       "path": "PROOF_SOURCE_MANIFEST.json",
@@ -158,15 +158,45 @@
     },
     {
       "path": "TECHNICAL_VALIDATION.md",
-      "bytes": 5377,
-      "sha256": "04cec97cc7388ff28de6c946134428cebf8b2b42f7877cc61a283765296b63f5",
-      "git_sha": "06c0f6e4a8673bbcb76428624b3082ace3c94179"
+      "bytes": 5764,
+      "sha256": "8c5386b7ec8e034401022ba8075a46c7a18195279f396acea2e7c86fd7f69330",
+      "git_sha": "19ebdb9f0f0273dfde6bc3be1b7eb446cf185b99"
     },
     {
       "path": "THE_PRICE_OF_SILENCE_EN.srt",
       "bytes": 1702,
       "sha256": "321d556ae1b10ccf7f24a676e468eae852ac8ecae7cb6287bf5d132641d316ef",
       "git_sha": "cf378725ba9f84e820bf0c0529fa44c223c6b58e"
+    },
+    {
+      "path": "assets/audio-real-motion-v3/CALLER.flac",
+      "bytes": 202503,
+      "sha256": "109cda868b7243099f8e01d9f59a930b8747a4a7f64b05ad85fbba55f259477b",
+      "git_sha": "97d5df3b9de18f8b32a7a90dd59b49a9348c8638"
+    },
+    {
+      "path": "assets/audio-real-motion-v3/FX.flac",
+      "bytes": 8752812,
+      "sha256": "f773bc4d463f28939ba3f039a486bd7ddd7e00eefd5ada0461b7b4bfa0e9cc20",
+      "git_sha": "01c75bbaa2ddc8602e6c50bbe5111b5d1ce7ef75"
+    },
+    {
+      "path": "assets/audio-real-motion-v3/MIX_MASTER.flac",
+      "bytes": 9463142,
+      "sha256": "0b43939b73eac661742a54a430e5e028a1bcef454bafb4d292f01959c40f1860",
+      "git_sha": "1f7933f5a934f5d1e49992d05576bb2e13b20f6d"
+    },
+    {
+      "path": "assets/audio-real-motion-v3/NARRATOR.flac",
+      "bytes": 1277367,
+      "sha256": "2c8a5daccfbd04729c9d3db28f6a440c7acc0255f65bd62f979d34638fc26f27",
+      "git_sha": "8e890f667a05a64ee78a2f76d1cead8a7ec6087c"
+    },
+    {
+      "path": "assets/audio-real-motion-v3/SCORE.flac",
+      "bytes": 1078746,
+      "sha256": "e8bfee535192110c2fa4ce9759dd9cdb827a631a4e1797e70f1634d4b722add3",
+      "git_sha": "4e2f6a64cf818bd793b5bfc1c7602d9df0214ba7"
     },
     {
       "path": "assets/audio/scene_01_phrase_0.wav",
@@ -347,36 +377,6 @@
       "bytes": 64556,
       "sha256": "aec53e3395f9a9c2f6a94dd9795ab4c2483fe69803f74342fb9a19011d72fd32",
       "git_sha": "a03360bd72658e267b68e7bc8101ae6c8dbe3e8f"
-    },
-    {
-      "path": "assets/audio-real-motion-v3/CALLER.flac",
-      "bytes": 202503,
-      "sha256": "109cda868b7243099f8e01d9f59a930b8747a4a7f64b05ad85fbba55f259477b",
-      "git_sha": "97d5df3b9de18f8b32a7a90dd59b49a9348c8638"
-    },
-    {
-      "path": "assets/audio-real-motion-v3/FX.flac",
-      "bytes": 8752812,
-      "sha256": "f773bc4d463f28939ba3f039a486bd7ddd7e00eefd5ada0461b7b4bfa0e9cc20",
-      "git_sha": "01c75bbaa2ddc8602e6c50bbe5111b5d1ce7ef75"
-    },
-    {
-      "path": "assets/audio-real-motion-v3/MIX_MASTER.flac",
-      "bytes": 9463142,
-      "sha256": "0b43939b73eac661742a54a430e5e028a1bcef454bafb4d292f01959c40f1860",
-      "git_sha": "1f7933f5a934f5d1e49992d05576bb2e13b20f6d"
-    },
-    {
-      "path": "assets/audio-real-motion-v3/NARRATOR.flac",
-      "bytes": 1277367,
-      "sha256": "2c8a5daccfbd04729c9d3db28f6a440c7acc0255f65bd62f979d34638fc26f27",
-      "git_sha": "8e890f667a05a64ee78a2f76d1cead8a7ec6087c"
-    },
-    {
-      "path": "assets/audio-real-motion-v3/SCORE.flac",
-      "bytes": 1078746,
-      "sha256": "e8bfee535192110c2fa4ce9759dd9cdb827a631a4e1797e70f1634d4b722add3",
-      "git_sha": "4e2f6a64cf818bd793b5bfc1c7602d9df0214ba7"
     },
     {
       "path": "assets/characters/V10_RIGS.json",
@@ -1645,6 +1645,12 @@
       "git_sha": "08060ecd0264de91d5ce2d7f76feffdb43e7d2f6"
     },
     {
+      "path": "reports/download-verification.json",
+      "bytes": 15789,
+      "sha256": "5b676b13626ef2f51b6cef7604fbbb23c2cced60d64e047a85c8caa75c75ec14",
+      "git_sha": "4a1f5c864e24c5c32222c09fb1874005d7c74615"
+    },
+    {
       "path": "reports/encoded-subject-fidelity.json",
       "bytes": 21771,
       "sha256": "d482cd6877536b8cb783803ec921922e9a3aaa0dc3c775db36a5f71ccdc89b7e",
@@ -1661,6 +1667,12 @@
       "bytes": 436,
       "sha256": "3e76f26040e94273d9f2c49189cddd38db2a72f8e73ccd47726f62afa451d067",
       "git_sha": "f71bb8fe66a1eb0f02b909d664d01387d1db3eec"
+    },
+    {
+      "path": "reports/github-publication.json",
+      "bytes": 163,
+      "sha256": "8ea4fc656c7e68e53611ab579450af0a798df9e60dbf0a09c02d6ad147708279",
+      "git_sha": "36b8c5a81194f1c8eb41575adf0144de16b92b62"
     },
     {
       "path": "reports/hyperframes-check-final.json",
@@ -3410,9 +3422,9 @@
     },
     {
       "path": "scripts/publish_review.py",
-      "bytes": 6462,
-      "sha256": "c4b17e7d902fc76fbd7cf93db2bed2d509132f7156a5a5483d6e9fd165a49d01",
-      "git_sha": "d6a58e3f371a90961341e9a52fda036ae0092133"
+      "bytes": 6499,
+      "sha256": "9ea93ce81c5f50514e11429beebe5d9fbfd820b45da8821d01e6b8ed8c263aeb",
+      "git_sha": "4150e9ec8a1530f5eb13d07a08d535716c91ad16"
     },
     {
       "path": "scripts/render_proofs.py",
