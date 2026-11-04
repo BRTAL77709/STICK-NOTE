@@ -1,0 +1,32 @@
+[
+  {
+    "time": 0,
+    "frame": 0,
+    "event": "rolling anticipation / tire contact"
+  },
+  {
+    "time": 0.4,
+    "frame": 12,
+    "event": "smooth acceleration begins"
+  },
+  {
+    "time": 1,
+    "frame": 30,
+    "event": "heading changes with road"
+  },
+  {
+    "time": 3.6,
+    "frame": 108,
+    "event": "acceleration completes / load release"
+  },
+  {
+    "time": 3.72,
+    "frame": 112,
+    "event": "delayed body load settles"
+  },
+  {
+    "time": 4,
+    "frame": 120,
+    "event": "travel completes"
+  }
+]

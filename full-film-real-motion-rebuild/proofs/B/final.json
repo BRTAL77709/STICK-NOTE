@@ -1,0 +1,12 @@
+{
+  "kind": "B",
+  "path": "proofs/B/MOTION_PROOF_B_VEHICLE_final_dd24ad03b3.mp4",
+  "duration": 4.0,
+  "frames": 120,
+  "source_svg_sha256": "dd24ad03b30c9de1c3357bbcb0f252c22fe555fdd2cc225a63051e7492f5c079",
+  "width": 1080,
+  "height": 1920,
+  "camera": "tracking independent of car",
+  "HUD": false,
+  "audio": "silent to expose picture motion"
+}

@@ -1,0 +1,17 @@
+{
+  "scene": 4,
+  "start": 12.0,
+  "end": 18.0,
+  "duration": 6,
+  "title": "The crime",
+  "frames": 180,
+  "action_beats": [
+    {
+      "action": "approved V10 supported drag",
+      "start": 12,
+      "end": 18,
+      "cause_contact_followthrough": "Existing V10 hand/upper-arm contacts and held foot plans; no picture/source changes."
+    }
+  ],
+  "physical_source": "engine/animation/v10_trunk.py"
+}

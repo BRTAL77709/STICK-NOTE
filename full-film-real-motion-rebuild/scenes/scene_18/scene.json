@@ -1,0 +1,17 @@
+{
+  "scene": 18,
+  "start": 81.5,
+  "end": 86,
+  "duration": 4.5,
+  "title": "Final choice",
+  "frames": 135,
+  "action_beats": [
+    {
+      "action": "preserved choice graphics",
+      "start": 80,
+      "end": 86,
+      "cause_contact_followthrough": "No new character action claimed. Preserve A/B design, timed reveal and narration; rain background remains animated."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

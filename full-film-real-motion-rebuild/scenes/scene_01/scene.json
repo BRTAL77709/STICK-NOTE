@@ -1,0 +1,17 @@
+{
+  "scene": 1,
+  "start": 0.0,
+  "end": 4.0,
+  "duration": 4,
+  "title": "2:17 AM",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "passing sedan",
+      "start": 0,
+      "end": 4,
+      "cause_contact_followthrough": "Tires roll on the fixed street; suspension responds to traveled distance. Curbside camera travels less than the car."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

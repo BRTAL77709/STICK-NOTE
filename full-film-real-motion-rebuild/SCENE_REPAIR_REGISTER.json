@@ -1,0 +1,677 @@
+[
+  {
+    "scene": 1,
+    "start": 0.0,
+    "end": 4.0,
+    "duration": 4,
+    "title": "2:17 AM",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "passing sedan",
+        "start": 0,
+        "end": 4,
+        "cause_contact_followthrough": "Tires roll on the fixed street; suspension responds to traveled distance. Curbside camera travels less than the car."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Tracking masked subject travel and foreground occlusion.",
+    "repair": "Planted curb-camera drive-by: actual front/side/rear change; foreground tree cleared.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_01_e9b4203963aa.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_01_previews_d859088e0991_playback.json",
+    "final_evidence": "reports/scene_01_final_e9b4203963aa_playback.json",
+    "review_note": "Planted curb-camera drive-by: actual front/side/rear change; foreground tree cleared. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 2,
+    "start": 4.0,
+    "end": 8.0,
+    "duration": 4,
+    "title": "The driver",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "mirror attention",
+        "start": 4.47,
+        "end": 6.65,
+        "cause_contact_followthrough": "Eyes lead head by .25s; shoulders follow; both hands remain on the steering rim throughout."
+      },
+      {
+        "action": "return to road",
+        "start": 5.88,
+        "end": 8,
+        "cause_contact_followthrough": "Head and rib cage settle while the vehicle continues through real projected landmarks."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Restrained repeated seated silhouette.",
+    "repair": "Distinct eyes/head/torso mirror phases and wheel-locked articulated arms.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_02_acc21cf2d690.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_02_previews_b2b0870fb8b8_playback.json",
+    "final_evidence": "reports/scene_02_final_acc21cf2d690_playback.json",
+    "review_note": "Distinct eyes/head/torso mirror phases and wheel-locked articulated arms. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 3,
+    "start": 8.0,
+    "end": 12.0,
+    "duration": 4,
+    "title": "Something wrong",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "discovery and braking",
+        "start": 8.03,
+        "end": 12,
+        "cause_contact_followthrough": "Leftward eyes/head/shoulders coordinate with the actual alley side; longitudinal load follows deceleration. No empty-road insert."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Small braking load and repeated head interpolation.",
+    "repair": "Visible shoulder/skull brace and tilted silhouette during braking/discovery.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_03_a704c910a702.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_03_previews_6143cb0428ed_playback.json",
+    "final_evidence": "reports/scene_03_final_a704c910a702_playback.json",
+    "review_note": "Visible shoulder/skull brace and tilted silhouette during braking/discovery. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 4,
+    "start": 12.0,
+    "end": 18.0,
+    "duration": 6,
+    "title": "The crime",
+    "frames": 180,
+    "action_beats": [
+      {
+        "action": "approved V10 supported drag",
+        "start": 12,
+        "end": 18,
+        "cause_contact_followthrough": "Existing V10 hand/upper-arm contacts and held foot plans; no picture/source changes."
+      }
+    ],
+    "physical_source": "engine/animation/v10_trunk.py",
+    "baseline_problem": "Approved V10 dragging.",
+    "repair": "Preserve exact approved picture and clip bytes.",
+    "status": "preserved-approved-V10",
+    "artistic_approval": "preserved user-approved V10",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_04_3ca0da84eb9d.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md"
+  },
+  {
+    "scene": 5,
+    "start": 18.0,
+    "end": 24.0,
+    "duration": 6,
+    "title": "The trunk",
+    "frames": 180,
+    "action_beats": [
+      {
+        "action": "approved V10 open/lift/load",
+        "start": 18,
+        "end": 24,
+        "cause_contact_followthrough": "Existing hinged trunk, bent-knee effort, victim inertia and depth occlusion; no picture/source changes."
+      }
+    ],
+    "physical_source": "engine/animation/v10_trunk.py",
+    "baseline_problem": "Approved V10 lift/load.",
+    "repair": "Preserve exact approved picture and clip bytes.",
+    "status": "preserved-approved-V10",
+    "artistic_approval": "preserved user-approved V10",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_05_2d1b6e7ab453.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md"
+  },
+  {
+    "scene": 6,
+    "start": 24.0,
+    "end": 28.0,
+    "duration": 4,
+    "title": "They saw him",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "approved V10 close/notice/turn",
+        "start": 24,
+        "end": 28,
+        "cause_contact_followthrough": "Latch precedes the side-to-front head turn; approved silhouette/cap/mask changes preserved."
+      }
+    ],
+    "physical_source": "engine/animation/v10_trunk.py",
+    "baseline_problem": "Approved V10 closure/head turn.",
+    "repair": "Preserve exact approved picture and clip bytes.",
+    "status": "preserved-approved-V10",
+    "artistic_approval": "preserved user-approved V10",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_06_1a3bd81677b1.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md"
+  },
+  {
+    "scene": 7,
+    "start": 28.0,
+    "end": 32.0,
+    "duration": 4,
+    "title": "Panic",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "accelerator pressure",
+        "start": 28.55,
+        "end": 30,
+        "cause_contact_followthrough": "Fixed heel, rigid shoe, ankle and leg IK; ball rolls on the hinged pedal. Same modeled throttle drives RPM."
+      },
+      {
+        "action": "acceleration response",
+        "start": 30,
+        "end": 32,
+        "cause_contact_followthrough": "Seated shoulders and head respond to actual acceleration; environment travel continues."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "One-second pedal insert started in contact; cropped torso.",
+    "repair": "Continuous three-second proof-A performance; contact precedes acceleration.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_07_fdb8a481d2ed.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_07_previews_705621ce23f6_playback.json",
+    "final_evidence": "reports/scene_07_final_fdb8a481d2ed_playback.json",
+    "review_note": "Continuous three-second proof-A performance; contact precedes acceleration. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 8,
+    "start": 32.0,
+    "end": 37.0,
+    "duration": 5,
+    "title": "Pursuit",
+    "frames": 150,
+    "action_beats": [
+      {
+        "action": "merge and pursuit",
+        "start": 32,
+        "end": 35,
+        "cause_contact_followthrough": "Both cars move in world coordinates; flush alley apron under the actual crossing tire positions; common painter depth queue."
+      },
+      {
+        "action": "mirror confirmation",
+        "start": 35,
+        "end": 37,
+        "cause_contact_followthrough": "The real following car closes its gap; reflection shares the actual vehicle state."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Exterior pursuit cut early to mirror; dashboards competed with subjects.",
+    "repair": "Five seconds exterior travel/merge, both cars depth-sorted; no vehicle dashboards.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_08_bae03bf8fd55.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_08_previews_d91267506af4_playback.json",
+    "final_evidence": "reports/scene_08_final_bae03bf8fd55_playback.json",
+    "review_note": "Five seconds exterior travel/merge, both cars depth-sorted; no vehicle dashboards. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 9,
+    "start": 37.0,
+    "end": 42.0,
+    "duration": 5,
+    "title": "Escape",
+    "frames": 150,
+    "action_beats": [
+      {
+        "action": "corner anticipation and steering",
+        "start": 37,
+        "end": 40,
+        "cause_contact_followthrough": "View forward, then articulated arms turn the wheel; neck and torso respond to corner load."
+      },
+      {
+        "action": "exterior corner",
+        "start": 40,
+        "end": 42,
+        "cause_contact_followthrough": "Both full car bounds remain in frame; camera remains outside buildings. Wheels, rack and heading share the physical trajectory."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Corner action fragmented across views.",
+    "repair": "Longer driver steering/torso performance then actual turning-car projection.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_09_40dd31333e4c.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_09_previews_e1a81ac467ec_playback.json",
+    "final_evidence": "reports/scene_09_final_40dd31333e4c_playback.json",
+    "review_note": "Longer driver steering/torso performance then actual turning-car projection. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 10,
+    "start": 42.0,
+    "end": 47.0,
+    "duration": 5,
+    "title": "Safe?",
+    "frames": 150,
+    "action_beats": [
+      {
+        "action": "slow and search",
+        "start": 42,
+        "end": 46.6,
+        "cause_contact_followthrough": "Street geometry stays connected; speed actually falls; mirror search followed by visible release of shoulder/head tension."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Very restrained safety-release pose.",
+    "repair": "New shoulder/head relaxation while maintaining wheel grip.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_10_e6fdee4cc3c0.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_10_previews_d0dd45a5f3ba_playback.json",
+    "final_evidence": "reports/scene_10_final_e6fdee4cc3c0_playback.json",
+    "review_note": "New shoulder/head relaxation while maintaining wheel grip. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 11,
+    "start": 47.0,
+    "end": 51.0,
+    "duration": 4,
+    "title": "House 17",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "stop",
+        "start": 47,
+        "end": 48,
+        "cause_contact_followthrough": "Car reaches zero speed before door opening."
+      },
+      {
+        "action": "exit and door handoff",
+        "start": 48.02,
+        "end": 49.14,
+        "cause_contact_followthrough": "Hand contact precedes hinge movement; legs move from car floor to pavement, then body rises. Two hands hand off during closure."
+      },
+      {
+        "action": "run to entrance",
+        "start": 49.15,
+        "end": 50.99,
+        "cause_contact_followthrough": "Explicit alternating held foot anchors; curb ramp and contact splashes match actual footsteps. Arms settle into the next shot."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Low crouched run; separate time/foot clock.",
+    "repair": "Distance-driven foot contacts, upright feasible pelvis, coordinated arms and contact-derived splashes.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_11_a1cb10757ccf.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_11_previews_635dd113abeb_playback.json",
+    "final_evidence": "reports/scene_11_final_a1cb10757ccf_playback.json",
+    "review_note": "Distance-driven foot contacts, upright feasible pelvis, coordinated arms and contact-derived splashes. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 12,
+    "start": 51,
+    "end": 57,
+    "duration": 6,
+    "title": "Locked door / key retrieval and unlock",
+    "frames": 180,
+    "action_beats": [
+      {
+        "action": "handle / locked pull / panic",
+        "start": 51,
+        "end": 52.0,
+        "cause_contact_followthrough": "Foot settling, reach, lever grip/turn, locked pull, shoulder/neck recoil, then pocket search."
+      },
+      {
+        "action": "key retrieval / alignment / insertion",
+        "start": 52.0,
+        "end": 52.72,
+        "cause_contact_followthrough": "Rigid key remains on the same palm; pocket mask reveals it; shaft rotates from hanging to lock alignment."
+      },
+      {
+        "action": "unlock / neutral return / withdrawal / storage",
+        "start": 52.76,
+        "end": 53.55,
+        "cause_contact_followthrough": "Wrist and ring rotate; lock releases; key returns neutral before extraction; opposite palm braces the frame."
+      },
+      {
+        "action": "handle and opening",
+        "start": 53.55,
+        "end": 55,
+        "cause_contact_followthrough": "Empty hand returns to handle; lever moves only under grip; palm slides onto the leaf as the hinge opens. Entry starts visibly."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Key/handle interactions compressed.",
+    "repair": "Extended proof-C acquisition, failed pull, key alignment/insertion/rotation/withdrawal.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_12_46b2bf13280a.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_12_previews_e5f1c250a125_playback.json",
+    "final_evidence": "reports/scene_12_final_46b2bf13280a_playback.json",
+    "review_note": "Extended proof-C acquisition, failed pull, key alignment/insertion/rotation/withdrawal. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 13,
+    "start": 57,
+    "end": 61.4,
+    "duration": 4.4,
+    "title": "Open / enter / close / lock",
+    "frames": 132,
+    "action_beats": [
+      {
+        "action": "complete entry",
+        "start": 55,
+        "end": 55.36,
+        "cause_contact_followthrough": "World feet carry the body through a doorway taller/wider than the approved rig; camera switches after the body crosses inside."
+      },
+      {
+        "action": "close / latch / lock / check",
+        "start": 55.35,
+        "end": 57.18,
+        "cause_contact_followthrough": "Inside hand pulls the same hinged leaf; thumbturn and wrist rotate together; lever check releases into spring return."
+      },
+      {
+        "action": "hall step and lower flight",
+        "start": 57.05,
+        "end": 58.85,
+        "cause_contact_followthrough": "Visible departure seeds the exact first stair stance; pelvis rises after tread contact, rail grip slides on the sloping rail."
+      },
+      {
+        "action": "landing turn",
+        "start": 58.85,
+        "end": 59.35,
+        "cause_contact_followthrough": "World feet cross the U-turn landing while head/torso attention reverses; continues across scene boundary."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Entry depth ordering and camera flip concealed parts.",
+    "repair": "Physical hinge opening, masked entry, complete foot placement, closure/lock/check.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_13_119334daf52d.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_13_previews_77645b1f8de0_playback.json",
+    "final_evidence": "reports/scene_13_final_119334daf52d_playback.json",
+    "review_note": "Physical hinge opening, masked entry, complete foot placement, closure/lock/check. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 14,
+    "start": 61.4,
+    "end": 65.4,
+    "duration": 4.0,
+    "title": "Three upper stair steps",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "upper flight and trailing foot",
+        "start": 59.35,
+        "end": 60.85,
+        "cause_contact_followthrough": "Seven more .18 m risers complete 2.7 m floor rise; opposite foot follows onto the landing."
+      },
+      {
+        "action": "approach window",
+        "start": 60.85,
+        "end": 61.35,
+        "cause_contact_followthrough": "Three deliberate foot moves from actual stair landing to the curtain; nightstand is outside the route."
+      },
+      {
+        "action": "reach / fabric grip / pull",
+        "start": 61.35,
+        "end": 62.35,
+        "cause_contact_followthrough": "Right hand grips the actual curtain edge; two sidesteps transfer weight as folds lag the hand."
+      },
+      {
+        "action": "look / fear / release",
+        "start": 61.65,
+        "end": 63,
+        "cause_contact_followthrough": "Eyes lead the turn toward the real black sedan outside the registered upper facade window; body recoils and hand releases."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Fifteen stairs compressed into about three seconds.",
+    "repair": "Three complete upper risers, 3D IK, lift-before-advance, plant-before-pelvis-transfer; lower flight explicitly elided.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_14_ad24bf77d3ea.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_14_previews_ea84724eeb37_playback.json",
+    "final_evidence": "reports/scene_14_final_ad24bf77d3ea_playback.json",
+    "review_note": "Three complete upper risers, 3D IK, lift-before-advance, plant-before-pelvis-transfer; lower flight explicitly elided. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 15,
+    "start": 65.4,
+    "end": 69.4,
+    "duration": 4.0,
+    "title": "Curtain grip / reveal / reaction",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "ring / attention",
+        "start": 63.1,
+        "end": 63.6,
+        "cause_contact_followthrough": "Device vibrates on its support; eyes turn before the head."
+      },
+      {
+        "action": "reach / grip / lift",
+        "start": 63.6,
+        "end": 64.95,
+        "cause_contact_followthrough": "Left hand contacts before the phone leaves its table; size/angle change continuously with the lift."
+      },
+      {
+        "action": "answer / listen",
+        "start": 64.95,
+        "end": 67,
+        "cause_contact_followthrough": "Elbow flexes to place the panel against the ear-side face point below the cap; no temple-level hold."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Curtain started partly open and pull lasted .6 s.",
+    "repair": "Four-second reach/grip/pull/fold lag/reaction from fully closed; landing foot registration.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_15_d2d80260635e.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_15_previews_c09f5cac1eb4_playback.json",
+    "final_evidence": "reports/scene_15_final_d2d80260635e_playback.json",
+    "review_note": "Four-second reach/grip/pull/fold lag/reaction from fully closed; landing foot registration. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 16,
+    "start": 69.4,
+    "end": 77.3,
+    "duration": 7.9,
+    "title": "Phone acquisition / lift / million-dollar offer",
+    "frames": 237,
+    "action_beats": [
+      {
+        "action": "offer reaction",
+        "start": 67.7,
+        "end": 69.1,
+        "cause_contact_followthrough": "Knees flex, torso withdraws, free palm reaches the chest; phone grip follows the head."
+      },
+      {
+        "action": "window glance / temptation",
+        "start": 69.05,
+        "end": 72.4,
+        "cause_contact_followthrough": "Eyes lead a return glance; free hand opens into a restrained hesitation gesture and returns."
+      },
+      {
+        "action": "listening hold",
+        "start": 72.4,
+        "end": 74,
+        "cause_contact_followthrough": "Purposeful held suspense with breathing; no unrelated arm waving or zoom substitute."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Phone motion and acting competed with HUD.",
+    "repair": "Three-second pickup/chest/ear acquisition before timed offer and expressive free-hand/listening beats.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_16_c8f1de038ab6.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_16_previews_a2fbfebc7d30_playback.json",
+    "final_evidence": "reports/scene_16_final_c8f1de038ab6_playback.json",
+    "review_note": "Three-second pickup/chest/ear acquisition before timed offer and expressive free-hand/listening beats. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 17,
+    "start": 77.3,
+    "end": 81.5,
+    "duration": 4.2,
+    "title": "Threat / recoil / backward foot plants",
+    "frames": 126,
+    "action_beats": [
+      {
+        "action": "threat reaction",
+        "start": 74.95,
+        "end": 76.9,
+        "cause_contact_followthrough": "Attention/neck/torso and knee response follows the caller onset; free hand protects chest while the device stays attached."
+      },
+      {
+        "action": "back away",
+        "start": 77,
+        "end": 77.6,
+        "cause_contact_followthrough": "Two actual backward steps clear the nightstand; world root moves deeper into the room."
+      },
+      {
+        "action": "fear hold",
+        "start": 77.6,
+        "end": 80,
+        "cause_contact_followthrough": "Both feet settle; ear contact remains fixed as attention stays toward the window."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Short posture-family reactions.",
+    "repair": "Caller-aligned recoil, world-space planted backward steps and maintained phone/head contact.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_17_0b856d73acf9.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_17_previews_f3c81a4b0165_playback.json",
+    "final_evidence": "reports/scene_17_final_0b856d73acf9_playback.json",
+    "review_note": "Caller-aligned recoil, world-space planted backward steps and maintained phone/head contact. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  },
+  {
+    "scene": 18,
+    "start": 81.5,
+    "end": 86,
+    "duration": 4.5,
+    "title": "Final choice",
+    "frames": 135,
+    "action_beats": [
+      {
+        "action": "preserved choice graphics",
+        "start": 80,
+        "end": 86,
+        "cause_contact_followthrough": "No new character action claimed. Preserve A/B design, timed reveal and narration; rain background remains animated."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "baseline_problem": "Graphic end card, intentionally no physical action.",
+    "repair": "Preserve existing choice design; 4.5-second ending remains readable.",
+    "status": "motion-reviewed-HD-candidate",
+    "artistic_approval": "not approved by user",
+    "source_gate": true,
+    "preview_gate": true,
+    "normal_playback_gate": true,
+    "frame_review_gate": true,
+    "technical_gate": true,
+    "replacement": "renders/final/scene_18_75140776c38f.mp4",
+    "audit": "ANIMATION_FAILURE_AUDIT.md",
+    "previews_evidence": "reports/scene_18_previews_ee98ca56d498_playback.json",
+    "final_evidence": "reports/scene_18_final_75140776c38f_playback.json",
+    "review_note": "Preserve existing choice design; 4.5-second ending remains readable. Current preview and HD normal/half-speed videos reviewed; artistic approval remains pending."
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "scene": 14,
+  "start": 61.4,
+  "end": 65.4,
+  "duration": 4.0,
+  "title": "Three upper stair steps",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "upper flight and trailing foot",
+      "start": 59.35,
+      "end": 60.85,
+      "cause_contact_followthrough": "Seven more .18 m risers complete 2.7 m floor rise; opposite foot follows onto the landing."
+    },
+    {
+      "action": "approach window",
+      "start": 60.85,
+      "end": 61.35,
+      "cause_contact_followthrough": "Three deliberate foot moves from actual stair landing to the curtain; nightstand is outside the route."
+    },
+    {
+      "action": "reach / fabric grip / pull",
+      "start": 61.35,
+      "end": 62.35,
+      "cause_contact_followthrough": "Right hand grips the actual curtain edge; two sidesteps transfer weight as folds lag the hand."
+    },
+    {
+      "action": "look / fear / release",
+      "start": 61.65,
+      "end": 63,
+      "cause_contact_followthrough": "Eyes lead the turn toward the real black sedan outside the registered upper facade window; body recoils and hand releases."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

@@ -1,0 +1,29 @@
+{
+  "scene": 16,
+  "start": 69.4,
+  "end": 77.3,
+  "duration": 7.9,
+  "title": "Phone acquisition / lift / million-dollar offer",
+  "frames": 237,
+  "action_beats": [
+    {
+      "action": "offer reaction",
+      "start": 67.7,
+      "end": 69.1,
+      "cause_contact_followthrough": "Knees flex, torso withdraws, free palm reaches the chest; phone grip follows the head."
+    },
+    {
+      "action": "window glance / temptation",
+      "start": 69.05,
+      "end": 72.4,
+      "cause_contact_followthrough": "Eyes lead a return glance; free hand opens into a restrained hesitation gesture and returns."
+    },
+    {
+      "action": "listening hold",
+      "start": 72.4,
+      "end": 74,
+      "cause_contact_followthrough": "Purposeful held suspense with breathing; no unrelated arm waving or zoom substitute."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

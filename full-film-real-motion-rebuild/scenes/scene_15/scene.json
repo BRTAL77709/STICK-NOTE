@@ -1,0 +1,29 @@
+{
+  "scene": 15,
+  "start": 65.4,
+  "end": 69.4,
+  "duration": 4.0,
+  "title": "Curtain grip / reveal / reaction",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "ring / attention",
+      "start": 63.1,
+      "end": 63.6,
+      "cause_contact_followthrough": "Device vibrates on its support; eyes turn before the head."
+    },
+    {
+      "action": "reach / grip / lift",
+      "start": 63.6,
+      "end": 64.95,
+      "cause_contact_followthrough": "Left hand contacts before the phone leaves its table; size/angle change continuously with the lift."
+    },
+    {
+      "action": "answer / listen",
+      "start": 64.95,
+      "end": 67,
+      "cause_contact_followthrough": "Elbow flexes to place the panel against the ear-side face point below the cap; no temple-level hold."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

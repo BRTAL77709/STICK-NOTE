@@ -1,0 +1,41 @@
+{
+  "ended": true,
+  "rate": 1,
+  "mediaTime": 4,
+  "wallTime": 4.0015,
+  "totalFrames": 120,
+  "droppedFrames": 1,
+  "corruptedFrames": 0,
+  "scene": 7,
+  "stage": "final",
+  "path": "renders/final/scene_07_27b0a3bc46e6.mp4",
+  "frames": 120,
+  "size": [
+    1080,
+    1920
+  ],
+  "fingerprint": "27b0a3bc46e6",
+  "samples": [
+    0.033333,
+    0.233333,
+    0.433333,
+    0.633333,
+    0.833333,
+    1.033333,
+    1.233333,
+    1.433333,
+    1.633333,
+    1.833333,
+    2.033333,
+    2.233333,
+    2.433333,
+    2.633333,
+    2.833333,
+    3.033333,
+    3.233333,
+    3.433333,
+    3.633333,
+    3.833333
+  ],
+  "visual_approval": "requires inspection; never inferred from playback metrics"
+}

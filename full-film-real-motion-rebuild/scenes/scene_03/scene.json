@@ -1,0 +1,17 @@
+{
+  "scene": 3,
+  "start": 8.0,
+  "end": 12.0,
+  "duration": 4,
+  "title": "Something wrong",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "discovery and braking",
+      "start": 8.03,
+      "end": 12,
+      "cause_contact_followthrough": "Leftward eyes/head/shoulders coordinate with the actual alley side; longitudinal load follows deceleration. No empty-road insert."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

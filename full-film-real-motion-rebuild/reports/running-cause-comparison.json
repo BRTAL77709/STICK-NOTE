@@ -1,0 +1,12 @@
+{
+  "rejected": {
+    "max_horizontal_root_to_planted_foot_m": 0.46912877003788955,
+    "median_pelvis_height_above_root_m": 0.45069767441860464,
+    "steady_stride_max_horizontal_offset_m": 0.46912877003785747
+  },
+  "rebuild": {
+    "max_horizontal_root_to_planted_foot_m": 0.4904606375590856,
+    "median_pelvis_height_above_root_m": 0.6514311350421739,
+    "steady_stride_max_horizontal_offset_m": 0.19304974367331182
+  }
+}

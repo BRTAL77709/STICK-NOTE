@@ -1,0 +1,5 @@
+# Existing free local dependencies
+
+Actual versions are in reports/runtime-versions.json. Rendering uses Python/NumPy/Pillow and ctypes access to librsvg2/Cairo; encoding and inspection use FFmpeg/ffprobe/libx264. Browser reviews use Chromium and Playwright. Composition uses local HyperFrames0.8.226/GSAP3.15, supplied DejaVu fonts and existing phrase WAVs.
+
+No paid endpoint, hosted render, new speech model, GitHub clone or new package installation is required by this execution. Binary runtimes/model weights are not redistributed. To reproduce in a different environment, install compatible free tools and set HYPERFRAMES_CLI and HYPERFRAMES_BROWSER_PATH as appropriate. Build.sh refuses an existing output filename and requires current proof/source/scene/composition gates. Existing legacy export/validation helpers are retained for history; current checks are validate_proofs.py, gate_proofs.py, validate_master_motion.py, validate_source.py, validate_media.py and verify_composited_subjects.py.

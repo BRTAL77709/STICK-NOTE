@@ -1,0 +1,17 @@
+{
+  "scene": 5,
+  "start": 18.0,
+  "end": 24.0,
+  "duration": 6,
+  "title": "The trunk",
+  "frames": 180,
+  "action_beats": [
+    {
+      "action": "approved V10 open/lift/load",
+      "start": 18,
+      "end": 24,
+      "cause_contact_followthrough": "Existing hinged trunk, bent-knee effort, victim inertia and depth occlusion; no picture/source changes."
+    }
+  ],
+  "physical_source": "engine/animation/v10_trunk.py"
+}

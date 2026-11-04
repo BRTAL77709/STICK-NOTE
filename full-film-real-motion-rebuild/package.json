@@ -1,0 +1,12 @@
+{
+  "name": "price-of-silence-real-motion-rebuild",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "hyperframes": "0.8.226"
+  },
+  "scripts": {
+    "check": "hyperframes check hyperframes --json",
+    "render": "sh build.sh"
+  }
+}

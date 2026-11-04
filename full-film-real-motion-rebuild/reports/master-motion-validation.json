@@ -1,0 +1,21 @@
+{
+  "ok": true,
+  "samples_120Hz": 10321,
+  "velocity_position_max_error_mps": 1.9714663288539214e-06,
+  "wheel_distance_identity": true,
+  "driver_limb_max_error_px": 2.5579538487363607e-13,
+  "toe_contact_global": 28.75,
+  "pressure_and_car_acceleration_start": 28.9,
+  "after38_route_max_change_m": 0.0,
+  "baseline_files_unchanged": 1039,
+  "new_scene_boundaries": [
+    61.4,
+    65.4,
+    69.4,
+    77.3,
+    81.5,
+    86
+  ],
+  "stair_visibility": "Three complete upper risers; lower flight elided by a narrative cut, not represented as a visible complete ascent.",
+  "artistic_approval": "pending"
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "ended": true,
+    "rate": 1,
+    "duration": 3,
+    "wallTime": 3.0015,
+    "totalFrames": 90,
+    "dropped": 0,
+    "corrupted": 0,
+    "sample_times": [
+      0.033333,
+      0.2,
+      0.366667,
+      0.533333,
+      0.7,
+      0.866667,
+      1.033333,
+      1.2,
+      1.366667,
+      1.533333,
+      1.7,
+      1.866667,
+      2.033333,
+      2.2,
+      2.366667,
+      2.533333,
+      2.7,
+      2.866667
+    ],
+    "path": "proofs/A/MOTION_PROOF_A_ACCELERATOR_preview_9a1134d481.mp4"
+  },
+  {
+    "ended": true,
+    "rate": 0.5,
+    "duration": 3,
+    "wallTime": 6.00139999999851,
+    "totalFrames": 180,
+    "dropped": 0,
+    "corrupted": 0,
+    "sample_times": [
+      0,
+      0.166667,
+      0.333333,
+      0.5,
+      0.666667,
+      0.833333,
+      1,
+      1.166667,
+      1.333333,
+      1.5,
+      1.666667,
+      1.833333,
+      2,
+      2.166667,
+      2.333333,
+      2.5,
+      2.666667,
+      2.833333
+    ],
+    "path": "proofs/A/MOTION_PROOF_A_ACCELERATOR_preview_9a1134d481.mp4"
+  }
+]

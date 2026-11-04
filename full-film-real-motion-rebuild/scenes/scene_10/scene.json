@@ -1,0 +1,17 @@
+{
+  "scene": 10,
+  "start": 42.0,
+  "end": 47.0,
+  "duration": 5,
+  "title": "Safe?",
+  "frames": 150,
+  "action_beats": [
+    {
+      "action": "slow and search",
+      "start": 42,
+      "end": 46.6,
+      "cause_contact_followthrough": "Street geometry stays connected; speed actually falls; mirror search followed by visible release of shoulder/head tension."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

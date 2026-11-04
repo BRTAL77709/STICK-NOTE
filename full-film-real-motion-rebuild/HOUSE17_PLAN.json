@@ -1,0 +1,57 @@
+{
+  "coordinate_system": "house_site.W plus door_world; metres; doorway depth positive into house",
+  "site_house_front_x": -7.2,
+  "porch_floor_y": 0.15,
+  "door": {
+    "width": 1,
+    "height": 2.1,
+    "hinge": "local x=0,z=0",
+    "open_degrees": 72
+  },
+  "upper_floor_y_relative": 2.7,
+  "stairs": {
+    "total_risers": 15,
+    "riser_m": 0.18,
+    "unshown_lower_risers": 12,
+    "visible_upper_risers": 3,
+    "visible_tread_m": 0.38,
+    "visible_start_floor_y": 2.16,
+    "upper_floor_y": 2.7,
+    "visible_projection": "physical_proofs.stair_state.project",
+    "door_local_registration": [
+      -1.97,
+      0,
+      1.3375
+    ],
+    "direction": [
+      1,
+      0,
+      0
+    ],
+    "global_visible_start": 61.4,
+    "trailing_foot_landing": 65.12,
+    "global_visible_end": 65.4,
+    "continuity": "Lower flight elided; upper steps fully animated. Final feet seed curtain approach."
+  },
+  "window": {
+    "x_range": [
+      -2.2,
+      -1.05
+    ],
+    "y_range": [
+      3.7,
+      5.3
+    ],
+    "z": 0,
+    "matches": "existing amber upper-left facade window"
+  },
+  "phone_stand": {
+    "center_x": -0.05,
+    "center_z": 0.65,
+    "width": 0.5,
+    "depth": 0.4,
+    "height": 0.75,
+    "phone_owner": "left hand; curtain uses right"
+  },
+  "status": "Active source plan; physical proof checks and preview reviews complete"
+}

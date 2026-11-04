@@ -1,0 +1,7 @@
+{
+  "finding": "All scene videos were marked data-layout-ignore, excluding them from HyperFrames composition motion signatures.",
+  "implementation_reference": "hyperframes/dist/commands/motion-signature.browser.js: IGNORE_SELECTOR, compositionSignature, mediaPixelChannel, mediaTimeParts",
+  "correction": "Replace broad ignore with data-layout-allow-overlap and data-layout-allow-caption-zone. No data-hold or decorative motion added.",
+  "independent_delivery_check": "verify_composited_subjects.py compares decoded actual subject regions against exact raw scene frame indices.",
+  "scope": "Checker liveness alone cannot certify physical acting quality."
+}

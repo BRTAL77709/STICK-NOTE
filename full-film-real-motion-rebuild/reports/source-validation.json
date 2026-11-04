@@ -1,0 +1,200 @@
+{
+  "ok": true,
+  "source_frames": 2580,
+  "HD_scenes": [
+    {
+      "scene": 1,
+      "path": "renders/final/scene_01_e9b4203963aa.mp4",
+      "frames": 120,
+      "content_sha": "61a2979ecad47047d6cc23901d5ed732b9e8d84bdbe80aa139cbdf806f406aca",
+      "video_sha256": "1fc65ee41923266e16e47d3621173b7152d0cdf7e2d65968f0a34cb102749bae"
+    },
+    {
+      "scene": 2,
+      "path": "renders/final/scene_02_acc21cf2d690.mp4",
+      "frames": 120,
+      "content_sha": "30da148feffac3eed49a186d6fbac14cffc6646d9f8ff9e2c6986790bcc4cd9d",
+      "video_sha256": "41eb139d780e85ab97a2644aa364de3a16b27b0c4e87f94ec6c5b7ad01175457"
+    },
+    {
+      "scene": 3,
+      "path": "renders/final/scene_03_a704c910a702.mp4",
+      "frames": 120,
+      "content_sha": "ed08c6f26747e8febc50120ea6efe752e5ab70fd7174f4ec1f7f8cda7a2783c2",
+      "video_sha256": "dfe99810f86b3142c231770351cc0998907051d15896236b2c02f31fa9367191"
+    },
+    {
+      "scene": 4,
+      "path": "renders/final/scene_04_3ca0da84eb9d.mp4",
+      "frames": 180,
+      "content_sha": "f6e60de7905308cd7415b021dccc285663e592e9c8d0d76ef672a7be0f93ee14",
+      "video_sha256": "9c3a47849e10d5a39f8cfb003c3b2ddc01ebffbdb365a54638a517914b44aaa2"
+    },
+    {
+      "scene": 5,
+      "path": "renders/final/scene_05_2d1b6e7ab453.mp4",
+      "frames": 180,
+      "content_sha": "b7ec589d4ebea5076aa099c82210d1f3b1f4e97172d9eccf06c5828fe99bc0e5",
+      "video_sha256": "89f840cb4def41cc95813ba8325169019077f1a5a471664dd7d6f027e7330c79"
+    },
+    {
+      "scene": 6,
+      "path": "renders/final/scene_06_1a3bd81677b1.mp4",
+      "frames": 120,
+      "content_sha": "f0f7d829a68acbf7ed4d28fe4f5741627aab9454c78aa670b639827f16ed7acd",
+      "video_sha256": "28147bdb3ea7f30027f90abf0749f446a32cf6c1013954c3f71ba7c82efd4b8e"
+    },
+    {
+      "scene": 7,
+      "path": "renders/final/scene_07_fdb8a481d2ed.mp4",
+      "frames": 120,
+      "content_sha": "87eb0aecd698b451129c93cd266c85a0411ae87445c2d9d5be1c407abdb602ae",
+      "video_sha256": "764e70636ac6c49369d185c608c55c2d03b9de3b6536f9597d9b6888733c9683"
+    },
+    {
+      "scene": 8,
+      "path": "renders/final/scene_08_bae03bf8fd55.mp4",
+      "frames": 150,
+      "content_sha": "8b258e7d5333009f41fda8fe1dd1569ac631db3923e336fc72f9b7ae88a03e78",
+      "video_sha256": "e662ddce2cc14cc97346317ce1c119372bf7131f40c556b28d05ecc092b262e9"
+    },
+    {
+      "scene": 9,
+      "path": "renders/final/scene_09_40dd31333e4c.mp4",
+      "frames": 150,
+      "content_sha": "2114be5947c9178576dd5ff504b8fa6b11f0e9fd189b50d0e4f962b0163a800e",
+      "video_sha256": "b0a83306628a95ca90ca2a339702a8c69c9da5ff54ca71e7a63a9358c0002167"
+    },
+    {
+      "scene": 10,
+      "path": "renders/final/scene_10_e6fdee4cc3c0.mp4",
+      "frames": 150,
+      "content_sha": "47ef4906851f87d7d4a7716cc2700b8960e50a3a487a1e4b1a05593e27760810",
+      "video_sha256": "3a93244c3a079967a92a9d557266b73081b91a537f9ba1b197f81e6445189624"
+    },
+    {
+      "scene": 11,
+      "path": "renders/final/scene_11_a1cb10757ccf.mp4",
+      "frames": 120,
+      "content_sha": "84c3f1d2fd7a1633474142a00ee2e6c63e5def5c1a1eb161c7edf6bad9271a38",
+      "video_sha256": "124cad5764bad19a19e03fc2f1316f8a2ed58df8925e4ce7c762697502c477a2"
+    },
+    {
+      "scene": 12,
+      "path": "renders/final/scene_12_46b2bf13280a.mp4",
+      "frames": 180,
+      "content_sha": "cd2bb601257209e8b87bfcbcf4c2fd844a1e79d5b6cbbdd7929d5469b54f30fe",
+      "video_sha256": "c40eff498d2e3712e1a91e45888b692863c3f5a1512be992a03d02100066f7ca"
+    },
+    {
+      "scene": 13,
+      "path": "renders/final/scene_13_119334daf52d.mp4",
+      "frames": 132,
+      "content_sha": "a7eeefb04d48801fbc2da6c608b666e55c3fbc431e674a6e6850612922ae25ea",
+      "video_sha256": "09d477935f9253a83b2159f429c1a72adfe6be10834c314f09bbf967a5c312a6"
+    },
+    {
+      "scene": 14,
+      "path": "renders/final/scene_14_ad24bf77d3ea.mp4",
+      "frames": 120,
+      "content_sha": "cfa7cdb371e2c909986df4485350b2778702b7fa4148bab72e5ba61866547776",
+      "video_sha256": "884a9d5df16f58c33b966ae1a89d6ac73a13dc48193616b5ae7c95729a9f3ccd"
+    },
+    {
+      "scene": 15,
+      "path": "renders/final/scene_15_d2d80260635e.mp4",
+      "frames": 120,
+      "content_sha": "43c58f4060005c73c9a5be3e7b812bb455797a16b73ee598ca71cc630fc25a9b",
+      "video_sha256": "82fd4ce78fbe800c9709dc17b2cecbb29ee243aeef77cc06254f05ead6ac69c9"
+    },
+    {
+      "scene": 16,
+      "path": "renders/final/scene_16_c8f1de038ab6.mp4",
+      "frames": 237,
+      "content_sha": "0d04be8359b909784fd120dbbaea1bf0e9626a9f2523b62435ac18740ed92e1b",
+      "video_sha256": "b27a181ea82d14b0cdf7a02622e3a3938d1f12fb84596189faccf2b1c296388c"
+    },
+    {
+      "scene": 17,
+      "path": "renders/final/scene_17_0b856d73acf9.mp4",
+      "frames": 126,
+      "content_sha": "981acfd51ac9da260829baeb9c6a0a866f7ff28ec8acf8ef4c6e7f52a7bdf373",
+      "video_sha256": "28cc021d97768562af41b7d915eb6eaafe61f65bd1d118555f893a28fffcebef"
+    },
+    {
+      "scene": 18,
+      "path": "renders/final/scene_18_75140776c38f.mp4",
+      "frames": 135,
+      "content_sha": "57f2c8d59993389ec761edcf505020197bfb089ebf2127efa261e08ba39a3219",
+      "video_sha256": "a236dca0678289ae1592c8a9b48c5d48d8303df182a33f5962284ec2815ef19d"
+    }
+  ],
+  "baseline_files_unchanged": 1039,
+  "V10_frames_preserved": 480,
+  "contact_cues": 82,
+  "narration_phrases": 30,
+  "active_sources_sha256": {
+    "engine/api.py": "4b3a9a47dcc39019240d68d7908238ac5d4afe7529c15f3c8b1d162c3fcd1971",
+    "engine/lighting/streetlights.py": "6c24885262035e8661b62248c8885a229b9b042913b9974b6e5dcd29e86b6907",
+    "engine/environments/house17.py": "5a3be05a7b75e33eeadaf1ee36693f821d7d3428b48014ef2e1d2ea468e6b4eb",
+    "engine/environments/city.py": "de2e172bf0d05b7318319c1f25aa1c8e87453b3eb76aed4c7c1a97c6f9322304",
+    "engine/graphics/design.py": "e88b9a1e1c32c66b06724997c548dfb54456d6d549f765786ae0b62bfb49d085",
+    "engine/audio/voice.py": "3bef555e15aa3a7beae671147adc4ce9d49aaf80f4993fc08688b6572eb3ae93",
+    "engine/audio/mix.py": "4681e33f39b498138672eb1e19ee63aa1388c099942158c8dacc7f527a659856",
+    "engine/audio/mix_rebuild.py": "061927f9658dd538a8c81d6e0bd024786d3a31ab0270a573675a77e354bae3fa",
+    "engine/particles/rain.py": "3ce62d983cd780f18acb0309511a8e7d77c2b5a759230fe7bb7202b367a81eff",
+    "engine/composition/scene_builder.py": "d61c1dccf6b2c4605772c349493c8b06d00b20c5e0543a793c786ed009c352b5",
+    "engine/composition/scene_sources.py": "d9fd4a4a745aacff7ea146a3d13347f587d8b93774f5006b95861a8ba905e82f",
+    "engine/characters/witness.py": "a48d13ca0796a8704ba94ac2676b9ea246ec1c28fc7439aaecee4de7e8d8eb96",
+    "engine/animation/driving.py": "1696ecf6be51504c764cc82a175e29946346a535edc3c58ff48a0d691232a82d",
+    "engine/animation/house17.py": "5409a694df4fda14e35996fe1dc93ed5c2b24e4d674acf833ff7c886500478f2",
+    "engine/animation/articulated.py": "4f9889d2d10ab72f903553a0d73795a33af2b8742827ddc44994e7880a48abbf",
+    "engine/animation/world.py": "441cc67281cff03154c8f9190e5504a885cc39ee72caea51400887e06a1f774f",
+    "engine/animation/film_components.py": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "engine/animation/scene_declarations.py": "6a19b156e4efa3dd16590333d52b276e2c2bce0282700d8a55119936a7007c0b",
+    "engine/animation/house_actions.py": "e4d968929511a592cb7adbf8bb549e52fe027e3c56b0ae162900becff94e9e55",
+    "engine/animation/actor.py": "2f6b35579eecb329680243bbcefd4b53c19f17911763e17e7d86cf41629eb0fe",
+    "engine/animation/stairs_actions.py": "8ba9086762bb122956fcd275a29f0c241abff74c79029c1ecc31fb11053d5256",
+    "engine/animation/driver_rig.py": "a14e28f4321753bce9506bd32620b163d60bd29338a6c44b554d7418b205a03a",
+    "engine/animation/choreography.py": "785fd3b694e3f6355551f06b32d447c74596ebfe8f16f1dca653af1126e45f9f",
+    "engine/animation/room_actions.py": "948afab1001ffb883cc62faae3eab42275a14fdf9510ebf876edd12f068fab8e",
+    "engine/animation/v10_trunk.py": "995bae2fece7d1c0a7d19eebbb8ff2432be173bce38f3902680aed7965a4d7fa",
+    "engine/animation/film_performance.py": "2859bc63c35fb87df20c70564b309227369e09216c55fabc33fb33eadbe21128",
+    "engine/animation/vehicle.py": "5183dc17f1b2af50de63346a6a98f51a2830279d548fb8dee152ce05501d4dff",
+    "engine/animation/render_base.py": "da060d793856320280e7f2cca395d4e3f91b46c8de931f709b1827c0d490b731",
+    "engine/animation/approved_components.py": "adc1a4f31e13cb79bfbf614845a913bfbdb02ee1dcf9537b976d049478c496c8",
+    "engine/animation/physical_proofs.py": "e4dbdf33e67f65768424bb91a88918207fb954c8f2b0b10908cfb96af5618761",
+    "engine/animation/illustration_engine.py": "ca59e73908bf1cb5cb4b373144c0ff00f68528e262898249a7d621cb3d7c2a2c",
+    "engine/animation/motion_state.py": "56bd2618be636b3e927c17aee7dafc288c2dc21f7fa3981291a543f0129eafa1",
+    "engine/animation/house_site.py": "dee85fd4ff1b7264d59aff2eecdb4d76153a2f734cecba0989f6fa169c324a75",
+    "engine/camera/projection.py": "51fbcffd79206848a881271acb402fc3ae5bb83f03b5c690e838877ff9f26a17",
+    "engine/vehicles/sedan.py": "82f82570ee3d19ab4e883c955770b267c7bcfc00baa0eaa3359eaee72416f86c",
+    "engine/physics/contacts.py": "de70eef2e6044acfc4a6c28cb074e74bafa5d8476b636f4ad56f4ac6c1c16843",
+    "scenes/scene_05/scene.py": "ef69af79c680f62de5316e6d120f30e8c0e487f8c1efc54c01a6ca7631c5495d",
+    "scenes/scene_01/scene.py": "d185e902048f5709b2b1eb80a74a572880b45a29883116dfea0726af51b40845",
+    "scenes/scene_15/scene.py": "d59f2a82fdfe295dbe68203a73aa43a01e0da87e2a4b71a65d2b968f07b9e205",
+    "scenes/scene_03/scene.py": "f00b759ad2ae59e7a7a59713a615f496f71f1be4bae9597f230f443fb45e1e7a",
+    "scenes/scene_02/scene.py": "8c91f9e3494aaa461d913255477d364d38a4e019f378a699f79a9c1ca30f31bf",
+    "scenes/scene_06/scene.py": "362b6c995b9ad4ddb9ae853284b4a2b6256247e18777c8ce23edcc943032996f",
+    "scenes/scene_18/scene.py": "180c9b857f1351ad23ff80a2aba700ba65436c3695274374dbd8de1d045c02d1",
+    "scenes/scene_04/scene.py": "473f256ba506a2b6a2561f5de4743b74c83f23de414b013abd013e7f1bcd6e92",
+    "scenes/scene_10/scene.py": "0d0702049ae3c137371bbc2f80bd5f886b3b8855e4188ac6ecd0fcd5c28123bb",
+    "scenes/scene_14/scene.py": "1a7b36287448d8b6ed9209be71f170925ff176c3e8298d623582b7631c68c406",
+    "scenes/scene_08/scene.py": "97695c3b8f07a414d4ba9ee92c3ee4335861244e742c86f2f27e5f74a5d5a481",
+    "scenes/scene_09/scene.py": "09ad1dd8d1fc837b92254e9543a2950a3f8d355fd453df43c522ed93967474e4",
+    "scenes/scene_11/scene.py": "df1fa9b1de5d33e8d6d02225cf260f955f075367e91f9e3d07a04f216e8866ca",
+    "scenes/scene_13/scene.py": "ef8419232ace31c076d3e31cbf0617fbde2741529fcb0cd8df2fb79844b21a0a",
+    "scenes/scene_07/scene.py": "1b2fa6a56f26887c2de23043b1d1618fed71dfed6370490fae44a3b5aee9c860",
+    "scenes/scene_12/scene.py": "7849d7e9bdcf9631466fcb6161058de99a22592407a131bb4ced17f4d01f98c9",
+    "scenes/scene_16/scene.py": "d1d99ab6d33ff948e8c245c5e3b457aacb416a2634eb4cb6e991c39aa4da4f17",
+    "scenes/scene_17/scene.py": "5edf0d7e065b1eedb5242ae6b9ad9f15aa1c8f8b2481b119d2e9be3819b65e90",
+    "storyboard.json": "557c5ea9783aca99e7fd229a857b04526eb384a47654e8748ee56f262f222906",
+    "narration-timing.json": "05e0e3800078d04edd47fcc3746a9af0baaf0218edfcec3e0630f71b2a4aa2c4",
+    "CONTACT_SOUND_CUES.json": "59b2e2daaaa58cdeea04c5e4a65da37ed172e36e7e6bcf766e562669346a2770",
+    "AUDIO_OUTPUT.json": "603f78c0168a122b72949ae3ac7a88eee39adcc6084b0de28038be09e7b8e065",
+    "HOUSE17_PLAN.json": "534cb038186fa7a6708a3f813315fb2a4a5a9b83995c1ae225cf7eb4fe8ce902"
+  },
+  "stair_visibility": "Three upper risers; lower flight elided.",
+  "artistic_approval": "pending user review",
+  "listening_verified": false
+}

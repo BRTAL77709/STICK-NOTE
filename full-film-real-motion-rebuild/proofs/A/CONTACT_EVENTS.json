@@ -1,0 +1,32 @@
+[
+  {
+    "time": 0,
+    "frame": 0,
+    "event": "anticipation"
+  },
+  {
+    "time": 0.25,
+    "frame": 8,
+    "event": "foot approach"
+  },
+  {
+    "time": 0.75,
+    "frame": 23,
+    "event": "toe contact and heel plant"
+  },
+  {
+    "time": 0.9,
+    "frame": 27,
+    "event": "pressure begins"
+  },
+  {
+    "time": 1.9,
+    "frame": 57,
+    "event": "full pressure completion"
+  },
+  {
+    "time": 2.3,
+    "frame": 69,
+    "event": "partial release / body follow-through"
+  }
+]

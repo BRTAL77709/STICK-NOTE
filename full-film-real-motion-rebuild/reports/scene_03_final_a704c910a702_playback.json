@@ -1,0 +1,41 @@
+{
+  "ended": true,
+  "rate": 1,
+  "mediaTime": 4,
+  "wallTime": 4.011400000002235,
+  "totalFrames": 120,
+  "droppedFrames": 1,
+  "corruptedFrames": 0,
+  "scene": 3,
+  "stage": "final",
+  "path": "renders/final/scene_03_a704c910a702.mp4",
+  "frames": 120,
+  "size": [
+    1080,
+    1920
+  ],
+  "fingerprint": "a704c910a702",
+  "samples": [
+    0.033333,
+    0.233333,
+    0.433333,
+    0.633333,
+    0.833333,
+    1.033333,
+    1.233333,
+    1.433333,
+    1.633333,
+    1.833333,
+    2.033333,
+    2.233333,
+    2.433333,
+    2.633333,
+    2.833333,
+    3.033333,
+    3.233333,
+    3.433333,
+    3.633333,
+    3.833333
+  ],
+  "visual_approval": "requires inspection; never inferred from playback metrics"
+}

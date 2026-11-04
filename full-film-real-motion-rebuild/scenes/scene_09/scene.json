@@ -1,0 +1,23 @@
+{
+  "scene": 9,
+  "start": 37.0,
+  "end": 42.0,
+  "duration": 5,
+  "title": "Escape",
+  "frames": 150,
+  "action_beats": [
+    {
+      "action": "corner anticipation and steering",
+      "start": 37,
+      "end": 40,
+      "cause_contact_followthrough": "View forward, then articulated arms turn the wheel; neck and torso respond to corner load."
+    },
+    {
+      "action": "exterior corner",
+      "start": 40,
+      "end": 42,
+      "cause_contact_followthrough": "Both full car bounds remain in frame; camera remains outside buildings. Wheels, rack and heading share the physical trajectory."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

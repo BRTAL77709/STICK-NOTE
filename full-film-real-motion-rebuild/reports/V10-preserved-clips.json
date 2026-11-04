@@ -1,0 +1,44 @@
+[
+  {
+    "scene": 4,
+    "stage": "previews",
+    "path": "renders/previews/scene_04_db2f4c736f90.mp4",
+    "sha256": "6d1637aca7113aa27c69e94405448828cf67caae81297f60597afa10bc1cd0ce",
+    "baseline_bytes_match": true
+  },
+  {
+    "scene": 4,
+    "stage": "final",
+    "path": "renders/final/scene_04_3ca0da84eb9d.mp4",
+    "sha256": "9c3a47849e10d5a39f8cfb003c3b2ddc01ebffbdb365a54638a517914b44aaa2",
+    "baseline_bytes_match": true
+  },
+  {
+    "scene": 5,
+    "stage": "previews",
+    "path": "renders/previews/scene_05_96f947e0b949.mp4",
+    "sha256": "34b7b44f0935d4cf4c7337a3980993aeb88c1ed51360d874d8378ebad63d8615",
+    "baseline_bytes_match": true
+  },
+  {
+    "scene": 5,
+    "stage": "final",
+    "path": "renders/final/scene_05_2d1b6e7ab453.mp4",
+    "sha256": "89f840cb4def41cc95813ba8325169019077f1a5a471664dd7d6f027e7330c79",
+    "baseline_bytes_match": true
+  },
+  {
+    "scene": 6,
+    "stage": "previews",
+    "path": "renders/previews/scene_06_e5d1b3808479.mp4",
+    "sha256": "76f9acd771db43688bb43e155e25cf6ad0a33e0a328276750ac2034e2200c299",
+    "baseline_bytes_match": true
+  },
+  {
+    "scene": 6,
+    "stage": "final",
+    "path": "renders/final/scene_06_1a3bd81677b1.mp4",
+    "sha256": "28147bdb3ea7f30027f90abf0749f446a32cf6c1013954c3f71ba7c82efd4b8e",
+    "baseline_bytes_match": true
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "scene": 2,
+  "start": 4.0,
+  "end": 8.0,
+  "duration": 4,
+  "title": "The driver",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "mirror attention",
+      "start": 4.47,
+      "end": 6.65,
+      "cause_contact_followthrough": "Eyes lead head by .25s; shoulders follow; both hands remain on the steering rim throughout."
+    },
+    {
+      "action": "return to road",
+      "start": 5.88,
+      "end": 8,
+      "cause_contact_followthrough": "Head and rib cage settle while the vehicle continues through real projected landmarks."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

@@ -1,0 +1,75 @@
+{
+  "A": {
+    "samples": 361,
+    "toe_contact_max_error_rig_units": 1.1368683772161603e-13,
+    "limb_length_max_error_rig_units": 2.8421709430404007e-13,
+    "toe_approach_distance_rig_units": 63.374648686774016,
+    "pedal_rotation_deg": 24.000000000000004,
+    "shoe_rotation_deg": 19.63091582348881,
+    "fixed_heel_after_contact": true
+  },
+  "B": {
+    "samples": 481,
+    "world_travel_m": 18.0,
+    "speed_start_end_mps": [
+      2.0,
+      7.0
+    ],
+    "heading_change_deg": -15.052851808803943,
+    "car_center_screen_start_end": [
+      [
+        540.0,
+        997.2271824131502
+      ],
+      [
+        393.0318054289929,
+        965.515054369358
+      ]
+    ],
+    "HUD": false,
+    "wheels_match_distance": true
+  },
+  "D": {
+    "samples": 481,
+    "3D_limb_lengths_m": [
+      0.4,
+      0.4
+    ],
+    "fixed_planted_toe_max_displacement_m": 0.0,
+    "swept_shoe_min_clearance_m": -0.00010644563406386753,
+    "sole_height_start_end_m": [
+      [
+        0,
+        0
+      ],
+      [
+        0.54,
+        0.54
+      ]
+    ],
+    "pelvis_world_rise_m": 0.5400000000000001,
+    "stairs": 3,
+    "camera": "fixed",
+    "toe_off_rotation_deg": 14
+  },
+  "C": {
+    "hand_contact_max_error_px": 5.684341886080802e-14,
+    "planted_foot_max_displacement_m": 0.0,
+    "samples": 1081,
+    "camera": "fixed through proof",
+    "max_hinge_deg": 72.0,
+    "key_axis_alignment_error_m": 0.0,
+    "key_tip_insertion_depth_m": 0.049999999999999996,
+    "shaft_length_m": 0.13,
+    "key_turn_degrees": 90.0,
+    "entry_completed_before_hold": true
+  },
+  "E": {
+    "hand_contact_max_error_px": 0.0,
+    "planted_foot_max_displacement_m": 0.0,
+    "samples": 481,
+    "camera": "fixed through proof",
+    "max_hinge_deg": null
+  },
+  "approval": "Technical contact/trajectory checks only. Normal/slow playback and visual inspection are separate; artistic approval belongs to user."
+}

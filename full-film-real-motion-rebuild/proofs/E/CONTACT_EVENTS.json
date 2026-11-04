@@ -1,0 +1,42 @@
+[
+  {
+    "time": 0,
+    "frame": 0,
+    "event": "approach"
+  },
+  {
+    "time": 0.6,
+    "frame": 18,
+    "event": "arm reach"
+  },
+  {
+    "time": 1.15,
+    "frame": 35,
+    "event": "fabric grip"
+  },
+  {
+    "time": 1.45,
+    "frame": 44,
+    "event": "eyes begin tracking reveal"
+  },
+  {
+    "time": 1.65,
+    "frame": 50,
+    "event": "head rotation follows eyes"
+  },
+  {
+    "time": 2.7,
+    "frame": 81,
+    "event": "pull completion"
+  },
+  {
+    "time": 2.95,
+    "frame": 89,
+    "event": "grip release / fabric follow-through"
+  },
+  {
+    "time": 4,
+    "frame": 120,
+    "event": "fear settles"
+  }
+]

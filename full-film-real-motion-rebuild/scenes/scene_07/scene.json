@@ -1,0 +1,23 @@
+{
+  "scene": 7,
+  "start": 28.0,
+  "end": 32.0,
+  "duration": 4,
+  "title": "Panic",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "accelerator pressure",
+      "start": 28.55,
+      "end": 30,
+      "cause_contact_followthrough": "Fixed heel, rigid shoe, ankle and leg IK; ball rolls on the hinged pedal. Same modeled throttle drives RPM."
+    },
+    {
+      "action": "acceleration response",
+      "start": 30,
+      "end": 32,
+      "cause_contact_followthrough": "Seated shoulders and head respond to actual acceleration; environment travel continues."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

@@ -1,0 +1,35 @@
+{
+  "scene": 13,
+  "start": 57,
+  "end": 61.4,
+  "duration": 4.4,
+  "title": "Open / enter / close / lock",
+  "frames": 132,
+  "action_beats": [
+    {
+      "action": "complete entry",
+      "start": 55,
+      "end": 55.36,
+      "cause_contact_followthrough": "World feet carry the body through a doorway taller/wider than the approved rig; camera switches after the body crosses inside."
+    },
+    {
+      "action": "close / latch / lock / check",
+      "start": 55.35,
+      "end": 57.18,
+      "cause_contact_followthrough": "Inside hand pulls the same hinged leaf; thumbturn and wrist rotate together; lever check releases into spring return."
+    },
+    {
+      "action": "hall step and lower flight",
+      "start": 57.05,
+      "end": 58.85,
+      "cause_contact_followthrough": "Visible departure seeds the exact first stair stance; pelvis rises after tread contact, rail grip slides on the sloping rail."
+    },
+    {
+      "action": "landing turn",
+      "start": 58.85,
+      "end": 59.35,
+      "cause_contact_followthrough": "World feet cross the U-turn landing while head/torso attention reverses; continues across scene boundary."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

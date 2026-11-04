@@ -1,0 +1,920 @@
+{
+  "ok": true,
+  "checks": [
+    {
+      "scene": 1,
+      "frame": 12,
+      "time": 0.4,
+      "source_frame": 12,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.453020064724919,
+      "frozen_first_frame_error": 11.34390291262136,
+      "source_change_from_first": 9.975519741100324,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 1,
+      "frame": 33,
+      "time": 1.1,
+      "source_frame": 33,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.3930122977346278,
+      "frozen_first_frame_error": 14.359207766990291,
+      "source_change_from_first": 13.090309385113269,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 1,
+      "frame": 60,
+      "time": 2.0,
+      "source_frame": 60,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.381756634304207,
+      "frozen_first_frame_error": 19.009065372168283,
+      "source_change_from_first": 18.50680129449838,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 1,
+      "frame": 87,
+      "time": 2.9,
+      "source_frame": 87,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.3419766990291264,
+      "frozen_first_frame_error": 16.346629126213593,
+      "source_change_from_first": 15.766135922330097,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 2,
+      "frame": 147,
+      "time": 4.9,
+      "source_frame": 27,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.044126860841424,
+      "frozen_first_frame_error": 9.651426537216828,
+      "source_change_from_first": 8.548166990291262,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 2,
+      "frame": 159,
+      "time": 5.3,
+      "source_frame": 39,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.904969579288026,
+      "frozen_first_frame_error": 14.398401294498381,
+      "source_change_from_first": 13.865286731391587,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 3,
+      "frame": 252,
+      "time": 8.4,
+      "source_frame": 12,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.023118446601942,
+      "frozen_first_frame_error": 11.898596763754046,
+      "source_change_from_first": 11.364063430420712,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 3,
+      "frame": 276,
+      "time": 9.2,
+      "source_frame": 36,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9041346278317153,
+      "frozen_first_frame_error": 15.757952103559871,
+      "source_change_from_first": 15.013685436893203,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 4,
+      "frame": 375,
+      "time": 12.5,
+      "source_frame": 15,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 1.3719354166666666,
+      "frozen_first_frame_error": 1.7181989583333332,
+      "source_change_from_first": 0.808584375,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 5,
+      "frame": 555,
+      "time": 18.5,
+      "source_frame": 15,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 1.4031291666666668,
+      "frozen_first_frame_error": 3.833359375,
+      "source_change_from_first": 2.890440625,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 6,
+      "frame": 735,
+      "time": 24.5,
+      "source_frame": 15,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 1.3634239583333334,
+      "frozen_first_frame_error": 2.7941052083333333,
+      "source_change_from_first": 1.80435625,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 6,
+      "frame": 825,
+      "time": 27.5,
+      "source_frame": 105,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 1.494196875,
+      "frozen_first_frame_error": 17.173023958333335,
+      "source_change_from_first": 17.395170833333335,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 7,
+      "frame": 846,
+      "time": 28.2,
+      "source_frame": 6,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9120699029126214,
+      "frozen_first_frame_error": 1.910946278317152,
+      "source_change_from_first": 0.030801294498381877,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 7,
+      "frame": 864,
+      "time": 28.8,
+      "source_frame": 24,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9123119741100323,
+      "frozen_first_frame_error": 3.6997644012944986,
+      "source_change_from_first": 1.9983443365695792,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 7,
+      "frame": 885,
+      "time": 29.5,
+      "source_frame": 45,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9581644012944983,
+      "frozen_first_frame_error": 7.517576699029126,
+      "source_change_from_first": 6.1029411003236245,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 7,
+      "frame": 900,
+      "time": 30.0,
+      "source_frame": 60,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9357928802588997,
+      "frozen_first_frame_error": 8.545132686084143,
+      "source_change_from_first": 7.172687378640776,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 7,
+      "frame": 921,
+      "time": 30.7,
+      "source_frame": 81,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9411663430420711,
+      "frozen_first_frame_error": 8.13817216828479,
+      "source_change_from_first": 6.746691262135922,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 8,
+      "frame": 975,
+      "time": 32.5,
+      "source_frame": 15,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.321778640776699,
+      "frozen_first_frame_error": 14.325575404530744,
+      "source_change_from_first": 13.900713268608413,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 8,
+      "frame": 1002,
+      "time": 33.4,
+      "source_frame": 42,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.4519339805825244,
+      "frozen_first_frame_error": 14.61342783171521,
+      "source_change_from_first": 14.18528932038835,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 8,
+      "frame": 1059,
+      "time": 35.3,
+      "source_frame": 99,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.439515857605178,
+      "frozen_first_frame_error": 13.615708737864077,
+      "source_change_from_first": 12.89096569579288,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 9,
+      "frame": 1140,
+      "time": 38.0,
+      "source_frame": 30,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9168388349514562,
+      "frozen_first_frame_error": 10.353711326860841,
+      "source_change_from_first": 9.373317799352751,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 9,
+      "frame": 1185,
+      "time": 39.5,
+      "source_frame": 75,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.9068168284789644,
+      "frozen_first_frame_error": 18.48768932038835,
+      "source_change_from_first": 17.942490614886733,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 9,
+      "frame": 1215,
+      "time": 40.5,
+      "source_frame": 105,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.299095145631068,
+      "frozen_first_frame_error": 25.81238705501618,
+      "source_change_from_first": 26.080230420711974,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 10,
+      "frame": 1275,
+      "time": 42.5,
+      "source_frame": 15,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 2.261313915857605,
+      "frozen_first_frame_error": 10.986088025889968,
+      "source_change_from_first": 10.100445307443366,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 10,
+      "frame": 1365,
+      "time": 45.5,
+      "source_frame": 105,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1480
+      ],
+      "mean_abs_error_255": 1.8606343042071198,
+      "frozen_first_frame_error": 26.070480258899675,
+      "source_change_from_first": 25.7387857605178,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 11,
+      "frame": 1448,
+      "time": 48.266666666666666,
+      "source_frame": 38,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.2217822916666665,
+      "frozen_first_frame_error": 19.724816666666666,
+      "source_change_from_first": 18.918805208333332,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 11,
+      "frame": 1482,
+      "time": 49.4,
+      "source_frame": 72,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.1780614583333335,
+      "frozen_first_frame_error": 15.831532291666667,
+      "source_change_from_first": 14.879670833333334,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 11,
+      "frame": 1506,
+      "time": 50.2,
+      "source_frame": 96,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 1.937784375,
+      "frozen_first_frame_error": 18.580253125,
+      "source_change_from_first": 17.935670833333333,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 12,
+      "frame": 1548,
+      "time": 51.6,
+      "source_frame": 18,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.0862322916666667,
+      "frozen_first_frame_error": 3.8386479166666665,
+      "source_change_from_first": 1.9902760416666667,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 12,
+      "frame": 1566,
+      "time": 52.2,
+      "source_frame": 36,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.111040625,
+      "frozen_first_frame_error": 7.329258333333334,
+      "source_change_from_first": 5.700948958333333,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 12,
+      "frame": 1605,
+      "time": 53.5,
+      "source_frame": 75,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.1010635416666665,
+      "frozen_first_frame_error": 3.833347916666667,
+      "source_change_from_first": 2.0463010416666667,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 12,
+      "frame": 1641,
+      "time": 54.7,
+      "source_frame": 111,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.0973729166666666,
+      "frozen_first_frame_error": 5.128523958333333,
+      "source_change_from_first": 3.395253125,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 12,
+      "frame": 1665,
+      "time": 55.5,
+      "source_frame": 135,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.1011052083333333,
+      "frozen_first_frame_error": 5.756902083333333,
+      "source_change_from_first": 4.051798958333333,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 12,
+      "frame": 1695,
+      "time": 56.5,
+      "source_frame": 165,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.091059375,
+      "frozen_first_frame_error": 3.209432291666667,
+      "source_change_from_first": 1.4329354166666666,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 13,
+      "frame": 1722,
+      "time": 57.4,
+      "source_frame": 12,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.128633333333333,
+      "frozen_first_frame_error": 6.956070833333333,
+      "source_change_from_first": 5.311608333333333,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 13,
+      "frame": 1755,
+      "time": 58.5,
+      "source_frame": 45,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.1313229166666665,
+      "frozen_first_frame_error": 13.9505625,
+      "source_change_from_first": 12.67439375,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 13,
+      "frame": 1782,
+      "time": 59.4,
+      "source_frame": 72,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.1440145833333335,
+      "frozen_first_frame_error": 12.741486458333334,
+      "source_change_from_first": 11.391078125,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 13,
+      "frame": 1815,
+      "time": 60.5,
+      "source_frame": 105,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.074867708333333,
+      "frozen_first_frame_error": 12.822801041666667,
+      "source_change_from_first": 11.685370833333334,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 14,
+      "frame": 1845,
+      "time": 61.5,
+      "source_frame": 3,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.004847916666667,
+      "frozen_first_frame_error": 3.2788145833333333,
+      "source_change_from_first": 1.3955479166666667,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 14,
+      "frame": 1872,
+      "time": 62.4,
+      "source_frame": 30,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 1.9933020833333333,
+      "frozen_first_frame_error": 8.201539583333334,
+      "source_change_from_first": 6.596129166666667,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 14,
+      "frame": 1911,
+      "time": 63.7,
+      "source_frame": 69,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.1235510416666665,
+      "frozen_first_frame_error": 15.1284625,
+      "source_change_from_first": 13.774015625,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 14,
+      "frame": 1944,
+      "time": 64.8,
+      "source_frame": 102,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.0319854166666667,
+      "frozen_first_frame_error": 14.628827083333332,
+      "source_change_from_first": 13.39171875,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 14,
+      "frame": 1959,
+      "time": 65.3,
+      "source_frame": 117,
+      "subject_crop": [
+        40,
+        450,
+        1040,
+        1730
+      ],
+      "mean_abs_error_255": 2.045398958333333,
+      "frozen_first_frame_error": 14.479479166666666,
+      "source_change_from_first": 13.227667708333334,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 15,
+      "frame": 1965,
+      "time": 65.5,
+      "source_frame": 3,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.2293309523809524,
+      "frozen_first_frame_error": 8.904592857142857,
+      "source_change_from_first": 7.294490476190476,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 15,
+      "frame": 1992,
+      "time": 66.4,
+      "source_frame": 30,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.2941,
+      "frozen_first_frame_error": 14.478439285714286,
+      "source_change_from_first": 12.992413095238096,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 15,
+      "frame": 2025,
+      "time": 67.5,
+      "source_frame": 63,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.2064214285714288,
+      "frozen_first_frame_error": 17.76605119047619,
+      "source_change_from_first": 16.45999880952381,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 15,
+      "frame": 2061,
+      "time": 68.7,
+      "source_frame": 99,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1450916666666666,
+      "frozen_first_frame_error": 18.826788095238093,
+      "source_change_from_first": 17.60975119047619,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2094,
+      "time": 69.8,
+      "source_frame": 12,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1572964285714287,
+      "frozen_first_frame_error": 3.801469047619048,
+      "source_change_from_first": 1.886925,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2121,
+      "time": 70.7,
+      "source_frame": 39,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1539595238095237,
+      "frozen_first_frame_error": 8.839035714285714,
+      "source_change_from_first": 7.116071428571429,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2145,
+      "time": 71.5,
+      "source_frame": 63,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.133367857142857,
+      "frozen_first_frame_error": 6.245653571428571,
+      "source_change_from_first": 4.464078571428572,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2172,
+      "time": 72.4,
+      "source_frame": 90,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1396738095238095,
+      "frozen_first_frame_error": 5.851340476190476,
+      "source_change_from_first": 4.0238,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2202,
+      "time": 73.4,
+      "source_frame": 120,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1425964285714287,
+      "frozen_first_frame_error": 8.465940476190477,
+      "source_change_from_first": 6.715260714285714,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2244,
+      "time": 74.8,
+      "source_frame": 162,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.122147619047619,
+      "frozen_first_frame_error": 5.587842857142857,
+      "source_change_from_first": 3.800790476190476,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 16,
+      "frame": 2295,
+      "time": 76.5,
+      "source_frame": 213,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1223738095238094,
+      "frozen_first_frame_error": 6.138,
+      "source_change_from_first": 4.350673809523809,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 17,
+      "frame": 2328,
+      "time": 77.6,
+      "source_frame": 9,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.1510654761904764,
+      "frozen_first_frame_error": 2.7886035714285713,
+      "source_change_from_first": 0.8525547619047619,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 17,
+      "frame": 2376,
+      "time": 79.2,
+      "source_frame": 57,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.144233333333333,
+      "frozen_first_frame_error": 8.346052380952381,
+      "source_change_from_first": 6.613035714285714,
+      "matches_current_subject": true
+    },
+    {
+      "scene": 17,
+      "frame": 2418,
+      "time": 80.6,
+      "source_frame": 99,
+      "subject_crop": [
+        40,
+        540,
+        1040,
+        1660
+      ],
+      "mean_abs_error_255": 2.0996214285714285,
+      "frozen_first_frame_error": 9.653872619047618,
+      "source_change_from_first": 8.077615476190477,
+      "matches_current_subject": true
+    }
+  ],
+  "file_sha256": "7ca515faf87d6b31e8ad72aed62bdc7d09ba0a5b2ee447a336eaa60c63d857c1",
+  "criterion": "MAE <4/255; when source change >=2/255, correct frame must beat frozen control by >half the actual source change. This uses an additive codec-noise margin rather than halving total error, which includes re-encoding noise.",
+  "scope": "Decoded subject crop fidelity; not a subjective acting/animation grade. Captions/counter regions excluded."
+}

@@ -1,0 +1,169 @@
+{
+  "duration": 86,
+  "fps": 30,
+  "final_export_allowed": true,
+  "scenes": [
+    {
+      "scene": 1,
+      "start": 0.0,
+      "end": 4.0,
+      "duration": 4,
+      "path": "renders/final/scene_01_e9b4203963aa.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 2,
+      "start": 4.0,
+      "end": 8.0,
+      "duration": 4,
+      "path": "renders/final/scene_02_acc21cf2d690.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 3,
+      "start": 8.0,
+      "end": 12.0,
+      "duration": 4,
+      "path": "renders/final/scene_03_a704c910a702.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 4,
+      "start": 12.0,
+      "end": 18.0,
+      "duration": 6,
+      "path": "renders/final/scene_04_3ca0da84eb9d.mp4",
+      "replacement_validated": true,
+      "status": "preserved-approved-V10"
+    },
+    {
+      "scene": 5,
+      "start": 18.0,
+      "end": 24.0,
+      "duration": 6,
+      "path": "renders/final/scene_05_2d1b6e7ab453.mp4",
+      "replacement_validated": true,
+      "status": "preserved-approved-V10"
+    },
+    {
+      "scene": 6,
+      "start": 24.0,
+      "end": 28.0,
+      "duration": 4,
+      "path": "renders/final/scene_06_1a3bd81677b1.mp4",
+      "replacement_validated": true,
+      "status": "preserved-approved-V10"
+    },
+    {
+      "scene": 7,
+      "start": 28.0,
+      "end": 32.0,
+      "duration": 4,
+      "path": "renders/final/scene_07_fdb8a481d2ed.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 8,
+      "start": 32.0,
+      "end": 37.0,
+      "duration": 5,
+      "path": "renders/final/scene_08_bae03bf8fd55.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 9,
+      "start": 37.0,
+      "end": 42.0,
+      "duration": 5,
+      "path": "renders/final/scene_09_40dd31333e4c.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 10,
+      "start": 42.0,
+      "end": 47.0,
+      "duration": 5,
+      "path": "renders/final/scene_10_e6fdee4cc3c0.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 11,
+      "start": 47.0,
+      "end": 51.0,
+      "duration": 4,
+      "path": "renders/final/scene_11_a1cb10757ccf.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 12,
+      "start": 51,
+      "end": 57,
+      "duration": 6,
+      "path": "renders/final/scene_12_46b2bf13280a.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 13,
+      "start": 57,
+      "end": 61.4,
+      "duration": 4.4,
+      "path": "renders/final/scene_13_119334daf52d.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 14,
+      "start": 61.4,
+      "end": 65.4,
+      "duration": 4.0,
+      "path": "renders/final/scene_14_ad24bf77d3ea.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 15,
+      "start": 65.4,
+      "end": 69.4,
+      "duration": 4.0,
+      "path": "renders/final/scene_15_d2d80260635e.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 16,
+      "start": 69.4,
+      "end": 77.3,
+      "duration": 7.9,
+      "path": "renders/final/scene_16_c8f1de038ab6.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 17,
+      "start": 77.3,
+      "end": 81.5,
+      "duration": 4.2,
+      "path": "renders/final/scene_17_0b856d73acf9.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    },
+    {
+      "scene": 18,
+      "start": 81.5,
+      "end": 86,
+      "duration": 4.5,
+      "path": "renders/final/scene_18_75140776c38f.mp4",
+      "replacement_validated": true,
+      "status": "motion-reviewed-HD-candidate"
+    }
+  ]
+}

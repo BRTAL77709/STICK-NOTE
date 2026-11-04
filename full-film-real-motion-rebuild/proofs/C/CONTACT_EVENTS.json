@@ -1,0 +1,92 @@
+[
+  {
+    "time": 0,
+    "frame": 0,
+    "event": "anticipation / reach"
+  },
+  {
+    "time": 0.6,
+    "frame": 18,
+    "event": "handle grip"
+  },
+  {
+    "time": 0.88,
+    "frame": 27,
+    "event": "lever rotated"
+  },
+  {
+    "time": 1.03,
+    "frame": 31,
+    "event": "failed pull force"
+  },
+  {
+    "time": 1.35,
+    "frame": 41,
+    "event": "recoil"
+  },
+  {
+    "time": 1.95,
+    "frame": 59,
+    "event": "key pocket reach"
+  },
+  {
+    "time": 2.65,
+    "frame": 80,
+    "event": "key retrieved"
+  },
+  {
+    "time": 3.15,
+    "frame": 95,
+    "event": "key aligned"
+  },
+  {
+    "time": 3.65,
+    "frame": 110,
+    "event": "key inserted"
+  },
+  {
+    "time": 4.35,
+    "frame": 131,
+    "event": "key rotation reaches ninety degrees"
+  },
+  {
+    "time": 4.425,
+    "frame": 133,
+    "event": "lock releases"
+  },
+  {
+    "time": 5.1,
+    "frame": 153,
+    "event": "key withdrawn"
+  },
+  {
+    "time": 5.45,
+    "frame": 164,
+    "event": "key stored"
+  },
+  {
+    "time": 5.8,
+    "frame": 174,
+    "event": "handle regrip"
+  },
+  {
+    "time": 6.1,
+    "frame": 183,
+    "event": "hinge rotation begins"
+  },
+  {
+    "time": 6.65,
+    "frame": 200,
+    "event": "entry first step"
+  },
+  {
+    "time": 7.45,
+    "frame": 224,
+    "event": "door fully open"
+  },
+  {
+    "time": 8.5,
+    "frame": 255,
+    "event": "entry complete"
+  }
+]

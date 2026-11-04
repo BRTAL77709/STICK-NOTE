@@ -1,0 +1,6 @@
+{
+  "directory": "assets/audio-real-motion-v3",
+  "mix": "assets/audio-real-motion-v3/MIX_MASTER.flac",
+  "cue_source": "CONTACT_SOUND_CUES.json",
+  "listening_verified": false
+}

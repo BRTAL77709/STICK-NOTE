@@ -1,0 +1,52 @@
+[
+  {
+    "time": 0.18,
+    "frame": 6,
+    "event": "anticipation / lower pelvis"
+  },
+  {
+    "time": 0.6,
+    "frame": 18,
+    "event": "left swing"
+  },
+  {
+    "time": 1.18,
+    "frame": 36,
+    "event": "left tread 1 plant"
+  },
+  {
+    "time": 1.47,
+    "frame": 45,
+    "event": "pelvis transfer / right swing"
+  },
+  {
+    "time": 2.05,
+    "frame": 62,
+    "event": "right tread 2 plant"
+  },
+  {
+    "time": 2.35,
+    "frame": 71,
+    "event": "weight transfer / left swing"
+  },
+  {
+    "time": 2.93,
+    "frame": 88,
+    "event": "left tread 3 plant"
+  },
+  {
+    "time": 3.2,
+    "frame": 96,
+    "event": "right foot follows"
+  },
+  {
+    "time": 3.72,
+    "frame": 112,
+    "event": "both feet upper tread"
+  },
+  {
+    "time": 4,
+    "frame": 120,
+    "event": "settled"
+  }
+]

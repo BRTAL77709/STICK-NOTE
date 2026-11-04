@@ -1,0 +1,35 @@
+{
+  "scene": 12,
+  "start": 51,
+  "end": 57,
+  "duration": 6,
+  "title": "Locked door / key retrieval and unlock",
+  "frames": 180,
+  "action_beats": [
+    {
+      "action": "handle / locked pull / panic",
+      "start": 51,
+      "end": 52.0,
+      "cause_contact_followthrough": "Foot settling, reach, lever grip/turn, locked pull, shoulder/neck recoil, then pocket search."
+    },
+    {
+      "action": "key retrieval / alignment / insertion",
+      "start": 52.0,
+      "end": 52.72,
+      "cause_contact_followthrough": "Rigid key remains on the same palm; pocket mask reveals it; shaft rotates from hanging to lock alignment."
+    },
+    {
+      "action": "unlock / neutral return / withdrawal / storage",
+      "start": 52.76,
+      "end": 53.55,
+      "cause_contact_followthrough": "Wrist and ring rotate; lock releases; key returns neutral before extraction; opposite palm braces the frame."
+    },
+    {
+      "action": "handle and opening",
+      "start": 53.55,
+      "end": 55,
+      "cause_contact_followthrough": "Empty hand returns to handle; lever moves only under grip; palm slides onto the leaf as the hinge opens. Entry starts visibly."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

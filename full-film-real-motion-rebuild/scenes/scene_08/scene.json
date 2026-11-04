@@ -1,0 +1,23 @@
+{
+  "scene": 8,
+  "start": 32.0,
+  "end": 37.0,
+  "duration": 5,
+  "title": "Pursuit",
+  "frames": 150,
+  "action_beats": [
+    {
+      "action": "merge and pursuit",
+      "start": 32,
+      "end": 35,
+      "cause_contact_followthrough": "Both cars move in world coordinates; flush alley apron under the actual crossing tire positions; common painter depth queue."
+    },
+    {
+      "action": "mirror confirmation",
+      "start": 35,
+      "end": 37,
+      "cause_contact_followthrough": "The real following car closes its gap; reflection shares the actual vehicle state."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

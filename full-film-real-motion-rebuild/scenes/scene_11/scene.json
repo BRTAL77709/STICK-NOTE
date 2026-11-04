@@ -1,0 +1,29 @@
+{
+  "scene": 11,
+  "start": 47.0,
+  "end": 51.0,
+  "duration": 4,
+  "title": "House 17",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "stop",
+      "start": 47,
+      "end": 48,
+      "cause_contact_followthrough": "Car reaches zero speed before door opening."
+    },
+    {
+      "action": "exit and door handoff",
+      "start": 48.02,
+      "end": 49.14,
+      "cause_contact_followthrough": "Hand contact precedes hinge movement; legs move from car floor to pavement, then body rises. Two hands hand off during closure."
+    },
+    {
+      "action": "run to entrance",
+      "start": 49.15,
+      "end": 50.99,
+      "cause_contact_followthrough": "Explicit alternating held foot anchors; curb ramp and contact splashes match actual footsteps. Arms settle into the next shot."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

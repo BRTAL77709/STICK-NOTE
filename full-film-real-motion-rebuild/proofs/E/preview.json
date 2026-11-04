@@ -1,0 +1,12 @@
+{
+  "kind": "E",
+  "path": "proofs/E/MOTION_PROOF_E_CURTAIN_preview_1a5cd876df.mp4",
+  "duration": 4.0,
+  "frames": 120,
+  "source_svg_sha256": "1a5cd876df18f6b814db508b43cb9438517e0251e053fd741add8eb3774c3e25",
+  "width": 360,
+  "height": 640,
+  "camera": "fixed / no cuts",
+  "HUD": false,
+  "audio": "silent to expose picture motion"
+}

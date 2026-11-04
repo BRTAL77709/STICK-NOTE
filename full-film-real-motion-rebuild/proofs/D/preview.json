@@ -1,0 +1,12 @@
+{
+  "kind": "D",
+  "path": "proofs/D/MOTION_PROOF_D_STAIRS_preview_0d2ffd2dc7.mp4",
+  "duration": 4.0,
+  "frames": 120,
+  "source_svg_sha256": "0d2ffd2dc7fcc3c7bd847010a2bf17b4183d6a9af42a8c7d9065f56e9278a6c1",
+  "width": 360,
+  "height": 640,
+  "camera": "fixed / no cuts",
+  "HUD": false,
+  "audio": "silent to expose picture motion"
+}

@@ -1,0 +1,17 @@
+{
+  "scene": 6,
+  "start": 24.0,
+  "end": 28.0,
+  "duration": 4,
+  "title": "They saw him",
+  "frames": 120,
+  "action_beats": [
+    {
+      "action": "approved V10 close/notice/turn",
+      "start": 24,
+      "end": 28,
+      "cause_contact_followthrough": "Latch precedes the side-to-front head turn; approved silhouette/cap/mask changes preserved."
+    }
+  ],
+  "physical_source": "engine/animation/v10_trunk.py"
+}

@@ -1,0 +1,29 @@
+{
+  "scene": 17,
+  "start": 77.3,
+  "end": 81.5,
+  "duration": 4.2,
+  "title": "Threat / recoil / backward foot plants",
+  "frames": 126,
+  "action_beats": [
+    {
+      "action": "threat reaction",
+      "start": 74.95,
+      "end": 76.9,
+      "cause_contact_followthrough": "Attention/neck/torso and knee response follows the caller onset; free hand protects chest while the device stays attached."
+    },
+    {
+      "action": "back away",
+      "start": 77,
+      "end": 77.6,
+      "cause_contact_followthrough": "Two actual backward steps clear the nightstand; world root moves deeper into the room."
+    },
+    {
+      "action": "fear hold",
+      "start": 77.6,
+      "end": 80,
+      "cause_contact_followthrough": "Both feet settle; ear contact remains fixed as attention stays toward the window."
+    }
+  ],
+  "physical_source": "engine/animation/film_performance.py"
+}

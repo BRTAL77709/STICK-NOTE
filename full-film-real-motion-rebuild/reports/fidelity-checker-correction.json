@@ -1,0 +1,43 @@
+{
+  "issue": "Initial frozen-control ratio test included re-encoding noise in its denominator. One low-motion door sample failed despite correct matching frame.",
+  "examined_encoded_frame": 1605,
+  "time": 53.5,
+  "neighbor_source_frames": [
+    {
+      "source_frame": 72,
+      "error": 2.78601875
+    },
+    {
+      "source_frame": 73,
+      "error": 2.6639385416666665
+    },
+    {
+      "source_frame": 74,
+      "error": 2.453303125
+    },
+    {
+      "source_frame": 75,
+      "error": 2.1010635416666665
+    },
+    {
+      "source_frame": 76,
+      "error": 2.439403125
+    },
+    {
+      "source_frame": 77,
+      "error": 2.6113697916666667
+    },
+    {
+      "source_frame": 78,
+      "error": 2.6930645833333333
+    }
+  ],
+  "best_matching_source_frame": 75,
+  "expected_source_frame": 75,
+  "correct_frame_MAE": 2.1010635416666665,
+  "frozen_frame_MAE": 3.833347916666667,
+  "actual_source_change": 2.0463010416666667,
+  "correction": "Require absolute MAE<4 and improvement over frozen control >half actual source change. Do not require halving total error, which includes codec noise.",
+  "video_changed": false,
+  "diagnostic_image": "reviews/fidelity-frame-53.5.jpg"
+}

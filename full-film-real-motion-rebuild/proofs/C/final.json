@@ -1,0 +1,12 @@
+{
+  "kind": "C",
+  "path": "proofs/C/MOTION_PROOF_C_DOOR_KEYS_final_ea39f8ecaf.mp4",
+  "duration": 9.0,
+  "frames": 270,
+  "source_svg_sha256": "ea39f8ecafa54bff550b13a07678e67d36e847f5beac7a571b24b7c82062e987",
+  "width": 1080,
+  "height": 1920,
+  "camera": "fixed / no cuts",
+  "HUD": false,
+  "audio": "silent to expose picture motion"
+}

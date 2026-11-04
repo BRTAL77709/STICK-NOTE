@@ -1,0 +1,13 @@
+{
+  "camera_time": 2,
+  "old_road_center_depth_m": 4.95,
+  "car_depth_m": 6.5,
+  "far_facade_actual_center_depth_m": 16.2,
+  "nearby_opposite_facades_queued_before_car": true,
+  "checked_world_z_range": [
+    0,
+    30
+  ],
+  "facades_checked": 3,
+  "limitation": "Whole-object painter ordering, not a full polygon depth buffer."
+}
