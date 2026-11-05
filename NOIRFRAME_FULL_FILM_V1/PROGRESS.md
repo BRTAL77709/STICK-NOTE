@@ -11,3 +11,5 @@ Full86-second MP4 rendered. Next: actual encoded validation, exact V10 frame com
 Final complete MP4 validated:86.000s/2580frames, all480 V10 frames identical, clean decode, no black frames. Actual full-speed playback ended at86s with0 drops/corruption; replacement slow pass also0 drops/corruption. Self-contained source package prepared; publication/download verification next.
 
 Self-contained fresh rebuild passed and its final MP4 SHA256 exactly matches the delivered file. No further rendering is needed; commit and actual public download verification remain.
+
+DELIVERED: complete movie and source published on work; all7 anonymous download checks passed with exact SHA256. See DELIVERY_VERIFIED.md. No further production work is pending for this version.

@@ -1,0 +1,68 @@
+{
+  "commit": "517829e1b06b8821812e1ee4190bc27cb8ea626e",
+  "verified": [
+    {
+      "path": "renders/THE_PRICE_OF_SILENCE_NOIRFRAME_COMPLETE_86s.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/renders/THE_PRICE_OF_SILENCE_NOIRFRAME_COMPLETE_86s.mp4",
+      "HTTP": 200,
+      "bytes": 16677566,
+      "sha256": "05838df3a154373bd54507b5fbc3d3030de2f6b0b5da6e351532bc132335136e",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/TECHNICAL_REPORT.md",
+      "HTTP": 200,
+      "bytes": 3612,
+      "sha256": "b7a3a2e2ffa64cae24892744c17f52c34966a4742a0e5f3aa1b8e1e5e7fa6a57",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "source/build_film.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/source/build_film.py",
+      "HTTP": 200,
+      "bytes": 7637,
+      "sha256": "69ab6dba6bdc28626e778aa2cce58a41d9adf08f40fb402ea35c589ee98d1c1f",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "source/rebuild.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/source/rebuild.py",
+      "HTTP": 200,
+      "bytes": 1113,
+      "sha256": "b206ca737fa17f16a944b775d8a613f6688a416b807df6ad9f0a34c8a234fc9f",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "EDIT_DECISION_LIST.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/EDIT_DECISION_LIST.json",
+      "HTTP": 200,
+      "bytes": 1888,
+      "sha256": "d0a2c66fac1df619d1ae912dcfd0b3172186a13a3348438ddcb722d784db4e71",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "blender/SHOT_B_NATIVE.blend",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/blender/SHOT_B_NATIVE.blend",
+      "HTTP": 200,
+      "bytes": 1219335,
+      "sha256": "4e50a5861d95a15a762af8f5b3d24b3afe46c4dfb2345995eb33411ffe73b2f1",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "blender/SHOT_C_NATIVE.blend",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/517829e1b06b8821812e1ee4190bc27cb8ea626e/NOIRFRAME_FULL_FILM_V1/blender/SHOT_C_NATIVE.blend",
+      "HTTP": 200,
+      "bytes": 743831,
+      "sha256": "05bef5d35cf563ca4ce9351754d1737ec7ef07e07676641002a4b3320f8fc5d3",
+      "matches_local": true,
+      "anonymous": true
+    }
+  ]
+}
