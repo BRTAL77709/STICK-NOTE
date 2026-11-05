@@ -1,0 +1,131 @@
+{
+  "commit": "42d688e2e62409e0c771d09b731b6453272858ab",
+  "verified": [
+    {
+      "path": "previews/STAIR_CONTACT_3s_M01_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/previews/STAIR_CONTACT_3s_M01_1080.mp4",
+      "HTTP": 200,
+      "bytes": 552697,
+      "sha256": "f2457ea678faf1394279b9cf06dc1ade7e59940d204a79d7e40b2ee5603d2d2d",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/KEY_HANDLE_3s_M01_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/previews/KEY_HANDLE_3s_M01_1080.mp4",
+      "HTTP": 200,
+      "bytes": 297532,
+      "sha256": "765906d00074789a97daf12dfe6f3c3f8b055319b7db825e1acab8c23ae3fba9",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/STEERING_TURN_4s_M01_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/previews/STEERING_TURN_4s_M01_1080.mp4",
+      "HTTP": 200,
+      "bytes": 807371,
+      "sha256": "e2e21e320c8f403b66b4d43188c68206b5e763784d5489abf955f239b7d707da",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "comparisons/STAIR_CONTACT_V12_vs_CONTACT_M01.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/comparisons/STAIR_CONTACT_V12_vs_CONTACT_M01.mp4",
+      "HTTP": 200,
+      "bytes": 453200,
+      "sha256": "1230a06c5a654b25caa71c9e729fb4606b0743de0ce155981b7f1e83ba783a9a",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "comparisons/KEY_HANDLE_V12_vs_CONTACT_M01.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/comparisons/KEY_HANDLE_V12_vs_CONTACT_M01.mp4",
+      "HTTP": 200,
+      "bytes": 299316,
+      "sha256": "57f1ccffb6302a57293f2a6e417e532717d63d0238b038c943599ef4ac664da2",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "comparisons/STEERING_TURN_V12_vs_CONTACT_M01.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/comparisons/STEERING_TURN_V12_vs_CONTACT_M01.mp4",
+      "HTTP": 200,
+      "bytes": 873480,
+      "sha256": "da8dffea18c9741f6d26e6e62bbe7cde6a8ed3ca29abdf457299efb83993fb40",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "MOTION_CONTACT_SOURCE_FINAL.zip",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/MOTION_CONTACT_SOURCE_FINAL.zip",
+      "HTTP": 200,
+      "bytes": 48347,
+      "sha256": "8120b9aeed7894f9c3161568ec34932e6b8396657949bff403ec100cf456f1ad",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/TECHNICAL_REPORT.md",
+      "HTTP": 200,
+      "bytes": 3904,
+      "sha256": "9cadd68c8bf408f744ef38d5f5ee3018a5f16cab0038e0d6376d2c344a4e3e99",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "REMAINING_FAILURES.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/REMAINING_FAILURES.md",
+      "HTTP": 200,
+      "bytes": 1956,
+      "sha256": "7e4eb77bd839c005b558c6ec6b19cf459c1c68a9f58a27c73f2663ae5e73f95d",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "SOURCE_CHANGES.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/SOURCE_CHANGES.md",
+      "HTTP": 200,
+      "bytes": 2989,
+      "sha256": "2c2d98477f53b2e71e69e07ece76a1da6d1c657846fb2d02d22e457c7f540aa7",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/README.md",
+      "HTTP": 200,
+      "bytes": 1286,
+      "sha256": "7f2ac4c20731330b1ee78bc2d048aa41b73357a7b1813f11829654958cad559e",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "CURRENT_SHOTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/CURRENT_SHOTS.json",
+      "HTTP": 200,
+      "bytes": 1230,
+      "sha256": "7dfb3d0a63ab11883b369996a619adc6738ab0d90721dcba044bc05f0d3a7041",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reports/FRAME_INSPECTION.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/reports/FRAME_INSPECTION.json",
+      "HTTP": 200,
+      "bytes": 2067,
+      "sha256": "bd35447c6fb4bee9ba376d408da6f6aacde24297a3fd9ceac86e48a403935dc9",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reports/CONTACT_VALIDATION_M01.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/42d688e2e62409e0c771d09b731b6453272858ab/NOIRFRAME_MOTION_SYSTEM_CORRECTION/reports/CONTACT_VALIDATION_M01.json",
+      "HTTP": 200,
+      "bytes": 2292,
+      "sha256": "af195e1aab63b0f0894dab4f373f112b14572879865b0820166637c5592b32ba",
+      "matches_local": true,
+      "anonymous": true
+    }
+  ]
+}
