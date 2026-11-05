@@ -1,0 +1,77 @@
+{
+  "inputs/BASELINE_86s.mp4": {
+    "origin": "full-film-real-motion-rebuild/renders/final/THE_PRICE_OF_SILENCE_REAL_MOTION_REBUILD_86s.mp4",
+    "sha256": "7ca515faf87d6b31e8ad72aed62bdc7d09ba0a5b2ee447a336eaa60c63d857c1",
+    "bytes": 14418254
+  },
+  "inputs/CLOSING_RAW.mp4": {
+    "origin": "full-film-real-motion-rebuild/renders/final/scene_13_119334daf52d.mp4",
+    "sha256": "09d477935f9253a83b2159f429c1a72adfe6be10834c314f09bbf967a5c312a6",
+    "bytes": 557018
+  },
+  "inputs/NATIVE_B.mp4": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_B_HOUSE17_PROOF_R1.mp4",
+    "sha256": "ddf011bf117a57fbe226e494f5a1439e4dbe4d46f42174216e09c37702a63c07",
+    "bytes": 2383362
+  },
+  "inputs/B_voice.wav": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v1/B_voice.wav",
+    "sha256": "f32baf951cfb93c3412769f1e2d81cdf46d8d7db2bdecd08d0162415193280c4",
+    "bytes": 748844
+  },
+  "inputs/B_foley.wav": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v2/B_foley.wav",
+    "sha256": "8cbcff072933b9f9473029c55ad451b0f03a499881887d66f470ebfb0f7e0c6c",
+    "bytes": 748844
+  },
+  "inputs/NATIVE_C.mp4": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_C_STAIRS_WINDOW_PROOF_R1.mp4",
+    "sha256": "a4ec82bf4e8ef36c8346afdd1ffbab71f1210eda6b3683ef5be2ac2003e4ec6c",
+    "bytes": 1488478
+  },
+  "inputs/C_voice.wav": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v1/C_voice.wav",
+    "sha256": "87cf5eb44eab7d30fd7fd8378011aabb7af819dd38ad4ba2d40e54c42a20f65f",
+    "bytes": 768044
+  },
+  "inputs/C_foley.wav": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v2/C_foley.wav",
+    "sha256": "915465fd2bbf78571d4cc1264ddd7bf449143c5b170f8fd4a76cebdb832ee59d",
+    "bytes": 768044
+  },
+  "inputs/BASELINE_NARRATOR.flac": {
+    "origin": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/NARRATOR.flac",
+    "sha256": "2c8a5daccfbd04729c9d3db28f6a440c7acc0255f65bd62f979d34638fc26f27",
+    "bytes": 1277367
+  },
+  "inputs/BASELINE_CALLER.flac": {
+    "origin": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/CALLER.flac",
+    "sha256": "109cda868b7243099f8e01d9f59a930b8747a4a7f64b05ad85fbba55f259477b",
+    "bytes": 202503
+  },
+  "inputs/BASELINE_FX.flac": {
+    "origin": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/FX.flac",
+    "sha256": "f773bc4d463f28939ba3f039a486bd7ddd7e00eefd5ada0461b7b4bfa0e9cc20",
+    "bytes": 8752812
+  },
+  "inputs/BASELINE_SCORE.flac": {
+    "origin": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/SCORE.flac",
+    "sha256": "e8bfee535192110c2fa4ce9759dd9cdb827a631a4e1797e70f1634d4b722add3",
+    "bytes": 1078746
+  },
+  "inputs/baseline_narration-timing.json": {
+    "origin": "full-film-real-motion-rebuild/narration-timing.json",
+    "sha256": "05e0e3800078d04edd47fcc3746a9af0baaf0218edfcec3e0630f71b2a4aa2c4",
+    "bytes": 7408
+  },
+  "inputs/native_narration-tests.json": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/audio/narration-tests.json",
+    "sha256": "4508b6c191ec56386a1b416d283066ede869121e53adaca7527ac704002839b8",
+    "bytes": 1484
+  },
+  "inputs/native_contact-cues.json": {
+    "origin": "NOIRFRAME_PRODUCTION_RESET/audio/contact-cues-v2.json",
+    "sha256": "c14a1002cf9457763d88e08ccd4cfa1284b9fad94effff243e2541daeb5eed28",
+    "bytes": 4628
+  }
+}

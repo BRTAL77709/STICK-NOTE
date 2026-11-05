@@ -1,0 +1,10 @@
+{
+  "self_contained_rebuild_completed": true,
+  "matches_delivered_sha256": true,
+  "sha256": "05838df3a154373bd54507b5fbc3d3030de2f6b0b5da6e351532bc132335136e",
+  "duration_s": 86.0,
+  "frames": 2580,
+  "V10_frames_identical": 480,
+  "reproduction_directory": "/workspace/STICK-NOTE/NOIRFRAME_FULL_FILM_REPRO_VERIFIED",
+  "notes": "A first check completed picture/audio generation but hit a missing progress-file bookkeeping error. The initializer was fixed; a fresh end-to-end rebuild then passed and produced the identical final MP4. Original workspace preservation is checked in FINAL_VALIDATION; standalone reproduction skips that workspace-only scan."
+}

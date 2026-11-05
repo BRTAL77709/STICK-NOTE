@@ -1,0 +1,290 @@
+[
+  {
+    "scene": 1,
+    "start": 0.3675999999999999,
+    "end": 1.6902666666666666,
+    "text": "Two seventeen.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_01_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 1,
+    "start": 1.8102666666666667,
+    "end": 3.388933333333333,
+    "text": "I thought I was alone.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_01_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 2,
+    "start": 4.8004,
+    "end": 6.379066666666667,
+    "text": "Four turns from home.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_02_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 3,
+    "start": 8.665999999999999,
+    "end": 10.692666666666666,
+    "text": "Then something moved in the alley.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_03_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 4,
+    "start": 12.9484,
+    "end": 13.887066666666666,
+    "text": "Two men.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_04_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 4,
+    "start": 14.007066666666667,
+    "end": 16.033733333333334,
+    "text": "Dragging someone who couldn't walk.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_04_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 5,
+    "start": 18.9036,
+    "end": 20.908933333333334,
+    "text": "They lifted him into the trunk.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_05_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 5,
+    "start": 21.028933333333335,
+    "end": 22.138266666666667,
+    "text": "I froze.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_05_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 6,
+    "start": 24.47,
+    "end": 25.70733333333333,
+    "text": "The lid shut.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_06_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 6,
+    "start": 25.827333333333332,
+    "end": 27.15,
+    "text": "Then he saw me.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_06_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 7,
+    "start": 28.883599999999998,
+    "end": 30.18493333333333,
+    "text": "I hit the gas.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_07_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 8,
+    "start": 32.9468,
+    "end": 35.03746666666667,
+    "text": "Those headlights turned when I did.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_08_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 9,
+    "start": 37.558800000000005,
+    "end": 39.39346666666667,
+    "text": "Every turn. Every street.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_09_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 9,
+    "start": 39.51346666666667,
+    "end": 40.942800000000005,
+    "text": "Still behind me.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_09_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 10,
+    "start": 42.6676,
+    "end": 44.05426666666666,
+    "text": "One last turn.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_10_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 10,
+    "start": 44.17426666666667,
+    "end": 45.68893333333333,
+    "text": "Nothing in the mirror.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_10_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 11,
+    "start": 47.7492,
+    "end": 49.498533333333334,
+    "text": "Home. Number seventeen.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_11_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "shot": "B",
+    "start": 51.150000000000006,
+    "end": 51.96066666666667,
+    "text": "Locked.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false,
+    "speaker": "narrator",
+    "asset": "native proof voice stem"
+  },
+  {
+    "shot": "B",
+    "start": 52.0,
+    "end": 54.05704166666667,
+    "text": "My hands wouldn't stop shaking.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false,
+    "speaker": "narrator",
+    "asset": "native proof voice stem"
+  },
+  {
+    "scene": 13,
+    "start": 59.3,
+    "end": 60.92133333333333,
+    "text": "Inside. I locked it.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_13_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "shot": "C",
+    "start": 61.699999999999996,
+    "end": 62.82575,
+    "text": "Upstairs.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false,
+    "speaker": "narrator",
+    "asset": "native proof voice stem"
+  },
+  {
+    "shot": "C",
+    "start": 67.65,
+    "end": 68.99416666666667,
+    "text": "It was still there.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false,
+    "speaker": "narrator",
+    "asset": "native proof voice stem"
+  },
+  {
+    "scene": 16,
+    "start": 72.5,
+    "end": 74.24933333333334,
+    "text": "One million dollars.",
+    "speaker": "caller",
+    "voice": "am_echo",
+    "asset": "assets/audio/scene_16_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 16,
+    "start": 74.36933333333333,
+    "end": 77.20666666666666,
+    "text": "All you have to do is forget what you saw.",
+    "speaker": "caller",
+    "voice": "am_echo",
+    "asset": "assets/audio/scene_16_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 17,
+    "start": 77.3,
+    "end": 79.56133333333334,
+    "text": "Call the police, and you'll regret it.",
+    "speaker": "caller",
+    "voice": "am_echo",
+    "asset": "assets/audio/scene_17_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 17,
+    "start": 79.68133333333333,
+    "end": 81.452,
+    "text": "We know where you live.",
+    "speaker": "caller",
+    "voice": "am_echo",
+    "asset": "assets/audio/scene_17_phrase_1.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 18,
+    "start": 81.95,
+    "end": 84.01933333333334,
+    "text": "A million dollars... or the police.",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_18_phrase_0.wav",
+    "sample_rate": 24000
+  },
+  {
+    "scene": 18,
+    "start": 84.13933333333333,
+    "end": 85.48333333333332,
+    "text": "What would you do?",
+    "speaker": "narrator",
+    "voice": "bm_daniel",
+    "asset": "assets/audio/scene_18_phrase_1.wav",
+    "sample_rate": 24000
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "full-film-real-motion-rebuild/renders/final/THE_PRICE_OF_SILENCE_REAL_MOTION_REBUILD_86s.mp4",
+    "bytes": 14418254,
+    "sha256": "7ca515faf87d6b31e8ad72aed62bdc7d09ba0a5b2ee447a336eaa60c63d857c1"
+  },
+  {
+    "path": "NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_B_HOUSE17_PROOF_R1.mp4",
+    "bytes": 2383362,
+    "sha256": "ddf011bf117a57fbe226e494f5a1439e4dbe4d46f42174216e09c37702a63c07"
+  },
+  {
+    "path": "NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_C_STAIRS_WINDOW_PROOF_R1.mp4",
+    "bytes": 1488478,
+    "sha256": "a4ec82bf4e8ef36c8346afdd1ffbab71f1210eda6b3683ef5be2ac2003e4ec6c"
+  },
+  {
+    "path": "full-film-real-motion-rebuild/renders/final/scene_13_119334daf52d.mp4",
+    "bytes": 557018,
+    "sha256": "09d477935f9253a83b2159f429c1a72adfe6be10834c314f09bbf967a5c312a6"
+  },
+  {
+    "path": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/NARRATOR.wav",
+    "bytes": 8256044,
+    "sha256": "3342035850585d6b3d730d3b23b4426d7162ea3ebaf1c2781b291cbb489a057e"
+  },
+  {
+    "path": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/CALLER.wav",
+    "bytes": 8256044,
+    "sha256": "7974eaedfa91e3822604f03cbf751351693088aa5387424f5ec4d88f79732b85"
+  },
+  {
+    "path": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/FX.wav",
+    "bytes": 16512044,
+    "sha256": "44270e46676b388d21b59e809505baae6e9b212ca5f03c3157a3644acba3ac6c"
+  },
+  {
+    "path": "full-film-real-motion-rebuild/assets/audio-real-motion-v3/SCORE.wav",
+    "bytes": 8256044,
+    "sha256": "52d7b7b0aad932efbeafea65dae264f9f2ef5a4c8bda17b2ad3615c444ced95e"
+  },
+  {
+    "path": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v1/B_voice.wav",
+    "bytes": 748844,
+    "sha256": "f32baf951cfb93c3412769f1e2d81cdf46d8d7db2bdecd08d0162415193280c4"
+  },
+  {
+    "path": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v1/C_voice.wav",
+    "bytes": 768044,
+    "sha256": "87cf5eb44eab7d30fd7fd8378011aabb7af819dd38ad4ba2d40e54c42a20f65f"
+  },
+  {
+    "path": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v2/B_foley.wav",
+    "bytes": 748844,
+    "sha256": "8cbcff072933b9f9473029c55ad451b0f03a499881887d66f470ebfb0f7e0c6c"
+  },
+  {
+    "path": "NOIRFRAME_PRODUCTION_RESET/audio/tests-v2/C_foley.wav",
+    "bytes": 768044,
+    "sha256": "915465fd2bbf78571d4cc1264ddd7bf449143c5b170f8fd4a76cebdb832ee59d"
+  }
+]

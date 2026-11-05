@@ -1,0 +1,369 @@
+[
+  {
+    "shot": "B",
+    "time": 0.4,
+    "event": "foot0 landing",
+    "world": [
+      -0.8324999999999998,
+      -0.74,
+      0.06
+    ],
+    "film_time": 49.6
+  },
+  {
+    "shot": "B",
+    "time": 0.8,
+    "event": "foot0 landing",
+    "world": [
+      0.055000000000000215,
+      -0.74,
+      0.06
+    ],
+    "film_time": 50.0
+  },
+  {
+    "shot": "B",
+    "time": 1.2,
+    "event": "foot0 landing",
+    "world": [
+      0.9425000000000001,
+      -0.74,
+      0.06
+    ],
+    "film_time": 50.400000000000006
+  },
+  {
+    "shot": "B",
+    "time": 1.6,
+    "event": "foot0 landing",
+    "world": [
+      1.75,
+      -0.42,
+      0.06
+    ],
+    "film_time": 50.800000000000004
+  },
+  {
+    "shot": "B",
+    "time": 5.3,
+    "event": "foot0 landing",
+    "world": [
+      1.68,
+      -0.1,
+      0.06
+    ],
+    "film_time": 54.5
+  },
+  {
+    "shot": "B",
+    "time": 5.866666666666666,
+    "event": "foot0 landing",
+    "world": [
+      1.68,
+      0.48,
+      0.06
+    ],
+    "film_time": 55.06666666666667
+  },
+  {
+    "shot": "B",
+    "time": 6.966666666666667,
+    "event": "foot0 landing",
+    "world": [
+      1.68,
+      1.1,
+      0.06
+    ],
+    "film_time": 56.16666666666667
+  },
+  {
+    "shot": "B",
+    "time": 0.2,
+    "event": "foot1 landing",
+    "world": [
+      -1.2762499999999999,
+      -0.52,
+      0.06
+    ],
+    "film_time": 49.400000000000006
+  },
+  {
+    "shot": "B",
+    "time": 0.6,
+    "event": "foot1 landing",
+    "world": [
+      -0.3887499999999999,
+      -0.52,
+      0.06
+    ],
+    "film_time": 49.800000000000004
+  },
+  {
+    "shot": "B",
+    "time": 1.0,
+    "event": "foot1 landing",
+    "world": [
+      0.4987500000000001,
+      -0.52,
+      0.06
+    ],
+    "film_time": 50.2
+  },
+  {
+    "shot": "B",
+    "time": 1.4,
+    "event": "foot1 landing",
+    "world": [
+      1.3862499999999998,
+      -0.52,
+      0.06
+    ],
+    "film_time": 50.6
+  },
+  {
+    "shot": "B",
+    "time": 1.8,
+    "event": "foot1 landing",
+    "world": [
+      1.55,
+      -0.46,
+      0.06
+    ],
+    "film_time": 51.0
+  },
+  {
+    "shot": "B",
+    "time": 5.566666666666666,
+    "event": "foot1 landing",
+    "world": [
+      1.38,
+      0.15,
+      0.06
+    ],
+    "film_time": 54.766666666666666
+  },
+  {
+    "shot": "B",
+    "time": 6.4,
+    "event": "foot1 landing",
+    "world": [
+      1.38,
+      0.8,
+      0.06
+    ],
+    "film_time": 55.6
+  },
+  {
+    "shot": "B",
+    "time": 7.466666666666667,
+    "event": "foot1 landing",
+    "world": [
+      1.38,
+      1.38,
+      0.06
+    ],
+    "film_time": 56.66666666666667
+  },
+  {
+    "shot": "B",
+    "time": 2.14,
+    "event": "failed handle pull",
+    "film_time": 51.34
+  },
+  {
+    "shot": "B",
+    "time": 2.78,
+    "event": "key retrieval",
+    "film_time": 51.980000000000004
+  },
+  {
+    "shot": "B",
+    "time": 3.06,
+    "event": "keyring tremor",
+    "film_time": 52.260000000000005
+  },
+  {
+    "shot": "B",
+    "time": 3.27,
+    "event": "keyring tremor",
+    "film_time": 52.470000000000006
+  },
+  {
+    "shot": "B",
+    "time": 3.84,
+    "event": "key insertion",
+    "film_time": 53.040000000000006
+  },
+  {
+    "shot": "B",
+    "time": 4.25,
+    "event": "lock unlock",
+    "film_time": 53.45
+  },
+  {
+    "shot": "B",
+    "time": 4.8,
+    "event": "latch release",
+    "film_time": 54.0
+  },
+  {
+    "shot": "C",
+    "time": 0.9,
+    "event": "foot0 landing",
+    "world": [
+      0.12,
+      -0.54,
+      0.26
+    ],
+    "film_time": 62.3
+  },
+  {
+    "shot": "C",
+    "time": 2.3,
+    "event": "foot0 landing",
+    "world": [
+      1.0,
+      -0.54,
+      0.66
+    ],
+    "film_time": 63.699999999999996
+  },
+  {
+    "shot": "C",
+    "time": 3.3333333333333335,
+    "event": "foot0 landing",
+    "world": [
+      1.55,
+      -0.54,
+      0.66
+    ],
+    "film_time": 64.73333333333333
+  },
+  {
+    "shot": "C",
+    "time": 3.8333333333333335,
+    "event": "foot0 landing",
+    "world": [
+      2.25,
+      -0.54,
+      0.66
+    ],
+    "film_time": 65.23333333333333
+  },
+  {
+    "shot": "C",
+    "time": 5.266666666666667,
+    "event": "foot0 landing",
+    "world": [
+      2.65,
+      -0.54,
+      0.66
+    ],
+    "film_time": 66.66666666666667
+  },
+  {
+    "shot": "C",
+    "time": 6.066666666666666,
+    "event": "foot0 landing",
+    "world": [
+      2.85,
+      -0.54,
+      0.66
+    ],
+    "film_time": 67.46666666666667
+  },
+  {
+    "shot": "C",
+    "time": 6.633333333333334,
+    "event": "foot0 landing",
+    "world": [
+      2.36,
+      -0.54,
+      0.66
+    ],
+    "film_time": 68.03333333333333
+  },
+  {
+    "shot": "C",
+    "time": 7.2,
+    "event": "foot0 landing",
+    "world": [
+      1.85,
+      -0.54,
+      0.66
+    ],
+    "film_time": 68.6
+  },
+  {
+    "shot": "C",
+    "time": 1.6,
+    "event": "foot1 landing",
+    "world": [
+      0.56,
+      -0.32,
+      0.46
+    ],
+    "film_time": 63.0
+  },
+  {
+    "shot": "C",
+    "time": 3.066666666666667,
+    "event": "foot1 landing",
+    "world": [
+      1.1,
+      -0.32,
+      0.66
+    ],
+    "film_time": 64.46666666666667
+  },
+  {
+    "shot": "C",
+    "time": 3.6,
+    "event": "foot1 landing",
+    "world": [
+      1.9,
+      -0.32,
+      0.66
+    ],
+    "film_time": 65.0
+  },
+  {
+    "shot": "C",
+    "time": 4.1,
+    "event": "foot1 landing",
+    "world": [
+      2.05,
+      -0.43,
+      0.66
+    ],
+    "film_time": 65.5
+  },
+  {
+    "shot": "C",
+    "time": 5.666666666666667,
+    "event": "foot1 landing",
+    "world": [
+      2.45,
+      -0.43,
+      0.66
+    ],
+    "film_time": 67.06666666666666
+  },
+  {
+    "shot": "C",
+    "time": 6.966666666666667,
+    "event": "foot1 landing",
+    "world": [
+      2.05,
+      -0.43,
+      0.66
+    ],
+    "film_time": 68.36666666666666
+  },
+  {
+    "shot": "C",
+    "time": 4.65,
+    "event": "curtain fabric pull",
+    "film_time": 66.05
+  }
+]

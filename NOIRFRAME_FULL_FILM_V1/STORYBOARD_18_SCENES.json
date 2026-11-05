@@ -1,0 +1,452 @@
+[
+  {
+    "scene": 1,
+    "start": 0.0,
+    "end": 4.0,
+    "duration": 4,
+    "title": "2:17 AM",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "passing sedan",
+        "start": 0,
+        "end": 4,
+        "cause_contact_followthrough": "Tires roll on the fixed street; suspension responds to traveled distance. Curbside camera travels less than the car."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 2,
+    "start": 4.0,
+    "end": 8.0,
+    "duration": 4,
+    "title": "The driver",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "mirror attention",
+        "start": 4.47,
+        "end": 6.65,
+        "cause_contact_followthrough": "Eyes lead head by .25s; shoulders follow; both hands remain on the steering rim throughout."
+      },
+      {
+        "action": "return to road",
+        "start": 5.88,
+        "end": 8,
+        "cause_contact_followthrough": "Head and rib cage settle while the vehicle continues through real projected landmarks."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 3,
+    "start": 8.0,
+    "end": 12.0,
+    "duration": 4,
+    "title": "Something wrong",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "discovery and braking",
+        "start": 8.03,
+        "end": 12,
+        "cause_contact_followthrough": "Leftward eyes/head/shoulders coordinate with the actual alley side; longitudinal load follows deceleration. No empty-road insert."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 4,
+    "start": 12.0,
+    "end": 18.0,
+    "duration": 6,
+    "title": "The crime",
+    "frames": 180,
+    "action_beats": [
+      {
+        "action": "approved V10 supported drag",
+        "start": 12,
+        "end": 18,
+        "cause_contact_followthrough": "Existing V10 hand/upper-arm contacts and held foot plans; no picture/source changes."
+      }
+    ],
+    "physical_source": "engine/animation/v10_trunk.py",
+    "integration_source": "ApprovedV10; all480 decoded frames verified identical"
+  },
+  {
+    "scene": 5,
+    "start": 18.0,
+    "end": 24.0,
+    "duration": 6,
+    "title": "The trunk",
+    "frames": 180,
+    "action_beats": [
+      {
+        "action": "approved V10 open/lift/load",
+        "start": 18,
+        "end": 24,
+        "cause_contact_followthrough": "Existing hinged trunk, bent-knee effort, victim inertia and depth occlusion; no picture/source changes."
+      }
+    ],
+    "physical_source": "engine/animation/v10_trunk.py",
+    "integration_source": "ApprovedV10; all480 decoded frames verified identical"
+  },
+  {
+    "scene": 6,
+    "start": 24.0,
+    "end": 28.0,
+    "duration": 4,
+    "title": "They saw him",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "approved V10 close/notice/turn",
+        "start": 24,
+        "end": 28,
+        "cause_contact_followthrough": "Latch precedes the side-to-front head turn; approved silhouette/cap/mask changes preserved."
+      }
+    ],
+    "physical_source": "engine/animation/v10_trunk.py",
+    "integration_source": "ApprovedV10; all480 decoded frames verified identical"
+  },
+  {
+    "scene": 7,
+    "start": 28.0,
+    "end": 32.0,
+    "duration": 4,
+    "title": "Panic",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "accelerator pressure",
+        "start": 28.55,
+        "end": 30,
+        "cause_contact_followthrough": "Fixed heel, rigid shoe, ankle and leg IK; ball rolls on the hinged pedal. Same modeled throttle drives RPM."
+      },
+      {
+        "action": "acceleration response",
+        "start": 30,
+        "end": 32,
+        "cause_contact_followthrough": "Seated shoulders and head respond to actual acceleration; environment travel continues."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 8,
+    "start": 32.0,
+    "end": 37.0,
+    "duration": 5,
+    "title": "Pursuit",
+    "frames": 150,
+    "action_beats": [
+      {
+        "action": "merge and pursuit",
+        "start": 32,
+        "end": 35,
+        "cause_contact_followthrough": "Both cars move in world coordinates; flush alley apron under the actual crossing tire positions; common painter depth queue."
+      },
+      {
+        "action": "mirror confirmation",
+        "start": 35,
+        "end": 37,
+        "cause_contact_followthrough": "The real following car closes its gap; reflection shares the actual vehicle state."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 9,
+    "start": 37.0,
+    "end": 42.0,
+    "duration": 5,
+    "title": "Escape",
+    "frames": 150,
+    "action_beats": [
+      {
+        "action": "corner anticipation and steering",
+        "start": 37,
+        "end": 40,
+        "cause_contact_followthrough": "View forward, then articulated arms turn the wheel; neck and torso respond to corner load."
+      },
+      {
+        "action": "exterior corner",
+        "start": 40,
+        "end": 42,
+        "cause_contact_followthrough": "Both full car bounds remain in frame; camera remains outside buildings. Wheels, rack and heading share the physical trajectory."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 10,
+    "start": 42.0,
+    "end": 47.0,
+    "duration": 5,
+    "title": "Safe?",
+    "frames": 150,
+    "action_beats": [
+      {
+        "action": "slow and search",
+        "start": 42,
+        "end": 46.6,
+        "cause_contact_followthrough": "Street geometry stays connected; speed actually falls; mirror search followed by visible release of shoulder/head tension."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 11,
+    "start": 47.0,
+    "end": 51.0,
+    "duration": 4,
+    "title": "House 17",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "stop",
+        "start": 47,
+        "end": 48,
+        "cause_contact_followthrough": "Car reaches zero speed before door opening."
+      },
+      {
+        "action": "exit and door handoff",
+        "start": 48.02,
+        "end": 49.14,
+        "cause_contact_followthrough": "Hand contact precedes hinge movement; legs move from car floor to pavement, then body rises. Two hands hand off during closure."
+      },
+      {
+        "action": "run to entrance",
+        "start": 49.15,
+        "end": 50.99,
+        "cause_contact_followthrough": "Explicit alternating held foot anchors; curb ramp and contact splashes match actual footsteps. Arms settle into the next shot."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Baseline exit47\u201349.2s; nativeB run49.2\u201351s"
+  },
+  {
+    "scene": 12,
+    "start": 51,
+    "end": 57,
+    "duration": 6,
+    "title": "Locked door / key retrieval and unlock",
+    "frames": 180,
+    "action_beats": [
+      {
+        "action": "handle / locked pull / panic",
+        "start": 51,
+        "end": 52.0,
+        "cause_contact_followthrough": "Foot settling, reach, lever grip/turn, locked pull, shoulder/neck recoil, then pocket search."
+      },
+      {
+        "action": "key retrieval / alignment / insertion",
+        "start": 52.0,
+        "end": 52.72,
+        "cause_contact_followthrough": "Rigid key remains on the same palm; pocket mask reveals it; shaft rotates from hanging to lock alignment."
+      },
+      {
+        "action": "unlock / neutral return / withdrawal / storage",
+        "start": 52.76,
+        "end": 53.55,
+        "cause_contact_followthrough": "Wrist and ring rotate; lock releases; key returns neutral before extraction; opposite palm braces the frame."
+      },
+      {
+        "action": "handle and opening",
+        "start": 53.55,
+        "end": 55,
+        "cause_contact_followthrough": "Empty hand returns to handle; lever moves only under grip; palm slides onto the leaf as the hinge opens. Entry starts visibly."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "NativeB door/key continuation51\u201357s"
+  },
+  {
+    "scene": 13,
+    "start": 57,
+    "end": 61.4,
+    "duration": 4.4,
+    "title": "Open / enter / close / lock",
+    "frames": 132,
+    "action_beats": [
+      {
+        "action": "complete entry",
+        "start": 55,
+        "end": 55.36,
+        "cause_contact_followthrough": "World feet carry the body through a doorway taller/wider than the approved rig; camera switches after the body crosses inside."
+      },
+      {
+        "action": "close / latch / lock / check",
+        "start": 55.35,
+        "end": 57.18,
+        "cause_contact_followthrough": "Inside hand pulls the same hinged leaf; thumbturn and wrist rotate together; lever check releases into spring return."
+      },
+      {
+        "action": "hall step and lower flight",
+        "start": 57.05,
+        "end": 58.85,
+        "cause_contact_followthrough": "Visible departure seeds the exact first stair stance; pelvis rises after tread contact, rail grip slides on the sloping rail."
+      },
+      {
+        "action": "landing turn",
+        "start": 58.85,
+        "end": 59.35,
+        "cause_contact_followthrough": "World feet cross the U-turn landing while head/torso attention reverses; continues across scene boundary."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Original raw closing clip, new source-script caption overlay; checked-again narration removed to prevent a cut phrase"
+  },
+  {
+    "scene": 14,
+    "start": 61.4,
+    "end": 65.4,
+    "duration": 4.0,
+    "title": "Three upper stair steps",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "upper flight and trailing foot",
+        "start": 59.35,
+        "end": 60.85,
+        "cause_contact_followthrough": "Seven more .18 m risers complete 2.7 m floor rise; opposite foot follows onto the landing."
+      },
+      {
+        "action": "approach window",
+        "start": 60.85,
+        "end": 61.35,
+        "cause_contact_followthrough": "Three deliberate foot moves from actual stair landing to the curtain; nightstand is outside the route."
+      },
+      {
+        "action": "reach / fabric grip / pull",
+        "start": 61.35,
+        "end": 62.35,
+        "cause_contact_followthrough": "Right hand grips the actual curtain edge; two sidesteps transfer weight as folds lag the hand."
+      },
+      {
+        "action": "look / fear / release",
+        "start": 61.65,
+        "end": 63,
+        "cause_contact_followthrough": "Eyes lead the turn toward the real black sedan outside the registered upper facade window; body recoils and hand releases."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "NativeC continuous8s stairs/window performance61.4\u201369.4s"
+  },
+  {
+    "scene": 15,
+    "start": 65.4,
+    "end": 69.4,
+    "duration": 4.0,
+    "title": "Curtain grip / reveal / reaction",
+    "frames": 120,
+    "action_beats": [
+      {
+        "action": "ring / attention",
+        "start": 63.1,
+        "end": 63.6,
+        "cause_contact_followthrough": "Device vibrates on its support; eyes turn before the head."
+      },
+      {
+        "action": "reach / grip / lift",
+        "start": 63.6,
+        "end": 64.95,
+        "cause_contact_followthrough": "Left hand contacts before the phone leaves its table; size/angle change continuously with the lift."
+      },
+      {
+        "action": "answer / listen",
+        "start": 64.95,
+        "end": 67,
+        "cause_contact_followthrough": "Elbow flexes to place the panel against the ear-side face point below the cap; no temple-level hold."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "NativeC continuous8s stairs/window performance61.4\u201369.4s"
+  },
+  {
+    "scene": 16,
+    "start": 69.4,
+    "end": 77.3,
+    "duration": 7.9,
+    "title": "Phone acquisition / lift / million-dollar offer",
+    "frames": 237,
+    "action_beats": [
+      {
+        "action": "offer reaction",
+        "start": 67.7,
+        "end": 69.1,
+        "cause_contact_followthrough": "Knees flex, torso withdraws, free palm reaches the chest; phone grip follows the head."
+      },
+      {
+        "action": "window glance / temptation",
+        "start": 69.05,
+        "end": 72.4,
+        "cause_contact_followthrough": "Eyes lead a return glance; free hand opens into a restrained hesitation gesture and returns."
+      },
+      {
+        "action": "listening hold",
+        "start": 72.4,
+        "end": 74,
+        "cause_contact_followthrough": "Purposeful held suspense with breathing; no unrelated arm waving or zoom substitute."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 17,
+    "start": 77.3,
+    "end": 81.5,
+    "duration": 4.2,
+    "title": "Threat / recoil / backward foot plants",
+    "frames": 126,
+    "action_beats": [
+      {
+        "action": "threat reaction",
+        "start": 74.95,
+        "end": 76.9,
+        "cause_contact_followthrough": "Attention/neck/torso and knee response follows the caller onset; free hand protects chest while the device stays attached."
+      },
+      {
+        "action": "back away",
+        "start": 77,
+        "end": 77.6,
+        "cause_contact_followthrough": "Two actual backward steps clear the nightstand; world root moves deeper into the room."
+      },
+      {
+        "action": "fear hold",
+        "start": 77.6,
+        "end": 80,
+        "cause_contact_followthrough": "Both feet settle; ear contact remains fixed as attention stays toward the window."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  },
+  {
+    "scene": 18,
+    "start": 81.5,
+    "end": 86,
+    "duration": 4.5,
+    "title": "Final choice",
+    "frames": 135,
+    "action_beats": [
+      {
+        "action": "preserved choice graphics",
+        "start": 80,
+        "end": 86,
+        "cause_contact_followthrough": "No new character action claimed. Preserve A/B design, timed reveal and narration; rain background remains animated."
+      }
+    ],
+    "physical_source": "engine/animation/film_performance.py",
+    "integration_source": "Retained baseline picture"
+  }
+]

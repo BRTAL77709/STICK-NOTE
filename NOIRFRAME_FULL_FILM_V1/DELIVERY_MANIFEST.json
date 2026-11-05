@@ -1,0 +1,342 @@
+{
+  "base_commit": "7899517a9ed774df1321ea32a0d6327eac1e6b58",
+  "files": [
+    {
+      "path": "ARTISTIC_LIMITATIONS.md",
+      "bytes": 2225,
+      "sha256": "926ce3c5cf6f5a98bdaa19dc794c60a80d14681548f3a420fe272155a0106026",
+      "git_sha": "1b78815fa1c0be40771b09e00ca26185e44d46e4"
+    },
+    {
+      "path": "EDIT_DECISION_LIST.json",
+      "bytes": 1888,
+      "sha256": "d0a2c66fac1df619d1ae912dcfd0b3172186a13a3348438ddcb722d784db4e71",
+      "git_sha": "45d7ef5c8a6e75c411c2ce66ef25ecb5fccc293e"
+    },
+    {
+      "path": "PROGRESS.md",
+      "bytes": 1601,
+      "sha256": "b6e8c534fd06a4f90d186a36a46264c647c28875e992fbb34500ca2c1b8f8b76",
+      "git_sha": "72c1d73857a6e2b59fe67e505f7f60c4fe3c804a"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2180,
+      "sha256": "10e4f1781273d5be9c97b5927898fe92077379effbd5c26399f047fd459af7cb",
+      "git_sha": "e90bc6b1d7cce7d810322ca3568666a157afd626"
+    },
+    {
+      "path": "SOURCE_AND_REBUILD.md",
+      "bytes": 3111,
+      "sha256": "61a7e91e9cff2fb953acf0e25306963eae229c0e44c0cb4c931039dc3288a304",
+      "git_sha": "b329daf8875a11762bd14c46b7e804fc1f3b9930"
+    },
+    {
+      "path": "STORYBOARD_18_SCENES.json",
+      "bytes": 14879,
+      "sha256": "5d0aced08ec51b6643337b1534a1baf764b2ce337e3635d60193cd8ed1dac53e",
+      "git_sha": "965be161c74c58a64c0a516d917622fb73d67ed4"
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "bytes": 3612,
+      "sha256": "b7a3a2e2ffa64cae24892744c17f52c34966a4742a0e5f3aa1b8e1e5e7fa6a57",
+      "git_sha": "a15a3a0e48e17d15533a21f00b218fb668cb30f6"
+    },
+    {
+      "path": "THE_PRICE_OF_SILENCE_EN.srt",
+      "bytes": 1582,
+      "sha256": "7dc735645fac9dd54c87fcf961df309d06a99831e49a6cdf27722f95eb162c18",
+      "git_sha": "3c4a9c09fe3ff52f2d3b359352d393c052f6b364"
+    },
+    {
+      "path": "audio/CONTACT_CUES.json",
+      "bytes": 5765,
+      "sha256": "68f61265484ce3db58a24b3a0014b6f8f54d7730bfe1d625088b4c7081a193df",
+      "git_sha": "620fc78fd599ee4c1963d37c1df38d16e7dda2d6"
+    },
+    {
+      "path": "audio/FULL_FILM_MIX.flac",
+      "bytes": 16283760,
+      "sha256": "73fbac248125f19775825342ce1df631924c70d744cfb860515ee5751bb179c4",
+      "git_sha": "50d343b12495534a028935d316a982e95319ddd3"
+    },
+    {
+      "path": "audio/NARRATION_TIMING.json",
+      "bytes": 7120,
+      "sha256": "681a3a6cd5a625b943f26a7a28b5467a949596b725aa0b0b80abeb0ad71d092d",
+      "git_sha": "d335c0e6f70209a5fe503798749c471d81cfd01d"
+    },
+    {
+      "path": "blender/SHOT_B_NATIVE.blend",
+      "bytes": 1219335,
+      "sha256": "4e50a5861d95a15a762af8f5b3d24b3afe46c4dfb2345995eb33411ffe73b2f1",
+      "git_sha": "ad024f94c350f3b83d1db15b4a83ad2d62e80ea0"
+    },
+    {
+      "path": "blender/SHOT_C_NATIVE.blend",
+      "bytes": 743831,
+      "sha256": "05bef5d35cf563ca4ce9351754d1737ec7ef07e07676641002a4b3320f8fc5d3",
+      "git_sha": "60dac75c0b576ff2890fa85cfe90c0f7ec82748f"
+    },
+    {
+      "path": "inputs/B.ass",
+      "bytes": 702,
+      "sha256": "a451c849fc813ab411b980f9fd269fc113982565655df46efa1d24fa9cf25771",
+      "git_sha": "2ba1d516ad938b4aba0148204dc079d3502300d1"
+    },
+    {
+      "path": "inputs/BASELINE_86s.mp4",
+      "bytes": 14418254,
+      "sha256": "7ca515faf87d6b31e8ad72aed62bdc7d09ba0a5b2ee447a336eaa60c63d857c1",
+      "git_sha": "a5ec6e5d42d8243965cb59e0e63b2e5063f44fd7"
+    },
+    {
+      "path": "inputs/BASELINE_CALLER.flac",
+      "bytes": 202503,
+      "sha256": "109cda868b7243099f8e01d9f59a930b8747a4a7f64b05ad85fbba55f259477b",
+      "git_sha": "97d5df3b9de18f8b32a7a90dd59b49a9348c8638"
+    },
+    {
+      "path": "inputs/BASELINE_FX.flac",
+      "bytes": 8752812,
+      "sha256": "f773bc4d463f28939ba3f039a486bd7ddd7e00eefd5ada0461b7b4bfa0e9cc20",
+      "git_sha": "01c75bbaa2ddc8602e6c50bbe5111b5d1ce7ef75"
+    },
+    {
+      "path": "inputs/BASELINE_NARRATOR.flac",
+      "bytes": 1277367,
+      "sha256": "2c8a5daccfbd04729c9d3db28f6a440c7acc0255f65bd62f979d34638fc26f27",
+      "git_sha": "8e890f667a05a64ee78a2f76d1cead8a7ec6087c"
+    },
+    {
+      "path": "inputs/BASELINE_SCORE.flac",
+      "bytes": 1078746,
+      "sha256": "e8bfee535192110c2fa4ce9759dd9cdb827a631a4e1797e70f1634d4b722add3",
+      "git_sha": "4e2f6a64cf818bd793b5bfc1c7602d9df0214ba7"
+    },
+    {
+      "path": "inputs/B_foley.wav",
+      "bytes": 748844,
+      "sha256": "8cbcff072933b9f9473029c55ad451b0f03a499881887d66f470ebfb0f7e0c6c",
+      "git_sha": "7397f4b548957d976f117975413c52405641a6a6"
+    },
+    {
+      "path": "inputs/B_voice.wav",
+      "bytes": 748844,
+      "sha256": "f32baf951cfb93c3412769f1e2d81cdf46d8d7db2bdecd08d0162415193280c4",
+      "git_sha": "fc7446ee56beff3fe4c9fe06bb35465417e7d98f"
+    },
+    {
+      "path": "inputs/C.ass",
+      "bytes": 621,
+      "sha256": "3dff7a2009fb04a49cf6dc6df65d2d04599c53b3a6e96aabd7956ccbfa579d19",
+      "git_sha": "86a22c9d587e7c1bd64a263d30e3944e2791b7fb"
+    },
+    {
+      "path": "inputs/CLOSING.ass",
+      "bytes": 565,
+      "sha256": "3187bee720513918d395379ea721707cb6738e93c58a9f40d2a4d737cb86e460",
+      "git_sha": "6e66a587c6ede5bd7f261f131c074eb2f46bdd63"
+    },
+    {
+      "path": "inputs/CLOSING_RAW.mp4",
+      "bytes": 557018,
+      "sha256": "09d477935f9253a83b2159f429c1a72adfe6be10834c314f09bbf967a5c312a6",
+      "git_sha": "55eba387675073c6b7ca53d4ca7d7a98f5aa4f1a"
+    },
+    {
+      "path": "inputs/C_foley.wav",
+      "bytes": 768044,
+      "sha256": "915465fd2bbf78571d4cc1264ddd7bf449143c5b170f8fd4a76cebdb832ee59d",
+      "git_sha": "a3b025d6f3ec6a6b04200600cb1e4a69b61f5fed"
+    },
+    {
+      "path": "inputs/C_voice.wav",
+      "bytes": 768044,
+      "sha256": "87cf5eb44eab7d30fd7fd8378011aabb7af819dd38ad4ba2d40e54c42a20f65f",
+      "git_sha": "e764e9caec1532226ecbc670f8fadce8d00d17a8"
+    },
+    {
+      "path": "inputs/NATIVE_B.mp4",
+      "bytes": 2383362,
+      "sha256": "ddf011bf117a57fbe226e494f5a1439e4dbe4d46f42174216e09c37702a63c07",
+      "git_sha": "de0235e2e2a1e2cedbf50e32bd40f10b9350f64d"
+    },
+    {
+      "path": "inputs/NATIVE_C.mp4",
+      "bytes": 1488478,
+      "sha256": "a4ec82bf4e8ef36c8346afdd1ffbab71f1210eda6b3683ef5be2ac2003e4ec6c",
+      "git_sha": "b66a390884b73dc6e0476107303fc7b09190b972"
+    },
+    {
+      "path": "inputs/baseline_narration-timing.json",
+      "bytes": 7408,
+      "sha256": "05e0e3800078d04edd47fcc3746a9af0baaf0218edfcec3e0630f71b2a4aa2c4",
+      "git_sha": "d03dc76fffe296004017e514e171826728dcd347"
+    },
+    {
+      "path": "inputs/native_contact-cues.json",
+      "bytes": 4628,
+      "sha256": "c14a1002cf9457763d88e08ccd4cfa1284b9fad94effff243e2541daeb5eed28",
+      "git_sha": "e45fc1d66baa5cc55e2863740fb2f0ad33a9380a"
+    },
+    {
+      "path": "inputs/native_narration-tests.json",
+      "bytes": 1484,
+      "sha256": "4508b6c191ec56386a1b416d283066ede869121e53adaca7527ac704002839b8",
+      "git_sha": "8577bf75e4ea9b780a2bf3f2a8728f1a6998cc95"
+    },
+    {
+      "path": "licenses/FONT-DejaVu.txt",
+      "bytes": 3859,
+      "sha256": "63d3ba759d12804c5b31a9d5940d855c1820d1f5999e6b0872eb1c7ff045fbc9",
+      "git_sha": "b3d93a1235a82213fbc451853317c40e62ed9272"
+    },
+    {
+      "path": "licenses/KOKORO_APACHE_2.txt",
+      "bytes": 11357,
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "git_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+    },
+    {
+      "path": "licenses/KOKORO_ONNX_MIT.txt",
+      "bytes": 1080,
+      "sha256": "f61fdd0217de9ece8fa699912848d91187d84879fc2e689f0906d0c1299e955e",
+      "git_sha": "4c2fe322532d289906ab4d35d05191444baae401"
+    },
+    {
+      "path": "renders/THE_PRICE_OF_SILENCE_NOIRFRAME_COMPLETE_86s.mp4",
+      "bytes": 16677566,
+      "sha256": "05838df3a154373bd54507b5fbc3d3030de2f6b0b5da6e351532bc132335136e",
+      "git_sha": "46efae37603b47ffa345a8c991b0648d6b579f5d"
+    },
+    {
+      "path": "reports/ACTUAL_PLAYBACK.json",
+      "bytes": 4425,
+      "sha256": "c4a8497d43ac54f4fe6d8fa1c522312207540a44b58d468336a23e312add1dd8",
+      "git_sha": "989117b7c78cdd09a9674cf5626fcb9676a5f46b"
+    },
+    {
+      "path": "reports/FINAL_VALIDATION.json",
+      "bytes": 1050,
+      "sha256": "a2821bc87e066cef26967fc50d4ebbd98809a20a8ab96299ffa21ddfe147a965",
+      "git_sha": "4e7e232ee96105e333c91647fd9eada50ce263ec"
+    },
+    {
+      "path": "reports/INPUT_MANIFEST.json",
+      "bytes": 2327,
+      "sha256": "bd101094cae3e3ecf5e838dc27d66293a7d63161a685ba86b57697e892e41851",
+      "git_sha": "e383c79bf468161192af66df89c11faed6ad3adc"
+    },
+    {
+      "path": "reports/SOURCE_INPUTS.json",
+      "bytes": 3313,
+      "sha256": "2dfac8d6d30bf28b5d89782c06fdab7f308a179968ee88bd59b07b61623d5e50",
+      "git_sha": "95115f7141fe4ee9037eeb5db2dce23b1f4a0a32"
+    },
+    {
+      "path": "reports/SOURCE_REBUILD_VERIFICATION.json",
+      "bytes": 659,
+      "sha256": "3c7e737950a8ec9a846c3b818059c23ac68414c991133d2759b3d564baf4b399",
+      "git_sha": "c25a52e1d1dec34a0bd2217891468e2c0d32681c"
+    },
+    {
+      "path": "reports/V10_FRAME_PRESERVATION.json",
+      "bytes": 38736,
+      "sha256": "b7ba23eda428de09813742786c838e7dd1d7ae91ccef867d8dc2de4a6360edbc",
+      "git_sha": "34022d19a333c193ee31952e2cda565b4ca6926b"
+    },
+    {
+      "path": "reports/audio-premaster-measurement.json",
+      "bytes": 262,
+      "sha256": "a089b7e704f1d3ec15cb675ff4dca97387881a1a13243c26d194003c42e9721b",
+      "git_sha": "5c221584ea998c6a1ce328c1262e3a129b7eee4b"
+    },
+    {
+      "path": "reports/preservation-before.json",
+      "bytes": 988347,
+      "sha256": "cd83b29f86120ce4230d3f8b2664c95845386c7d431f34a0559db4032aa964a4",
+      "git_sha": "e765db74c83b2669f631c3e6782b8cb7c2a429ad"
+    },
+    {
+      "path": "reviews/FULL_FILM_CONTACT_SHEET.jpg",
+      "bytes": 205262,
+      "sha256": "2b2f56cb24b2adbf53d35bc651d0c9c93404da2c54e98a138d584527ca3239b8",
+      "git_sha": "f91a2bf6a3d25e4a46fa6a1cc03ebfd3f98a5212"
+    },
+    {
+      "path": "reviews/FULL_NORMAL_PRESENTED.jpg",
+      "bytes": 1437285,
+      "sha256": "96396ae4565f2ed6a5d8f3a78dcd766c2aeb8746347f7105cbcd59f47498923a",
+      "git_sha": "761667c32091737ae22188d96bd846c1baa53855"
+    },
+    {
+      "path": "reviews/REPLACEMENTS_SLOW_PRESENTED.jpg",
+      "bytes": 240495,
+      "sha256": "9a52404c6f02c7fdeddecbde64d3b744d056f4d17887e269774d49f0b9c01315",
+      "git_sha": "4a8dd85345a51fdaa5e6b243b7ad753dd2b59c84"
+    },
+    {
+      "path": "source/actions.py",
+      "bytes": 7130,
+      "sha256": "3485602cf84e862dddea267e0b23d4616c472a9009dcce1033b12b6bb073fdc5",
+      "git_sha": "85e7af2cce155c8167910235cbf337e0f2747ddc"
+    },
+    {
+      "path": "source/build_film.py",
+      "bytes": 7637,
+      "sha256": "69ab6dba6bdc28626e778aa2cce58a41d9adf08f40fb402ea35c589ee98d1c1f",
+      "git_sha": "42bc02f5e5c3fd8d5b3f68df49e4f34518e2e0e1"
+    },
+    {
+      "path": "source/build_native.py",
+      "bytes": 9908,
+      "sha256": "c44a4200121050646d9457086420849a1acd6a5036a0c010b7f87cf76fddc69e",
+      "git_sha": "93534442bf3a5cfa4c2f13d78120cfa402cb000b"
+    },
+    {
+      "path": "source/finish_film.py",
+      "bytes": 539,
+      "sha256": "def84a2d973bb7f385af38e3410c6e4c4b736fde71e5bec98d5e41c321d87778",
+      "git_sha": "d1e3c6afd6ed2cee716e86034459460a7267e95b"
+    },
+    {
+      "path": "source/rebuild.py",
+      "bytes": 1113,
+      "sha256": "b206ca737fa17f16a944b775d8a613f6688a416b807df6ad9f0a34c8a234fc9f",
+      "git_sha": "944ce3c94a30e6ef0d94df8ff6d4e5c9aefd2c91"
+    },
+    {
+      "path": "source/render_saved.py",
+      "bytes": 4366,
+      "sha256": "ac9ecc825be44fc7f61dd66ac19f235e0fded4a4689c5b48e2145bd5cb2cac72",
+      "git_sha": "2a784aa5b31e7100bd95acd12acb9cc33ae86d0c"
+    },
+    {
+      "path": "source/review_film.py",
+      "bytes": 2862,
+      "sha256": "c796ff3e0fe2373d68f67568544744aa37ecd1d62f4b73620edf2b4145d36555",
+      "git_sha": "9bdbe043efb5ed7b42bdd036ae17133149133c63"
+    },
+    {
+      "path": "source/rigs.py",
+      "bytes": 8937,
+      "sha256": "62447056edeb8909cea4b1133db68657b97d0f17073ce9532bec5b377bb1f47d",
+      "git_sha": "ec7e181cf5bfc69c5f1edd37686216a9479e4a9c"
+    },
+    {
+      "path": "source/validate_film.py",
+      "bytes": 4412,
+      "sha256": "235e4601a0b998d55e16dfb1562da67b88419c967910ac774af8a7494c5c783d",
+      "git_sha": "f0173763fbdee54280b9b99f141591cd34ede5df"
+    },
+    {
+      "path": "source/world.py",
+      "bytes": 8985,
+      "sha256": "31914291b4855e4fac6a2ba801ba6d5fc2e76ffbbfa27778444a639956a50663",
+      "git_sha": "ba6b03637bab4327d78c322e2108e7cf72691496"
+    }
+  ],
+  "self_excluded": true
+}

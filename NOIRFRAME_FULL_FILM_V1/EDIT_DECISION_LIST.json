@@ -1,0 +1,59 @@
+{
+  "duration": 86,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "baseline": "inputs/BASELINE_86s.mp4",
+  "baseline_choice": "Latest completed 18-scene real-motion master: retains V10 and the most recent car/exit/door/window/phone work. Chosen as best available practical baseline, not user approval.",
+  "cuts": [
+    {
+      "start": 0,
+      "end": 49.2,
+      "source": "baseline",
+      "source_start": 0
+    },
+    {
+      "start": 49.2,
+      "end": 57,
+      "source": "native_B",
+      "source_start": 0
+    },
+    {
+      "start": 57,
+      "end": 61.4,
+      "source": "baseline_raw_closing",
+      "source_start": 0
+    },
+    {
+      "start": 61.4,
+      "end": 69.4,
+      "source": "native_C",
+      "source_start": 0
+    },
+    {
+      "start": 69.4,
+      "end": 86,
+      "source": "baseline",
+      "source_start": 69.4
+    }
+  ],
+  "encoded_packet_preservation": {
+    "prefix_end": 47,
+    "tail_start": 81.5,
+    "V10_interval": [
+      12,
+      28
+    ]
+  },
+  "native_B": "inputs/NATIVE_B.mp4",
+  "native_C": "inputs/NATIVE_C.mp4",
+  "A_not_used": "Driving test offers contact engineering but its vehicle/art direction is weaker; retain baseline drive/chase.",
+  "closing_source": "inputs/CLOSING_RAW.mp4",
+  "caption_policy": "Preserve baked baseline captions outside replacement regions; use measured source-script captions on B/C/raw closing. Remove the checked-again narration which otherwise crosses the stairs cut.",
+  "source_origins": {
+    "baseline": "../full-film-real-motion-rebuild/renders/final/THE_PRICE_OF_SILENCE_REAL_MOTION_REBUILD_86s.mp4",
+    "native_B": "../NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_B_HOUSE17_PROOF_R1.mp4",
+    "native_C": "../NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_C_STAIRS_WINDOW_PROOF_R1.mp4",
+    "closing_source": "../full-film-real-motion-rebuild/renders/final/scene_13_119334daf52d.mp4"
+  }
+}
