@@ -1,0 +1,21 @@
+{
+  "fresh_source_only_build_completed": true,
+  "old_movie_or_pose_images_required": false,
+  "results": {
+    "HOUSE": {
+      "sha256": "5c83a84a092d93428dd38eb0f808cf67eec7f6400481adca90955c337a004794",
+      "matches_original": true
+    },
+    "STAIRS": {
+      "sha256": "a9f3c2c7947e737d35c04726b7c3fa1e3124f1a81e9a424a6a18fc79d0bc917f",
+      "matches_original": false
+    },
+    "WINDOW": {
+      "sha256": "c82df20795c98f9ce27547a61dbeabbda3f3c1f31685d0aae75695fecbe2ed9e",
+      "matches_original": true
+    }
+  },
+  "stair_evaluated_states_identical": true,
+  "stair_saved_key_SVG_PNG_identical": true,
+  "notes": "The later Stair build has a different encoded hash; its evaluated states and saved keyframes match exactly. One reduced decoded frame differs. The selected original Stair MP4 separately passed full decode and actual playback. Exact bitstream reproducibility is not claimed for this later Stair rerun."
+}

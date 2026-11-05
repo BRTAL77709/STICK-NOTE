@@ -1,0 +1,104 @@
+{
+  "commit": "47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a",
+  "verified": [
+    {
+      "path": "previews/HOUSE_V11_R07_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/previews/HOUSE_V11_R07_1080.mp4",
+      "HTTP": 200,
+      "bytes": 1072377,
+      "sha256": "74a9736de952ff04f7ca6c3c2d30671d462b0c550c9870ce4ba6d381debdbf0c",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/STAIRS_V11_R07_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/previews/STAIRS_V11_R07_1080.mp4",
+      "HTTP": 200,
+      "bytes": 1453490,
+      "sha256": "d1733bbebe4de59c110b8540469e71a676ed821055b7972a07861f43b17eb29c",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/WINDOW_V11_R07_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/previews/WINDOW_V11_R07_1080.mp4",
+      "HTTP": 200,
+      "bytes": 945544,
+      "sha256": "c82df20795c98f9ce27547a61dbeabbda3f3c1f31685d0aae75695fecbe2ed9e",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/HOUSE_R07_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/reviews/HOUSE_R07_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 1240464,
+      "sha256": "48e549a604c74603d4697e17812056409a07884de80ad253cedeb9cc99179e4e",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/STAIRS_R07_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/reviews/STAIRS_R07_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 696899,
+      "sha256": "d3b5529f09f9f49fe28ca266a73eec056d13d81494cf22cc2ad5aefe95fce5f4",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/WINDOW_R07_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/reviews/WINDOW_R07_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 430260,
+      "sha256": "c3c43555dbf6201c8126b479b2010162e914356b8caedb7df9dfedbf8d78f9ec",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/HOUSE_V11_R07_540_WIDE.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/previews/HOUSE_V11_R07_540_WIDE.mp4",
+      "HTTP": 200,
+      "bytes": 573512,
+      "sha256": "b619c900f81d2ce147434a7591b1e55e270e89994b86ab97804927596f68fbaa",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/TECHNICAL_REPORT.md",
+      "HTTP": 200,
+      "bytes": 3677,
+      "sha256": "69336dc6c0f059dfeda15fdc8632996159ea8d3f7d442a946558eb6f317885ab",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "source/actions.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/source/actions.py",
+      "HTTP": 200,
+      "bytes": 7526,
+      "sha256": "6557def2da362a09588c6f7a63821b96ef341c8f9c0801a278b18b8b789d3214",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "source/scenes.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/source/scenes.py",
+      "HTTP": 200,
+      "bytes": 8083,
+      "sha256": "b5320900207600363d00a1889a547184e2d914aad07cf7cf5e6a423546e5fd93",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "REPAIR_CHECKLIST_18_SCENES.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a/NOIRFRAME_V11_ANIMATION_REPAIR/REPAIR_CHECKLIST_18_SCENES.json",
+      "HTTP": 200,
+      "bytes": 6325,
+      "sha256": "dde03126ada7c427de49a951d048a955f315321fbe8882441ad4993721ca73e9",
+      "matches_local": true,
+      "anonymous": true
+    }
+  ]
+}

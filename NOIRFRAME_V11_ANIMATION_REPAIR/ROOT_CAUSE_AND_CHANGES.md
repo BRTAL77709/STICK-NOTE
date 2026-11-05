@@ -21,3 +21,5 @@ The hand reaches and pinches a named edge point on a persistent cloth surface. T
 ## Boundaries
 
 These are three standalone review tests, not an approved final edit. Some elbow/hand shapes remain stylized; cloth is authored deformation rather than a physical cloth solver. The entry-to-stair walk bridge, later phone acting, driving/pedal/chase, narration auditions, HUD and end-card timing remain in the18-scene repair register. No claim is made that all86seconds are repaired or that technical checks establish professional animation quality.
+
+Final key close-up correction: the blade is occluded at the actual front keyhole plate rather than the deeper wall plane. House R08 supersedes R07; prior clips and an exact R07 source snapshot remain preserved. Stairs/Window R07 are unchanged.

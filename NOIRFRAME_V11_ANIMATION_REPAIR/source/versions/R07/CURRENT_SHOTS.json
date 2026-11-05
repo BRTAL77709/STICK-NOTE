@@ -1,0 +1,26 @@
+{
+  "HOUSE": {
+    "preview": "previews/HOUSE_V11_R07_1080.mp4",
+    "final": "previews/HOUSE_V11_R07_1080.mp4",
+    "duration": 11,
+    "frames": 330,
+    "comparison": "reviews/HOUSE_R07_BEFORE_AFTER.mp4",
+    "user_approved": false
+  },
+  "STAIRS": {
+    "preview": "previews/STAIRS_V11_R07_1080.mp4",
+    "final": "previews/STAIRS_V11_R07_1080.mp4",
+    "duration": 8.5,
+    "frames": 255,
+    "comparison": "reviews/STAIRS_R07_BEFORE_AFTER.mp4",
+    "user_approved": false
+  },
+  "WINDOW": {
+    "preview": "previews/WINDOW_V11_R07_1080.mp4",
+    "final": "previews/WINDOW_V11_R07_1080.mp4",
+    "duration": 7.5,
+    "frames": 225,
+    "comparison": "reviews/WINDOW_R07_BEFORE_AFTER.mp4",
+    "user_approved": false
+  }
+}

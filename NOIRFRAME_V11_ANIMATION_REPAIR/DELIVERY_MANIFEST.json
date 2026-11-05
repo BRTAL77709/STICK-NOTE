@@ -1,5 +1,5 @@
 {
-  "base_commit": "b291c81236518a36065e04acfe8f0ec57dd4a197",
+  "base_commit": "47a52e3ac2eae3f077ada1ac87667d7e2e2fbe1a",
   "files": [
     {
       "path": "ARTISTIC_REVIEW.md",
@@ -9,33 +9,33 @@
     },
     {
       "path": "CHECKPOINT.md",
-      "bytes": 1417,
-      "sha256": "2d7d22af8211d002929db51c8243b8f4077cc54d24b44217a223173284c5cf4a",
-      "git_sha": "45390c31c4948aa2ada01ff7e911b410761ed5ff"
+      "bytes": 1728,
+      "sha256": "51d1720b347ca4515563f793c1a1f59de23159a131b1499485123aff4b1a10d3",
+      "git_sha": "a56dd369e12221f8f9c3c1ed901cdbadbe7809fa"
     },
     {
       "path": "CURRENT_SHOTS.json",
       "bytes": 726,
-      "sha256": "f3c7524141b13ed3fc930e18dd70db082a44902e6877a477c928ff8aeea81f78",
-      "git_sha": "fbcc18671f4e1759b169cc88ec491e1dd59f82f7"
+      "sha256": "4897a2d5670dc6476aab51382616a8c26a348b880204cf9ef2922d2a3e1ecf7f",
+      "git_sha": "0a2fe00f3dfe07015e862a1256a932d6727deb37"
     },
     {
       "path": "PROGRESS.md",
-      "bytes": 1050,
-      "sha256": "2a2393e9a2892c8eb0330ac8c26dac7d7a5300c90c1ae35866991c15e6f04d32",
-      "git_sha": "d9ea094f87c8a63a255bfa9f7c9ca9e08f6b95c7"
+      "bytes": 1347,
+      "sha256": "44fa3cb98e53ab0fb1a2946826f727b6ca9609a3a8f1e52d30e6f9eac4b5b8e9",
+      "git_sha": "b0318d8566c032910d8249964861dbd3537bdbbf"
     },
     {
       "path": "README.md",
-      "bytes": 2043,
-      "sha256": "9e7f176f873bef33767eedfa96da747807be3525fd5b90eabb4108c88127ae8d",
-      "git_sha": "48545ab67afc8102131624e0d6e5663559268bb3"
+      "bytes": 2303,
+      "sha256": "040106f9d6f2723fee09879cdd929882fd0e32800eb560a6e1ba664430538229",
+      "git_sha": "c1fef15a0e81d03e5d9ec16f7e1c04eef99ee8f5"
     },
     {
       "path": "REPAIR_CHECKLIST_18_SCENES.json",
       "bytes": 6325,
-      "sha256": "dde03126ada7c427de49a951d048a955f315321fbe8882441ad4993721ca73e9",
-      "git_sha": "0faec5a7e3d2ce36afb71b8607c95d368e56807e"
+      "sha256": "b0fb49a3a4036e4fda04846127a89038d52f751a5ee6590b5136f304fabca6d5",
+      "git_sha": "0e24092e8a777c82504ac6c3bf3859ab76d9cf7a"
     },
     {
       "path": "REPAIR_CHECKLIST_18_SCENES.md",
@@ -51,9 +51,9 @@
     },
     {
       "path": "ROOT_CAUSE_AND_CHANGES.md",
-      "bytes": 3564,
-      "sha256": "f2a7f0704dc3890ae337d65317460836d3a3a715e24425956d0c7443c3ce5e5b",
-      "git_sha": "0b2547352a276a62443b552c33fb3efaa81b23b5"
+      "bytes": 3809,
+      "sha256": "9c0ea05a6b0fd5a7f9e9726a59742700a1080c7c84381953e8d8c8bb931557b1",
+      "git_sha": "fae967fcf9b00607ed258d65c3a53bbd80942a05"
     },
     {
       "path": "SOURCE_AND_REBUILD.md",
@@ -69,9 +69,9 @@
     },
     {
       "path": "TECHNICAL_REPORT.md",
-      "bytes": 3677,
-      "sha256": "69336dc6c0f059dfeda15fdc8632996159ea8d3f7d442a946558eb6f317885ab",
-      "git_sha": "8994d2b6e644a53a024ae5592ca9e4a04cf055c8"
+      "bytes": 4176,
+      "sha256": "13f91b47aa84bcf67b56c49ef120a9682ba97ca1e609aceb5d12076bc76a4c40",
+      "git_sha": "52e4c4634eac48ad6040f5c0bd8a3c2c9a2e9341"
     },
     {
       "path": "assets/HOUSE_CONTACT_FX.wav",
@@ -200,6 +200,126 @@
       "git_sha": "4ff8d5238624864e6f94c172627bb5f9b817d659"
     },
     {
+      "path": "assets/HOUSE_V11_R08_1080_0000.svg",
+      "bytes": 16636,
+      "sha256": "23e840902c3b9cd54448b62e7b8d59d7db1cd61b2e22b41f935e701205c08f89",
+      "git_sha": "7517348de61f6b3397b07278919e4fa911894203"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0054.svg",
+      "bytes": 16718,
+      "sha256": "8e4e1a8d6cb7e9b6688d86cc75ac613cd4c0fa94587d4e42ed174b5190f26549",
+      "git_sha": "d2930a8a99e7a086386f0a890b1a954508a672a9"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0117.svg",
+      "bytes": 19628,
+      "sha256": "cb7356a0509dfe1d6d36b90de807a04ff690ac1b54b2dd5c2f81090b33a18104",
+      "git_sha": "8413ad89ad98a5846d4e45d9a64dcb7d33834d6d"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0132.svg",
+      "bytes": 19513,
+      "sha256": "fe5705e1de1e11b13fc8087758c3ae5b3bc7e6ea5e03cd38ed212e39e6ed15b1",
+      "git_sha": "2d740820e9d07a6a1eb0009f5ac95a0421864525"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0154.svg",
+      "bytes": 19753,
+      "sha256": "d2c3bca3093d7d459d25ee1dbba7c38331b7294b51299db5a6b9744cf0574d9b",
+      "git_sha": "865048f0ac2cb42967b40261f1cc0ac5e3e93002"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0198.svg",
+      "bytes": 16735,
+      "sha256": "f5e0452d337fef07ccac2f1ea5aeb7e8a33ef7b5dca954e0699697db16b49ecc",
+      "git_sha": "99c07bd8141b90901cba51b5bca04b1d578237b8"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0225.svg",
+      "bytes": 16740,
+      "sha256": "7b7b3ef87ecb8a3b030a05edaf8addf1d9d18c2cdd6d4ae78d4825c15bbe9fdb",
+      "git_sha": "65a46a5c956210e74d0de1ca4a2369a4c18043b7"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0264.svg",
+      "bytes": 16074,
+      "sha256": "62b9d7f5d7d6d41e0d6f9935edad7e2a6a42cb11c812153ab1376c9fc645949f",
+      "git_sha": "0fd98971d00000c52463e66c7e1e714268315f5a"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0298.svg",
+      "bytes": 16404,
+      "sha256": "c2247a9fb9b06c842df51a22d67e890a637c1fc19058229fafb8d6c02c1cc2e1",
+      "git_sha": "5fcc86c7adecd02ffdcd752392e7ac08a8ebbada"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_1080_0327.svg",
+      "bytes": 16159,
+      "sha256": "126bd4e3afcb86cfcab24000d1aae8be6183d720e0768d669889eda54f188e33",
+      "git_sha": "4ff8d5238624864e6f94c172627bb5f9b817d659"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0000.svg",
+      "bytes": 16636,
+      "sha256": "23e840902c3b9cd54448b62e7b8d59d7db1cd61b2e22b41f935e701205c08f89",
+      "git_sha": "7517348de61f6b3397b07278919e4fa911894203"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0054.svg",
+      "bytes": 16718,
+      "sha256": "8e4e1a8d6cb7e9b6688d86cc75ac613cd4c0fa94587d4e42ed174b5190f26549",
+      "git_sha": "d2930a8a99e7a086386f0a890b1a954508a672a9"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0117.svg",
+      "bytes": 19546,
+      "sha256": "b97ffc837f93bb34a077abd8942fa9efab86b2a5dd8616c93cf2cbacbf044fa5",
+      "git_sha": "79e7668558ee4c9f90c2439a959dc192b0025cb4"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0132.svg",
+      "bytes": 19445,
+      "sha256": "1d98e6479eb2aa1adf1de42016d189951fa8215afd133b6edf94f7f9897741f6",
+      "git_sha": "7ad21f866e2bbfd6f070e6d02b341db4f72a21f0"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0154.svg",
+      "bytes": 19753,
+      "sha256": "d2c3bca3093d7d459d25ee1dbba7c38331b7294b51299db5a6b9744cf0574d9b",
+      "git_sha": "865048f0ac2cb42967b40261f1cc0ac5e3e93002"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0198.svg",
+      "bytes": 16735,
+      "sha256": "f5e0452d337fef07ccac2f1ea5aeb7e8a33ef7b5dca954e0699697db16b49ecc",
+      "git_sha": "99c07bd8141b90901cba51b5bca04b1d578237b8"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0225.svg",
+      "bytes": 16740,
+      "sha256": "7b7b3ef87ecb8a3b030a05edaf8addf1d9d18c2cdd6d4ae78d4825c15bbe9fdb",
+      "git_sha": "65a46a5c956210e74d0de1ca4a2369a4c18043b7"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0264.svg",
+      "bytes": 16074,
+      "sha256": "62b9d7f5d7d6d41e0d6f9935edad7e2a6a42cb11c812153ab1376c9fc645949f",
+      "git_sha": "0fd98971d00000c52463e66c7e1e714268315f5a"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0298.svg",
+      "bytes": 16173,
+      "sha256": "dacaae3fac97ab2229c8029c48507f923d7f6cca87c33d22235cc7134f59859d",
+      "git_sha": "c49802e057ba478f5e27796d968a41120ac6b559"
+    },
+    {
+      "path": "assets/HOUSE_V11_R08_540_WIDE_0327.svg",
+      "bytes": 16159,
+      "sha256": "126bd4e3afcb86cfcab24000d1aae8be6183d720e0768d669889eda54f188e33",
+      "git_sha": "4ff8d5238624864e6f94c172627bb5f9b817d659"
+    },
+    {
       "path": "assets/STAIRS_CONTACT_FX.wav",
       "bytes": 816044,
       "sha256": "091f669025661a21ac4540081d7d0ed369c9384d8fad4455ef25a2ea1d8089da",
@@ -314,6 +434,18 @@
       "git_sha": "73d6e13492d817d62eaf517a4877ea285e9ef264"
     },
     {
+      "path": "previews/HOUSE_V11_R08_1080.mp4",
+      "bytes": 1070847,
+      "sha256": "5c83a84a092d93428dd38eb0f808cf67eec7f6400481adca90955c337a004794",
+      "git_sha": "ba7858d165732abcfe145b121b72855bd0622163"
+    },
+    {
+      "path": "previews/HOUSE_V11_R08_540_WIDE.mp4",
+      "bytes": 573289,
+      "sha256": "14489a4f9dc4ea70a13648524ad37ee0dac227345d6d46072426b536573604a9",
+      "git_sha": "9c4ebf3f44e87922c7f1ad5cc0db7b6fc090bfbb"
+    },
+    {
       "path": "previews/STAIRS_V11_R07_1080.mp4",
       "bytes": 1453490,
       "sha256": "d1733bbebe4de59c110b8540469e71a676ed821055b7972a07861f43b17eb29c",
@@ -328,8 +460,44 @@
     {
       "path": "reports/CONTACT_STRIPS.json",
       "bytes": 3116,
-      "sha256": "08464ada62d62c8e325830e80d41d0bf945bb2b4d8b282bb29a47b0dea1b0366",
-      "git_sha": "40283d4aa279e4c6ec353e15b75c6f08c6e2a99f"
+      "sha256": "d5cd074c6217d77a3ebdefdd35e37f1496f450738a878564c8463e45c8c79a81",
+      "git_sha": "9a43d8bb69c87113d917fdae304012bebee2451f"
+    },
+    {
+      "path": "reports/FINAL_PLAYBACK.json",
+      "bytes": 7032,
+      "sha256": "d976d8e54c35dad938ed2ae8aa3afdfad50b1f0c49bcfb400b216916422f4503",
+      "git_sha": "162f8583f558e61badbffe1667b122d0d277afb6"
+    },
+    {
+      "path": "reports/HOUSE-HD-R08.log",
+      "bytes": 408,
+      "sha256": "29a414690f69a6f1498e29eac93baf72c92d696041e87188217509f802567718",
+      "git_sha": "b7768b57a4266a21f8faad1dc39dd6fb8eacbfdc"
+    },
+    {
+      "path": "reports/HOUSE-R08-export-review.log",
+      "bytes": 89,
+      "sha256": "d03bccfca563af379ca55817ed95753114bb6ad7457753553a08ce8ece6eced8",
+      "git_sha": "260fa914dae57d177fede0c8c9d94965f8251168"
+    },
+    {
+      "path": "reports/HOUSE-R08-isolated.log",
+      "bytes": 42,
+      "sha256": "c8ffa14c3796c78ea4c1cdd1089cfcb9e1104af5e1487e70275995f8ce554240",
+      "git_sha": "34eaef513116f7f0cdfb7a9a59bdc2d0294946fc"
+    },
+    {
+      "path": "reports/HOUSE-R08-playback.log",
+      "bytes": 71,
+      "sha256": "bf7c6d86d04b68c0ea9c712b2c655ca707f297226e08c672f0cf47e63b9bfcd0",
+      "git_sha": "0e3ff9a8c7418c8b939fea6ebd71140bed0d9f32"
+    },
+    {
+      "path": "reports/HOUSE-wide-R08.log",
+      "bytes": 456,
+      "sha256": "bf78c8b48024b2d696920fc69ddaacdef0ed049c471882fb1ed51f0075e60435",
+      "git_sha": "58f4bdcd93f1e5d08bd5097e73870dc5843635f9"
     },
     {
       "path": "reports/HOUSE_IDLE_final-playback.json",
@@ -350,16 +518,28 @@
       "git_sha": "297f100149a6ffc311eb78321f14c0de0c07a00c"
     },
     {
+      "path": "reports/HOUSE_V11_R08_1080_WORLD_STATE.json",
+      "bytes": 923924,
+      "sha256": "003c6dc1fec6ef00421e04b220881f692d46b168fbf1beb7f9b66b2e78f4cc07",
+      "git_sha": "f83d45bd386fde26b6550ad1ef49f86548019682"
+    },
+    {
+      "path": "reports/HOUSE_V11_R08_540_WIDE_WORLD_STATE.json",
+      "bytes": 923926,
+      "sha256": "f5eff85fb0b2c15910c2c26e0f724b0a025a413f27c2dba2590d2ed7cfe0feca",
+      "git_sha": "27ed1838a8dbb989958d55873f34566da45ffe65"
+    },
+    {
       "path": "reports/MEDIA_VALIDATION.json",
       "bytes": 1626,
-      "sha256": "564800c672d788b62595834e396a917b58820dab83a7b8f76a499ad12b552bc7",
-      "git_sha": "c4ba806419e6e71e636e75245a30450ba0f73193"
+      "sha256": "7ae970bcf30441f5419b4ae9de4b116a74ff29e3d6cc3f31332effc79ebc534f",
+      "git_sha": "55ae7a874bfe7acf05fd280ac091af18d57bf129"
     },
     {
       "path": "reports/PER_SECOND_REPAIR_REGISTER.json",
       "bytes": 27956,
-      "sha256": "ab7e3d1f96eaab8e6b65d555701c1539c8c19d75db3b2fa6b128c6e04459b022",
-      "git_sha": "df018938a8d123374394e0c5951fb223e8ff697c"
+      "sha256": "8a39dfc66002e2d3b9f58c4abeb15c8a76ebd01b53a51fea7dba3ce92ad9683b",
+      "git_sha": "89242de07a961346b08d7e08c2fc90e7598f6107"
     },
     {
       "path": "reports/PRESERVATION_AFTER.json",
@@ -380,10 +560,28 @@
       "git_sha": "5a418c8f2a0b34b251565f6c66171390166e74f6"
     },
     {
+      "path": "reports/R07_MEDIA_VALIDATION.json",
+      "bytes": 1626,
+      "sha256": "564800c672d788b62595834e396a917b58820dab83a7b8f76a499ad12b552bc7",
+      "git_sha": "c4ba806419e6e71e636e75245a30450ba0f73193"
+    },
+    {
       "path": "reports/R07_final-playback.json",
       "bytes": 6867,
       "sha256": "bc00a28b369cf3b38bfbb84b93301da8667cda950203a54a3a4e8447e82fcb97",
       "git_sha": "ca23ddff0ccb1de49ad840ece3900f4585b5fd86"
+    },
+    {
+      "path": "reports/R08_IDLE_final-playback.json",
+      "bytes": 1363,
+      "sha256": "6c0a4a594c579bb3275eeb6ae49f48d5d3c70c4cf7b0a464af055b15fd6bf88b",
+      "git_sha": "cbe549850f9b09965a3e138a94827ec5182004dd"
+    },
+    {
+      "path": "reports/R08_final-playback.json",
+      "bytes": 2686,
+      "sha256": "ad41174029298754ef943b9222eca46cf2f3be13d7258da5bc64a6517aaf2666",
+      "git_sha": "d93c961351b77b13eeda2de10d2fc1eb6e03f82e"
     },
     {
       "path": "reports/REVIEW_STATUS.json",
@@ -404,6 +602,12 @@
       "git_sha": "149706424f814db625fa5bcdc247d594a6913a34"
     },
     {
+      "path": "reports/SOURCE_REBUILD_VERIFICATION_R08.json",
+      "bytes": 930,
+      "sha256": "66ce24f52221882335451f6b972a6909182921bc8177022086391f3396e12289",
+      "git_sha": "91311e4514cf53a18538034a426c1ee172097dfe"
+    },
+    {
       "path": "reports/STAIRS_V11_R07_1080_WORLD_STATE.json",
       "bytes": 683399,
       "sha256": "c167d9174ab04922e04a221b603ef2aef1e2a8de20883d02661f97f2d23be838",
@@ -416,13 +620,37 @@
       "git_sha": "75098fd00e52c31a454cbe5eea2387cdb6642337"
     },
     {
+      "path": "reports/download-verification_R07.json",
+      "bytes": 4612,
+      "sha256": "0d265a9e48c045b5206b5e9acce5df29103fae9d464c19fcd04b82da721f064f",
+      "git_sha": "f87e70692fca7da3b4c1eb53339fbc0e3f4ff737"
+    },
+    {
+      "path": "reports/source-rebuild-R08.log",
+      "bytes": 3594,
+      "sha256": "2b5c30fb379d5849dc2de9ea0cb00457eb8d5601516cc175c6e0760e5243113d",
+      "git_sha": "970f27217dadd929d30a6b3a1c9bc8bd9bfbc939"
+    },
+    {
       "path": "reviews/HOUSE_BOLT_R07_CONTACT_STRIP.jpg",
       "bytes": 110064,
       "sha256": "aad95c4247680f763b95c0032007dc93119c8d22082681a5d64ab9ea8f1eedb2",
       "git_sha": "c5e70e35530186f0ff0492ef1a64bfe67d4889eb"
     },
     {
+      "path": "reviews/HOUSE_BOLT_R08_CONTACT_STRIP.jpg",
+      "bytes": 110064,
+      "sha256": "aad95c4247680f763b95c0032007dc93119c8d22082681a5d64ab9ea8f1eedb2",
+      "git_sha": "c5e70e35530186f0ff0492ef1a64bfe67d4889eb"
+    },
+    {
       "path": "reviews/HOUSE_HANDOFF_R07_CONTACT_STRIP.jpg",
+      "bytes": 208109,
+      "sha256": "91ed20f20784e7ef7f15c0eec0109ab2dbae43ee1a2030ba56648058c1bc4475",
+      "git_sha": "fcc64ca8b1972e09166d6298989c404e09ada7e8"
+    },
+    {
+      "path": "reviews/HOUSE_HANDOFF_R08_CONTACT_STRIP.jpg",
       "bytes": 208109,
       "sha256": "91ed20f20784e7ef7f15c0eec0109ab2dbae43ee1a2030ba56648058c1bc4475",
       "git_sha": "fcc64ca8b1972e09166d6298989c404e09ada7e8"
@@ -438,6 +666,12 @@
       "bytes": 264398,
       "sha256": "d891ac03e4a7cfa1aa05f55d5cd4f84d4d90688cee708a589bda2d56a638df35",
       "git_sha": "919b797f5bf953aa7421fc5f26ca88a63e545901"
+    },
+    {
+      "path": "reviews/HOUSE_KEY_R08_CONTACT_STRIP.jpg",
+      "bytes": 263146,
+      "sha256": "376a613a3339606634791941268521094ebc0dd9b83c72b113212caed39085aa",
+      "git_sha": "f10ab641983a7c6be52d5d93a09ead0d412fc5ce"
     },
     {
       "path": "reviews/HOUSE_R07_BEFORE_AFTER.mp4",
@@ -474,6 +708,48 @@
       "bytes": 259570,
       "sha256": "23b6904f4109835be69d125eee3218b4b44b609c0ce37e18a72d5ff3ebf8211a",
       "git_sha": "73914e3cf0019357725459aa3e3ac46419bcfffc"
+    },
+    {
+      "path": "reviews/HOUSE_R08_BEFORE_AFTER.mp4",
+      "bytes": 1245782,
+      "sha256": "cd21e9698d477fb6c656cde702743d8e06e9c668b168915c37443ac9790cf9f9",
+      "git_sha": "0f1d1023398fa81e614c632f099835bd06555a96"
+    },
+    {
+      "path": "reviews/HOUSE_R08_FIRST.png",
+      "bytes": 52824,
+      "sha256": "4be976efeb611bfd54c76ef3a7dd67c0a20b3c486c226abd0d384eec4d4fc0fc",
+      "git_sha": "caebfebe536eedac230ccf9b0bb50acb3fa2b40f"
+    },
+    {
+      "path": "reviews/HOUSE_R08_IDLE_final_1.0x_PRESENTED.jpg",
+      "bytes": 263877,
+      "sha256": "a67c651bac7a3df64bf4a8efec59aa59769b70f8b5f55ccd55b8196486723661",
+      "git_sha": "cdd878b72d371e2e4e7663b3146bfe83ee7b6212"
+    },
+    {
+      "path": "reviews/HOUSE_R08_LAST.png",
+      "bytes": 51321,
+      "sha256": "47945b972649a0137a518305cd1b7505daa486b1266c53a0af0ee49d3978cacc",
+      "git_sha": "f9456b820a947b3b4fbe53d9ba74ae5b9e3c02e8"
+    },
+    {
+      "path": "reviews/HOUSE_R08_MID.png",
+      "bytes": 54526,
+      "sha256": "065599beacc0dcec99de0e769ec24316d7c2a6040f67833d61ee3bd4dc00b93a",
+      "git_sha": "74f363911b8895b3488c0dabed4c27c4789e0095"
+    },
+    {
+      "path": "reviews/HOUSE_R08_final_0.5x_PRESENTED.jpg",
+      "bytes": 263877,
+      "sha256": "a67c651bac7a3df64bf4a8efec59aa59769b70f8b5f55ccd55b8196486723661",
+      "git_sha": "cdd878b72d371e2e4e7663b3146bfe83ee7b6212"
+    },
+    {
+      "path": "reviews/HOUSE_R08_final_1x_PRESENTED.jpg",
+      "bytes": 263877,
+      "sha256": "a67c651bac7a3df64bf4a8efec59aa59769b70f8b5f55ccd55b8196486723661",
+      "git_sha": "cdd878b72d371e2e4e7663b3146bfe83ee7b6212"
     },
     {
       "path": "reviews/HOUSE_V11_R07_1080_CONTACT.jpg",
@@ -603,6 +879,138 @@
     },
     {
       "path": "reviews/HOUSE_V11_R07_540_WIDE_FRAME_0327.png",
+      "bytes": 35179,
+      "sha256": "2e638ab54260838b7c1bf32a78b2961afeed7cbdd98eabfb90e4e20e7a1ce23e",
+      "git_sha": "127eabb81c309e37833869f4338a36453a2ccd50"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_CONTACT.jpg",
+      "bytes": 196900,
+      "sha256": "d0554c3d23d5118bb6b447d37c085399d45c35e8ba645b262e1b5c34bf2d99f2",
+      "git_sha": "2fca07a7ad34ee481e694ad8f84633b8a2ad1e2e"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0000.png",
+      "bytes": 81434,
+      "sha256": "82f5af984d46540cca33e6dd0fdd8ea71c5edbae5e5d25dd2e13354d7b6a7004",
+      "git_sha": "d21816e41fdabe7ed02ca47e30986ceb1e5a27f6"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0054.png",
+      "bytes": 87207,
+      "sha256": "08a934d12a6962252f0175c83105d2818ce97927c609272f39985b0f9d790573",
+      "git_sha": "02bc48fa7503bae495e0707cf23ba5880f602196"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0117.png",
+      "bytes": 84063,
+      "sha256": "557889b944d8fe118676eb98bcb91c463272f30be2612add22ae89b160886fbc",
+      "git_sha": "80e56494afafe9c4ee91e0e3e15c2e330d1ae42a"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0132.png",
+      "bytes": 82904,
+      "sha256": "4ff3f3a205dfdfa9a4f77ef5649c228e294f788af6b295789fa1e9797c2fcc20",
+      "git_sha": "589116de77101eadb7adacbb8bbb0cc4087f057f"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0154.png",
+      "bytes": 81585,
+      "sha256": "feefe82e98f133d026b601937a3e0f33ba21830e48478cec0bf1c1f90bbbff13",
+      "git_sha": "93a9de5645e0721cfa8bf57da6276e5f6d8322bd"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0198.png",
+      "bytes": 82395,
+      "sha256": "00be23eac61fab53e9abb1af274dcd830d914a8cd54b974c12217495aa1c0ae3",
+      "git_sha": "caff12cba72364f43d551380f92849ba6ef79d2f"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0225.png",
+      "bytes": 76648,
+      "sha256": "47e957d3057934e7aeee9d1c267f798e67447e77391b1c64cc0cf9b8f77e852e",
+      "git_sha": "db12861ad00719b85d6934a4b90f8f44560c2b61"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0264.png",
+      "bytes": 74653,
+      "sha256": "7dfca973e54b037adf60536ad1cf2ffc50a7dc6c4278183fb81f3373cc3cb296",
+      "git_sha": "bbb1b777b90fadc97c26e889685f718fc62be44b"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0298.png",
+      "bytes": 53645,
+      "sha256": "774054073e0aa2b1bf8fe7494d29456e5f60a75d0183dc972875ce27dfc9a652",
+      "git_sha": "74a6ab1b45a37a1783dd60819eef6294db3c0ec6"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_1080_FRAME_0327.png",
+      "bytes": 77886,
+      "sha256": "a555b387e74410b5e0551c754c884359a50f7cd7e241cb9543cdfa24f10d0b52",
+      "git_sha": "59b54196998c32fde4ab538b1a3d6a99183a8b74"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_CONTACT.jpg",
+      "bytes": 196742,
+      "sha256": "d65379c0ccf597a7648fd4886fa6acbc2fbaa156f747da5ee1bb1e583ce76af9",
+      "git_sha": "f59dbf43ae228e925375a4ceb8d4467698fb0a59"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0000.png",
+      "bytes": 36279,
+      "sha256": "628591e3920c7e1d83207fdd602b085fea19ba4e7e45f3dc9bbea15bc529d2f6",
+      "git_sha": "0971045065ce2bc9ff3748de1d5026d44fd7bf4f"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0054.png",
+      "bytes": 38451,
+      "sha256": "fedc90782df890b4e7c0411b8e02ad554936ad9f9b41c90e0f3a11693ce811ad",
+      "git_sha": "9ea18d1edd9ff9561df83bf3b4e2b812146d5497"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0117.png",
+      "bytes": 36825,
+      "sha256": "bd7380b98cfe41b413a3df40cb38d48f08d5facbc6fcd152fd061daae92138b0",
+      "git_sha": "6de57ffb3498a025dd8ff29fa6afe9ee1b8951a4"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0132.png",
+      "bytes": 37263,
+      "sha256": "e6c698cf9955bd1ab5081807655509bb0eae448b03b4d46a7889fdc32c1abd88",
+      "git_sha": "40bacd98e1f50ce7527992878a8988190a2acf9f"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0154.png",
+      "bytes": 36147,
+      "sha256": "dffa68ee810a3a971d3cc47f8b1c49abbaa7c97af803a2a9c2165434a347b8ca",
+      "git_sha": "6b6fbd930d7b10178d66514be57c32ac4a1ed4ce"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0198.png",
+      "bytes": 36305,
+      "sha256": "4885a0756378b97969b8fcb5864a1cc5d3cf674bd8c5a33e785869e4457e3e40",
+      "git_sha": "e5255267c59d59b5e1be9a639909f9ce4016fb0a"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0225.png",
+      "bytes": 33614,
+      "sha256": "c2ea724d26a7d0515fa6799aa49177536670c09cc8619681f360ee661d6afbf6",
+      "git_sha": "e4982aa6c52fc994848e734342671233628bcf0e"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0264.png",
+      "bytes": 34216,
+      "sha256": "eb20f37118edf823d036a0950b1c66762c965e043712a1ff82849c3fa3192a57",
+      "git_sha": "604182ff0b6d8087855f6126314cfa4e9d8044c8"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0298.png",
+      "bytes": 32366,
+      "sha256": "a2ead0c4da8afbf39157912c75fa9bc36c0682a3f936ca7beeb2ecda0a35ae76",
+      "git_sha": "6e2665f16cfd08f6c478c8ce38e8e793f391e01d"
+    },
+    {
+      "path": "reviews/HOUSE_V11_R08_540_WIDE_FRAME_0327.png",
       "bytes": 35179,
       "sha256": "2e638ab54260838b7c1bf32a78b2961afeed7cbdd98eabfb90e4e20e7a1ce23e",
       "git_sha": "127eabb81c309e37833869f4338a36453a2ccd50"
@@ -831,9 +1239,9 @@
     },
     {
       "path": "source/export_review.py",
-      "bytes": 5397,
-      "sha256": "f7a7a63f4c7be1e838dcb0a30cf4a0357b28476b2fc0e0f937d71c0cc6661fcb",
-      "git_sha": "266e9e6456ff0010a3148c8737b375284aa01cfe"
+      "bytes": 5867,
+      "sha256": "fc46802eaf8cd68a9a7030ec9f5f613b5a2e3b16375b6708aac2ea536083900f",
+      "git_sha": "c978e8dc4092c2852df78dbda9795855a14ebbf5"
     },
     {
       "path": "source/qa.py",
@@ -843,9 +1251,9 @@
     },
     {
       "path": "source/rebuild.py",
-      "bytes": 1358,
-      "sha256": "f6b08f3d4d26f4999289682a88b99cce16aaf47fb91478058d73ef891cb298bb",
-      "git_sha": "800018ae450411fdc2ff8231ef31cf49f40bcdf9"
+      "bytes": 1769,
+      "sha256": "43ad16f50dc6bd23dc8efc424fe45bb2f60ab4b6007c762233eff3ef53f9608d",
+      "git_sha": "cb89056ef9caa17be41c500e8de3d57f1ecccdad"
     },
     {
       "path": "source/render.py",
@@ -867,12 +1275,60 @@
     },
     {
       "path": "source/scenes.py",
+      "bytes": 8091,
+      "sha256": "e773b0dbc85fdbf56a80afa903f05be4b420e6fd35c888e1b8d76024e7226c51",
+      "git_sha": "a1c7bb97030590c67440f63fe7aecb697129735c"
+    },
+    {
+      "path": "source/svg.py",
+      "bytes": 2569,
+      "sha256": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
+      "git_sha": "c5f18a3bfb284ea786eaed479b060bb02b388c4b"
+    },
+    {
+      "path": "source/versions/R07/CURRENT_SHOTS.json",
+      "bytes": 726,
+      "sha256": "f3c7524141b13ed3fc930e18dd70db082a44902e6877a477c928ff8aeea81f78",
+      "git_sha": "fbcc18671f4e1759b169cc88ec491e1dd59f82f7"
+    },
+    {
+      "path": "source/versions/R07/actions.py",
+      "bytes": 7526,
+      "sha256": "6557def2da362a09588c6f7a63821b96ef341c8f9c0801a278b18b8b789d3214",
+      "git_sha": "7f6322c027f2380a7ddcdcdaa16b1dfef99bd2b8"
+    },
+    {
+      "path": "source/versions/R07/approved_head.py",
+      "bytes": 2046,
+      "sha256": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc",
+      "git_sha": "2c3a46f9b2d4766368e127f0559ccc742bdc70ee"
+    },
+    {
+      "path": "source/versions/R07/drawing.py",
+      "bytes": 3785,
+      "sha256": "c65c5a788a8067183aa26de02397a5558552bcbeaa1efef041e18316386f2967",
+      "git_sha": "1c7f844a56e805c6fe8915db2e364ddac3a81953"
+    },
+    {
+      "path": "source/versions/R07/render.py",
+      "bytes": 4551,
+      "sha256": "8429e9eb81d6568f3b9457c3928fc8caf7c3119fe9f26c8460ec96c8df52a7d1",
+      "git_sha": "fe0999f56ffcf867992a63246feb8af5aaf4e1e3"
+    },
+    {
+      "path": "source/versions/R07/rig.py",
+      "bytes": 2195,
+      "sha256": "42543bc46b86ba67e9c298941c873c889f001b9a0d9f12a723863fe460472c0d",
+      "git_sha": "db8e91df1208f11ed2188e5aca4e9857a4dde187"
+    },
+    {
+      "path": "source/versions/R07/scenes.py",
       "bytes": 8083,
       "sha256": "b5320900207600363d00a1889a547184e2d914aad07cf7cf5e6a423546e5fd93",
       "git_sha": "8596edb75c0e7c551be99c24a19041fb510878bf"
     },
     {
-      "path": "source/svg.py",
+      "path": "source/versions/R07/svg.py",
       "bytes": 2569,
       "sha256": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
       "git_sha": "c5f18a3bfb284ea786eaed479b060bb02b388c4b"

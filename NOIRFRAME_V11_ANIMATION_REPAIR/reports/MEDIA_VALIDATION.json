@@ -1,15 +1,15 @@
 {
   "HOUSE": {
-    "file": "previews/HOUSE_V11_R07_1080.mp4",
+    "file": "previews/HOUSE_V11_R08_1080.mp4",
     "width": 1080,
     "height": 1920,
     "fps": 30,
     "frames": 330,
     "duration_s": 11,
-    "bytes": 1072377,
-    "sha256": "74a9736de952ff04f7ca6c3c2d30671d462b0c550c9870ce4ba6d381debdbf0c",
+    "bytes": 1070847,
+    "sha256": "5c83a84a092d93428dd38eb0f808cf67eec7f6400481adca90955c337a004794",
     "full_decode": "clean",
-    "comparison": "reviews/HOUSE_R07_BEFORE_AFTER.mp4",
+    "comparison": "reviews/HOUSE_R08_BEFORE_AFTER.mp4",
     "before_interval_s": [
       49.2,
       61.400000000000006

@@ -1,10 +1,10 @@
 {
   "HOUSE": {
-    "preview": "previews/HOUSE_V11_R07_1080.mp4",
-    "final": "previews/HOUSE_V11_R07_1080.mp4",
+    "preview": "previews/HOUSE_V11_R08_1080.mp4",
+    "final": "previews/HOUSE_V11_R08_1080.mp4",
     "duration": 11,
     "frames": 330,
-    "comparison": "reviews/HOUSE_R07_BEFORE_AFTER.mp4",
+    "comparison": "reviews/HOUSE_R08_BEFORE_AFTER.mp4",
     "user_approved": false
   },
   "STAIRS": {

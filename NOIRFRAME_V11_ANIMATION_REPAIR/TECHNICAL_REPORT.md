@@ -4,7 +4,7 @@ All three canonical clips are1080×1920,30FPS,H.264/yuv420p with AAC contact-Fol
 
 | Shot | Duration | Frames | File bytes | Full decode |
 |---|---|---|---|---|
-| HOUSE | 11s | 330 | 1,072,377 | clean |
+| HOUSE | 11s | 330 | 1,070,847 | clean |
 | STAIRS | 8.5s | 255 | 1,453,490 | clean |
 | WINDOW | 7.5s | 225 | 945,544 | clean |
 
@@ -26,10 +26,12 @@ These are joint, shoe-vertex and arm-centreline tests, not an exhaustive garment
 
 Before/after MP4s preserve each source at normal speed. Comparison end holds are explicitly labeled. Old action ranges are49.2–61.4s,61.4–65.4s and65.4–69.4s of the rejected master; the new stand-alone timings differ. First/mid/last decoded frames and contact strips sampled at0.0667–0.1s are supplied. The House wide diagnostic retains all poses while removing mechanism inserts.
 
-The new renderer has no old-film or pose-image input. A fresh source-only rebuild produced all three canonical MP4s byte-identically. Source hashes are recorded in the world-state datasets. All11,533 protected prior production files matched their original SHA256 hashes, including V10 and previous full-film versions.
+The new renderer has no old-film or pose-image input. Fresh source-only rebuilding required no old movie or pose images. The final House and Window clips matched byte hashes. The later Stair rerun matched evaluated states and saved SVG/PNG keyframes but had a different encoded hash; see reports/SOURCE_REBUILD_VERIFICATION_R08.json. Source hashes are recorded in the world-state datasets. All11,533 protected prior production files matched their original SHA256 hashes, including V10 and previous full-film versions.
 
 ## Audio and approval boundary
 
 The track is original synthetic Foley at event times from the authored actions. It is a quiet diagnostic track, not a mastered final soundtrack. Critical listening, perceived material realism and subjective sync approval remain pending. No rejected narration was reused and no Whisper/word-alignment claim is made. The voice auditions, full soundtrack, HUD and final choice remain planned in the18-scene register.
 
 No full86-second V11 was rendered. The three motion tests require the user’s review and approval before full-film work proceeds. No paid APIs, paid services, Onetake restricted code or new toolkit installs were used.
+
+Final selected-file playback: House R08 completed at normal speed in isolation with330 frames, zero dropped/corrupted frames; half speed completed with zero drops/corruption. Stairs and Window R07 completed normal and half speed with zero dropped/corrupted frames. See reports/FINAL_PLAYBACK.json.

@@ -116,7 +116,7 @@
     "title": "House 17",
     "repair": "Repair car exit geometry and run-to-entry route; V11 House proof covers approach only, not car exit.",
     "status": "partly covered; car exit pending",
-    "proof": "previews/HOUSE_V11_R07_1080.mp4",
+    "proof": "previews/HOUSE_V11_R08_1080.mp4",
     "new_repair_approved": false,
     "existing_V10_user_approved": false
   },
@@ -127,7 +127,7 @@
     "title": "Locked door / key retrieval and unlock",
     "repair": "Visible failed lever, pocket, shaft alignment/insertion,90\u00b0 turn, return/withdraw/storage and hinged opening.",
     "status": "new House proof; awaiting user review",
-    "proof": "previews/HOUSE_V11_R07_1080.mp4",
+    "proof": "previews/HOUSE_V11_R08_1080.mp4",
     "new_repair_approved": false,
     "existing_V10_user_approved": false
   },
@@ -138,7 +138,7 @@
     "title": "Open / enter / close / lock",
     "repair": "Same door asset inside/out, threshold crossing, closure and interior bolt.",
     "status": "new House proof; awaiting user review",
-    "proof": "previews/HOUSE_V11_R07_1080.mp4",
+    "proof": "previews/HOUSE_V11_R08_1080.mp4",
     "new_repair_approved": false,
     "existing_V10_user_approved": false
   },

@@ -33,8 +33,8 @@ def key(a,d,P,S):
  for j in range(25):
   u=j*math.tau/24;x=.047*math.cos(u);y=.027*math.sin(u);pts.append(b+V(x*math.cos(th)-y*math.sin(th),x*math.sin(th)+y*math.cos(th),0))
  line(a,P,pts,INK,S*.014);line(a,P,pts,'#e2bb6f',S*.008)
- tip=d['keytip'].copy();tip[2]=min(0,tip[2]);line(a,P,[b,tip],INK,S*.014);line(a,P,[b,tip],'#d7ac60',S*.008)
- if d['keytip'][2]<0:
+ tip=d['keytip'].copy();tip[2]=min(-.065,tip[2]);line(a,P,[b,tip],INK,S*.014);line(a,P,[b,tip],'#d7ac60',S*.008)
+ if d['keytip'][2]<-.065:
   q=d['keytip']+V(.025*math.cos(th),.025*math.sin(th),-.025);line(a,P,[d['keytip']+V(0,0,-.025),q],'#dfbc77',S*.012)
 
 def house_scene(t):
