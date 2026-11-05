@@ -1,0 +1,6 @@
+import React from 'react';
+import {AbsoluteFill,Composition,Sequence,OffthreadVideo,Freeze,registerRoot,staticFile,useCurrentFrame} from 'remotion';
+import manifest from './manifest.json';
+const Panel:React.FC<{src:string,frames:number}>=({src,frames})=>{const f=useCurrentFrame();return <Freeze frame={Math.min(f,frames-1)}><OffthreadVideo src={staticFile(src)} style={{width:'100%',height:'100%',objectFit:'contain'}} muted/></Freeze>};
+const Review:React.FC=()=> <AbsoluteFill style={{background:'#0a1d2b',fontFamily:'sans-serif'}}>{manifest.map((s:any)=><Sequence key={s.shot} from={s.start} durationInFrames={s.frames}><AbsoluteFill><div style={{color:'#e5dfcd',fontSize:36,padding:30}}>{s.shot} — rejected before / V12 review only</div><div style={{display:'flex',height:1600}}><div style={{width:'50%'}}><Panel src={s.before} frames={s.beforeFrames}/></div><div style={{width:'50%'}}><Panel src={s.after} frames={s.frames}/></div></div><div style={{color:'#c1d0d3',padding:24,fontSize:25}}>Normal speed. Shorter source holds its final frame. User approval pending.</div></AbsoluteFill></Sequence>)}</AbsoluteFill>;
+registerRoot(()=> <Composition id="V12-PROOF-REVIEW" component={Review} durationInFrames={manifest.reduce((n:number,s:any)=>n+s.frames,0)} fps={30} width={1080} height={1920}/>);

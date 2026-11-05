@@ -1,0 +1,86 @@
+{
+  "STAIRS": {
+    "path": "previews/STAIRS_V12_F01_1080.mp4",
+    "full_decode": "clean",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "282"
+        }
+      ],
+      "format": {
+        "duration": "9.400000"
+      }
+    },
+    "sha256": "8d777b7351a2f97b77ee1ae045c941d1fe99b5237729a95d63bd84a85cc508fc"
+  },
+  "BEDROOM": {
+    "path": "previews/BEDROOM_V12_F02_1080.mp4",
+    "full_decode": "clean",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "252"
+        }
+      ],
+      "format": {
+        "duration": "8.400000"
+      }
+    },
+    "sha256": "154f5df250436f973efa15e2f10b81b9dbdb4a51e4f4d19278fc1f00e6f8ad8e"
+  },
+  "HOUSE": {
+    "path": "previews/HOUSE_V12_F01_1080.mp4",
+    "full_decode": "clean",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "390"
+        }
+      ],
+      "format": {
+        "duration": "13.000000"
+      }
+    },
+    "sha256": "7f43ad6fd029d1f37c29762909e75140f7a2f2401834f63960332856dd29d1aa"
+  },
+  "DRIVING": {
+    "path": "previews/DRIVING_V12_F01_1080.mp4",
+    "full_decode": "clean",
+    "metadata": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1080,
+          "height": 1920,
+          "r_frame_rate": "30/1",
+          "nb_read_frames": "360"
+        }
+      ],
+      "format": {
+        "duration": "12.000000"
+      }
+    },
+    "sha256": "ebb81be8e3e535287ba1e3f15a7cdd0218a776007bce8fb27d65f8f000a966ba"
+  }
+}

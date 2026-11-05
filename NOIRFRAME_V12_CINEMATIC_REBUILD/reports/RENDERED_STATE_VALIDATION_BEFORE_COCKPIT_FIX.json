@@ -1,0 +1,50 @@
+{
+  "HOUSE": {
+    "evaluated_frames": 390,
+    "articulated_pose_frames": 390,
+    "max_bone_error_m": 4.440892098500626e-16,
+    "max_planted_sole_displacement_m": 0.0,
+    "sampled_shoe_surface_penetration_m": 0.0,
+    "max_grip_error_m": 5.551115123125783e-17,
+    "grip_samples": 181,
+    "door_arm_centerline_crossings": 0,
+    "seat_root_drift_m": null,
+    "bounded_checks_pass": true
+  },
+  "STAIRS": {
+    "evaluated_frames": 282,
+    "articulated_pose_frames": 282,
+    "max_bone_error_m": 5.551115123125783e-16,
+    "max_planted_sole_displacement_m": 0.0,
+    "sampled_shoe_surface_penetration_m": 4.440892098500626e-16,
+    "max_grip_error_m": 3.469446951953614e-18,
+    "grip_samples": 217,
+    "door_arm_centerline_crossings": null,
+    "seat_root_drift_m": null,
+    "bounded_checks_pass": true
+  },
+  "BEDROOM": {
+    "evaluated_frames": 252,
+    "articulated_pose_frames": 252,
+    "max_bone_error_m": 7.771561172376096e-16,
+    "max_planted_sole_displacement_m": 0.0,
+    "sampled_shoe_surface_penetration_m": 0.0,
+    "max_grip_error_m": 1.3877787807814457e-17,
+    "grip_samples": 88,
+    "door_arm_centerline_crossings": null,
+    "seat_root_drift_m": null,
+    "bounded_checks_pass": true
+  },
+  "DRIVING": {
+    "evaluated_frames": 360,
+    "articulated_pose_frames": 300,
+    "max_bone_error_m": 1.1102230246251565e-16,
+    "max_planted_sole_displacement_m": 0.0,
+    "sampled_shoe_surface_penetration_m": null,
+    "max_grip_error_m": 0.0,
+    "grip_samples": 600,
+    "door_arm_centerline_crossings": null,
+    "seat_root_drift_m": 0,
+    "bounded_checks_pass": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "sha256": {
+    "rig.py": "42543bc46b86ba67e9c298941c873c889f001b9a0d9f12a723863fe460472c0d",
+    "actions.py": "4b015cab140d33ee01ab280b793157390a1fdbef963d1208d2a28a91cf8dafd5",
+    "world.py": "41e48450eb32437d3af40431ffb1bc3c69b3c0496d1e9d55e4501905887fe28a",
+    "scenes.py": "63f124525624f18d9c43e64b6c78b87cdc7313c48fabef15a76f66202f1973e5",
+    "character.py": "6556dffff810aefc098e39487fc5041f7749aa30335a128aea3d6d7d8f6ae62c",
+    "environments.py": "623291b3a76b246828da5997f784ccd9e974ac697d01088522f14bd4f706ea24",
+    "vehicles.py": "d52b942a2a94b7517c945c9e771b5dd901507e63a804337a1712252f870eb7b6",
+    "depth_render.py": "c90cf0de5821e964f2b4f3d01a6efb0b4738dceadf764b89387c71dd031252b0",
+    "approved_head.py": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc",
+    "svg.py": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
+    "render.py": "efeee66c4e153bf0787255644265038b490f13c1be2df85bc20b6e4867b3e14c",
+    "repair_tyres_segment.py": "ba77358b4f654b54fccb6853bf28b0674a6e313bc59429353467bd9bdb83f486"
+  },
+  "selected": {
+    "HOUSE": {
+      "preview": "previews/HOUSE_V12_P02_360.mp4",
+      "final": "previews/HOUSE_V12_F01_1080.mp4",
+      "duration": 13.0,
+      "user_approved": false,
+      "comparison": "reviews/HOUSE_V11_V12_BEFORE_AFTER.mp4"
+    },
+    "STAIRS": {
+      "preview": "previews/STAIRS_V12_P01_360.mp4",
+      "final": "previews/STAIRS_V12_F01_1080.mp4",
+      "duration": 9.4,
+      "user_approved": false,
+      "comparison": "reviews/STAIRS_V11_V12_BEFORE_AFTER.mp4"
+    },
+    "BEDROOM": {
+      "preview": "previews/BEDROOM_V12_P02_360.mp4",
+      "final": "previews/BEDROOM_V12_F02_1080.mp4",
+      "duration": 8.4,
+      "user_approved": false,
+      "comparison": "reviews/BEDROOM_F02_V11_V12_BEFORE_AFTER.mp4"
+    },
+    "DRIVING": {
+      "preview": "previews/DRIVING_V12_P04_360.mp4",
+      "final": "previews/DRIVING_V12_F03_1080.mp4",
+      "duration": 12.0,
+      "user_approved": false,
+      "comparison": "reviews/DRIVING_F03_V11_V12_BEFORE_AFTER.mp4"
+    }
+  },
+  "whole_film_rendered": false
+}

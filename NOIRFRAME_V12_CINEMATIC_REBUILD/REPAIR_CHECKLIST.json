@@ -1,0 +1,73 @@
+{
+  "V11_previews": "rejected by user",
+  "V12_user_approval": "pending",
+  "full_V12_rendered": false,
+  "V10_trunk": "preserve existing approved sequence",
+  "proofs": {
+    "STAIRS": {
+      "user_approved": false,
+      "review_items": [
+        "foot sliding",
+        "hand penetration",
+        "prop connection",
+        "scale",
+        "camera cuts",
+        "perspective",
+        "timing",
+        "scenery motion",
+        "reactions",
+        "sound"
+      ],
+      "remaining_defects_document": "ARTISTIC_REVIEW.md"
+    },
+    "HOUSE": {
+      "user_approved": false,
+      "review_items": [
+        "foot sliding",
+        "hand penetration",
+        "prop connection",
+        "scale",
+        "camera cuts",
+        "perspective",
+        "timing",
+        "scenery motion",
+        "reactions",
+        "sound"
+      ],
+      "remaining_defects_document": "ARTISTIC_REVIEW.md"
+    },
+    "BEDROOM": {
+      "user_approved": false,
+      "review_items": [
+        "foot sliding",
+        "hand penetration",
+        "prop connection",
+        "scale",
+        "camera cuts",
+        "perspective",
+        "timing",
+        "scenery motion",
+        "reactions",
+        "sound"
+      ],
+      "remaining_defects_document": "ARTISTIC_REVIEW.md"
+    },
+    "DRIVING": {
+      "user_approved": false,
+      "review_items": [
+        "foot sliding",
+        "hand penetration",
+        "prop connection",
+        "scale",
+        "camera cuts",
+        "perspective",
+        "timing",
+        "scenery motion",
+        "reactions",
+        "sound"
+      ],
+      "remaining_defects_document": "ARTISTIC_REVIEW.md"
+    }
+  },
+  "integration": "Only after explicit approval of all four proofs; retain previous18-scene checklist and then revise whole-film timing."
+}

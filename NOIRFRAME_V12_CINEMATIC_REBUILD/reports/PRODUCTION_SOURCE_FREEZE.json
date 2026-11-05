@@ -1,0 +1,16 @@
+{
+  "files": {
+    "rig.py": "42543bc46b86ba67e9c298941c873c889f001b9a0d9f12a723863fe460472c0d",
+    "actions.py": "4b015cab140d33ee01ab280b793157390a1fdbef963d1208d2a28a91cf8dafd5",
+    "world.py": "41e48450eb32437d3af40431ffb1bc3c69b3c0496d1e9d55e4501905887fe28a",
+    "scenes.py": "136b530c561bcc12b82ea67e56fbd96aeed1e18da1131057d6c7bb0b6727c2f1",
+    "character.py": "83151bd233f267f7e672b97c9ad8bf9e29d927e0def8cb3694fdec21dbc6ade5",
+    "environments.py": "623291b3a76b246828da5997f784ccd9e974ac697d01088522f14bd4f706ea24",
+    "vehicles.py": "8bbe5e292e2db5cdcd8b4837a6fc04da5d602522c23e567cad0bda02d76c201c",
+    "depth_render.py": "c90cf0de5821e964f2b4f3d01a6efb0b4738dceadf764b89387c71dd031252b0",
+    "approved_head.py": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc",
+    "svg.py": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
+    "render.py": "efeee66c4e153bf0787255644265038b490f13c1be2df85bc20b6e4867b3e14c"
+  },
+  "note": "Current rebuild source, frozen before Driving F01. Earlier F01 shots used equivalent world/contact staging with older raster/ink policy; byte-identical rebuild is not claimed."
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "shot": "STAIRS",
+    "action": "TREAD_CONTACT",
+    "path": "reviews/STAIRS_TREAD_CONTACT_CONTACT_STRIP.jpg",
+    "times": [
+      0.8,
+      0.9,
+      1.0,
+      1.1,
+      1.2,
+      1.3,
+      1.4,
+      1.5,
+      1.6
+    ],
+    "spacing_seconds": 0.1,
+    "source": "actual decoded final MP4"
+  },
+  {
+    "shot": "STAIRS",
+    "action": "UPPER_LANDING",
+    "path": "reviews/STAIRS_UPPER_LANDING_CONTACT_STRIP.jpg",
+    "times": [
+      7.65,
+      7.75,
+      7.85,
+      7.95,
+      8.05,
+      8.15,
+      8.25,
+      8.35
+    ],
+    "spacing_seconds": 0.1,
+    "source": "actual decoded final MP4"
+  },
+  {
+    "shot": "BEDROOM",
+    "action": "PINCH_PULL",
+    "path": "reviews/BEDROOM_PINCH_PULL_CONTACT_STRIP.jpg",
+    "times": [
+      2.25,
+      2.35,
+      2.45,
+      2.55,
+      2.65,
+      2.75,
+      2.85,
+      2.95,
+      3.05,
+      3.15,
+      3.25
+    ],
+    "spacing_seconds": 0.1,
+    "source": "actual decoded final MP4"
+  },
+  {
+    "shot": "BEDROOM",
+    "action": "REACTION",
+    "path": "reviews/BEDROOM_REACTION_CONTACT_STRIP.jpg",
+    "times": [
+      5.5,
+      5.6,
+      5.7,
+      5.8,
+      5.9,
+      6.0,
+      6.1,
+      6.2,
+      6.3,
+      6.4,
+      6.5
+    ],
+    "spacing_seconds": 0.1,
+    "source": "actual decoded final MP4"
+  }
+]

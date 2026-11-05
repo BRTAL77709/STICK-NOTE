@@ -1,0 +1,30 @@
+{
+  "HOUSE": {
+    "preview": "previews/HOUSE_V12_P02_360.mp4",
+    "final": "previews/HOUSE_V12_F01_1080.mp4",
+    "duration": 13.0,
+    "user_approved": false,
+    "comparison": "reviews/HOUSE_V11_V12_BEFORE_AFTER.mp4"
+  },
+  "STAIRS": {
+    "preview": "previews/STAIRS_V12_P01_360.mp4",
+    "final": "previews/STAIRS_V12_F01_1080.mp4",
+    "duration": 9.4,
+    "user_approved": false,
+    "comparison": "reviews/STAIRS_V11_V12_BEFORE_AFTER.mp4"
+  },
+  "BEDROOM": {
+    "preview": "previews/BEDROOM_V12_P02_360.mp4",
+    "final": "previews/BEDROOM_V12_F02_1080.mp4",
+    "duration": 8.4,
+    "user_approved": false,
+    "comparison": "reviews/BEDROOM_F02_V11_V12_BEFORE_AFTER.mp4"
+  },
+  "DRIVING": {
+    "preview": "previews/DRIVING_V12_P04_360.mp4",
+    "final": "previews/DRIVING_V12_F03_1080.mp4",
+    "duration": 12.0,
+    "user_approved": false,
+    "comparison": "reviews/DRIVING_F03_V11_V12_BEFORE_AFTER.mp4"
+  }
+}

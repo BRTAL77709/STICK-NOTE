@@ -1,0 +1,19 @@
+{
+  "version": "4.0.419",
+  "composition": {
+    "id": "V12-PROOF-REVIEW",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationInFrames": 924,
+    "props": {},
+    "defaultProps": {},
+    "defaultCodec": null,
+    "defaultOutName": null,
+    "defaultVideoImageFormat": null,
+    "defaultPixelFormat": null,
+    "defaultProResProfile": null
+  },
+  "rendered_still": "reviews/REMOTION_EDITORIAL_VERIFICATION.png",
+  "full_film_rendered": false
+}

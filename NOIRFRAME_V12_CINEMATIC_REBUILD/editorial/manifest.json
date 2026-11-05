@@ -1,0 +1,34 @@
+[
+  {
+    "shot": "HOUSE",
+    "before": "HOUSE_BEFORE.mp4",
+    "after": "HOUSE_AFTER.mp4",
+    "frames": 390,
+    "beforeFrames": 330,
+    "start": 0
+  },
+  {
+    "shot": "STAIRS",
+    "before": "STAIRS_BEFORE.mp4",
+    "after": "STAIRS_AFTER.mp4",
+    "frames": 282,
+    "beforeFrames": 255,
+    "start": 390
+  },
+  {
+    "shot": "BEDROOM",
+    "before": "BEDROOM_BEFORE.mp4",
+    "after": "BEDROOM_AFTER.mp4",
+    "frames": 252,
+    "beforeFrames": 225,
+    "start": 672
+  },
+  {
+    "shot": "DRIVING",
+    "before": "DRIVING_BEFORE.mp4",
+    "after": "DRIVING_AFTER.mp4",
+    "frames": 360,
+    "beforeFrames": 180,
+    "start": 924
+  }
+]

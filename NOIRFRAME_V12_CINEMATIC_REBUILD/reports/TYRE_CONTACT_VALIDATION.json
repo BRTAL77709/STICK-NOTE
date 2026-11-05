@@ -1,0 +1,13 @@
+{
+  "native_HD_exterior_frames": 60,
+  "frame_range": [
+    165,
+    224
+  ],
+  "centre_y_m": 0.3,
+  "radius_m": 0.3,
+  "nominal_contact_y_m": 0,
+  "body_roll_inherited_by_wheels": false,
+  "actual_decoded_review_strip": "reviews/DRIVING_PURSUIT_F03_CONTACT_STRIP.jpg",
+  "limits": "Geometric constraint, not tyre deformation or a complete suspension simulation."
+}

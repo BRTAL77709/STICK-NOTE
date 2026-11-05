@@ -1,0 +1,44 @@
+{
+  "HOUSE": {
+    "frames": 390,
+    "maximum_bone_error_m": 4.440892098500626e-16,
+    "maximum_planted_sole_displacement_m": 0.0,
+    "sampled_grip_error_m": 0.0,
+    "contact_samples": 108,
+    "constraint_checks_pass": true
+  },
+  "STAIRS": {
+    "frames": 282,
+    "maximum_bone_error_m": 5.551115123125783e-16,
+    "maximum_planted_sole_displacement_m": 0.0,
+    "sampled_grip_error_m": 0.0,
+    "contact_samples": 0,
+    "constraint_checks_pass": true
+  },
+  "BEDROOM": {
+    "frames": 252,
+    "maximum_bone_error_m": 7.771561172376096e-16,
+    "maximum_planted_sole_displacement_m": 0.0,
+    "sampled_grip_error_m": 1.3877787807814457e-17,
+    "contact_samples": 88,
+    "constraint_checks_pass": true
+  },
+  "DRIVING": {
+    "frames": 360,
+    "maximum_bone_error_m": null,
+    "maximum_planted_sole_displacement_m": null,
+    "sampled_grip_error_m": null,
+    "contact_samples": 0,
+    "constraint_checks_pass": true,
+    "articulated_pose_frames_checked": 0,
+    "scope": "Action-channel precheck only. Driver bones/grips are checked from rendered states by validate_rendered_states.py.",
+    "distance_speed_residual_mps": 2.1316282072803006e-13,
+    "wheel_travel_residual_m": 1.4210854715202004e-14,
+    "gap_range_m": [
+      11,
+      18
+    ],
+    "note": "Seated wheel/pedal contact is also inspected in the rendered insert. No full tyre or hand-volume simulation."
+  },
+  "limits": "Constraints passing is not artistic approval. Silhouette, collision volume, proportions and material realism require visual review."
+}

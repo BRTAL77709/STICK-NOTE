@@ -1,0 +1,43 @@
+{
+  "Blender_version": "4.3.2",
+  "file_opened": "/workspace/STICK-NOTE/NOIRFRAME_V12_CINEMATIC_REBUILD/assets/NOIRFRAME_V12_SPATIAL_CONTACT_EDIT.blend",
+  "scenes": {
+    "BEDROOM_V12_WORLD": {
+      "objects": 11,
+      "cameras": 1,
+      "mesh_surfaces": 412,
+      "armatures": 1,
+      "IK_constraints": 4,
+      "fps": 30,
+      "frames": 252
+    },
+    "DRIVING_V12_WORLD": {
+      "objects": 11,
+      "cameras": 1,
+      "mesh_surfaces": 343,
+      "armatures": 1,
+      "IK_constraints": 4,
+      "fps": 30,
+      "frames": 360
+    },
+    "HOUSE_V12_WORLD": {
+      "objects": 11,
+      "cameras": 1,
+      "mesh_surfaces": 84,
+      "armatures": 1,
+      "IK_constraints": 4,
+      "fps": 30,
+      "frames": 390
+    },
+    "STAIRS_V12_WORLD": {
+      "objects": 11,
+      "cameras": 1,
+      "mesh_surfaces": 175,
+      "armatures": 1,
+      "IK_constraints": 4,
+      "fps": 30,
+      "frames": 282
+    }
+  },
+  "scope": "Supplemental spatial/IK editing companion. Final illustrative animation is generated from Python, not a native Blender film render."
+}

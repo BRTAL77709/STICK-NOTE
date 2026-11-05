@@ -1,0 +1,5 @@
+Python3 with numpy and Pillow
+System: FFmpeg/libx264/AAC, libcairo, librsvg2
+Optional native companion: Blender4.3.2
+Editorial: Node and existing Remotion4.0.419 / React18.3.1
+No paid API keys. No model downloads required.
