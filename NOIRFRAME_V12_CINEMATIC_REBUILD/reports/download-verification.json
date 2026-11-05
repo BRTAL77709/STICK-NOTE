@@ -1,0 +1,131 @@
+{
+  "commit": "751e60908fdaa73114c809caeee56663ba197a58",
+  "verified": [
+    {
+      "path": "previews/HOUSE_V12_F01_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/previews/HOUSE_V12_F01_1080.mp4",
+      "HTTP": 200,
+      "bytes": 3359557,
+      "sha256": "7f43ad6fd029d1f37c29762909e75140f7a2f2401834f63960332856dd29d1aa",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/STAIRS_V12_F01_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/previews/STAIRS_V12_F01_1080.mp4",
+      "HTTP": 200,
+      "bytes": 3482316,
+      "sha256": "8d777b7351a2f97b77ee1ae045c941d1fe99b5237729a95d63bd84a85cc508fc",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/BEDROOM_V12_F02_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/previews/BEDROOM_V12_F02_1080.mp4",
+      "HTTP": 200,
+      "bytes": 874653,
+      "sha256": "154f5df250436f973efa15e2f10b81b9dbdb4a51e4f4d19278fc1f00e6f8ad8e",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "previews/DRIVING_V12_F03_1080.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/previews/DRIVING_V12_F03_1080.mp4",
+      "HTTP": 200,
+      "bytes": 4985199,
+      "sha256": "0a096bb37cb7747fea69bfb0e49f755b9c980113123fcf3c2d2447cb7c830b52",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/HOUSE_V11_V12_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/reviews/HOUSE_V11_V12_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 1354246,
+      "sha256": "887438a989a975f9448e8e6d7ae4178c188617d3e76981d33d87bae2753b506f",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/STAIRS_V11_V12_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/reviews/STAIRS_V11_V12_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 1519231,
+      "sha256": "5bb9bda01965e761b3a7e630441d8c6ac32a3be5c664647a2184a42b8a1b07a7",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/BEDROOM_F02_V11_V12_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/reviews/BEDROOM_F02_V11_V12_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 528909,
+      "sha256": "fbd729a393e737a0f34e0f5b9f0c0b9522bbf6d362ab78d9e85910efd106d9a5",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "reviews/DRIVING_F03_V11_V12_BEFORE_AFTER.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/reviews/DRIVING_F03_V11_V12_BEFORE_AFTER.mp4",
+      "HTTP": 200,
+      "bytes": 2294032,
+      "sha256": "c09790e5f26450b2abad876c06cd294da07597cf6b017b2ac03130413f09e363",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "NOIRFRAME_V12_EDITABLE_SOURCE_R02.zip",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/NOIRFRAME_V12_EDITABLE_SOURCE_R02.zip",
+      "HTTP": 200,
+      "bytes": 659925,
+      "sha256": "029d1788ea61647223a3bfbaa0700fe20226e5783a840ec83c10403fc18d855c",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/TECHNICAL_REPORT.md",
+      "HTTP": 200,
+      "bytes": 5262,
+      "sha256": "c12b7a2829bf0413a9007cf6c727761dcf2fa1c2335cffbeab63cb42deebcca0",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "ARTISTIC_REVIEW.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/ARTISTIC_REVIEW.md",
+      "HTTP": 200,
+      "bytes": 2927,
+      "sha256": "b4e51af97ff738864835dedfa0e69c6792f62e62efa9bf15ba8a05500aa504d8",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "REPAIR_CHECKLIST.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/REPAIR_CHECKLIST.json",
+      "HTTP": 200,
+      "bytes": 1779,
+      "sha256": "7320ab76648df8be7d68eb2c024472e614750c7c85f0a41c30f7cfb4ba8d9173",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "README.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/README.md",
+      "HTTP": 200,
+      "bytes": 2515,
+      "sha256": "9b0157d2014fbd9ee5900a2c8ac9ef0fef8ff0c5c7c1c60d66562698b09b45fc",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "CURRENT_SHOTS.json",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/751e60908fdaa73114c809caeee56663ba197a58/NOIRFRAME_V12_CINEMATIC_REBUILD/CURRENT_SHOTS.json",
+      "HTTP": 200,
+      "bytes": 924,
+      "sha256": "87db1f5d92727e89f2d2f44957159a9fc246dd2e19efbed380b928dde2b05512",
+      "matches_local": true,
+      "anonymous": true
+    }
+  ]
+}
