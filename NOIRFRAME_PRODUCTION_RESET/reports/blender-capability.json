@@ -1,0 +1,8 @@
+{
+  "Blender": "4.3.2",
+  "Cycles_CPU_render": true,
+  "armature": true,
+  "Grease_Pencil_v3": true,
+  "IK_constraint": true,
+  "render_engine": "CYCLES"
+}

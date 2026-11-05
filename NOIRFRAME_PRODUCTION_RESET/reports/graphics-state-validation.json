@@ -1,0 +1,151 @@
+{
+  "clock_seek_checks_pass": true,
+  "actual_vehicle_binding": "speed only",
+  "other_modes": "storyboard prototypes, not completed film integration",
+  "samples": [
+    {
+      "mode": "speed",
+      "time": 0,
+      "speed_mps": 2,
+      "distance_m": 0
+    },
+    {
+      "mode": "speed",
+      "time": 1,
+      "speed_mps": 2.231623351698592,
+      "distance_m": 2.0388264521275525
+    },
+    {
+      "mode": "speed",
+      "time": 2.5,
+      "speed_mps": 4.977093200048914,
+      "distance_m": 7.185043463279176
+    },
+    {
+      "mode": "speed",
+      "time": 4.9,
+      "speed_mps": 7.5,
+      "distance_m": 23.54999994843842
+    },
+    {
+      "mode": "clock",
+      "time": 0,
+      "speed_mps": 2,
+      "distance_m": 0
+    },
+    {
+      "mode": "clock",
+      "time": 1,
+      "speed_mps": 2.231623351698592,
+      "distance_m": 2.0388264521275525
+    },
+    {
+      "mode": "clock",
+      "time": 2.5,
+      "speed_mps": 4.977093200048914,
+      "distance_m": 7.185043463279176
+    },
+    {
+      "mode": "clock",
+      "time": 4.9,
+      "speed_mps": 7.5,
+      "distance_m": 23.54999994843842
+    },
+    {
+      "mode": "pursuit",
+      "time": 0,
+      "speed_mps": 2,
+      "distance_m": 0
+    },
+    {
+      "mode": "pursuit",
+      "time": 1,
+      "speed_mps": 2.231623351698592,
+      "distance_m": 2.0388264521275525
+    },
+    {
+      "mode": "pursuit",
+      "time": 2.5,
+      "speed_mps": 4.977093200048914,
+      "distance_m": 7.185043463279176
+    },
+    {
+      "mode": "pursuit",
+      "time": 4.9,
+      "speed_mps": 7.5,
+      "distance_m": 23.54999994843842
+    },
+    {
+      "mode": "phone",
+      "time": 0,
+      "speed_mps": 2,
+      "distance_m": 0
+    },
+    {
+      "mode": "phone",
+      "time": 1,
+      "speed_mps": 2.231623351698592,
+      "distance_m": 2.0388264521275525
+    },
+    {
+      "mode": "phone",
+      "time": 2.5,
+      "speed_mps": 4.977093200048914,
+      "distance_m": 7.185043463279176
+    },
+    {
+      "mode": "phone",
+      "time": 4.9,
+      "speed_mps": 7.5,
+      "distance_m": 23.54999994843842
+    },
+    {
+      "mode": "offer",
+      "time": 0,
+      "speed_mps": 2,
+      "distance_m": 0
+    },
+    {
+      "mode": "offer",
+      "time": 1,
+      "speed_mps": 2.231623351698592,
+      "distance_m": 2.0388264521275525
+    },
+    {
+      "mode": "offer",
+      "time": 2.5,
+      "speed_mps": 4.977093200048914,
+      "distance_m": 7.185043463279176
+    },
+    {
+      "mode": "offer",
+      "time": 4.9,
+      "speed_mps": 7.5,
+      "distance_m": 23.54999994843842
+    },
+    {
+      "mode": "choice",
+      "time": 0,
+      "speed_mps": 2,
+      "distance_m": 0
+    },
+    {
+      "mode": "choice",
+      "time": 1,
+      "speed_mps": 2.231623351698592,
+      "distance_m": 2.0388264521275525
+    },
+    {
+      "mode": "choice",
+      "time": 2.5,
+      "speed_mps": 4.977093200048914,
+      "distance_m": 7.185043463279176
+    },
+    {
+      "mode": "choice",
+      "time": 4.9,
+      "speed_mps": 7.5,
+      "distance_m": 23.54999994843842
+    }
+  ]
+}

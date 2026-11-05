@@ -1,0 +1,62 @@
+{
+  "shots": {
+    "A": {
+      "blend": "blender/SHOT_A_v11.blend",
+      "frames": 150,
+      "duration_s": 5.0,
+      "max_evaluated_IK_residual_m": 0.00013456204001110667,
+      "max_actual_prop_contact_error_m": 5.350467311755854e-06,
+      "max_bone_length_variation_m": 2.9612374738419156e-06,
+      "stance_support": "moving car frame",
+      "max_consecutive_ground_stance_displacement_m": null,
+      "max_ground_stance_yaw_change_rad": null,
+      "car_travel_m": 24.049999982815343,
+      "speed_start_mps": 2.0,
+      "speed_end_mps": 7.5,
+      "wheel_odometry_error_m": 1.2035184688841127e-06,
+      "wheel_contact_support": "Actual steering wheel local circle; body-pitch matrix applied to driver targets",
+      "contact_checks_pass": true
+    },
+    "B": {
+      "blend": "blender/SHOT_B_v11.blend",
+      "frames": 234,
+      "duration_s": 7.8,
+      "max_evaluated_IK_residual_m": 0.00010602914101079417,
+      "max_actual_prop_contact_error_m": 1.3328003749250113e-07,
+      "max_bone_length_variation_m": 2.8173637208195323e-06,
+      "stance_support": "stationary world",
+      "max_consecutive_ground_stance_displacement_m": 0.0,
+      "max_ground_stance_yaw_change_rad": 0.0,
+      "max_door_open_degrees": 77.00000100435535,
+      "key_inserted_frames": 12,
+      "contact_checks_pass": true
+    },
+    "C": {
+      "blend": "blender/SHOT_C_v13.blend",
+      "frames": 240,
+      "duration_s": 8.0,
+      "max_evaluated_IK_residual_m": 9.281594562595826e-05,
+      "max_actual_prop_contact_error_m": 0,
+      "max_bone_length_variation_m": 2.4850242678620127e-06,
+      "stance_support": "stationary world",
+      "max_consecutive_ground_stance_displacement_m": 0.0,
+      "max_ground_stance_yaw_change_rad": 0.0,
+      "individual_riser_height_m": 0.2,
+      "risers": 3,
+      "pelvis_rise_m": 0.6000000000000001,
+      "fabric": "Keyed deformed mesh; not physical cloth solver",
+      "contact_checks_pass": true
+    }
+  },
+  "preservation": {
+    "files_checked": 4695,
+    "missing": [],
+    "changed": []
+  },
+  "limits": [
+    "IK residuals and fixed anchors do not prove convincing acting, silhouette, collision-free mesh surfaces, or approved style.",
+    "No blanket collision-simulation pass is claimed.",
+    "Ground stance samples validate foot controls, not every vertex of the shoe sole."
+  ],
+  "artistic_gate": "Requires actual rendered playback review; numeric success is insufficient."
+}

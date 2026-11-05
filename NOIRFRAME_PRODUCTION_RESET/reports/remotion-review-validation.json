@@ -1,0 +1,12 @@
+{
+  "path": "renders/NOIRFRAME_THREE_SHOT_REVIEW_540_R2.mp4",
+  "sha256": "1208f096ae2deb037e19b0176dcceb6ee43bb34b1fa34361860e07525b00a2bd",
+  "width": 540,
+  "height": 960,
+  "frames": 624,
+  "fps": 30,
+  "duration_s": 20.842667,
+  "full_decode": "clean",
+  "audio_codec": "aac",
+  "purpose": "Review assembly of the new native proofs with measured source-script captions; not full film"
+}

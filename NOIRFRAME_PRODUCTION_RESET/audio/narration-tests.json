@@ -1,0 +1,72 @@
+[
+  {
+    "shot": "A",
+    "start": 0.12,
+    "end": 1.4421249999999999,
+    "text": "I hit the gas.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  },
+  {
+    "shot": "A",
+    "start": 2.0,
+    "end": 4.0603750000000005,
+    "text": "Those headlights turned when I did.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  },
+  {
+    "shot": "B",
+    "start": 1.95,
+    "end": 2.7606666666666664,
+    "text": "Locked.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  },
+  {
+    "shot": "B",
+    "start": 2.8,
+    "end": 4.8570416666666665,
+    "text": "My hands wouldn't stop shaking.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  },
+  {
+    "shot": "B",
+    "start": 6.68825,
+    "end": 7.74,
+    "text": "Inside.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  },
+  {
+    "shot": "C",
+    "start": 0.3,
+    "end": 1.42575,
+    "text": "Upstairs.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  },
+  {
+    "shot": "C",
+    "start": 6.25,
+    "end": 7.594166666666666,
+    "text": "It was still there.",
+    "voice": "bm_daniel",
+    "engine": "local Kokoro ONNX",
+    "tempo_changed": false,
+    "ASR": false
+  }
+]

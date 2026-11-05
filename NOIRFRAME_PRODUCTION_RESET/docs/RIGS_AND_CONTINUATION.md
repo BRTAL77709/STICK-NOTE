@@ -1,0 +1,17 @@
+# Editable native animation handoff
+
+Open `blender/SHOT_A_PROOF_R1_HD.blend`, `SHOT_B_PROOF_R1_HD.blend`, or `SHOT_C_PROOF_R1_HD.blend` in Blender 4.3.2. All controls, mesh weights, armatures, IK constraints, geometry, camera and frame-by-frame animation are native and saved. No Python execution is needed merely to play or render the saved animation. The PROOF_R1 files use Workbench flat material rendering, FXAA, at native 1080×1920. Earlier Cycles/Freestyle scenes are retained separately. Workbench does not reproduce the custom cloth shader's normal-based cel shading.
+
+The witness root is an armature. Foot/wrist empties are world-space IK targets; elbows/shins have two-bone IK with stretch disabled. Mesh sleeves/trousers follow bones through Armature modifiers. Head geometry follows the neck endpoint and has independent physical rotation, cap, brim, face and hood. This is a metric stylized 3D rig with a flat presentation, not Grease Pencil or an exact traced production model sheet. Its sculptural silhouette and simplified face remain an artistic limitation.
+
+The car hierarchy separates world travel, suspension body, steering pivots and rolling wheels. Wheel angles use travelled distance divided by 0.33m. Driver targets derive from the actual body/wheel matrices. Camera framing changes to a driver insert during the same continuous drive. House17 has an actual hinged leaf, spindle, keyhole and separately keyed key. The key/handle close-up uses the same scene, not a replacement image. Stairs have three 0.2m risers. Curtain shape keys deform a persistent mesh; the hand follows vertex17. This is authored cloth, not a physical cloth simulation.
+
+`source/actions.py` owns metric motion, `rigs.py` builds character controls, `world.py` builds environments and sedan, `build.py` bakes editable shots and records evaluated native joints/contact data. A source edit affects only newly built scene versions; saved .blend files preserve earlier work. Use a new version label for every rebuild. Do not rerun with an existing output filename.
+
+To rebuild a draft: `blender -b -t 2 --python-exit-code 1 --python source/build.py -- --shot B --stage inspect --version next_unique_name`.
+To render a saved draft: `blender -b blender/SHOT_B_v11.blend -t 2 --python-exit-code 1 --python source/render_saved.py -- --shot UNIQUE_JOB --out renders/UNIQUE_JOB --engine workbench`.
+The renderer rejects existing outputs, checks Blender FINISHED status, streams PNGs to FFmpeg, then checks decoded frame count and duration. Resume by complete shot cache, not by trusting a partial MP4. Interrupted earlier `SHOT_X_HD` outputs are incomplete and are excluded from delivery.
+
+Next artistic work: match V10's ink contour and facial proportions using hand-authored Grease Pencil or mesh cleanup; author elbow/knee pole behavior, hip/shoulder counterrotation and breakdown poses; inspect mesh-surface collisions, not only endpoint constraints. Improve fabric folds and nighttime lighting without flattening detail. Establish a complete house floor plan before connecting the three-riser proof to a second-storey story location. The current isolated proofs do not establish the full film's street/house continuity.
+
+A free practical route is to continue these editable rigs in Blender, manually author the cleanup/breakdown pass and Grease Pencil linework, and rerun the same preview/stance/contact checks. A paid API is not necessary. This remaining animation/art-direction labor is not solved by installing another renderer or adding HUDs.

@@ -1,0 +1,56 @@
+{
+  "A": {
+    "final": "renders/NOIRFRAME_SHOT_A_DRIVING_PROOF_R1.mp4",
+    "preview": "previews/SHOT_A_PROOF_R1_REVIEW.mp4",
+    "blend": "blender/SHOT_A_PROOF_R1_HD.blend",
+    "rig_data": "reports/SHOT_A_v11_rig-data.json",
+    "frames": 150,
+    "duration": 5.0,
+    "sha256": "c8e75d7ad72712ab83a993b31f4b3528c68339df9d5eac3828b05800cfb92adb",
+    "bytes": 2306636,
+    "codec": "h264",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "audio_codec": "aac",
+    "full_decode": "clean"
+  },
+  "B": {
+    "final": "renders/NOIRFRAME_SHOT_B_HOUSE17_PROOF_R1.mp4",
+    "preview": "previews/SHOT_B_PROOF_R1_REVIEW.mp4",
+    "blend": "blender/SHOT_B_PROOF_R1_HD.blend",
+    "rig_data": "reports/SHOT_B_v11_rig-data.json",
+    "frames": 234,
+    "duration": 7.8,
+    "sha256": "ddf011bf117a57fbe226e494f5a1439e4dbe4d46f42174216e09c37702a63c07",
+    "bytes": 2383362,
+    "codec": "h264",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "audio_codec": "aac",
+    "full_decode": "clean"
+  },
+  "C": {
+    "final": "renders/NOIRFRAME_SHOT_C_STAIRS_WINDOW_PROOF_R1.mp4",
+    "preview": "previews/SHOT_C_PROOF_R1_REVIEW.mp4",
+    "blend": "blender/SHOT_C_PROOF_R1_HD.blend",
+    "rig_data": "reports/SHOT_C_v13_rig-data.json",
+    "frames": 240,
+    "duration": 8.0,
+    "sha256": "a4ec82bf4e8ef36c8346afdd1ffbab71f1210eda6b3683ef5be2ac2003e4ec6c",
+    "bytes": 1488478,
+    "codec": "h264",
+    "dimensions": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "audio_codec": "aac",
+    "full_decode": "clean"
+  }
+}

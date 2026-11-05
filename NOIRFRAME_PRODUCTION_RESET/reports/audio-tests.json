@@ -1,0 +1,13 @@
+{
+  "engine": "Kokoro ONNX CPU",
+  "voice": "bm_daniel",
+  "sample_rate": 48000,
+  "newly_synthesized": true,
+  "paid_api": false,
+  "licenses": "Existing Kokoro Apache2/MIT notices",
+  "listening_verified": false,
+  "Whisper_ASR": false,
+  "Whisper_blocker": "Prior official/HF checkpoint CONNECT403; not retried",
+  "caption_method": "source text + actual generated WAV duration",
+  "foley": "original deterministic synthesized Foley, contact-derived landing times and actual speed-derived engine"
+}
