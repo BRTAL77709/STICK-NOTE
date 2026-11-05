@@ -1,0 +1,200 @@
+[
+  {
+    "scene": 1,
+    "reference_start": 0.0,
+    "reference_end": 4.0,
+    "title": "2:17 AM",
+    "repair": "Rebuild road-level pass, grounded wheels/reflection response and controlled story clock.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 2,
+    "reference_start": 4.0,
+    "reference_end": 8.0,
+    "title": "The driver",
+    "repair": "Author eye\u2192mirror\u2192head\u2192shoulder performance with steering contacts.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 3,
+    "reference_start": 8.0,
+    "reference_end": 12.0,
+    "title": "Something wrong",
+    "repair": "Stage braking and a motivated alley eyeline/POV handoff.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 4,
+    "reference_start": 12.0,
+    "reference_end": 18.0,
+    "title": "The crime",
+    "repair": "Preserve approved V10 picture; inspect grips/silhouettes without regeneration.",
+    "status": "preserve approved V10",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": true
+  },
+  {
+    "scene": 5,
+    "reference_start": 18.0,
+    "reference_end": 24.0,
+    "title": "The trunk",
+    "repair": "Preserve V10 lift/loading and occlusion; no accidental asset change.",
+    "status": "preserve approved V10",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": true
+  },
+  {
+    "scene": 6,
+    "reference_start": 24.0,
+    "reference_end": 28.0,
+    "title": "They saw him",
+    "repair": "Preserve V10 closure/head turn; plan the driver eyeline bridge.",
+    "status": "preserve approved V10",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": true
+  },
+  {
+    "scene": 7,
+    "reference_start": 28.0,
+    "reference_end": 32.0,
+    "title": "Panic",
+    "repair": "Build connected seat/footwell/pedal and couple throttle to acceleration.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 8,
+    "reference_start": 32.0,
+    "reference_end": 37.0,
+    "title": "Pursuit",
+    "repair": "Shared-world pursuit with visibly changing gap and wheel contact.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 9,
+    "reference_start": 37.0,
+    "reference_end": 42.0,
+    "title": "Escape",
+    "repair": "Distinct steering/corner anticipation, body load and connected street path.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 10,
+    "reference_start": 42.0,
+    "reference_end": 47.0,
+    "title": "Safe?",
+    "repair": "Readable empty-mirror payoff and differentiated road blocks.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 11,
+    "reference_start": 47.0,
+    "reference_end": 51.0,
+    "title": "House 17",
+    "repair": "Repair car exit geometry and run-to-entry route; V11 House proof covers approach only, not car exit.",
+    "status": "partly covered; car exit pending",
+    "proof": "previews/HOUSE_V11_R07_1080.mp4",
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 12,
+    "reference_start": 51,
+    "reference_end": 57,
+    "title": "Locked door / key retrieval and unlock",
+    "repair": "Visible failed lever, pocket, shaft alignment/insertion,90\u00b0 turn, return/withdraw/storage and hinged opening.",
+    "status": "new House proof; awaiting user review",
+    "proof": "previews/HOUSE_V11_R07_1080.mp4",
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 13,
+    "reference_start": 57,
+    "reference_end": 61.4,
+    "title": "Open / enter / close / lock",
+    "repair": "Same door asset inside/out, threshold crossing, closure and interior bolt.",
+    "status": "new House proof; awaiting user review",
+    "proof": "previews/HOUSE_V11_R07_1080.mp4",
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 14,
+    "reference_start": 61.4,
+    "reference_end": 65.4,
+    "title": "Three upper stair steps",
+    "repair": "Twelve real risers, independent foot anchors/clearance and pelvis rise to2.4m.",
+    "status": "new Staircase proof; awaiting user review",
+    "proof": "previews/STAIRS_V11_R07_1080.mp4",
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 15,
+    "reference_start": 65.4,
+    "reference_end": 69.4,
+    "title": "Curtain grip / reveal / reaction",
+    "repair": "Reach/pinch, persistent cloth/rod/rings, upper-window car projection and delayed recoil.",
+    "status": "new Window proof; awaiting user review",
+    "proof": "previews/WINDOW_V11_R07_1080.mp4",
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 16,
+    "reference_start": 69.4,
+    "reference_end": 77.3,
+    "title": "Phone acquisition / lift / million-dollar offer",
+    "repair": "Real phone pickup, readable device UI, evolving breathing/face/hand acting; new voice auditions before mix.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 17,
+    "reference_start": 77.3,
+    "reference_end": 81.5,
+    "title": "Threat / recoil / backward foot plants",
+    "repair": "Window/car eyeline, grip/shoulder recoil and threat payoff; distinct caller performance.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  },
+  {
+    "scene": 18,
+    "reference_start": 81.5,
+    "reference_end": 86,
+    "title": "Final choice",
+    "repair": "Restore a readable~6s choice hold by retiming approved story beats; controlled A/B entrances and mobile-safe CTA.",
+    "status": "pending",
+    "proof": null,
+    "new_repair_approved": false,
+    "existing_V10_user_approved": false
+  }
+]

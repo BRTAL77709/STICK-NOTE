@@ -1,0 +1,80 @@
+{
+  "HOUSE": {
+    "frames": 330,
+    "duration_s": 11.0,
+    "bone_length_error_m": 4.440892098500626e-16,
+    "planted_sole_displacement_m": 0,
+    "max_sampled_shoe_vertex_penetration_m": 0,
+    "finger_prop_error_m": 5.551115123125783e-17,
+    "grip_frames": 73,
+    "door_arm_centerline_intersections": 0,
+    "hand_rail_error_m": 0,
+    "foot_landings": 12,
+    "root_start_m": [
+      0.45,
+      0.66,
+      -0.45
+    ],
+    "root_end_m": [
+      1.4,
+      0.6599886167461987,
+      0.58
+    ],
+    "root_distance_m": 1.4012137596132783,
+    "key_max_degrees": 90.0,
+    "inserted_key_frames": 25,
+    "status": "numerical checks only; visual/user review required"
+  },
+  "STAIRS": {
+    "frames": 255,
+    "duration_s": 8.5,
+    "bone_length_error_m": 5.551115123125783e-16,
+    "planted_sole_displacement_m": 0,
+    "max_sampled_shoe_vertex_penetration_m": 4.440892098500626e-16,
+    "finger_prop_error_m": 0,
+    "grip_frames": 0,
+    "door_arm_centerline_intersections": 0,
+    "hand_rail_error_m": 6.938893903907228e-18,
+    "foot_landings": 13,
+    "root_start_m": [
+      -0.58,
+      0.7000000000000001,
+      1.4
+    ],
+    "root_end_m": [
+      2.31,
+      3.17,
+      1.4
+    ],
+    "root_distance_m": 3.801710141502111,
+    "key_max_degrees": 0.0,
+    "inserted_key_frames": 0,
+    "status": "numerical checks only; visual/user review required"
+  },
+  "WINDOW": {
+    "frames": 225,
+    "duration_s": 7.5,
+    "bone_length_error_m": 6.106226635438361e-16,
+    "planted_sole_displacement_m": 0,
+    "max_sampled_shoe_vertex_penetration_m": 0,
+    "finger_prop_error_m": 1.3877787807814457e-17,
+    "grip_frames": 80,
+    "door_arm_centerline_intersections": 0,
+    "hand_rail_error_m": 0,
+    "foot_landings": 7,
+    "root_start_m": [
+      2.4,
+      3.12,
+      0.85
+    ],
+    "root_end_m": [
+      2.89,
+      3.119980613294223,
+      0.72
+    ],
+    "root_distance_m": 0.5069516745961538,
+    "key_max_degrees": 0.0,
+    "inserted_key_frames": 0,
+    "status": "numerical checks only; visual/user review required"
+  }
+}

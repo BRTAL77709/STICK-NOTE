@@ -1,0 +1,59 @@
+{
+  "HOUSE": {
+    "file": "previews/HOUSE_V11_R07_1080.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 330,
+    "duration_s": 11,
+    "bytes": 1072377,
+    "sha256": "74a9736de952ff04f7ca6c3c2d30671d462b0c550c9870ce4ba6d381debdbf0c",
+    "full_decode": "clean",
+    "comparison": "reviews/HOUSE_R07_BEFORE_AFTER.mp4",
+    "before_interval_s": [
+      49.2,
+      61.400000000000006
+    ],
+    "comparison_duration_s": 12.2,
+    "source_clips_not_speed_changed": true,
+    "comparison_end_hold_explicitly_labeled": true
+  },
+  "STAIRS": {
+    "file": "previews/STAIRS_V11_R07_1080.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 255,
+    "duration_s": 8.5,
+    "bytes": 1453490,
+    "sha256": "d1733bbebe4de59c110b8540469e71a676ed821055b7972a07861f43b17eb29c",
+    "full_decode": "clean",
+    "comparison": "reviews/STAIRS_R07_BEFORE_AFTER.mp4",
+    "before_interval_s": [
+      61.4,
+      65.4
+    ],
+    "comparison_duration_s": 8.5,
+    "source_clips_not_speed_changed": true,
+    "comparison_end_hold_explicitly_labeled": true
+  },
+  "WINDOW": {
+    "file": "previews/WINDOW_V11_R07_1080.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 225,
+    "duration_s": 7.5,
+    "bytes": 945544,
+    "sha256": "c82df20795c98f9ce27547a61dbeabbda3f3c1f31685d0aae75695fecbe2ed9e",
+    "full_decode": "clean",
+    "comparison": "reviews/WINDOW_R07_BEFORE_AFTER.mp4",
+    "before_interval_s": [
+      65.4,
+      69.4
+    ],
+    "comparison_duration_s": 7.5,
+    "source_clips_not_speed_changed": true,
+    "comparison_end_hold_explicitly_labeled": true
+  }
+}

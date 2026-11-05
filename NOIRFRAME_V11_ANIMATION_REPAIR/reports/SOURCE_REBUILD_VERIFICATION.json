@@ -1,0 +1,20 @@
+{
+  "fresh_directory": "/tmp/NOIRFRAME_V11_SOURCE_REBUILD_R07",
+  "all_three_byte_identical": true,
+  "results": {
+    "HOUSE": {
+      "sha256": "74a9736de952ff04f7ca6c3c2d30671d462b0c550c9870ce4ba6d381debdbf0c",
+      "matches_original": true
+    },
+    "STAIRS": {
+      "sha256": "d1733bbebe4de59c110b8540469e71a676ed821055b7972a07861f43b17eb29c",
+      "matches_original": true
+    },
+    "WINDOW": {
+      "sha256": "c82df20795c98f9ce27547a61dbeabbda3f3c1f31685d0aae75695fecbe2ed9e",
+      "matches_original": true
+    }
+  },
+  "old_film_or_pose_images_required": false,
+  "paid_api_calls": 0
+}
