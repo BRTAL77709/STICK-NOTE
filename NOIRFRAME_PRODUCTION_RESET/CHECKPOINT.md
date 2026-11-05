@@ -1,3 +1,7 @@
+# DELIVERY VERIFIED
+
+See DELIVERY_VERIFIED.md and reports/download-verification.json. All proof MP4s and native Blender scenes are committed and anonymous byte downloads verified. Artistic gate NOT PASSED; full86-second film not generated. No render jobs remain active. The notes below record earlier checkpoints and do not imply publication is still pending.
+
 # FINAL PROOF HANDOFF STATUS
 
 All3 native1080 proof MP4s completed, muxed, fully decoded/count-checked and played to end at normal/half speed. CURRENT_SHOTS selects final proofs. Remotion540×960 three-shot review reel completed,624frames/20.8s, full decode clean. Native contacts/preservation pass; ARTISTIC_QUALITY_REPORT.md states artistic gate NOT PASSED. Full86-second film NOT generated. All prior4695 production files unchanged. No background render is needed to finish these proof files. Publication is the remaining delivery step.

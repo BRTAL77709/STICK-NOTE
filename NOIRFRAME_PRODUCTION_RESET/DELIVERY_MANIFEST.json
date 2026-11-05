@@ -21,15 +21,21 @@
     },
     {
       "path": "CHECKPOINT.md",
-      "bytes": 4615,
-      "sha256": "b5b2f0897a3c2b495ba2295904963af5c2889e62367fe1242cb72cf8d69bee51",
-      "git_sha": "b7e03086a381064e3cd2226b9cd285d48765cb28"
+      "bytes": 4976,
+      "sha256": "1deb42a9845f6caf5cf037e8825af02babc80c1d8d225f1a34dbf589f14cd932",
+      "git_sha": "8f6eb80788917d5ebef9731bbb8f4c748c2d4401"
     },
     {
       "path": "CURRENT_SHOTS.json",
       "bytes": 1550,
       "sha256": "7c702a6f6a96b5c9a5255012096d5463d444e62221a3282d8475f0ab178dc5b5",
       "git_sha": "096f4c2ae223fba9134cf79ac5a380143ca92283"
+    },
+    {
+      "path": "DELIVERY_VERIFIED.md",
+      "bytes": 1893,
+      "sha256": "d8692583ee173c15fc880b9ebd703ab166db48859918615a3b0b2bd780819750",
+      "git_sha": "8bd8b8320ddf923b88d69529b001f1df9f12a452"
     },
     {
       "path": "DIRECTOR_REQUEST.md",
@@ -39,9 +45,9 @@
     },
     {
       "path": "PROGRESS.md",
-      "bytes": 2051,
-      "sha256": "f37755b2e7a3c5056e42a9b2f86f78511e16c57fe5658e9cf250945cf28ba8a9",
-      "git_sha": "7de7e914a20b1e927b0d097f2b78b20f35c319c2"
+      "bytes": 2412,
+      "sha256": "430de4a62615e72c9dd11c91317b5f4248bb9d3c2440e1a794a2cb66c5affa4e",
+      "git_sha": "d2b43bf4e11288bff96aaf674bfd01d36922e989"
     },
     {
       "path": "README.md",
@@ -320,10 +326,22 @@
       "git_sha": "5ec14b69d37d8e481435f43320e80c68ec057df1"
     },
     {
+      "path": "reports/download-verification.json",
+      "bytes": 3885,
+      "sha256": "1ec8cfe77d5ff0d096aaeb796f4bd4a23761fbc3947c61e10c84fcc2aec18b8c",
+      "git_sha": "c37ea0cf3674dba9972e7df248ab212dc42cc59a"
+    },
+    {
       "path": "reports/final-playback.json",
       "bytes": 5843,
       "sha256": "86a2412529ffa36bc9676a6c40a42b2bba235deaee453654704beb2af0a4f063",
       "git_sha": "8bc070611194a79e9d6a7e2ef9e8d3aea7ac5ee1"
+    },
+    {
+      "path": "reports/github-publication.json",
+      "bytes": 204,
+      "sha256": "a477236b0ce1f2378aae1e6b2b8fc9ca4ebdf1a87187cc47536508434067396d",
+      "git_sha": "f87bb3d84f9291a2352a825aba3d9d9fd23eb9ee"
     },
     {
       "path": "reports/graphics-state-validation.json",

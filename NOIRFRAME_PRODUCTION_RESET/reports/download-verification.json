@@ -1,0 +1,86 @@
+{
+  "commit": "1a562ab3285b56d1b603adedf20953ace152a95d",
+  "verified": [
+    {
+      "path": "renders/NOIRFRAME_SHOT_A_DRIVING_PROOF_R1.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_A_DRIVING_PROOF_R1.mp4",
+      "HTTP": 200,
+      "bytes": 2306636,
+      "sha256": "c8e75d7ad72712ab83a993b31f4b3528c68339df9d5eac3828b05800cfb92adb",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "renders/NOIRFRAME_SHOT_B_HOUSE17_PROOF_R1.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_B_HOUSE17_PROOF_R1.mp4",
+      "HTTP": 200,
+      "bytes": 2383362,
+      "sha256": "ddf011bf117a57fbe226e494f5a1439e4dbe4d46f42174216e09c37702a63c07",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "renders/NOIRFRAME_SHOT_C_STAIRS_WINDOW_PROOF_R1.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_SHOT_C_STAIRS_WINDOW_PROOF_R1.mp4",
+      "HTTP": 200,
+      "bytes": 1488478,
+      "sha256": "a4ec82bf4e8ef36c8346afdd1ffbab71f1210eda6b3683ef5be2ac2003e4ec6c",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "renders/NOIRFRAME_THREE_SHOT_REVIEW_540_R2.mp4",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/renders/NOIRFRAME_THREE_SHOT_REVIEW_540_R2.mp4",
+      "HTTP": 200,
+      "bytes": 2844789,
+      "sha256": "1208f096ae2deb037e19b0176dcceb6ee43bb34b1fa34361860e07525b00a2bd",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "blender/SHOT_A_PROOF_R1_HD.blend",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/blender/SHOT_A_PROOF_R1_HD.blend",
+      "HTTP": 200,
+      "bytes": 1710179,
+      "sha256": "1fff33bd1c38895c6cad1310c8ee909caa7cfaf5937c6545a3f3ba967e629109",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "blender/SHOT_B_PROOF_R1_HD.blend",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/blender/SHOT_B_PROOF_R1_HD.blend",
+      "HTTP": 200,
+      "bytes": 1219335,
+      "sha256": "4e50a5861d95a15a762af8f5b3d24b3afe46c4dfb2345995eb33411ffe73b2f1",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "blender/SHOT_C_PROOF_R1_HD.blend",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/blender/SHOT_C_PROOF_R1_HD.blend",
+      "HTTP": 200,
+      "bytes": 743831,
+      "sha256": "05bef5d35cf563ca4ce9351754d1737ec7ef07e07676641002a4b3320f8fc5d3",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "ARTISTIC_QUALITY_REPORT.md",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/ARTISTIC_QUALITY_REPORT.md",
+      "HTTP": 200,
+      "bytes": 4079,
+      "sha256": "a6c7d9953e4f5e40fbaee887c41cc861298a29356c69739009c03b76c243c65d",
+      "matches_local": true,
+      "anonymous": true
+    },
+    {
+      "path": "source/rigs.py",
+      "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1a562ab3285b56d1b603adedf20953ace152a95d/NOIRFRAME_PRODUCTION_RESET/source/rigs.py",
+      "HTTP": 200,
+      "bytes": 8937,
+      "sha256": "62447056edeb8909cea4b1133db68657b97d0f17073ce9532bec5b377bb1f47d",
+      "matches_local": true,
+      "anonymous": true
+    }
+  ]
+}
