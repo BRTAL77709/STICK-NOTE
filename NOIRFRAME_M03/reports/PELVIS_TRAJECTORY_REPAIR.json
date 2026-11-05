@@ -1,0 +1,14 @@
+{
+  "STAIRS": {
+    "before_peak_root_acceleration_m_s2": 42.0186291924006,
+    "after_peak_root_acceleration_m_s2": 2.106325570392865,
+    "solver_success": true,
+    "solver_message": "The relative change of the cost function is less than `tol`."
+  },
+  "KEY_DOOR": {
+    "before_peak_root_acceleration_m_s2": 33.257240323752356,
+    "after_peak_root_acceleration_m_s2": 3.5492397039541177,
+    "solver_success": true,
+    "solver_message": "The relative change of the cost function is less than `tol`."
+  }
+}

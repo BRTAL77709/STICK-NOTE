@@ -1,0 +1,68 @@
+{
+  "source_edit_proof": "SOURCE_EDIT_RENDER_PROOF.json",
+  "frames": {
+    "STAIRS": {
+      "frames": 150,
+      "distinct_source_rgb_frames": 150,
+      "max_identical_source_frame_run": 1,
+      "producer_hashes_match_frozen_source": true,
+      "clean_mp4_sha_matches_export": true
+    },
+    "KEY_DOOR": {
+      "frames": 450,
+      "distinct_source_rgb_frames": 449,
+      "max_identical_source_frame_run": 2,
+      "producer_hashes_match_frozen_source": true,
+      "clean_mp4_sha_matches_export": true
+    },
+    "STEERING": {
+      "frames": 180,
+      "distinct_source_rgb_frames": 180,
+      "max_identical_source_frame_run": 1,
+      "producer_hashes_match_frozen_source": true,
+      "clean_mp4_sha_matches_export": true
+    },
+    "CHASE": {
+      "frames": 180,
+      "distinct_source_rgb_frames": 180,
+      "max_identical_source_frame_run": 1,
+      "producer_hashes_match_frozen_source": true,
+      "clean_mp4_sha_matches_export": true
+    },
+    "CURTAIN": {
+      "frames": 150,
+      "distinct_source_rgb_frames": 130,
+      "max_identical_source_frame_run": 17,
+      "producer_hashes_match_frozen_source": true,
+      "clean_mp4_sha_matches_export": true
+    }
+  },
+  "motion": {
+    "STAIRS": {
+      "root_peak_speed_m_s": 0.6636252579954751,
+      "root_peak_finite_difference_acceleration_m_s2": 2.106325570392865,
+      "interpretation": "Measured kinematic motion, not force validation. Acting/jerk remains subject to playback review."
+    },
+    "KEY_DOOR": {
+      "root_peak_speed_m_s": 1.0068096514293927,
+      "root_peak_finite_difference_acceleration_m_s2": 3.5492397039541177,
+      "interpretation": "Measured kinematic motion, not force validation. Acting/jerk remains subject to playback review."
+    },
+    "STEERING": {
+      "root_peak_speed_m_s": 0.0,
+      "root_peak_finite_difference_acceleration_m_s2": 0.0,
+      "interpretation": "Measured kinematic motion, not force validation. Acting/jerk remains subject to playback review."
+    },
+    "CHASE": {
+      "root_peak_speed_m_s": 0.0,
+      "root_peak_finite_difference_acceleration_m_s2": 0.0,
+      "interpretation": "Measured kinematic motion, not force validation. Acting/jerk remains subject to playback review."
+    },
+    "CURTAIN": {
+      "root_peak_speed_m_s": 0.35210504021068734,
+      "root_peak_finite_difference_acceleration_m_s2": 2.24075582761199,
+      "interpretation": "Measured kinematic motion, not force validation. Acting/jerk remains subject to playback review."
+    }
+  },
+  "note": "Identical frames during intentionally held poses are reported, not silently classified as stale footage. No corrected render reads old MP4 input."
+}

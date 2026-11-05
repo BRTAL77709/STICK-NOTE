@@ -1,0 +1,10 @@
+{
+  "previous_versions_preserved": true,
+  "protected_files_checked": 857,
+  "changed": [],
+  "missing": [],
+  "C03_render_sources_frozen": true,
+  "producer_changes": [],
+  "C02_source_archive_matches_original_freeze": true,
+  "note": "C03 intentionally replaces only stair/door controllers; original C02 source archive and native clips remain preserved."
+}

@@ -1,0 +1,62 @@
+{
+  "STAIRS": {
+    "overall": "NEEDS REVIEW",
+    "user_approved": false,
+    "bounded_geometry": "PASS",
+    "foot_contact_measured": "PASS",
+    "hand_prop_surface_measured": "PASS",
+    "physical_weight_and_acting": "NEEDS REVIEW",
+    "silhouette_and_head_turn": "NEEDS REVIEW",
+    "camera_readability": "NEEDS REVIEW",
+    "all_volume_collision": "NEEDS REVIEW",
+    "sound_sync": "NOT TESTED \u2014 silent motion proof"
+  },
+  "KEY_DOOR": {
+    "overall": "NEEDS REVIEW",
+    "user_approved": false,
+    "bounded_geometry": "PASS",
+    "foot_contact_measured": "PASS",
+    "hand_prop_surface_measured": "PASS",
+    "physical_weight_and_acting": "NEEDS REVIEW",
+    "silhouette_and_head_turn": "NEEDS REVIEW",
+    "camera_readability": "NEEDS REVIEW",
+    "all_volume_collision": "NEEDS REVIEW",
+    "sound_sync": "NOT TESTED \u2014 silent motion proof"
+  },
+  "STEERING": {
+    "overall": "NEEDS REVIEW",
+    "user_approved": false,
+    "bounded_geometry": "PASS",
+    "foot_contact_measured": "PASS",
+    "hand_prop_surface_measured": "PASS",
+    "physical_weight_and_acting": "NEEDS REVIEW",
+    "silhouette_and_head_turn": "NEEDS REVIEW",
+    "camera_readability": "NEEDS REVIEW",
+    "all_volume_collision": "NEEDS REVIEW",
+    "sound_sync": "NOT TESTED \u2014 silent motion proof"
+  },
+  "CHASE": {
+    "overall": "NEEDS REVIEW",
+    "user_approved": false,
+    "bounded_geometry": "PASS",
+    "foot_contact_measured": "PASS",
+    "hand_prop_surface_measured": "PASS",
+    "physical_weight_and_acting": "NEEDS REVIEW",
+    "silhouette_and_head_turn": "NEEDS REVIEW",
+    "camera_readability": "NEEDS REVIEW",
+    "all_volume_collision": "NEEDS REVIEW",
+    "sound_sync": "NOT TESTED \u2014 silent motion proof"
+  },
+  "CURTAIN": {
+    "overall": "NEEDS REVIEW",
+    "user_approved": false,
+    "bounded_geometry": "PASS",
+    "foot_contact_measured": "PASS",
+    "hand_prop_surface_measured": "PASS",
+    "physical_weight_and_acting": "NEEDS REVIEW",
+    "silhouette_and_head_turn": "NEEDS REVIEW",
+    "camera_readability": "NEEDS REVIEW",
+    "all_volume_collision": "NEEDS REVIEW",
+    "sound_sync": "NOT TESTED \u2014 silent motion proof"
+  }
+}

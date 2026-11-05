@@ -1,0 +1,38 @@
+{
+  "straight": {
+    "rear_position": [
+      0.0,
+      0.0,
+      14.999999999999922
+    ],
+    "heading_rad": 0.0,
+    "expected_heading_rad": 0.0,
+    "heading_error_rad": 0.0,
+    "distance_m": 14.999999999999922,
+    "status": "PASS"
+  },
+  "right": {
+    "rear_position": [
+      4.221526906135236,
+      0.0,
+      14.176244695002916
+    ],
+    "heading_rad": 0.5788538774160599,
+    "expected_heading_rad": 0.5788538774160609,
+    "heading_error_rad": 9.992007221626409e-16,
+    "distance_m": 14.999999999999922,
+    "status": "PASS"
+  },
+  "left": {
+    "rear_position": [
+      -4.221526906135236,
+      0.0,
+      14.176244695002916
+    ],
+    "heading_rad": -0.5788538774160599,
+    "expected_heading_rad": -0.5788538774160609,
+    "heading_error_rad": 9.992007221626409e-16,
+    "distance_m": 14.999999999999922,
+    "status": "PASS"
+  }
+}

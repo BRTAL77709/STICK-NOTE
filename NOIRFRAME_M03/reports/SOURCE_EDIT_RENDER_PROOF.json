@@ -1,0 +1,15 @@
+{
+  "method": "Two isolated source copies, 0.65m versus 0.63m initial pelvis height. Separate fresh Python processes and depth raster instances. No video or cached-frame input.",
+  "results": [
+    {
+      "source_sha256": "e15e7357457e274283e9a24a8400f7bbf96ebefbd475c1f123ea49e65ad5f8c6",
+      "render_sha256": "dac32d3f2877a006d205ba1050358cb405c835ea5e3372b41e348a76a65ae551"
+    },
+    {
+      "source_sha256": "d530d9de3061418956c65c7c0b6c9e8ec1346738e393dc0171a088d51da77576",
+      "render_sha256": "6892c13712cbddc9c4a0a655d2c2e9b1c0eb4d5b99b93252130d26517b113d3f"
+    }
+  ],
+  "changed_pixels_at_360x640": 4231,
+  "source_edit_affects_actual_render": true
+}

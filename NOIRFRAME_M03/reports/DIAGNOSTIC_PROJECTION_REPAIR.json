@@ -1,0 +1,14 @@
+{
+  "STEERING": {
+    "clean_source_sha256": "b0179edc3ecb97cb727c78d3837596291aa4985554cf9a88ac966f5ae4c3a3ce",
+    "diagnostic_sha256": "d0c916fc919c68bfe44a6fcbaf1f5406b0fbd532aa82c3530c244efa75081ac8",
+    "reason": "Contact overlays must use the same coordinate frame as the displayed world; remove unrelated cockpit points from chase view. Clean motion frames unchanged.",
+    "source_sha256": "f24fa507ba08c4ada544b707b5170dd4e705e5996848ddf65513cb3c25645bf3"
+  },
+  "CHASE": {
+    "clean_source_sha256": "c58a28d37e37c9d49124a8dc7410e81db189aeea9a880fd7fb4f453bf368b7d7",
+    "diagnostic_sha256": "77f7f4f27775ac064b0c838b058b2bb84e7d5c0f5b739bfba9b121844aed1df3",
+    "reason": "Contact overlays must use the same coordinate frame as the displayed world; remove unrelated cockpit points from chase view. Clean motion frames unchanged.",
+    "source_sha256": "f24fa507ba08c4ada544b707b5170dd4e705e5996848ddf65513cb3c25645bf3"
+  }
+}

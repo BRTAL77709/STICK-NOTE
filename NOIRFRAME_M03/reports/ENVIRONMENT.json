@@ -1,0 +1,25 @@
+{
+  "local_branch": "work",
+  "remote_work_head": "8f195d04b7dd62302dbd46ffdcf44170ba271b0e",
+  "M02_found_local_or_remote": false,
+  "free_bytes_at_start": 119025664,
+  "libraries": {
+    "numpy": true,
+    "PIL": true,
+    "playwright": true,
+    "scipy": true,
+    "matplotlib": true
+  },
+  "native_libraries": {
+    "rsvg-2": "librsvg-2.so.2",
+    "cairo": "libcairo.so.2",
+    "gobject-2.0": "libgobject-2.0.so.0"
+  },
+  "tools": {
+    "blender": "/usr/bin/blender",
+    "ffmpeg": "/usr/bin/ffmpeg",
+    "ffprobe": "/usr/bin/ffprobe",
+    "chromium": "/usr/bin/chromium",
+    "gh": "/usr/bin/gh"
+  }
+}

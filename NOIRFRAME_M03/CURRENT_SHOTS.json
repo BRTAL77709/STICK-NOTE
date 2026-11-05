@@ -1,0 +1,77 @@
+{
+  "STAIRS": {
+    "duration": 5,
+    "preview": "previews/STAIRS_M03_C03_1080.mp4",
+    "final": "previews/STAIRS_M03_C03_1080.mp4",
+    "diagnostic": "diagnostics/STAIRS_M03_C03_1080_DEBUG.mp4",
+    "approved": false,
+    "comparison": "comparisons/STAIRS_BEFORE_AFTER_M03_C03.mp4",
+    "original": {
+      "path": "NOIRFRAME_MOTION_SYSTEM_CORRECTION/previews/STAIR_CONTACT_3s_M01_1080.mp4",
+      "start": 0,
+      "duration": 3,
+      "speed": 1,
+      "after_end": "labeled black panel"
+    }
+  },
+  "KEY_DOOR": {
+    "duration": 15,
+    "preview": "previews/KEY_DOOR_M03_C03_1080.mp4",
+    "final": "previews/KEY_DOOR_M03_C03_1080.mp4",
+    "diagnostic": "diagnostics/KEY_DOOR_M03_C03_1080_DEBUG.mp4",
+    "approved": false,
+    "comparison": "comparisons/KEY_DOOR_BEFORE_AFTER_M03_C03.mp4",
+    "original": {
+      "path": "NOIRFRAME_MOTION_SYSTEM_CORRECTION/previews/KEY_HANDLE_3s_M01_1080.mp4",
+      "start": 0,
+      "duration": 3,
+      "speed": 1,
+      "after_end": "labeled black panel"
+    }
+  },
+  "STEERING": {
+    "duration": 6,
+    "preview": "previews/STEERING_M03_C02_1080.mp4",
+    "final": "previews/STEERING_M03_C02_1080.mp4",
+    "diagnostic": "diagnostics/STEERING_M03_C02_1080_DEBUG_R02.mp4",
+    "approved": false,
+    "comparison": "comparisons/STEERING_BEFORE_AFTER_M03.mp4",
+    "original": {
+      "path": "NOIRFRAME_MOTION_SYSTEM_CORRECTION/previews/STEERING_TURN_4s_M01_1080.mp4",
+      "start": 0,
+      "duration": 4,
+      "speed": 1,
+      "after_end": "labeled black panel"
+    }
+  },
+  "CHASE": {
+    "duration": 6,
+    "preview": "previews/CHASE_M03_C02_1080.mp4",
+    "final": "previews/CHASE_M03_C02_1080.mp4",
+    "diagnostic": "diagnostics/CHASE_M03_C02_1080_DEBUG_R02.mp4",
+    "approved": false,
+    "comparison": "comparisons/CHASE_BEFORE_AFTER_M03.mp4",
+    "original": {
+      "path": "NOIRFRAME_V12_CINEMATIC_REBUILD/previews/DRIVING_V12_F03_1080.mp4",
+      "start": 0,
+      "duration": 6,
+      "speed": 1,
+      "after_end": "labeled black panel"
+    }
+  },
+  "CURTAIN": {
+    "duration": 5,
+    "preview": "previews/CURTAIN_M03_C02_1080.mp4",
+    "final": "previews/CURTAIN_M03_C02_1080.mp4",
+    "diagnostic": "diagnostics/CURTAIN_M03_C02_1080_DEBUG.mp4",
+    "approved": false,
+    "comparison": "comparisons/CURTAIN_BEFORE_AFTER_M03.mp4",
+    "original": {
+      "path": "NOIRFRAME_V12_CINEMATIC_REBUILD/previews/BEDROOM_V12_F02_1080.mp4",
+      "start": 3.4,
+      "duration": 5,
+      "speed": 1,
+      "after_end": "labeled black panel"
+    }
+  }
+}

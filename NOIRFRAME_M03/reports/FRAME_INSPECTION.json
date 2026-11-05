@@ -1,0 +1,70 @@
+{
+  "STAIRS": {
+    "frames": 150,
+    "fps": 30,
+    "pages": [
+      "reviews/STAIRS_C03_ALL_FRAMES_01.jpg",
+      "reviews/STAIRS_C03_ALL_FRAMES_02.jpg",
+      "reviews/STAIRS_C03_ALL_FRAMES_03.jpg",
+      "reviews/STAIRS_C03_ALL_FRAMES_04.jpg",
+      "reviews/STAIRS_C03_ALL_FRAMES_05.jpg"
+    ],
+    "source": "diagnostics/STAIRS_M03_C03_1080_DEBUG.mp4"
+  },
+  "KEY_DOOR": {
+    "frames": 450,
+    "fps": 30,
+    "pages": [
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_01.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_02.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_03.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_04.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_05.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_06.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_07.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_08.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_09.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_10.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_11.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_12.jpg",
+      "reviews/KEY_DOOR_C03_ALL_FRAMES_13.jpg"
+    ],
+    "source": "diagnostics/KEY_DOOR_M03_C03_1080_DEBUG.mp4"
+  },
+  "STEERING": {
+    "frames": 180,
+    "fps": 30,
+    "pages": [
+      "reviews/STEERING_ALL_FRAMES_01.jpg",
+      "reviews/STEERING_ALL_FRAMES_02.jpg",
+      "reviews/STEERING_ALL_FRAMES_03.jpg",
+      "reviews/STEERING_ALL_FRAMES_04.jpg",
+      "reviews/STEERING_ALL_FRAMES_05.jpg"
+    ],
+    "source": "diagnostics/STEERING_M03_C02_1080_DEBUG_R02.mp4"
+  },
+  "CHASE": {
+    "frames": 180,
+    "fps": 30,
+    "pages": [
+      "reviews/CHASE_ALL_FRAMES_01.jpg",
+      "reviews/CHASE_ALL_FRAMES_02.jpg",
+      "reviews/CHASE_ALL_FRAMES_03.jpg",
+      "reviews/CHASE_ALL_FRAMES_04.jpg",
+      "reviews/CHASE_ALL_FRAMES_05.jpg"
+    ],
+    "source": "diagnostics/CHASE_M03_C02_1080_DEBUG_R02.mp4"
+  },
+  "CURTAIN": {
+    "frames": 150,
+    "fps": 30,
+    "pages": [
+      "reviews/CURTAIN_ALL_FRAMES_01.jpg",
+      "reviews/CURTAIN_ALL_FRAMES_02.jpg",
+      "reviews/CURTAIN_ALL_FRAMES_03.jpg",
+      "reviews/CURTAIN_ALL_FRAMES_04.jpg",
+      "reviews/CURTAIN_ALL_FRAMES_05.jpg"
+    ],
+    "source": "diagnostics/CURTAIN_M03_C02_1080_DEBUG.mp4"
+  }
+}

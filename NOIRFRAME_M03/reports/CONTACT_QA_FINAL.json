@@ -1,0 +1,98 @@
+{
+  "STAIRS": {
+    "frames": 150,
+    "max_bone_error_m": 2.7755575615628914e-16,
+    "max_planted_toe_drift_m": 1.1102230246251565e-16,
+    "max_sampled_shoe_penetration_m": 0,
+    "max_sampled_body_penetration_m": 0,
+    "finger_pad_model_error_m": 0.0,
+    "finger_wrist_detachment_m": 0.0,
+    "independent_prop_surface_error_m": 0.0,
+    "key_axis_alignment_error_m": 0.0,
+    "max_joint_frame_displacement_m": 0.10054292540309319,
+    "min_pelvis_y_m": 0.6180998269617449,
+    "fabric_horizontal_arc_length_error_m": 0.0,
+    "COM_rise_m": 0.7770132046716524,
+    "treads_reached": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "geometry_status": "PASS",
+    "artistic_status": "NEEDS REVIEW"
+  },
+  "KEY_DOOR": {
+    "frames": 450,
+    "max_bone_error_m": 2.220446049250313e-16,
+    "max_planted_toe_drift_m": 0.0,
+    "max_sampled_shoe_penetration_m": 0,
+    "max_sampled_body_penetration_m": 0.0007989466877331708,
+    "finger_pad_model_error_m": 5.551115123125783e-17,
+    "finger_wrist_detachment_m": 0.0006018037592293579,
+    "independent_prop_surface_error_m": 3.028688411177427e-16,
+    "key_axis_alignment_error_m": 0.0,
+    "max_joint_frame_displacement_m": 0.09786718944424039,
+    "min_pelvis_y_m": 0.5111829665813901,
+    "fabric_horizontal_arc_length_error_m": 0.0,
+    "geometry_status": "PASS",
+    "artistic_status": "NEEDS REVIEW"
+  },
+  "STEERING": {
+    "frames": 180,
+    "max_bone_error_m": 1.5265566588595902e-16,
+    "max_planted_toe_drift_m": 0.0,
+    "max_sampled_shoe_penetration_m": 0,
+    "max_sampled_body_penetration_m": 0,
+    "finger_pad_model_error_m": 0.0,
+    "finger_wrist_detachment_m": 0.0,
+    "independent_prop_surface_error_m": 1.3877787807814457e-16,
+    "key_axis_alignment_error_m": 0.0,
+    "max_joint_frame_displacement_m": 0.005832408773125521,
+    "min_pelvis_y_m": 0.3,
+    "fabric_horizontal_arc_length_error_m": 0.0,
+    "gap_start_end_m": [
+      12.0,
+      6.944356052571398
+    ],
+    "geometry_status": "PASS",
+    "artistic_status": "NEEDS REVIEW"
+  },
+  "CHASE": {
+    "frames": 180,
+    "max_bone_error_m": 1.5265566588595902e-16,
+    "max_planted_toe_drift_m": 0.0,
+    "max_sampled_shoe_penetration_m": 0,
+    "max_sampled_body_penetration_m": 0,
+    "finger_pad_model_error_m": 0.0,
+    "finger_wrist_detachment_m": 0.0,
+    "independent_prop_surface_error_m": 1.3877787807814457e-16,
+    "key_axis_alignment_error_m": 0.0,
+    "max_joint_frame_displacement_m": 0.005832408773125521,
+    "min_pelvis_y_m": 0.3,
+    "fabric_horizontal_arc_length_error_m": 0.0,
+    "gap_start_end_m": [
+      12.0,
+      6.944356052571398
+    ],
+    "geometry_status": "PASS",
+    "artistic_status": "NEEDS REVIEW"
+  },
+  "CURTAIN": {
+    "frames": 150,
+    "max_bone_error_m": 5.065392549852277e-16,
+    "max_planted_toe_drift_m": 0.0,
+    "max_sampled_shoe_penetration_m": 0,
+    "max_sampled_body_penetration_m": 0,
+    "finger_pad_model_error_m": 2.7755575615628914e-17,
+    "finger_wrist_detachment_m": 0.0,
+    "independent_prop_surface_error_m": 0.0,
+    "key_axis_alignment_error_m": 0.0,
+    "max_joint_frame_displacement_m": 0.011738329661501798,
+    "min_pelvis_y_m": 0.615,
+    "fabric_horizontal_arc_length_error_m": 0.0006450418942482994,
+    "geometry_status": "PASS",
+    "artistic_status": "NEEDS REVIEW"
+  }
+}
