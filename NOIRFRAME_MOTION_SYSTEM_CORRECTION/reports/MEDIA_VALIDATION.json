@@ -1,0 +1,38 @@
+{
+  "STAIR_CONTACT": {
+    "path": "previews/STAIR_CONTACT_3s_M01_1080.mp4",
+    "frames": 90,
+    "duration": 3,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "h264",
+    "full_decode": "clean",
+    "silent": true,
+    "sha256": "f2457ea678faf1394279b9cf06dc1ade7e59940d204a79d7e40b2ee5603d2d2d"
+  },
+  "KEY_HANDLE": {
+    "path": "previews/KEY_HANDLE_3s_M01_1080.mp4",
+    "frames": 90,
+    "duration": 3,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "h264",
+    "full_decode": "clean",
+    "silent": true,
+    "sha256": "765906d00074789a97daf12dfe6f3c3f8b055319b7db825e1acab8c23ae3fba9"
+  },
+  "STEERING_TURN": {
+    "path": "previews/STEERING_TURN_4s_M01_1080.mp4",
+    "frames": 120,
+    "duration": 4,
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "codec": "h264",
+    "full_decode": "clean",
+    "silent": true,
+    "sha256": "e2e21e320c8f403b66b4d43188c68206b5e763784d5489abf955f239b7d707da"
+  }
+}

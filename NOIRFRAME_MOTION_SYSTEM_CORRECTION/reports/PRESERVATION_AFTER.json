@@ -1,0 +1,13 @@
+{
+  "previous_versions_preserved": true,
+  "protected_files_checked": 600,
+  "changed": [],
+  "missing": [],
+  "producer_freeze_unchanged": true,
+  "producer_changes": [],
+  "unchanged_approved_source": {
+    "approved_head.py": true,
+    "environments.py": true,
+    "svg.py": true
+  }
+}

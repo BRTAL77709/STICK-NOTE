@@ -1,0 +1,642 @@
+{
+  "base_commit": "b8d293e00c21bdb9a8720027a0cbec8f9994b53e",
+  "files": [
+    {
+      "path": "CURRENT_SHOTS.json",
+      "bytes": 1230,
+      "sha256": "7dfb3d0a63ab11883b369996a619adc6738ab0d90721dcba044bc05f0d3a7041",
+      "git_sha": "5860251a77a48d942d551e8a6eda06e353b37704"
+    },
+    {
+      "path": "MOTION_CONTACT_SOURCE_FINAL.zip",
+      "bytes": 48347,
+      "sha256": "8120b9aeed7894f9c3161568ec34932e6b8396657949bff403ec100cf456f1ad",
+      "git_sha": "131729e42a665f9ab61071b70a96a2d86738c456"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1286,
+      "sha256": "7f2ac4c20731330b1ee78bc2d048aa41b73357a7b1813f11829654958cad559e",
+      "git_sha": "7b0526b37d61fd4590ef45a5ec16285a767c8b09"
+    },
+    {
+      "path": "REBUILD.md",
+      "bytes": 1028,
+      "sha256": "554346024529abf91c447f2726c25d89235c141b7c0f3903f6b705e365668eef",
+      "git_sha": "92828169c61039826462037bb20e9807f38d3635"
+    },
+    {
+      "path": "REMAINING_FAILURES.md",
+      "bytes": 1956,
+      "sha256": "7e4eb77bd839c005b558c6ec6b19cf459c1c68a9f58a27c73f2663ae5e73f95d",
+      "git_sha": "f96b3bed0edf73a2b730ce5c9583eed5e5f009da"
+    },
+    {
+      "path": "SOURCE_CHANGES.md",
+      "bytes": 2989,
+      "sha256": "2c2d98477f53b2e71e69e07ece76a1da6d1c657846fb2d02d22e457c7f540aa7",
+      "git_sha": "70d404cb26126670449960e4437f0faa3941d6ca"
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "bytes": 3904,
+      "sha256": "9cadd68c8bf408f744ef38d5f5ee3018a5f16cab0038e0d6376d2c344a4e3e99",
+      "git_sha": "b1edee01cf1edc20b6cf413c3a826d9389b1c560"
+    },
+    {
+      "path": "comparisons/KEY_HANDLE_V12_vs_CONTACT_M01.mp4",
+      "bytes": 299316,
+      "sha256": "57f1ccffb6302a57293f2a6e417e532717d63d0238b038c943599ef4ac664da2",
+      "git_sha": "22f53e66b3f48de8affb7560ba9101695790b28a"
+    },
+    {
+      "path": "comparisons/STAIR_CONTACT_V12_vs_CONTACT_M01.mp4",
+      "bytes": 453200,
+      "sha256": "1230a06c5a654b25caa71c9e729fb4606b0743de0ce155981b7f1e83ba783a9a",
+      "git_sha": "6c29530deb69d83ce4924f221748e7ce621471dd"
+    },
+    {
+      "path": "comparisons/STEERING_TURN_V12_vs_CONTACT_M01.mp4",
+      "bytes": 873480,
+      "sha256": "da8dffea18c9741f6d26e6e62bbe7cde6a8ed3ca29abdf457299efb83993fb40",
+      "git_sha": "080c0499cac57b552deea6275fa0e3ed6d9676dc"
+    },
+    {
+      "path": "previews/KEY_HANDLE_3s_M01_1080.mp4",
+      "bytes": 297532,
+      "sha256": "765906d00074789a97daf12dfe6f3c3f8b055319b7db825e1acab8c23ae3fba9",
+      "git_sha": "699d2f671ece92132a344bc5131fad79c250e630"
+    },
+    {
+      "path": "previews/STAIR_CONTACT_3s_M01_1080.mp4",
+      "bytes": 552697,
+      "sha256": "f2457ea678faf1394279b9cf06dc1ade7e59940d204a79d7e40b2ee5603d2d2d",
+      "git_sha": "1e8630be93fa1e77086f06b4f8e333aeb4b72363"
+    },
+    {
+      "path": "previews/STEERING_TURN_4s_M01_1080.mp4",
+      "bytes": 807371,
+      "sha256": "e2e21e320c8f403b66b4d43188c68206b5e763784d5489abf955f239b7d707da",
+      "git_sha": "84e1d72e12fe341c34a414467d37360716f55f6e"
+    },
+    {
+      "path": "reports/CONTACT_VALIDATION_M01.json",
+      "bytes": 2292,
+      "sha256": "af195e1aab63b0f0894dab4f373f112b14572879865b0820166637c5592b32ba",
+      "git_sha": "2dd5230fcded4d0eb267fdf15d2dcec2f2e61c8e"
+    },
+    {
+      "path": "reports/FINAL_PLAYBACK.json",
+      "bytes": 4014,
+      "sha256": "3cdc23238ca1b2418ec3ae76e22230409081ba38548e319950db67a00d91f28f",
+      "git_sha": "392c61a42a42a4d139a4a443121aeb9d1216485c"
+    },
+    {
+      "path": "reports/FRAME_INSPECTION.json",
+      "bytes": 2067,
+      "sha256": "bd35447c6fb4bee9ba376d408da6f6aacde24297a3fd9ceac86e48a403935dc9",
+      "git_sha": "2ecbcd86a2348243a1f61352cae8a4401b624edb"
+    },
+    {
+      "path": "reports/KEY_HANDLE_3s_M01_1080_STATE.json",
+      "bytes": 565554,
+      "sha256": "b5fd668e2b34a86566ae1ea5f561bf23eb1764302739ea76575d8a693fe6a4ff",
+      "git_sha": "0f440d352e38219e64e4a1e6436f1d7d64961fa3"
+    },
+    {
+      "path": "reports/KEY_HANDLE_FRAME_CONTACTS.csv",
+      "bytes": 6231,
+      "sha256": "5ee451a25d953d7120b6ae6fdb8b280a8daac6f02ab9af11dd168056511db0f3",
+      "git_sha": "64e20f7d32f83adc30bd439ab983e332e847e476"
+    },
+    {
+      "path": "reports/MEDIA_VALIDATION.json",
+      "bytes": 960,
+      "sha256": "7f20131b57d25239855709718b87e6f56c98f0c71a89f067705bbdea2d6bca1b",
+      "git_sha": "f8408e9d2767d9bf9f055f9b06b10f1dbc77a5d4"
+    },
+    {
+      "path": "reports/NORMAL_final-playback.json",
+      "bytes": 2039,
+      "sha256": "6cbf797f51f7fc608dcae46cd2dc8d28a2a3672e16802cd497e9340ee11df2b5",
+      "git_sha": "639d19132c2156274bc0c673c4c0fd3e49e0eeab"
+    },
+    {
+      "path": "reports/NORMAL_preview-playback.json",
+      "bytes": 2043,
+      "sha256": "00210c2ccb464336d7d38362d4250bddf36ff0076557ae1047e4507136a51aa4",
+      "git_sha": "7bbe23de37c236f80af4215df19ba472bbb22f9f"
+    },
+    {
+      "path": "reports/PRESERVATION_AFTER.json",
+      "bytes": 288,
+      "sha256": "96568bfed9a7748fd6c1655b139ca1cc5e0881c351d8ae63c08f69d76ef6dc22",
+      "git_sha": "3a9499ed1a6d36a8e05721fce5a97c709ff744c1"
+    },
+    {
+      "path": "reports/PRODUCER_FREEZE.json",
+      "bytes": 1199,
+      "sha256": "d455ec50490641ef3ee44f80f90a39f2b511963ef8ac3f2dfafc7b92fdf17de4",
+      "git_sha": "af754923610620f779366553569ab1870bbc633b"
+    },
+    {
+      "path": "reports/PROTECTED_SOURCE_BEFORE.json",
+      "bytes": 82343,
+      "sha256": "e2ea673f6475684e5fcf615f915d0af9adb236293b911606a1bef305ad9b2980",
+      "git_sha": "350b5087a418bda861c49e78ee328cd3fcdd116b"
+    },
+    {
+      "path": "reports/SLOW_final-playback.json",
+      "bytes": 2049,
+      "sha256": "a7c01064d5383c6755a29720add796e201a20b552726bb76397e59cf9e1b555b",
+      "git_sha": "abd35e1ba6a60d400da956fb318f16717c44854c"
+    },
+    {
+      "path": "reports/SLOW_preview-playback.json",
+      "bytes": 2039,
+      "sha256": "e75460bd4f37e656bae541841dc45b7e62c9381553ad0bc20a223fb7ca071736",
+      "git_sha": "8c7c1e9c0402c7ddc17ee44890590492050a0749"
+    },
+    {
+      "path": "reports/STAIR_CONTACT_3s_M01_1080_STATE.json",
+      "bytes": 455953,
+      "sha256": "49abb51aab0b4ef72a581ea701c5e4e703d563b5c6d9045336b1afe9dcd51340",
+      "git_sha": "e83ae91a34b95dacacd204a08c8cdfc1759b9943"
+    },
+    {
+      "path": "reports/STAIR_CONTACT_FRAME_CONTACTS.csv",
+      "bytes": 9701,
+      "sha256": "c7d8f637cc1f90fb88e022160744ec6a0abade574a8813f5171c0c652e67b946",
+      "git_sha": "8c7d310401106b45bcdcda17152dafa43b2b956f"
+    },
+    {
+      "path": "reports/STEERING_TURN_4s_M01_1080_STATE.json",
+      "bytes": 1597189,
+      "sha256": "a3d9dd421187afd7ebe97953839d7648f3fb9282cad229206b43b71be6c79c98",
+      "git_sha": "7ec298873bc917f6e265b17d72bf78765b9701b7"
+    },
+    {
+      "path": "reports/STEERING_TURN_FRAME_CONTACTS.csv",
+      "bytes": 16761,
+      "sha256": "6db03cf0aa791210f8f554d9309518ceaaa9e0ab61000605a5dca6b0bac8dd14",
+      "git_sha": "9834ac977465c040904144dc4b6111c247bb0e79"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_3s_M01_1080_000.png",
+      "bytes": 62191,
+      "sha256": "55a696518e1227ec684331b5de74859296357318dcb30f0d7efce0dabd3d3d09",
+      "git_sha": "3f4fffceb081594422aa0c098f03ae7cae101b1d"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_3s_M01_1080_045.png",
+      "bytes": 63685,
+      "sha256": "12378048c8118323d013d37f2a6f7f38f730b4aa71a672accf6ce47721efef91",
+      "git_sha": "2ee27007fa71bb97a26321886edb784a2cdfef17"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_3s_M01_1080_089.png",
+      "bytes": 66115,
+      "sha256": "98fcd67e5ba19af2ddb51bea7823dcdbe9aad8eb852cfe7b3036a5b37b45bbde",
+      "git_sha": "1e3f70e343a775c213b82bb10df0230773f73c5a"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_3s_M01_1080_MOTION.jpg",
+      "bytes": 114344,
+      "sha256": "d34c7ad0f76bf85a40356beef79bd86e2fd019483510c62eb5caa802179bcc64",
+      "git_sha": "7779429eeb2eb3e56fc2ba06f83ebfe6ee7b3bed"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_KEY_HANDLE_ALL_FRAMES_01.jpg",
+      "bytes": 150494,
+      "sha256": "af2d7a628513aae1a8888d059bfdb724a8f8a64d0bba0a31364dea7da45ceae2",
+      "git_sha": "74210f863327790d0d8b0d5e85792c9fab20daf7"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_KEY_HANDLE_ALL_FRAMES_02.jpg",
+      "bytes": 152338,
+      "sha256": "9e6b910196a5418189d02e802100f2c893888441409ce86a374896d2dcb09a5d",
+      "git_sha": "6a958cea77927fc3fbdf30a784ac89f4ab901a44"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_KEY_HANDLE_ALL_FRAMES_03.jpg",
+      "bytes": 157964,
+      "sha256": "32dc07687911a9be1606b816d178d87d9d1d9f539bb990ebe4f4aec5d727589d",
+      "git_sha": "f3fd8fff980821cb071f4bcac23e64548d59c0eb"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_KEY_HANDLE_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+      "bytes": 244872,
+      "sha256": "f40f66f7c75917ba6e0b2e365d69936fc5608871dfc649dfdefc5a8e90e72d4e",
+      "git_sha": "21d288a9f20b7de60e2081ee24a772eb5b8f08ec"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_KEY_HANDLE_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+      "bytes": 245108,
+      "sha256": "3d74dbed403cb502eb46d588bc4b209c7a891799aad361bc44429384b360cb1e",
+      "git_sha": "4c21b18f4d564254bc71cdd2889aaf9964849fd1"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_KEY_HANDLE_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+      "bytes": 244997,
+      "sha256": "49e6e288431db6d967b8274af654d24980510488d8c4567277a0b331fb9321cc",
+      "git_sha": "71a1182b457adee805d85d4f66fba293af10b312"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_NORMAL_final_1.0x_PRESENTED.jpg",
+      "bytes": 111937,
+      "sha256": "e4a2f554e198514391a6c5cfa3671d8047973ada68d114d9afa94c96a3611561",
+      "git_sha": "2e79c9049d88e249f2d33816404b0a1707391dd8"
+    },
+    {
+      "path": "reviews/KEY_HANDLE_SLOW_final_0.5x_PRESENTED.jpg",
+      "bytes": 112122,
+      "sha256": "36c62a344b308a8f8fa42d0fe973164bec34522e1e62e4ea59b473c8a97ae07f",
+      "git_sha": "e594fdd92742aec67287da352ad6085766933eae"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_3s_M01_1080_000.png",
+      "bytes": 94555,
+      "sha256": "4268d7cb4a5bd0136fb7772ff240dab48efb9929531ad0dd385c84990ceef658",
+      "git_sha": "bdc9b3671014167f01d798734ebbb2efdfb534c8"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_3s_M01_1080_045.png",
+      "bytes": 98610,
+      "sha256": "82d35dbaadb4d5acde75b907d0e129abd2afc02d62a663bd0fcd192c1dc34599",
+      "git_sha": "23e2410d89fa6274a6d4c71c54f2b7696fd0cdb1"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_3s_M01_1080_089.png",
+      "bytes": 97696,
+      "sha256": "26c529f1a1cf76c846ac922a4629b2fffd02c05e8946ace6cf7a1fd697255b87",
+      "git_sha": "9af9c2221a27316ccbed9fdc33dcaf8cd8836e9f"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_3s_M01_1080_MOTION.jpg",
+      "bytes": 120431,
+      "sha256": "cfbe192d56504291fb26103533935d7385c588b7370a4ad9d96c2ced8c0186fc",
+      "git_sha": "6bf8932d40b5d63bab1d1645eca766a98838d393"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_FEET_ALL_FRAMES_01.jpg",
+      "bytes": 400542,
+      "sha256": "fae47a707ccf0fa3794c88d067fc2a229d26856a26e7d0ebf2620583a176ae0d",
+      "git_sha": "ec88c27dc57d786f3526f109a3fb30a85ddaabce"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_FEET_ALL_FRAMES_02.jpg",
+      "bytes": 395386,
+      "sha256": "f8a504b2904437887957abf35974f79ceb1653673ce7a2e93c21fdcf859720f9",
+      "git_sha": "f640aa300aeefe522be09a1a932c4973b746dde9"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_FEET_ALL_FRAMES_03.jpg",
+      "bytes": 390907,
+      "sha256": "75f946b45a04f1f2b7369d0103fafce755e958d6d080914bea3169a63fd527c2",
+      "git_sha": "07be67e6c7c0ce533e4de290b4915921abf5afca"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_FEET_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+      "bytes": 400542,
+      "sha256": "fae47a707ccf0fa3794c88d067fc2a229d26856a26e7d0ebf2620583a176ae0d",
+      "git_sha": "ec88c27dc57d786f3526f109a3fb30a85ddaabce"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_FEET_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+      "bytes": 395386,
+      "sha256": "f8a504b2904437887957abf35974f79ceb1653673ce7a2e93c21fdcf859720f9",
+      "git_sha": "f640aa300aeefe522be09a1a932c4973b746dde9"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_FEET_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+      "bytes": 390907,
+      "sha256": "75f946b45a04f1f2b7369d0103fafce755e958d6d080914bea3169a63fd527c2",
+      "git_sha": "07be67e6c7c0ce533e4de290b4915921abf5afca"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_NORMAL_final_1.0x_PRESENTED.jpg",
+      "bytes": 116972,
+      "sha256": "3f3d5ba99d6806a4a1752020cc03804856b090b261fad5abab950dd3571dc070",
+      "git_sha": "bca5ecf03e361b857d98b577acfb213552bd9655"
+    },
+    {
+      "path": "reviews/STAIR_CONTACT_SLOW_final_0.5x_PRESENTED.jpg",
+      "bytes": 116972,
+      "sha256": "3f3d5ba99d6806a4a1752020cc03804856b090b261fad5abab950dd3571dc070",
+      "git_sha": "bca5ecf03e361b857d98b577acfb213552bd9655"
+    },
+    {
+      "path": "reviews/STEERING_TURN_4s_M01_1080_000.png",
+      "bytes": 98421,
+      "sha256": "d3e3489d4a36ab667872cb26f6fd30c49f6d806f65a7a3f6f7a8a18a813fa66d",
+      "git_sha": "40d988f188538b463eb30743fbb5bc1c67e89766"
+    },
+    {
+      "path": "reviews/STEERING_TURN_4s_M01_1080_060.png",
+      "bytes": 100905,
+      "sha256": "b92b83ba1538dbd8271aef06402c8990a4c6c2aec4d8fae26e6b99c1ff6cfa48",
+      "git_sha": "5d0aa6775abaca82a90294b748eb50f2bf67c98b"
+    },
+    {
+      "path": "reviews/STEERING_TURN_4s_M01_1080_119.png",
+      "bytes": 107024,
+      "sha256": "c7cb94fe8cb7da0dbe5aaa065b9645b7dde47c2cac07000bd9e14d77f52ec464",
+      "git_sha": "a3482732b4677840c380b88acc2ad569db14fc0d"
+    },
+    {
+      "path": "reviews/STEERING_TURN_4s_M01_1080_MOTION.jpg",
+      "bytes": 210374,
+      "sha256": "39ebb330ff522b78d90da08a8326e12059f1a1c37bbad9e0c17b51f9e11832a3",
+      "git_sha": "3aa343f23a82e4b0e77db74d95428a753b6194cf"
+    },
+    {
+      "path": "reviews/STEERING_TURN_NORMAL_final_1.0x_PRESENTED.jpg",
+      "bytes": 208166,
+      "sha256": "9299a4bb906f5102cdc5ff866817e16eb849f572fd2ddd9833c5574882a237ea",
+      "git_sha": "93a8cf127b8267fd82f6fc06414afc834b8279e7"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_ALL_FRAMES_01.jpg",
+      "bytes": 131251,
+      "sha256": "9663cd6df2343f2a91328671b07678c73fcb7172414d2e4e68f114201c139089",
+      "git_sha": "6576b45d92ef720a808124ccb0daf8ab17dec132"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_ALL_FRAMES_02.jpg",
+      "bytes": 143329,
+      "sha256": "b0e1ff3681de4cc77376d84145d16148c838545cd675a56786310d20287da768",
+      "git_sha": "7709a21348fff43b11f0c634308db1a8b87289c6"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_ALL_FRAMES_03.jpg",
+      "bytes": 141878,
+      "sha256": "855752b9c385faa2447b08544e8079904b41ea421e8997738ae952ee353dab89",
+      "git_sha": "76581eb4bf8d2d707b117dcb9771b6739792c0b2"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_ALL_FRAMES_04.jpg",
+      "bytes": 140023,
+      "sha256": "d7335b38110da766994927e7b399749d8303fd6b85a7c8d2ac4048177ad840a6",
+      "git_sha": "d5d5a7a29da85882d479fd0374b36db3c44a36d6"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+      "bytes": 177739,
+      "sha256": "1303df93c33f4ea3610edb1155611777cf7a16328707c86d4bf997e1ab69ab7e",
+      "git_sha": "a3ca0579f60ba06b6d4b533de44fe46cae496d49"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+      "bytes": 191407,
+      "sha256": "5b76bd62dfc496d2edace82864aba64131bf3f0c066acf4942be2266b553029f",
+      "git_sha": "da45ab326f17b59f258d6203706baa6d180e0eba"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+      "bytes": 190805,
+      "sha256": "55f65154e6669a715176d65df1752c3a8ef41568d42318976c055ba81c1f0fab",
+      "git_sha": "179c77a83b07b87c6d0c4a83077142613033e484"
+    },
+    {
+      "path": "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_04.jpg",
+      "bytes": 186425,
+      "sha256": "ad70942c9f2ae4f124be407613786db0f55568d76f44dbb01f9c8dba943f4dda",
+      "git_sha": "cee87a064618093bb166c90cb8a0778a58ecde83"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_ALL_FRAMES_01.jpg",
+      "bytes": 223331,
+      "sha256": "fca544b13bf1c115cacb18128966ca29af4b026d014fcb00f992f321d1d97349",
+      "git_sha": "42e80e3ebb176e1b1f6025a7a399cfbd9757c014"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_ALL_FRAMES_02.jpg",
+      "bytes": 223210,
+      "sha256": "d0fdb3ed167b3c10b79a9a4c0b2eb178beaf4ff0709e0d1ba23a5c9b59a33181",
+      "git_sha": "eb28efb351d0730ce3e8f543fb5581bf420ed67a"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_ALL_FRAMES_03.jpg",
+      "bytes": 223280,
+      "sha256": "9b7c7fe77cea40210769daed08495ed3ea6226d77026394c7808f35aa31c2911",
+      "git_sha": "aee5e7c3d43522201d6da44586775dcda1f74036"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_ALL_FRAMES_04.jpg",
+      "bytes": 223560,
+      "sha256": "bd178d85022de171dea13e77c2f75955dd50cbbcc16b47fbc5dc125ca9dbc578",
+      "git_sha": "b28786014f82743847cb0af8caa7d23b44ca8be3"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+      "bytes": 223331,
+      "sha256": "fca544b13bf1c115cacb18128966ca29af4b026d014fcb00f992f321d1d97349",
+      "git_sha": "42e80e3ebb176e1b1f6025a7a399cfbd9757c014"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+      "bytes": 223210,
+      "sha256": "d0fdb3ed167b3c10b79a9a4c0b2eb178beaf4ff0709e0d1ba23a5c9b59a33181",
+      "git_sha": "eb28efb351d0730ce3e8f543fb5581bf420ed67a"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+      "bytes": 223280,
+      "sha256": "9b7c7fe77cea40210769daed08495ed3ea6226d77026394c7808f35aa31c2911",
+      "git_sha": "aee5e7c3d43522201d6da44586775dcda1f74036"
+    },
+    {
+      "path": "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_04.jpg",
+      "bytes": 223560,
+      "sha256": "bd178d85022de171dea13e77c2f75955dd50cbbcc16b47fbc5dc125ca9dbc578",
+      "git_sha": "b28786014f82743847cb0af8caa7d23b44ca8be3"
+    },
+    {
+      "path": "reviews/STEERING_TURN_SLOW_final_0.5x_PRESENTED.jpg",
+      "bytes": 208827,
+      "sha256": "e6e15a15f3d48113821a8f5970908df36c9f3f95b1f4988035e8178bf1610617",
+      "git_sha": "ce832a8ec713fcba738a29912f154f3c7bd2211c"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_ALL_FRAMES_01.jpg",
+      "bytes": 254637,
+      "sha256": "6deb234acd908f02e1abad9c96814d55e8892f1f753af868e15f41eae18b3877",
+      "git_sha": "e711065ed3430e8abfa58dc609c2f4bdbab4fcb2"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_ALL_FRAMES_02.jpg",
+      "bytes": 253344,
+      "sha256": "fe880f1f0be1f111d84913abb9676e778035eb41abe56307c767c91c6d0c1b63",
+      "git_sha": "86494abcd5cc52c1cf4f87774493ff2d734e7926"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_ALL_FRAMES_03.jpg",
+      "bytes": 257003,
+      "sha256": "e97d20b8bfcd1aef6ea5da9ba50c9f385357eff6624d6e30c3fd1e7145ac978e",
+      "git_sha": "c1af2b9090c4a114472eaf765ce80d8b8dbd5f68"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_ALL_FRAMES_04.jpg",
+      "bytes": 261793,
+      "sha256": "c77a567d5bc49a646d160ceaa83dc5496c07ae09846b7640302ee9b0d7e849a2",
+      "git_sha": "8833651b08ee974bd1530f5ceed3796ea48f9969"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+      "bytes": 254637,
+      "sha256": "6deb234acd908f02e1abad9c96814d55e8892f1f753af868e15f41eae18b3877",
+      "git_sha": "e711065ed3430e8abfa58dc609c2f4bdbab4fcb2"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+      "bytes": 253344,
+      "sha256": "fe880f1f0be1f111d84913abb9676e778035eb41abe56307c767c91c6d0c1b63",
+      "git_sha": "86494abcd5cc52c1cf4f87774493ff2d734e7926"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+      "bytes": 257003,
+      "sha256": "e97d20b8bfcd1aef6ea5da9ba50c9f385357eff6624d6e30c3fd1e7145ac978e",
+      "git_sha": "c1af2b9090c4a114472eaf765ce80d8b8dbd5f68"
+    },
+    {
+      "path": "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_04.jpg",
+      "bytes": 261793,
+      "sha256": "c77a567d5bc49a646d160ceaa83dc5496c07ae09846b7640302ee9b0d7e849a2",
+      "git_sha": "8833651b08ee974bd1530f5ceed3796ea48f9969"
+    },
+    {
+      "path": "source/actor.py",
+      "bytes": 3540,
+      "sha256": "d2cdbfbc8bc27dfe5d8b1a0f4965b1a0ed2b650322c11109cd942a902f7b53da",
+      "git_sha": "4b11a65ff80b21a5a5324c7dc72a70483c4c0791"
+    },
+    {
+      "path": "source/approved_head.py",
+      "bytes": 2046,
+      "sha256": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc",
+      "git_sha": "2c3a46f9b2d4766368e127f0559ccc742bdc70ee"
+    },
+    {
+      "path": "source/contact_rig.py",
+      "bytes": 4580,
+      "sha256": "7ac7f6a5103d7f128b53f8b039f40e6ef86822b11bd6db0f24718d2ff6ecd1a3",
+      "git_sha": "88056f0d20f764af56870f4093da2680d8c4ca66"
+    },
+    {
+      "path": "source/depth_render.py",
+      "bytes": 5099,
+      "sha256": "1312cc94ec06581a25b8abec38bc5f894ae4441de56c70151f553b73940ff4d2",
+      "git_sha": "4daef6b8b6f2e5dee90b30f2c25e1ee8be9255f2"
+    },
+    {
+      "path": "source/environments.py",
+      "bytes": 5495,
+      "sha256": "623291b3a76b246828da5997f784ccd9e974ac697d01088522f14bd4f706ea24",
+      "git_sha": "d6a03ed74a6f348bff1f0a973e107d19c5083754"
+    },
+    {
+      "path": "source/export_review.py",
+      "bytes": 3748,
+      "sha256": "56d1ceb12c98b75c5c811a416d7b26f8012b3e9d02fdaf4f8ab76422e8a819a5",
+      "git_sha": "5e2d8e0448b6e99a299b9254b2b57b30e2bec1c2"
+    },
+    {
+      "path": "source/finish_render.py",
+      "bytes": 267,
+      "sha256": "62ca7d98e80387e115f11626702bae658b4059c6a2f844273702cc1aa81c4b8d",
+      "git_sha": "eee3a867b86d1e3c54b12a364c5874114572292c"
+    },
+    {
+      "path": "source/geometry.py",
+      "bytes": 4470,
+      "sha256": "d8d5be36d1305d2b0f4f43d4c05a6c153f6647abc7551635322116230135f876",
+      "git_sha": "06df39ab80b545f04a75ef92216e22a37cb8711a"
+    },
+    {
+      "path": "source/key_test.py",
+      "bytes": 1998,
+      "sha256": "13ffa22baea9227c335b939cee4f5347f526697bf2baede59126b62651d84c17",
+      "git_sha": "5cc10d55104d5cfcd30273ce0854cc7b89672f00"
+    },
+    {
+      "path": "source/legacy/actions.py",
+      "bytes": 3581,
+      "sha256": "4b015cab140d33ee01ab280b793157390a1fdbef963d1208d2a28a91cf8dafd5",
+      "git_sha": "72b03d72586b1db1c895d615270eb8c77851a7e2"
+    },
+    {
+      "path": "source/legacy/character.py",
+      "bytes": 2423,
+      "sha256": "6556dffff810aefc098e39487fc5041f7749aa30335a128aea3d6d7d8f6ae62c",
+      "git_sha": "c09e7f1bb20abe685d86af2e9a9b68c9524ff4d9"
+    },
+    {
+      "path": "source/legacy/scenes.py",
+      "bytes": 8646,
+      "sha256": "63f124525624f18d9c43e64b6c78b87cdc7313c48fabef15a76f66202f1973e5",
+      "git_sha": "79567a9ef8b1568d3236af3fd40a07c3e996fd15"
+    },
+    {
+      "path": "source/legacy/vehicles.py",
+      "bytes": 4538,
+      "sha256": "d52b942a2a94b7517c945c9e771b5dd901507e63a804337a1712252f870eb7b6",
+      "git_sha": "f6e3120eda97b4a4812e860f2a9b5143a3794054"
+    },
+    {
+      "path": "source/render_tests.py",
+      "bytes": 2656,
+      "sha256": "5e67647aceb42f9865d3da06afc71a79d86e235a2d1e641e8c25c1dcb3dcceb3",
+      "git_sha": "1db75c983c31218b4954b04bc1b94e68f940cd5c"
+    },
+    {
+      "path": "source/review_playback.py",
+      "bytes": 3034,
+      "sha256": "5da6d418ea3ce75d7af526b795ad1c08984c3869614b43c369ed8bfb80897ef9",
+      "git_sha": "79e7f8832ae834af0e4a77bde86f7efe3da90f44"
+    },
+    {
+      "path": "source/rig.py",
+      "bytes": 932,
+      "sha256": "d0519ed0a8756fe25914e4e7e53ae6e95afa9e0f04c701cbaf8aee10e39d279f",
+      "git_sha": "c70e94e432a4f8666583620c05bf8c2a9b472b32"
+    },
+    {
+      "path": "source/shots.py",
+      "bytes": 5158,
+      "sha256": "296da520826eb762978a4c6b6e8c9d1ff8a01139b612173efe16daace311b94f",
+      "git_sha": "3bc868b3c132bb0545ea5f156b16337a4593de7f"
+    },
+    {
+      "path": "source/stair_test.py",
+      "bytes": 3217,
+      "sha256": "4e7452328c4da5bfc2353a84b6a6df29e86a1f4130bb3a08068979d564b2c261",
+      "git_sha": "ff7130f3b29a7b4d55f3c3e1f3ce6406a939d9b3"
+    },
+    {
+      "path": "source/svg.py",
+      "bytes": 2569,
+      "sha256": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
+      "git_sha": "c5f18a3bfb284ea786eaed479b060bb02b388c4b"
+    },
+    {
+      "path": "source/validate.py",
+      "bytes": 6964,
+      "sha256": "7edd6bd4a08880fa199f9c5fef473828bca78e9f0764f97b6eb0089e78477a8a",
+      "git_sha": "c496d55d7c3abd6e5575a4707c78d37c5ba8b504"
+    },
+    {
+      "path": "source/vehicle_test.py",
+      "bytes": 4417,
+      "sha256": "5a50fcc803857e47dffa9103f7d577cb932e73b33763e56b56dbf0bf1021fcc3",
+      "git_sha": "1d02fb6a89b23f7703be11e8b8bea61238bf9baa"
+    },
+    {
+      "path": "source/world.py",
+      "bytes": 5699,
+      "sha256": "a001dff3285e00dad61e530815cd5a14b862bbbaaec2e24810cc443c9de86ddb",
+      "git_sha": "e150225783f98dea36b8d6a53db41821d4e40900"
+    }
+  ],
+  "self_excluded": true
+}

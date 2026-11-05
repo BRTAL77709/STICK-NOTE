@@ -1,0 +1,41 @@
+{
+  "STAIR_CONTACT": {
+    "duration": 3,
+    "preview": "previews/STAIR_CONTACT_3s_P07_360.mp4",
+    "final": "previews/STAIR_CONTACT_3s_M01_1080.mp4",
+    "approved": false,
+    "comparison": "comparisons/STAIR_CONTACT_V12_vs_CONTACT_M01.mp4",
+    "original": {
+      "path": "NOIRFRAME_V12_CINEMATIC_REBUILD/previews/STAIRS_V12_F01_1080.mp4",
+      "start": 6.4,
+      "duration": 3,
+      "speed": 1
+    }
+  },
+  "KEY_HANDLE": {
+    "duration": 3,
+    "preview": "previews/KEY_HANDLE_3s_P07_360.mp4",
+    "final": "previews/KEY_HANDLE_3s_M01_1080.mp4",
+    "approved": false,
+    "comparison": "comparisons/KEY_HANDLE_V12_vs_CONTACT_M01.mp4",
+    "original": {
+      "path": "NOIRFRAME_V12_CINEMATIC_REBUILD/previews/HOUSE_V12_F01_1080.mp4",
+      "start": 5.05,
+      "duration": 3,
+      "speed": 1
+    }
+  },
+  "STEERING_TURN": {
+    "duration": 4,
+    "preview": "previews/STEERING_TURN_4s_P07_360.mp4",
+    "final": "previews/STEERING_TURN_4s_M01_1080.mp4",
+    "approved": false,
+    "comparison": "comparisons/STEERING_TURN_V12_vs_CONTACT_M01.mp4",
+    "original": {
+      "path": "NOIRFRAME_V12_CINEMATIC_REBUILD/previews/DRIVING_V12_F03_1080.mp4",
+      "start": 2.5,
+      "duration": 4,
+      "speed": 1
+    }
+  }
+}

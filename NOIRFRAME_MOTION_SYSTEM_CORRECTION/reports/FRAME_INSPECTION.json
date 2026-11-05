@@ -1,0 +1,51 @@
+{
+  "STAIR_CONTACT": {
+    "all_frames": 90,
+    "fps": 30,
+    "pages": {
+      "FEET": [
+        "reviews/STAIR_CONTACT_FEET_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+        "reviews/STAIR_CONTACT_FEET_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+        "reviews/STAIR_CONTACT_FEET_CONTACT_DETAIL_ALL_FRAMES_03.jpg"
+      ]
+    },
+    "limitation": "Cropped rendered-frame inspection, supplemented by geometric contact CSV. Hidden surfaces are not certified."
+  },
+  "KEY_HANDLE": {
+    "all_frames": 90,
+    "fps": 30,
+    "pages": {
+      "KEY_HANDLE": [
+        "reviews/KEY_HANDLE_KEY_HANDLE_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+        "reviews/KEY_HANDLE_KEY_HANDLE_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+        "reviews/KEY_HANDLE_KEY_HANDLE_CONTACT_DETAIL_ALL_FRAMES_03.jpg"
+      ]
+    },
+    "limitation": "Cropped rendered-frame inspection, supplemented by geometric contact CSV. Hidden surfaces are not certified."
+  },
+  "STEERING_TURN": {
+    "all_frames": 120,
+    "fps": 30,
+    "pages": {
+      "WHEEL": [
+        "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+        "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+        "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+        "reviews/STEERING_TURN_WHEEL_CONTACT_DETAIL_ALL_FRAMES_04.jpg"
+      ],
+      "PEDALS": [
+        "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+        "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+        "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+        "reviews/STEERING_TURN_PEDALS_CONTACT_DETAIL_ALL_FRAMES_04.jpg"
+      ],
+      "ROAD": [
+        "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_01.jpg",
+        "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_02.jpg",
+        "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_03.jpg",
+        "reviews/STEERING_TURN_ROAD_CONTACT_DETAIL_ALL_FRAMES_04.jpg"
+      ]
+    },
+    "limitation": "Cropped rendered-frame inspection, supplemented by geometric contact CSV. Hidden surfaces are not certified."
+  }
+}

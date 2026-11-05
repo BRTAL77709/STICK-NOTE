@@ -1,0 +1,60 @@
+{
+  "STAIR_CONTACT": {
+    "frames": 90,
+    "max_bone_length_error_m": 4.996003610813204e-16,
+    "toe_anchor_drift_while_planted_m": 2.220446049250313e-16,
+    "shoe_tread_penetration_m": 4.440892098500626e-16,
+    "finger_skin_contact_model_error_m": 3.469446951953614e-17,
+    "hand_prop_local_slip_m": 0.0,
+    "COM_plan_tracking_error_m": 6.0168565852050035e-05,
+    "support_pressure_outside_polygon_m": 0.0,
+    "sampled_finger_lever_overlap_m": 0,
+    "heel_floor_anchor_drift_m": 0.0,
+    "toe_pedal_plane_error_m": 0.0,
+    "sampled_pedal_sole_penetration_m": 0,
+    "foot_floor_penetration_m": 0,
+    "same_state_camera_projection_error_px": 0.0,
+    "COM_rise_m": 0.41082390413927383,
+    "pelvis_travel_m": 1.0029934389709354,
+    "ends_on_upper_floor": true,
+    "bounded_checks_pass": true
+  },
+  "KEY_HANDLE": {
+    "frames": 90,
+    "max_bone_length_error_m": 3.3306690738754696e-16,
+    "toe_anchor_drift_while_planted_m": 0.0,
+    "shoe_tread_penetration_m": 0,
+    "finger_skin_contact_model_error_m": 2.8332891588433995e-16,
+    "hand_prop_local_slip_m": 1.7557595556438868e-16,
+    "COM_plan_tracking_error_m": 0.0,
+    "support_pressure_outside_polygon_m": 0.0,
+    "sampled_finger_lever_overlap_m": 7.880000887964395e-05,
+    "heel_floor_anchor_drift_m": 0.0,
+    "toe_pedal_plane_error_m": 0.0,
+    "sampled_pedal_sole_penetration_m": 0,
+    "foot_floor_penetration_m": 0,
+    "same_state_camera_projection_error_px": 0.0,
+    "bounded_checks_pass": true
+  },
+  "STEERING_TURN": {
+    "frames": 120,
+    "max_bone_length_error_m": 1.5959455978986625e-16,
+    "toe_anchor_drift_while_planted_m": 0.0,
+    "shoe_tread_penetration_m": 0,
+    "finger_skin_contact_model_error_m": 1.1275702593849246e-16,
+    "hand_prop_local_slip_m": 1.8748661485718162e-16,
+    "COM_plan_tracking_error_m": 0.0,
+    "support_pressure_outside_polygon_m": 0.0,
+    "sampled_finger_lever_overlap_m": 0,
+    "heel_floor_anchor_drift_m": 0.0,
+    "toe_pedal_plane_error_m": 4.4795425040463135e-17,
+    "sampled_pedal_sole_penetration_m": 4.4795425040463135e-17,
+    "foot_floor_penetration_m": 0,
+    "same_state_camera_projection_error_px": 9.713407672867936e-13,
+    "actual_gap_start_end_m": [
+      11.999999999999865,
+      7.796349037938138
+    ],
+    "bounded_checks_pass": true
+  }
+}

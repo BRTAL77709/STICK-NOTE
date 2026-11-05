@@ -1,0 +1,97 @@
+{
+  "STAIR_CONTACT": [
+    {
+      "ended": true,
+      "rate": 1,
+      "duration": 3,
+      "wallSeconds": 3.0015999999940397,
+      "totalFrames": 90,
+      "droppedFrames": 0,
+      "corruptedFrames": 0,
+      "path": "previews/STAIR_CONTACT_3s_P07_360.mp4",
+      "sample_times": [
+        0.033333,
+        0.233333,
+        0.433333,
+        0.633333,
+        0.833333,
+        1.033333,
+        1.233333,
+        1.433333,
+        1.633333,
+        1.833333,
+        2.033333,
+        2.233333,
+        2.433333,
+        2.633333,
+        2.833333
+      ],
+      "presented_sheet": "reviews/STAIR_CONTACT_NORMAL_preview_1.0x_PRESENTED.jpg"
+    }
+  ],
+  "KEY_HANDLE": [
+    {
+      "ended": true,
+      "rate": 1,
+      "duration": 3,
+      "wallSeconds": 3.0015,
+      "totalFrames": 90,
+      "droppedFrames": 0,
+      "corruptedFrames": 0,
+      "path": "previews/KEY_HANDLE_3s_P07_360.mp4",
+      "sample_times": [
+        0.033333,
+        0.233333,
+        0.433333,
+        0.633333,
+        0.833333,
+        1.033333,
+        1.233333,
+        1.433333,
+        1.633333,
+        1.833333,
+        2.033333,
+        2.233333,
+        2.433333,
+        2.633333,
+        2.833333
+      ],
+      "presented_sheet": "reviews/KEY_HANDLE_NORMAL_preview_1.0x_PRESENTED.jpg"
+    }
+  ],
+  "STEERING_TURN": [
+    {
+      "ended": true,
+      "rate": 1,
+      "duration": 4,
+      "wallSeconds": 4.0017999999970195,
+      "totalFrames": 120,
+      "droppedFrames": 0,
+      "corruptedFrames": 0,
+      "path": "previews/STEERING_TURN_4s_P07_360.mp4",
+      "sample_times": [
+        0.033333,
+        0.233333,
+        0.433333,
+        0.633333,
+        0.833333,
+        1.033333,
+        1.233333,
+        1.433333,
+        1.633333,
+        1.833333,
+        2.033333,
+        2.233333,
+        2.433333,
+        2.633333,
+        2.833333,
+        3.033333,
+        3.233333,
+        3.433333,
+        3.633333,
+        3.833333
+      ],
+      "presented_sheet": "reviews/STEERING_TURN_NORMAL_preview_1.0x_PRESENTED.jpg"
+    }
+  ]
+}
