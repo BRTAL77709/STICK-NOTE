@@ -1,0 +1,12 @@
+{
+  "encoded_frames": 150,
+  "fps": 30,
+  "pages": [
+    "reviews/M05_CONTACT_FRAMES_01.jpg",
+    "reviews/M05_CONTACT_FRAMES_02.jpg",
+    "reviews/M05_CONTACT_FRAMES_03.jpg",
+    "reviews/M05_CONTACT_FRAMES_04.jpg",
+    "reviews/M05_CONTACT_FRAMES_05.jpg"
+  ],
+  "source": "diagnostics/STAIRS_M05_CINEMATIC_1080_DEBUG.mp4"
+}

@@ -1,0 +1,38 @@
+{
+  "final": {
+    "path": "previews/STAIRS_M05_CINEMATIC_1080.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 150,
+    "duration": 5,
+    "codec": "h264",
+    "full_decode": "clean",
+    "silent": true,
+    "sha256": "f46f5c1cf7fc02cfcce019c40a7b71fd027171d4719c849f89da8e142cdf306f"
+  },
+  "diagnostic": {
+    "path": "diagnostics/STAIRS_M05_CINEMATIC_1080_DEBUG.mp4",
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 150,
+    "duration": 5,
+    "codec": "h264",
+    "full_decode": "clean",
+    "silent": true,
+    "sha256": "a4dc2f0563ca66cb3cdb0a443145d25c5a0224967d0a3b93a47f34e2eb879d18"
+  },
+  "comparison": {
+    "path": "comparisons/STAIRS_M04_vs_M05_5s.mp4",
+    "width": 1080,
+    "height": 1080,
+    "fps": 30,
+    "frames": 150,
+    "duration": 5,
+    "codec": "h264",
+    "full_decode": "clean",
+    "silent": true,
+    "sha256": "97766d2f4079631ce312097d7041a610d95ffe7eb085300c0397aca585b95e9e"
+  }
+}

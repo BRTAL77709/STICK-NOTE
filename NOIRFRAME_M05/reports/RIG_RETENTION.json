@@ -1,0 +1,577 @@
+{
+  "opened_actual_baseline": "/workspace/STICK-NOTE/NOIRFRAME_M04/assets/STAIRCASE_M04_R06.blend",
+  "baseline_sha256": "20e9dbf31b30d207289e7e080b4c42bc7a0aa042de603a3d02a25c3d9f532e48",
+  "bones_constraints_bindings_identical": true,
+  "snapshot": {
+    "bones": {
+      "root": {
+        "head": [
+          -0.2199999988079071,
+          0.0,
+          0.7599999904632568
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.0,
+          0.8600000143051147
+        ],
+        "parent": null,
+        "connected": false,
+        "length": 0.10000002384185791
+      },
+      "pelvis": {
+        "head": [
+          -0.2199999988079071,
+          0.0,
+          0.7599999904632568
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.0,
+          0.8799999952316284
+        ],
+        "parent": "root",
+        "connected": false,
+        "length": 0.12000000476837158
+      },
+      "spine": {
+        "head": [
+          -0.2199999988079071,
+          0.0,
+          0.7599999904632568
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.0,
+          1.0399999618530273
+        ],
+        "parent": "pelvis",
+        "connected": false,
+        "length": 0.2799999713897705
+      },
+      "chest": {
+        "head": [
+          -0.2199999988079071,
+          0.0,
+          1.0399999618530273
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.0,
+          1.2599999904632568
+        ],
+        "parent": "spine",
+        "connected": true,
+        "length": 0.2200000286102295
+      },
+      "neck": {
+        "head": [
+          -0.2199999988079071,
+          0.0,
+          1.2599999904632568
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.0,
+          1.5499999523162842
+        ],
+        "parent": "chest",
+        "connected": true,
+        "length": 0.28999996185302734
+      },
+      "head": {
+        "head": [
+          -0.2199999988079071,
+          0.0,
+          1.5499999523162842
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.0,
+          1.649999976158142
+        ],
+        "parent": "neck",
+        "connected": true,
+        "length": 0.10000002384185791
+      },
+      "upper_arm.L": {
+        "head": [
+          -0.2199999988079071,
+          -0.1899999976158142,
+          1.2599999904632568
+        ],
+        "tail": [
+          -0.2199999988079071,
+          -0.21799999475479126,
+          0.9211548566818237
+        ],
+        "parent": "chest",
+        "connected": false,
+        "length": 0.3400000333786011
+      },
+      "forearm.L": {
+        "head": [
+          -0.2199999988079071,
+          -0.21799999475479126,
+          0.9211548566818237
+        ],
+        "tail": [
+          -0.09263375401496887,
+          -0.21799999475479126,
+          0.6059123277664185
+        ],
+        "parent": "upper_arm.L",
+        "connected": true,
+        "length": 0.3399999141693115
+      },
+      "hand.L": {
+        "head": [
+          -0.09263375401496887,
+          -0.21799999475479126,
+          0.6059123277664185
+        ],
+        "tail": [
+          -0.06453825533390045,
+          -0.21799999475479126,
+          0.5363735556602478
+        ],
+        "parent": "forearm.L",
+        "connected": true,
+        "length": 0.07499995827674866
+      },
+      "upper_arm.R": {
+        "head": [
+          -0.2199999988079071,
+          0.1899999976158142,
+          1.2599999904632568
+        ],
+        "tail": [
+          -0.2199999988079071,
+          0.21799999475479126,
+          0.9211548566818237
+        ],
+        "parent": "chest",
+        "connected": false,
+        "length": 0.3400000333786011
+      },
+      "forearm.R": {
+        "head": [
+          -0.2199999988079071,
+          0.21799999475479126,
+          0.9211548566818237
+        ],
+        "tail": [
+          -0.09263375401496887,
+          0.21799999475479126,
+          0.6059123277664185
+        ],
+        "parent": "upper_arm.R",
+        "connected": true,
+        "length": 0.3399999141693115
+      },
+      "hand.R": {
+        "head": [
+          -0.09263375401496887,
+          0.21799999475479126,
+          0.6059123277664185
+        ],
+        "tail": [
+          -0.06453825533390045,
+          0.21799999475479126,
+          0.5363735556602478
+        ],
+        "parent": "forearm.R",
+        "connected": true,
+        "length": 0.07499995827674866
+      },
+      "thigh.L": {
+        "head": [
+          -0.2199999988079071,
+          -0.07000000029802322,
+          0.7599999904632568
+        ],
+        "tail": [
+          -0.16698116064071655,
+          -0.07999999821186066,
+          0.39395490288734436
+        ],
+        "parent": "pelvis",
+        "connected": false,
+        "length": 0.3700000047683716
+      },
+      "shin.L": {
+        "head": [
+          -0.16698116064071655,
+          -0.07999999821186066,
+          0.39395490288734436
+        ],
+        "tail": [
+          -0.3149999976158142,
+          -0.09000000357627869,
+          0.054999999701976776
+        ],
+        "parent": "thigh.L",
+        "connected": true,
+        "length": 0.3699999749660492
+      },
+      "foot.L": {
+        "head": [
+          -0.3149999976158142,
+          -0.09000000357627869,
+          0.054999999701976776
+        ],
+        "tail": [
+          -0.23499999940395355,
+          -0.09000000357627869,
+          0.054999999701976776
+        ],
+        "parent": "shin.L",
+        "connected": true,
+        "length": 0.07999993860721588
+      },
+      "toe.L": {
+        "head": [
+          -0.23499999940395355,
+          -0.09000000357627869,
+          0.054999999701976776
+        ],
+        "tail": [
+          -0.17000000178813934,
+          -0.09000000357627869,
+          0.054999999701976776
+        ],
+        "parent": "foot.L",
+        "connected": true,
+        "length": 0.06499996781349182
+      },
+      "thigh.R": {
+        "head": [
+          -0.2199999988079071,
+          0.07000000029802322,
+          0.7599999904632568
+        ],
+        "tail": [
+          -0.08077288419008255,
+          0.08000000566244125,
+          0.41734009981155396
+        ],
+        "parent": "pelvis",
+        "connected": false,
+        "length": 0.3700000047683716
+      },
+      "shin.R": {
+        "head": [
+          -0.08077288419008255,
+          0.08000000566244125,
+          0.41734009981155396
+        ],
+        "tail": [
+          -0.1550000011920929,
+          0.09000000357627869,
+          0.054999999701976776
+        ],
+        "parent": "thigh.R",
+        "connected": true,
+        "length": 0.3700000047683716
+      },
+      "foot.R": {
+        "head": [
+          -0.1550000011920929,
+          0.09000000357627869,
+          0.054999999701976776
+        ],
+        "tail": [
+          -0.07500000298023224,
+          0.09000000357627869,
+          0.054999999701976776
+        ],
+        "parent": "shin.R",
+        "connected": true,
+        "length": 0.08000003546476364
+      },
+      "toe.R": {
+        "head": [
+          -0.07500000298023224,
+          0.09000000357627869,
+          0.054999999701976776
+        ],
+        "tail": [
+          -0.01000000536441803,
+          0.09000000357627869,
+          0.054999999701976776
+        ],
+        "parent": "foot.R",
+        "connected": true,
+        "length": 0.0650000274181366
+      }
+    },
+    "constraints": {
+      "root": [
+        {
+          "type": "COPY_LOCATION",
+          "name": "WORLD_ROOT_POSITION",
+          "target": "CTRL_ROOT",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "pelvis": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_pelvis",
+          "target": "CTRL_pelvis",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "spine": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_spine",
+          "target": "CTRL_spine",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "chest": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_chest",
+          "target": "CTRL_chest",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "neck": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_neck",
+          "target": "CTRL_neck",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "head": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_head",
+          "target": "CTRL_head",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "upper_arm.L": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_upper_arm.L",
+          "target": "CTRL_upper_arm.L",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "forearm.L": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_forearm.L",
+          "target": "CTRL_forearm.L",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "hand.L": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_hand.L",
+          "target": "CTRL_hand.L",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "upper_arm.R": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_upper_arm.R",
+          "target": "CTRL_upper_arm.R",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "forearm.R": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_forearm.R",
+          "target": "CTRL_forearm.R",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "hand.R": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_hand.R",
+          "target": "CTRL_hand.R",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "thigh.L": [],
+      "shin.L": [
+        {
+          "type": "IK",
+          "name": "LEG_TWO_BONE_IK_L",
+          "target": "CTRL_ANKLE_L",
+          "pole": "CTRL_KNEE_POLE_L",
+          "pole_angle": 0.0,
+          "chain": 2,
+          "stretch": false
+        }
+      ],
+      "foot.L": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_foot.L",
+          "target": "CTRL_foot.L",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "toe.L": [],
+      "thigh.R": [],
+      "shin.R": [
+        {
+          "type": "IK",
+          "name": "LEG_TWO_BONE_IK_R",
+          "target": "CTRL_ANKLE_R",
+          "pole": "CTRL_KNEE_POLE_R",
+          "pole_angle": 0.0,
+          "chain": 2,
+          "stretch": false
+        }
+      ],
+      "foot.R": [
+        {
+          "type": "COPY_ROTATION",
+          "name": "WORLD_ORIENTATION_foot.R",
+          "target": "CTRL_foot.R",
+          "pole": null,
+          "pole_angle": null,
+          "chain": null,
+          "stretch": null
+        }
+      ],
+      "toe.R": []
+    },
+    "bindings": {
+      "TROUSER_THIGH_L": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "TROUSER_SHIN_L": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "SLEEVE_UPPER_L": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "SLEEVE_LOWER_L": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "MITTEN_L": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "TROUSER_THIGH_R": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "TROUSER_SHIN_R": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "SLEEVE_UPPER_R": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "SLEEVE_LOWER_R": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "MITTEN_R": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "WEIGHTED_APPROVED_HOODIE": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "SHOE_L": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "SHOE_R": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ],
+      "APPROVED_HEAD_CARD": [
+        [
+          "ARMATURE",
+          "M04_WITNESS_RIG"
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "cinematic": {
+    "shoe_geometry_min_xy_px": [
+      139.71385760198177,
+      1355.663634346466
+    ],
+    "shoe_geometry_max_xy_px": [
+      855.0394720729971,
+      1627.1571865896399
+    ],
+    "all_shoe_vertices_in_frame": true,
+    "note": "Projection bounds only; no claim every vertex is visible through its own shoe/leg."
+  },
+  "diagnostic": {
+    "shoe_geometry_min_xy_px": [
+      71.6365189985795,
+      1248.1004125421696
+    ],
+    "shoe_geometry_max_xy_px": [
+      988.0001137473366,
+      1629.091176873401
+    ],
+    "all_shoe_vertices_in_frame": true,
+    "note": "Projection bounds only; no claim every vertex is visible through its own shoe/leg."
+  }
+}

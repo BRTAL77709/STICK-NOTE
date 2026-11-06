@@ -1,0 +1,16 @@
+{
+  "baseline": "NOIRFRAME_M04/assets/STAIRCASE_M04_R06.blend",
+  "M05": "assets/STAIRCASE_M05_F01.blend",
+  "M04_hashes": {
+    "bones": "212596a42d57d5e56bb7a060ed0e68e46d61446941af21abede2f10d4169cd06",
+    "character_meshes_and_skin": "b87227b603375cbd93da660c32abaf832b0fd92080f873971784ee610764f6a1",
+    "contact_controllers": "7ad3d457d537baf033c06c7d72d830068d63892842909796ef222faa2bc7764a"
+  },
+  "M05_hashes": {
+    "bones": "212596a42d57d5e56bb7a060ed0e68e46d61446941af21abede2f10d4169cd06",
+    "character_meshes_and_skin": "b87227b603375cbd93da660c32abaf832b0fd92080f873971784ee610764f6a1",
+    "contact_controllers": "7ad3d457d537baf033c06c7d72d830068d63892842909796ef222faa2bc7764a"
+  },
+  "all_identical": true,
+  "meaning": "No bones, rest geometry, skinning, foot-target, foot-orientation or knee-pole curves reconstructed."
+}

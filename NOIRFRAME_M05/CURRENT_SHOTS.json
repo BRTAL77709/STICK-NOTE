@@ -1,0 +1,10 @@
+{
+  "STAIRS": {
+    "duration": 5,
+    "preview": "previews/STAIRS_M05_PREVIEW_A02_540.mp4",
+    "final": "previews/STAIRS_M05_CINEMATIC_1080.mp4",
+    "diagnostic": "diagnostics/STAIRS_M05_CINEMATIC_1080_DEBUG.mp4",
+    "comparison": "comparisons/STAIRS_M04_vs_M05_5s.mp4",
+    "approved": false
+  }
+}

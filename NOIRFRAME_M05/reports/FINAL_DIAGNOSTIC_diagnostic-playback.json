@@ -1,0 +1,42 @@
+{
+  "STAIRS": [
+    {
+      "ended": true,
+      "rate": 1,
+      "duration": 5,
+      "wallSeconds": 5.001599999994039,
+      "totalFrames": 150,
+      "droppedFrames": 1,
+      "corruptedFrames": 0,
+      "path": "diagnostics/STAIRS_M05_CINEMATIC_1080_DEBUG.mp4",
+      "sample_times": [
+        0.033333,
+        0.233333,
+        0.433333,
+        0.633333,
+        0.833333,
+        1.033333,
+        1.233333,
+        1.433333,
+        1.633333,
+        1.833333,
+        2.033333,
+        2.233333,
+        2.433333,
+        2.633333,
+        2.833333,
+        3.033333,
+        3.233333,
+        3.433333,
+        3.633333,
+        3.833333,
+        4.033333,
+        4.233333,
+        4.433333,
+        4.633333,
+        4.833333
+      ],
+      "presented_sheet": "reviews/STAIRS_FINAL_DIAGNOSTIC_diagnostic_1.0x_PRESENTED.jpg"
+    }
+  ]
+}

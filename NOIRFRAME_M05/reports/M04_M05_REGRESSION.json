@@ -1,0 +1,51 @@
+{
+  "units": "millimetres; positive delta means a larger measured error, not automatically a failed tolerance",
+  "metrics": {
+    "stance_drift": {
+      "M04_mm": 0.3598072976814807,
+      "M05_mm": 0.3600454352591724,
+      "delta_mm": 0.0002381375776917046,
+      "increased": true
+    },
+    "contact_distance": {
+      "M04_mm": 0.3593862056732178,
+      "M05_mm": 0.359266996383667,
+      "delta_mm": -0.00011920928955078125,
+      "increased": false
+    },
+    "limb_length_variation": {
+      "M04_mm": 0.00043462347998346473,
+      "M05_mm": 0.0004331996723005993,
+      "delta_mm": -1.42380768286543e-06,
+      "increased": false
+    },
+    "bone_connection_gap": {
+      "M04_mm": 0.0002995096332168844,
+      "M05_mm": 0.0003379148385062387,
+      "delta_mm": 3.8405205289354244e-05,
+      "increased": true
+    },
+    "sampled_mesh_penetration": {
+      "M04_mm": 0.0019669532775878906,
+      "M05_mm": 0.0022649765014648438,
+      "delta_mm": 0.0002980232238769531,
+      "increased": true
+    },
+    "edge_riser_penetration": {
+      "M04_mm": 0.0,
+      "M05_mm": 0.0,
+      "delta_mm": 0.0,
+      "increased": false
+    },
+    "root_key_discontinuity_residual": {
+      "M04_mm": 0.00020005430397173872,
+      "M05_mm": 0.00017622429373190346,
+      "delta_mm": -2.383001023983524e-05,
+      "increased": false
+    }
+  },
+  "all_M04_tolerances_still_pass": true,
+  "peak_root_acceleration_M04_m_s2": 1.9394436432172648,
+  "peak_root_acceleration_M05_m_s2": 3.6994430308054413,
+  "acceleration_note": "Added anticipation and settling increase authored acceleration; not force-simulated balance."
+}
