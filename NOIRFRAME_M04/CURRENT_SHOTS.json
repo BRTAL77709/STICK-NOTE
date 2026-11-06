@@ -1,0 +1,12 @@
+{
+  "STAIRS": {
+    "duration": 5,
+    "preview": "previews/STAIRS_M04_PROOF_5s_R06_1080.mp4",
+    "final": "previews/STAIRS_M04_PROOF_5s_R06_1080.mp4",
+    "diagnostic": "diagnostics/STAIRS_M04_PROOF_5s_R06_1080_DEBUG.mp4",
+    "approved": false,
+    "comparison": "comparisons/STAIRS_M03_C03_vs_M04_5s.mp4",
+    "original_comparison_source": "NOIRFRAME_M03/previews/STAIRS_M03_C03_1080.mp4",
+    "comparison_note": "Original M03 has four risers; new proof has three plus landing. Both real-time 5s, no cuts/retiming. Not a controlled solver-only ablation."
+  }
+}

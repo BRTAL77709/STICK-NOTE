@@ -1,0 +1,8 @@
+{
+  "root_y_m": 0.6180998269617449,
+  "knee_flexion_deg": [
+    79.99965312250265,
+    78.73357837714731
+  ],
+  "definition": "0 degrees = straight knee; derived from evaluated M03 stored hip/knee/ankle points"
+}

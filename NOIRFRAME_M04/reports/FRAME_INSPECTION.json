@@ -1,0 +1,12 @@
+{
+  "frames": 150,
+  "fps": 30,
+  "pages": [
+    "reviews/M04_CONTACT_FRAMES_01.jpg",
+    "reviews/M04_CONTACT_FRAMES_02.jpg",
+    "reviews/M04_CONTACT_FRAMES_03.jpg",
+    "reviews/M04_CONTACT_FRAMES_04.jpg",
+    "reviews/M04_CONTACT_FRAMES_05.jpg"
+  ],
+  "source": "diagnostics/STAIRS_M04_PROOF_5s_R06_1080_DEBUG.mp4"
+}

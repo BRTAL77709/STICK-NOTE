@@ -1,0 +1,47 @@
+{
+  "reopened_blend": "/workspace/STICK-NOTE/NOIRFRAME_M04/assets/STAIRCASE_M04_R06.blend",
+  "Blender_version": "4.3.2",
+  "native_IK_constraints": 2,
+  "evaluated_vertices_compared": 576,
+  "max_saved_scene_vs_cache_vertex_error_m": 0.0,
+  "head_image_packed": true,
+  "orthographic_frame_width_m": 1.8562499284744263,
+  "orthographic_frame_height_m": 3.299999952316284,
+  "projection_probes": [
+    {
+      "point": [
+        -0.22,
+        0,
+        0.76
+      ],
+      "normalized_camera_xy": [
+        0.18216891586780548,
+        0.3909011781215668
+      ]
+    },
+    {
+      "point": [
+        0.4,
+        0,
+        1.15
+      ],
+      "normalized_camera_xy": [
+        0.49999991059303284,
+        0.5
+      ]
+    },
+    {
+      "point": [
+        0.9,
+        0,
+        1.305
+      ],
+      "normalized_camera_xy": [
+        0.7563152313232422,
+        0.5401054620742798
+      ]
+    }
+  ],
+  "rig_drives_the_exported_geometry": true,
+  "max_Blender_vs_illustrated_camera_projection_error_px": 9.379155585914682e-05
+}

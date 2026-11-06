@@ -1,0 +1,8 @@
+{
+  "head_max_world_tilt_deg": 0.9999892760069168,
+  "max_neck_head_connection_gap_m": 0.0,
+  "minimum_planted_support_count": 1,
+  "minimum_forward_knee_bend_offset_m": 0.05903911069012202,
+  "max_knee_flexion_change_per_render_frame_deg": 14.457533580945238,
+  "scope": "Additional kinematic checks; natural acting requires user visual review."
+}

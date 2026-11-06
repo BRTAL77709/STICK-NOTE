@@ -1,0 +1,312 @@
+{
+  "base_commit": "87cd268b437f4ba6c482250d66021599d13bef93",
+  "files": [
+    {
+      "path": "CURRENT_SHOTS.json",
+      "bytes": 564,
+      "sha256": "61fc0a43eb55e385582621a0c099f03d1b4643650211fa9d616c479d855e8c6a",
+      "git_sha": "c1a661664f27584d4181d4072acc98f8d227d76a"
+    },
+    {
+      "path": "M04_EDITABLE_SOURCE.zip",
+      "bytes": 765271,
+      "sha256": "ff4aa5882983131bd1825c8d69cd7321dddeb95ea90fea57e058f784818638ae",
+      "git_sha": "d97eef97c582268a1219605e57036c7f05710a9d"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1593,
+      "sha256": "451c744bdde4121afb1cdae627fa0d9c5b82ab7155214b1bc65de0544d4e9724",
+      "git_sha": "d88ca4e055caf08054ebbbdc2a250b9355509ec9"
+    },
+    {
+      "path": "REBUILD.md",
+      "bytes": 1915,
+      "sha256": "f4ed650a5148196abcf1b9c30b61042b16e52f79183d496bfa1f8fea400d931a",
+      "git_sha": "7c5a132894f8f172b582176567057f313e6e4def"
+    },
+    {
+      "path": "SOURCE_CHANGES.md",
+      "bytes": 1459,
+      "sha256": "de9a734ab535c329dc96a3807157bca049ca29b650640c8038a01a782f9eef08",
+      "git_sha": "dd99023609c1f4c655ea2b13fd2b5e46aa96b555"
+    },
+    {
+      "path": "SOURCE_LEVEL_PROOF.md",
+      "bytes": 8619,
+      "sha256": "3998ba767f6d8b33a8ed377e5c4bf9cad19ecc74114cc058a764a3aa08027999",
+      "git_sha": "e55890586d2adf7bae6da6ef82c2b68293713f17"
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "bytes": 6645,
+      "sha256": "335f70aff113f4d6e8871b1b2f66b0636316069918e9911f5208a0154d335c2e",
+      "git_sha": "2e6963e243ebdc8988ec543ea618f5c1402790c4"
+    },
+    {
+      "path": "assets/APPROVED_HEAD.png",
+      "bytes": 25868,
+      "sha256": "66089873da0160f8a29f5d0eb47a43151887be67f2746397b16c5fe203408348",
+      "git_sha": "051950d5f43f05f0cc92f6bb158b417b66fbe9c1"
+    },
+    {
+      "path": "assets/CONTROLS_R06.json",
+      "bytes": 415325,
+      "sha256": "3043f3b399b5c11007ee36585e12a01a26575dc3289bc49cc11c9c6e605feb8f",
+      "git_sha": "eea489fb2324d17d8093334a93e20958b20931d6"
+    },
+    {
+      "path": "assets/EVALUATED_R06.json.gz",
+      "bytes": 4156185,
+      "sha256": "2118d638cad79e9c2aee59b4402ec7170cedb1f0263afe9d0710fb9b4c8b0935",
+      "git_sha": "76756d142f6cc05245817ffda35a1ed21435aaae"
+    },
+    {
+      "path": "assets/STAIRCASE_M04_R06.blend",
+      "bytes": 606922,
+      "sha256": "20e9dbf31b30d207289e7e080b4c42bc7a0aa042de603a3d02a25c3d9f532e48",
+      "git_sha": "da67751469104b5d7d33f06d63f82a21e1c33a53"
+    },
+    {
+      "path": "comparisons/STAIRS_M03_C03_vs_M04_5s.mp4",
+      "bytes": 415429,
+      "sha256": "c8ea0a9350cfc1a66eb602b22997476052b262e318378a0fba81e77c62311389",
+      "git_sha": "4d6d3faabe56c0c4d65e627f6969b6b7a3ccf72f"
+    },
+    {
+      "path": "diagnostics/STAIRS_M04_PROOF_5s_R06_1080_DEBUG.mp4",
+      "bytes": 981556,
+      "sha256": "8572271b03749e1c762c64f0c4cb0ca94ae32f11840a4a5a624e6df289219303",
+      "git_sha": "f5d7ca58bdb880ecec407cacac3c267204878f21"
+    },
+    {
+      "path": "previews/STAIRS_M04_PROOF_5s_R06_1080.mp4",
+      "bytes": 587945,
+      "sha256": "28a256927c4283b862c8652213b7112f1dcee924f82549ddb6b5eba0ac2d5018",
+      "git_sha": "81fa7c1a5ccd348019e43e206fe7d7ba0b75da39"
+    },
+    {
+      "path": "reports/CONTACTS_R06.csv",
+      "bytes": 114018,
+      "sha256": "0dbd3014f5c520f2f411bfc7c97567dd847bcf97d0da4f57c1f7e247cdc25835",
+      "git_sha": "f741a1e93819b46387af925c5b71d915b3c1a3cb"
+    },
+    {
+      "path": "reports/FINAL_final-playback.json",
+      "bytes": 1635,
+      "sha256": "14ba799787ec9cad744f9cce6ed0269a3bf528c077bc2eb02698767cf9f97808",
+      "git_sha": "8d8309fc6c4e45579596988b5567d2e9df06bc73"
+    },
+    {
+      "path": "reports/FRAME_INSPECTION.json",
+      "bytes": 320,
+      "sha256": "d661068eaef07af51ebb857cad130e0086ee934496a04ddfec0488d1c0ebdda8",
+      "git_sha": "1406863afd58ed6242e0868e644bfe13a62dea3a"
+    },
+    {
+      "path": "reports/M03_INITIAL_STAIR_POSE.json",
+      "bytes": 212,
+      "sha256": "6a4433c60f1440d5cd552c745eee93fd531e65710310d134d53b63a11ec706d4",
+      "git_sha": "425c3ac0e8ff9b3ae41c67f4b887b998406d535c"
+    },
+    {
+      "path": "reports/M03_SOURCE_PROVENANCE.json",
+      "bytes": 5148,
+      "sha256": "0477f9ba9412ecff49baf29bd78ef619727c76aaf9470008950b8055b32f862b",
+      "git_sha": "6644320c7632e5ade7b749e015d4a5e168d66ae3"
+    },
+    {
+      "path": "reports/MEDIA_VALIDATION.json",
+      "bytes": 650,
+      "sha256": "2a9e51340822821ce35e3f5b2329d7bb3241b4497d95ddb3287a2ab5f3146d37",
+      "git_sha": "e80ad69c6d763423f76b0f7870d0ba305344d0ee"
+    },
+    {
+      "path": "reports/NATIVE_REOPEN_VERIFICATION.json",
+      "bytes": 1031,
+      "sha256": "88bd51c11635de230cb5b1b03befb9cc762fa662dad9976f5f3466036f7ffbe1",
+      "git_sha": "d8079af66e46e33aefa83779d6bc45be814d8cd9"
+    },
+    {
+      "path": "reports/POSE_CHECKS_R06.json",
+      "bytes": 348,
+      "sha256": "54d944995bdda3270a2dbe5cecbd8a9eaaceb3efed7fe8c03d67cab6628cf40c",
+      "git_sha": "dc51c57fe2306753544f07a2820f95a0c19e996d"
+    },
+    {
+      "path": "reports/PRESERVATION_AFTER.json",
+      "bytes": 85,
+      "sha256": "881049bb23e1989af1ba621f70719d558f7728acb1e2082a9dd2b49b8804fb54",
+      "git_sha": "aba769b04901555b60ad5db5c16b661bb4043535"
+    },
+    {
+      "path": "reports/RIG_MANIFEST_R06.json",
+      "bytes": 9085,
+      "sha256": "dd166964fee04783a635c25794b77bf6cecbac7502e0de90e20caf78943e2311",
+      "git_sha": "d4196726b55c05ae02fec27c3476e925ec278117"
+    },
+    {
+      "path": "reports/STAIRS_M04_PROOF_5s_R06_1080_RENDER.json",
+      "bytes": 12427,
+      "sha256": "b19461536d7cfa77bd1ba72954c976d481dcd981e9a4cdd584227229e8ebc1bb",
+      "git_sha": "65177ea517358c22515100a73fd541961c79ab6b"
+    },
+    {
+      "path": "reports/VALIDATION_R06.json",
+      "bytes": 1605,
+      "sha256": "9c8a37bd6c45b02aefddfc8a1716545eae6798482f204b1085d1eb82827b1092",
+      "git_sha": "0ea635c3d968c902c81aad27fad7600e9b669e42"
+    },
+    {
+      "path": "reviews/M04_CONTACT_FRAMES_01.jpg",
+      "bytes": 246793,
+      "sha256": "904741d82c884ba6f8b486947f172d55d7de042da0e334f4391ddcbe0b2b735d",
+      "git_sha": "fd3a2af68f419ea1db48dfa665c098a76c4041f8"
+    },
+    {
+      "path": "reviews/M04_CONTACT_FRAMES_02.jpg",
+      "bytes": 237867,
+      "sha256": "7c090259f510c5278f5237fc0877ad509c58bb49180c624a9bc47ca712d0ebbc",
+      "git_sha": "5f06b8b99cc0836368a41ec8a75b64e0852dab5d"
+    },
+    {
+      "path": "reviews/M04_CONTACT_FRAMES_03.jpg",
+      "bytes": 235896,
+      "sha256": "a1f30d3446ba6e05886de4d42f87fbc3991ff87f3bcd5d2b27307d57de230b8b",
+      "git_sha": "405269c6aa443f90acb7e955b5ab653f1e81bd96"
+    },
+    {
+      "path": "reviews/M04_CONTACT_FRAMES_04.jpg",
+      "bytes": 241268,
+      "sha256": "b566165f9d2780b215224b49fc17c62c3c1202cac08903081b669f8de8f1b43a",
+      "git_sha": "dd9ef345656dc1f167f2543fa4c7d92b2a14e660"
+    },
+    {
+      "path": "reviews/M04_CONTACT_FRAMES_05.jpg",
+      "bytes": 244553,
+      "sha256": "95c825690338bc2ef3af5dbf854c2caef570daed921885926355a5fe2b201c78",
+      "git_sha": "f47aea1b922ed92e8eca7e6f1c0f0bdda9d88ca5"
+    },
+    {
+      "path": "reviews/STAIRS_FINAL_final_0.5x_PRESENTED.jpg",
+      "bytes": 134555,
+      "sha256": "0cb7bd0d260155a054a3ec229cfafe05ae862b36e734aec231546ddffe0330e5",
+      "git_sha": "238c784f5a528758b45948fc5381cfaf9b54fb95"
+    },
+    {
+      "path": "reviews/STAIRS_FINAL_final_1.0x_PRESENTED.jpg",
+      "bytes": 134555,
+      "sha256": "0cb7bd0d260155a054a3ec229cfafe05ae862b36e734aec231546ddffe0330e5",
+      "git_sha": "238c784f5a528758b45948fc5381cfaf9b54fb95"
+    },
+    {
+      "path": "reviews/STAIRS_M04_PROOF_5s_R06_1080_CLEAN_STRIP.jpg",
+      "bytes": 175925,
+      "sha256": "e3bf333cd85247c954f6f38679690996a784173eb267d9e8e83e0b39f3de4bfa",
+      "git_sha": "dddbe1a204239cf7c479bf652bffc6c5bbcc94d3"
+    },
+    {
+      "path": "reviews/STAIRS_M04_PROOF_5s_R06_1080_CONTACTS_STRIP.jpg",
+      "bytes": 227670,
+      "sha256": "1d57456f9f4c22f011504a86879d17ce217009c7f1e2932947c915378720564e",
+      "git_sha": "7b1c03eeb6333c9a2582e87cf70969b81686ca14"
+    },
+    {
+      "path": "reviews/STAIRS_M04_RIG_PROOF_540_IK_baseline.png",
+      "bytes": 22517,
+      "sha256": "5dd55651b1610a581a2ec4f5fc56cb31dba17d9a01974b46697b0dd9b6d70b67",
+      "git_sha": "87ac5bfc72e02bb59c463a4dae5dd8b34319dad2"
+    },
+    {
+      "path": "reviews/STAIRS_M04_RIG_PROOF_540_IK_disabled_left_IK.png",
+      "bytes": 22502,
+      "sha256": "038de7d60e36f8f67f1b91e238a60a565af79f96702af4a4bbb604a0e80a0bd5",
+      "git_sha": "0af863b84e29061e7bb8186fbf35e85bf1169519"
+    },
+    {
+      "path": "source/approved_head.py",
+      "bytes": 2046,
+      "sha256": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc",
+      "git_sha": "2c3a46f9b2d4766368e127f0559ccc742bdc70ee"
+    },
+    {
+      "path": "source/build_rig.py",
+      "bytes": 19006,
+      "sha256": "f07bbf2315e0f5750525cdf0befbd22a4fc57944f9f3f73d1fd17d4e6139c9e1",
+      "git_sha": "a3838ef32e5edaaf523d5e7f646b61b9adaf1c30"
+    },
+    {
+      "path": "source/depth_render.py",
+      "bytes": 5099,
+      "sha256": "1312cc94ec06581a25b8abec38bc5f894ae4441de56c70151f553b73940ff4d2",
+      "git_sha": "4daef6b8b6f2e5dee90b30f2c25e1ee8be9255f2"
+    },
+    {
+      "path": "source/export_edited.py",
+      "bytes": 4254,
+      "sha256": "dec765b9129694e3b6ab815194aa6456c529e4f72199f55f3df7667659b487f5",
+      "git_sha": "d14c8546acded24c7a5e47418d6df749275b0cfe"
+    },
+    {
+      "path": "source/finish_review.py",
+      "bytes": 3263,
+      "sha256": "557ef4bd3a725d1e12b0c697e9793199ba2da3c824a63e71e07f49e90fc90bf2",
+      "git_sha": "ef99fe105643bac5bae9b772f541fa1e5af80d5e"
+    },
+    {
+      "path": "source/make_head.py",
+      "bytes": 348,
+      "sha256": "f23343518c06f659ffde63d02e18a9a3cb215215819467fd18c9a6b5d30b1a1f",
+      "git_sha": "6ddf29961600fa534dee8ce367ce1895c54aaec0"
+    },
+    {
+      "path": "source/plan_stairs.py",
+      "bytes": 6231,
+      "sha256": "b42e253be33e06107ada6d884430d637ff432956e4d29bca299421ebff2ff3fa",
+      "git_sha": "f4859a56fa6155741a6c0184eaeef1c19d752a17"
+    },
+    {
+      "path": "source/render.py",
+      "bytes": 7886,
+      "sha256": "e98b0e6172d9883f66bd9ac52411dd432ccaef52f7bbc95362b248d3b9651b67",
+      "git_sha": "715bbae6aea4668096c92d59a837ab7e2d5122b9"
+    },
+    {
+      "path": "source/review_playback.py",
+      "bytes": 3034,
+      "sha256": "5da6d418ea3ce75d7af526b795ad1c08984c3869614b43c369ed8bfb80897ef9",
+      "git_sha": "79e7f8832ae834af0e4a77bde86f7efe3da90f44"
+    },
+    {
+      "path": "source/rig.py",
+      "bytes": 160,
+      "sha256": "90ff06f808b97b2433f37c596311b45b8655d1f1b2c01a31b02acf950b5e74e2",
+      "git_sha": "6f8e76c244de86928fd8902f80639080f8528a13"
+    },
+    {
+      "path": "source/svg.py",
+      "bytes": 2569,
+      "sha256": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
+      "git_sha": "c5f18a3bfb284ea786eaed479b060bb02b388c4b"
+    },
+    {
+      "path": "source/validate.py",
+      "bytes": 6445,
+      "sha256": "01f6b2e3189f9d262f9271d04dac7adeae286739d41d54cd3b71317b6739d0fc",
+      "git_sha": "fcfde09fc54e6adf867f59dfd7178fa49a5de7f9"
+    },
+    {
+      "path": "source/verify_native.py",
+      "bytes": 2068,
+      "sha256": "aab5777569c965308652cfbebbc0feaf92e34ca33bbb42e442942b562f6352cf",
+      "git_sha": "59492831a74b227f530b72e7538bbb3e7bc6a2a7"
+    },
+    {
+      "path": "source/world.py",
+      "bytes": 5699,
+      "sha256": "a001dff3285e00dad61e530815cd5a14b862bbbaaec2e24810cc443c9de86ddb",
+      "git_sha": "e150225783f98dea36b8d6a53db41821d4e40900"
+    }
+  ],
+  "self_excluded": true
+}

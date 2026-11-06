@@ -1,0 +1,44 @@
+{
+  "units": "metres, seconds, degrees; Blender Z up",
+  "sample_rate_hz": 120,
+  "render_fps": 30,
+  "stance_contact_definition": "FLAT: four evaluated sole vertices; TOE: two evaluated front sole vertices. Heel lift during TOE is intended rotation, not sliding.",
+  "max_stance_contact_drift_m": 0.00035980729768148067,
+  "max_foot_to_tread_distance_m": 0.0003593862056732178,
+  "max_limb_length_variation_m": 4.3462347998346473e-07,
+  "max_connected_joint_gap_m": 2.9950963321688443e-07,
+  "max_native_IK_target_error_m": 6.9790905235822e-06,
+  "max_root_frame_displacement_m": 0.018972075520191586,
+  "max_root_key_limit_residual_m": 2.000543039717387e-07,
+  "peak_root_speed_m_s": 0.5696531977064611,
+  "peak_root_acceleration_m_s2": 1.9394436432172648,
+  "knee_flexion_range_deg": [
+    18.859669290483055,
+    96.33754928298137
+  ],
+  "max_mesh_edge_riser_penetration_m": 0.0,
+  "worst_edge_penetration": null,
+  "max_sampled_mesh_stair_penetration_m": 1.9669532775878906e-06,
+  "worst_sampled_penetration": {
+    "time": 3.433333333333333,
+    "mesh": "SHOE_L",
+    "point": [
+      0.8550006151199341,
+      -0.13500003516674042,
+      0.5399980545043945
+    ],
+    "tread": 3
+  },
+  "IK_disable_changes_bound_shoe_m": 0.06780339988616756,
+  "tolerances": {
+    "stance_drift_m": 0.001,
+    "foot_tread_distance_m": 0.001,
+    "limb_variation_m": 0.0001,
+    "connected_joint_gap_m": 0.0001,
+    "root_key_limit_residual_m": 1e-05,
+    "root_frame_displacement_m": 0.035,
+    "sampled_penetration_m": 0.001
+  },
+  "visual_approval": "PENDING USER REVIEW",
+  "required_numeric_checks_pass": true
+}

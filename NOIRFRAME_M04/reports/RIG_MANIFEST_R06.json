@@ -1,0 +1,364 @@
+{
+  "blender_version": "4.3.2",
+  "calibration": {
+    "L": {
+      "pole_angle_rad": 0,
+      "rest_knee_error_m": 0.00110058254326163
+    },
+    "R": {
+      "pole_angle_rad": 0,
+      "rest_knee_error_m": 0.000518932111737143
+    }
+  },
+  "bones": {
+    "root": {
+      "parent": null,
+      "connected": false,
+      "rest_length_m": 0.10000002384185791,
+      "constraints": [
+        {
+          "name": "WORLD_ROOT_POSITION",
+          "type": "COPY_LOCATION",
+          "target": "CTRL_ROOT",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "pelvis": {
+      "parent": "root",
+      "connected": false,
+      "rest_length_m": 0.12000000476837158,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_pelvis",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_pelvis",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "spine": {
+      "parent": "pelvis",
+      "connected": false,
+      "rest_length_m": 0.2799999713897705,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_spine",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_spine",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "chest": {
+      "parent": "spine",
+      "connected": true,
+      "rest_length_m": 0.2200000286102295,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_chest",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_chest",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "neck": {
+      "parent": "chest",
+      "connected": true,
+      "rest_length_m": 0.28999996185302734,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_neck",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_neck",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "head": {
+      "parent": "neck",
+      "connected": true,
+      "rest_length_m": 0.10000002384185791,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_head",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_head",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "upper_arm.L": {
+      "parent": "chest",
+      "connected": false,
+      "rest_length_m": 0.3400000333786011,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_upper_arm.L",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_upper_arm.L",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "forearm.L": {
+      "parent": "upper_arm.L",
+      "connected": true,
+      "rest_length_m": 0.3399999141693115,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_forearm.L",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_forearm.L",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "hand.L": {
+      "parent": "forearm.L",
+      "connected": true,
+      "rest_length_m": 0.07499995827674866,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_hand.L",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_hand.L",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "upper_arm.R": {
+      "parent": "chest",
+      "connected": false,
+      "rest_length_m": 0.3400000333786011,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_upper_arm.R",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_upper_arm.R",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "forearm.R": {
+      "parent": "upper_arm.R",
+      "connected": true,
+      "rest_length_m": 0.3399999141693115,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_forearm.R",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_forearm.R",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "hand.R": {
+      "parent": "forearm.R",
+      "connected": true,
+      "rest_length_m": 0.07499995827674866,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_hand.R",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_hand.R",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "thigh.L": {
+      "parent": "pelvis",
+      "connected": false,
+      "rest_length_m": 0.3700000047683716,
+      "constraints": []
+    },
+    "shin.L": {
+      "parent": "thigh.L",
+      "connected": true,
+      "rest_length_m": 0.3699999749660492,
+      "constraints": [
+        {
+          "name": "LEG_TWO_BONE_IK_L",
+          "type": "IK",
+          "target": "CTRL_ANKLE_L",
+          "chain_count": 2,
+          "use_stretch": false
+        }
+      ]
+    },
+    "foot.L": {
+      "parent": "shin.L",
+      "connected": true,
+      "rest_length_m": 0.07999993860721588,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_foot.L",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_foot.L",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "toe.L": {
+      "parent": "foot.L",
+      "connected": true,
+      "rest_length_m": 0.06499996781349182,
+      "constraints": []
+    },
+    "thigh.R": {
+      "parent": "pelvis",
+      "connected": false,
+      "rest_length_m": 0.3700000047683716,
+      "constraints": []
+    },
+    "shin.R": {
+      "parent": "thigh.R",
+      "connected": true,
+      "rest_length_m": 0.3700000047683716,
+      "constraints": [
+        {
+          "name": "LEG_TWO_BONE_IK_R",
+          "type": "IK",
+          "target": "CTRL_ANKLE_R",
+          "chain_count": 2,
+          "use_stretch": false
+        }
+      ]
+    },
+    "foot.R": {
+      "parent": "shin.R",
+      "connected": true,
+      "rest_length_m": 0.08000003546476364,
+      "constraints": [
+        {
+          "name": "WORLD_ORIENTATION_foot.R",
+          "type": "COPY_ROTATION",
+          "target": "CTRL_foot.R",
+          "chain_count": null,
+          "use_stretch": null
+        }
+      ]
+    },
+    "toe.R": {
+      "parent": "foot.R",
+      "connected": true,
+      "rest_length_m": 0.0650000274181366,
+      "constraints": []
+    }
+  },
+  "skin_modifiers": {
+    "TROUSER_THIGH_L": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "TROUSER_SHIN_L": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "SLEEVE_UPPER_L": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "SLEEVE_LOWER_L": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "MITTEN_L": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "TROUSER_THIGH_R": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "TROUSER_SHIN_R": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "SLEEVE_UPPER_R": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "SLEEVE_LOWER_R": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "MITTEN_R": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "WEIGHTED_APPROVED_HOODIE": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "SHOE_L": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "SHOE_R": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ],
+    "APPROVED_HEAD_CARD": [
+      {
+        "type": "ARMATURE",
+        "object": "M04_WITNESS_RIG"
+      }
+    ]
+  },
+  "controller_sha256": "3043f3b399b5c11007ee36585e12a01a26575dc3289bc49cc11c9c6e605feb8f",
+  "source_sha256": {
+    "validate.py": "01f6b2e3189f9d262f9271d04dac7adeae286739d41d54cd3b71317b6739d0fc",
+    "world.py": "a001dff3285e00dad61e530815cd5a14b862bbbaaec2e24810cc443c9de86ddb",
+    "review_playback.py": "5da6d418ea3ce75d7af526b795ad1c08984c3869614b43c369ed8bfb80897ef9",
+    "make_head.py": "f23343518c06f659ffde63d02e18a9a3cb215215819467fd18c9a6b5d30b1a1f",
+    "plan_stairs.py": "b42e253be33e06107ada6d884430d637ff432956e4d29bca299421ebff2ff3fa",
+    "rig.py": "90ff06f808b97b2433f37c596311b45b8655d1f1b2c01a31b02acf950b5e74e2",
+    "export_edited.py": "dec765b9129694e3b6ab815194aa6456c529e4f72199f55f3df7667659b487f5",
+    "svg.py": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d",
+    "depth_render.py": "1312cc94ec06581a25b8abec38bc5f894ae4441de56c70151f553b73940ff4d2",
+    "render.py": "e98b0e6172d9883f66bd9ac52411dd432ccaef52f7bbc95362b248d3b9651b67",
+    "build_rig.py": "f07bbf2315e0f5750525cdf0befbd22a4fc57944f9f3f73d1fd17d4e6139c9e1",
+    "approved_head.py": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc"
+  }
+}
