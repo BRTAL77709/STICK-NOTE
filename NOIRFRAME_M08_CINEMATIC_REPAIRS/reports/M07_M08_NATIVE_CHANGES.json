@@ -1,0 +1,36 @@
+{
+  "DRIVING_COCKPIT": {
+    "selected_tag": "M08",
+    "max_native_body_vertex_change_m": 0.15780449017485904,
+    "scope": "Zero means inherited physical motion; shared illustrated head/camera changes are separate, not called new body choreography."
+  },
+  "KEY_LOCK": {
+    "selected_tag": "M08",
+    "max_native_body_vertex_change_m": 0.0,
+    "scope": "Zero means inherited physical motion; shared illustrated head/camera changes are separate, not called new body choreography."
+  },
+  "DOOR_ENTRY": {
+    "selected_tag": "M08D",
+    "max_native_body_vertex_change_m": 0.0,
+    "scope": "Zero means inherited physical motion; shared illustrated head/camera changes are separate, not called new body choreography."
+  },
+  "CAR_EXIT_RUNNING": {
+    "selected_tag": "M08J",
+    "max_native_body_vertex_change_m": 0.7515366618024276,
+    "scope": "Zero means inherited physical motion; shared illustrated head/camera changes are separate, not called new body choreography."
+  },
+  "WINDOW_CURTAIN": {
+    "selected_tag": "M08F",
+    "max_native_body_vertex_change_m": 0.6692951605179799,
+    "scope": "Zero means inherited physical motion; shared illustrated head/camera changes are separate, not called new body choreography."
+  },
+  "DRIVER_CHASE": {
+    "selected_tag": "M08",
+    "max_native_body_vertex_change_m": 0.15780449017485904,
+    "scope": "Zero means inherited physical motion; shared illustrated head/camera changes are separate, not called new body choreography."
+  },
+  "STAIRS": {
+    "max_native_bound_vertex_change_m": 0.057511453606861176,
+    "foot_schedule_preserved": true
+  }
+}

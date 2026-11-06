@@ -1,0 +1,22 @@
+{
+  "KEY_LOCK": {
+    "path": "blender/KEY_LOCK_EDITABLE_FINAL.blend",
+    "sha256": "3900dd7d6313fe8756dc765e0632916a8e717607844e6435421d412d9611fc29",
+    "native_motion_source": "KEY_LOCK_M08.blend",
+    "checked_vertices": 270,
+    "max_body_vertex_change_m": 0.0,
+    "cut_s": 2.0,
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Only self-POV head visibility changes; body remains native evaluated and unchanged."
+  },
+  "DOOR_ENTRY": {
+    "path": "blender/DOOR_ENTRY_EDITABLE_FINAL.blend",
+    "sha256": "5f195009246d70bd6abaa484baae6e77703991f6491a68eae8d6790c4116aa76",
+    "native_motion_source": "DOOR_ENTRY_M08D.blend",
+    "checked_vertices": 270,
+    "max_body_vertex_change_m": 0.0,
+    "cut_s": 10.8,
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Only self-POV head visibility changes; body remains native evaluated and unchanged."
+  }
+}

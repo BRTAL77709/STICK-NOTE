@@ -1,0 +1,32 @@
+{
+  "method": "Actual normal/half-speed Chromium playback tied to file hashes; presented-frame sheets, encoded before/after scene sheets, native contact diagnostics and targeted full-resolution/still inspections",
+  "inspected_scenes": [
+    "DRIVING_COCKPIT",
+    "ROAD_BUILDINGS",
+    "CAR_CHASE",
+    "CAR_EXIT_RUNNING",
+    "KEY_LOCK",
+    "DOOR_ENTRY",
+    "STAIRS",
+    "WINDOW_CURTAIN"
+  ],
+  "confirmed_changes": [
+    "Driver native torso/elbow acting and reframed mirror/reaction coverage",
+    "Curtain near-side grip visible; irregular connected folds attached to rod tabs; fear readable after recoil",
+    "Native running replanned with shorter stance/longer swing, toe-off, counter-swing and continuous waypoint momentum",
+    "House17 restored by correct nested camera transform and projected17address; arrival physically reaches the entrance",
+    "Stairs retains actual M04/M05 leg IK while new torso/arm controls change evaluated poses"
+  ],
+  "rejected_internal_regressions": [
+    "Brown rectangular road-light patches removed",
+    "Smoothing-only running trial increased vertical acceleration and was not selected",
+    "Far-side curtain camera hid grip; final camera moved to near side"
+  ],
+  "remaining_artistic_limits": [
+    "Angular hands/cockpit/sedan surfaces",
+    "Authored kinematic weight and controlled cloth, not force/cloth simulation",
+    "Graphic head perspective and limited whole-house architectural certification"
+  ],
+  "status": "ARTISTIC REVIEW REQUIRED",
+  "no_user_approval_claimed": true
+}

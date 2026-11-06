@@ -1,0 +1,13 @@
+from pathlib import Path
+import json,math,hashlib,numpy as np
+from bootstrap import ROOT as R
+import vehicle_system as VS,actions
+rows=VS.TABLE;dist=np.array([d['position'] for d in rows]);speeds=np.array([d['speed'] for d in rows]);dt=1/120;slip=[];phase=0.;roadmargin=[]
+for j in range(1,len(rows)):
+ prev,d=rows[j-1],rows[j];rear=np.array(d['rear_axle'])-prev['rear_axle'];h=(d['yaw']+prev['yaw'])/2;slip.append(abs(float(rear@np.array([math.cos(h),0,-math.sin(h)]))));coords=[d['rear_axle']+actions.RY(d['yaw'])@actions.V(x,0,z+1.32) for x in [-.9,.9] for z in [-1.32,1.28]];pc=[prev['rear_axle']+actions.RY(prev['yaw'])@actions.V(x,0,z+1.32) for x in [-.9,.9] for z in [-1.32,1.28]];expected=np.array([np.linalg.norm(a-b) for a,b in zip(coords,pc)])/VS.RADIUS;phase=max(phase,float(np.abs((d['wheel_phase']-prev['wheel_phase'])-expected).max()))
+for d in rows:
+ for pref in ['', 'pursuer_']:
+  p=d[pref+'position'];yaw=d[pref+'yaw']
+  for x,z in [(-.9,-1.32),(-.9,1.28),(.9,-1.32),(.9,1.28)]:
+   q=p+actions.RY(yaw)@actions.V(x,0,z);roadmargin.append(4.5-abs(q[0]-VS.roadref(q[2])))
+gap=min(d['gap'] for d in rows);report={'integration_rate_hz':120,'rear_axle_lateral_slip_residual_m_per_step':max(slip),'wheel_phase_distance_residual_rad':phase,'minimum_tyre_centre_to_curb_margin_m':min(roadmargin),'minimum_car_centre_gap_m':gap,'car_body_length_m':4.3,'conservative_bumper_gap_m':gap-4.3,'gap_range_m':[gap,max(d['gap'] for d in rows)],'speed_range_m_s':[float(speeds.min()),float(speeds.max())],'maximum_abs_acceleration_m_s2':max(abs(d['acceleration']) for d in rows),'steer_range_deg':[math.degrees(min(d['steer'] for d in rows)),math.degrees(max(d['steer'] for d in rows))],'park_speed_m_s':VS.PARK['speed'],'independent_brake_channels':True,'House17_origin':VS.HOUSE_ORIGIN.tolist(),'House17_rotation':VS.HOUSE_R.tolist(),'bedroom_window_origin':VS.WINDOW_ORIGIN.tolist(),'bedroom_window_rotation':VS.WINDOW_R.tolist(),'parked_black_sedan_in_window_coordinates':VS.window_point(VS.PARK['pursuer_position']).tolist(),'limits':'Kinematic bicycle plus spring approximations. No tyre friction, continuous body collision or full suspension simulation. Bumper gap is a conservative centre-distance minus body length, not exact mesh distance.'};report['technical_status']='TECHNICAL PASS' if gap>5 and min(roadmargin)>.15 and max(slip)<.001 and phase<1e-8 and VS.PARK['speed']==0 else 'TECHNICAL FAIL';(R/'reports/VEHICLE_WORLD_VALIDATION.json').write_text(json.dumps(report,indent=2));(R/'reports/VEHICLE_TRAJECTORY.json').write_text(json.dumps([{k:(v.tolist() if isinstance(v,np.ndarray) else v) for k,v in d.items()} for d in rows[::4]],separators=(',',':')));print(json.dumps(report,indent=2))

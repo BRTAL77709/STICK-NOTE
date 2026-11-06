@@ -1,0 +1,31 @@
+{
+  "M07_baseline": {
+    "max_sampled_shoe_terrain_penetration_m": 5.455895370687358e-05,
+    "worst": {
+      "time_s": 6.5,
+      "side": "L",
+      "world_point": [
+        3.3627583569830577,
+        -5.455895370687358e-05,
+        64.56333607834804
+      ],
+      "surface_height_m": 0.0
+    }
+  },
+  "M08": {
+    "max_sampled_shoe_terrain_penetration_m": 1.3327441592991818e-05,
+    "worst": {
+      "time_s": 4.8,
+      "side": "L",
+      "world_point": [
+        3.9460349808958854,
+        -1.3327441592991818e-05,
+        64.71621428724814
+      ],
+      "surface_height_m": 0.0
+    }
+  },
+  "method": "Native evaluated shoe vertices and four interior edge samples, every rendered frame30Hz; terrain interpolates exact5m road mesh endpoints and actual0..130mm curb ramp. Not continuous collision certification.",
+  "tolerance_m": 0.0015,
+  "technical_status": "TECHNICAL PASS"
+}

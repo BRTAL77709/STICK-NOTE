@@ -1,0 +1,13 @@
+{
+  "shot": "CAR_CHASE",
+  "native_contact_tag": "M08",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [],
+  "sample_rate": 24000,
+  "peak_dBFS": -21.537871849732106,
+  "RMS_dBFS": -30.113065669171345,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "708cf75245fa8b09ff11bbb8039f428dc6e822bce72b11efdca5291c139115f2",
+  "final_sha256": "3f406b343b3f1458bc34c27e479f00b873b9b63572706ca51ed32a54a2668320"
+}

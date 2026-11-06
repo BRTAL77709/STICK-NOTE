@@ -1,0 +1,114 @@
+{
+  "DRIVING_COCKPIT": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_DRIVING_COCKPIT_1080.mp4",
+    "after": "renders/M08_DRIVING_COCKPIT_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      2.4000000000000004,
+      4.800000000000001,
+      7.199999999999999,
+      9.600000000000001,
+      11.966666666666667
+    ],
+    "sheet": "contact_sheets/DRIVING_COCKPIT_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "ROAD_BUILDINGS": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_ROAD_BUILDINGS_1080.mp4",
+    "after": "renders/M08_ROAD_BUILDINGS_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      1.4000000000000001,
+      2.8000000000000003,
+      4.2,
+      5.6000000000000005,
+      6.966666666666667
+    ],
+    "sheet": "contact_sheets/ROAD_BUILDINGS_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "CAR_CHASE": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_CAR_CHASE_1080.mp4",
+    "after": "renders/M08_CAR_CHASE_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      2.2,
+      4.4,
+      6.6,
+      8.8,
+      10.966666666666667
+    ],
+    "sheet": "contact_sheets/CAR_CHASE_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "CAR_EXIT_RUNNING": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_CAR_EXIT_RUNNING_1080.mp4",
+    "after": "renders/M08_CAR_EXIT_RUNNING_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      2.16,
+      4.32,
+      6.48,
+      8.64,
+      10.766666666666667
+    ],
+    "sheet": "contact_sheets/CAR_EXIT_RUNNING_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "KEY_LOCK": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_KEY_LOCK_1080.mp4",
+    "after": "renders/M08_KEY_LOCK_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      1.4000000000000001,
+      2.8000000000000003,
+      4.2,
+      5.6000000000000005,
+      6.966666666666667
+    ],
+    "sheet": "contact_sheets/KEY_LOCK_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "DOOR_ENTRY": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_DOOR_ENTRY_1080.mp4",
+    "after": "renders/M08_DOOR_ENTRY_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      2.6,
+      5.2,
+      7.8,
+      10.4,
+      12.966666666666667
+    ],
+    "sheet": "contact_sheets/DOOR_ENTRY_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "STAIRS": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_STAIRS_1080.mp4",
+    "after": "renders/M08_STAIRS_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      1.0,
+      2.0,
+      3.0,
+      4.0,
+      4.966666666666667
+    ],
+    "sheet": "contact_sheets/STAIRS_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  },
+  "WINDOW_CURTAIN": {
+    "before": "/workspace/STICK-NOTE/NOIRFRAME_M07_ALL_SCENE_REPAIRS/renders/M07_WINDOW_CURTAIN_1080.mp4",
+    "after": "renders/M08_WINDOW_CURTAIN_FINAL.mp4",
+    "same_timestamps_s": [
+      0,
+      2.1,
+      4.2,
+      6.3,
+      8.4,
+      10.466666666666667
+    ],
+    "sheet": "contact_sheets/WINDOW_CURTAIN_M07_vs_M08.jpg",
+    "limits": "Same story time, different cinematic framing; numerical change report separately identifies inherited trajectories."
+  }
+}

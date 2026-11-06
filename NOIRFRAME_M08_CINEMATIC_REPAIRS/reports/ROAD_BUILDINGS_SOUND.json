@@ -1,0 +1,13 @@
+{
+  "shot": "ROAD_BUILDINGS",
+  "native_contact_tag": "M08",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [],
+  "sample_rate": 24000,
+  "peak_dBFS": -21.46318227006504,
+  "RMS_dBFS": -29.2509973347518,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "5ca3b8223b2584a91177f12ba5296433a205eb87f84f18528d7df870e6c79b43",
+  "final_sha256": "ddd90cfcb83a7c89eef5ed4486bee6796e665890584291998999ea56625a4264"
+}

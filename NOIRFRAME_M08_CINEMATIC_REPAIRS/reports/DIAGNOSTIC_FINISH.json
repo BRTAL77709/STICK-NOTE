@@ -1,0 +1,42 @@
+{
+  "DRIVING_COCKPIT": {
+    "before_sha256": "e76712e1217af6981d7bd1f2bd30fee9a71558d338b20d8b4b6da5a9f2da49ad",
+    "final_sha256": "37aee51448c50ad34549d7e72f499fb53c9982f01c62c74050595f6c561789e1",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "ROAD_BUILDINGS": {
+    "before_sha256": "5ca3b8223b2584a91177f12ba5296433a205eb87f84f18528d7df870e6c79b43",
+    "final_sha256": "6d83093a5bc7f8fe35ebacfd37f1a879ca694ce6a886aa95ce15b0bffc6e24a5",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "CAR_CHASE": {
+    "before_sha256": "e41c5e627dea7218f0fb7b9042a865e6979270f61e6c878ccbfd09a8900a96e2",
+    "final_sha256": "d79c9e021790eb35402a70c7d21fe900cf09f7943f04d496c07bd20693390c81",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "CAR_EXIT_RUNNING": {
+    "before_sha256": "27ad9657877c3281fc86bdc482f94ca7740a3c443ce2a27e86177072bf5ba061",
+    "final_sha256": "77dee2e7ddab7a3fdafa17ea106d6170c74249f473eb9a02ff56abedea6e8a0c",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "KEY_LOCK": {
+    "before_sha256": "c3d6a9d5721b1de1eb888fcce5780cbf3caeb443a9d86be6cf34aa4424418ceb",
+    "final_sha256": "a257e0a386cd1ad08bdb977404c0316f3ef7c418adf7aced114d5a94d1638015",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "DOOR_ENTRY": {
+    "before_sha256": "a5ee35769acd59bd18f3e9dce9519fcef714fd40cb297b4d4bb11f4a0b734fe7",
+    "final_sha256": "e1edc6bc25f1f26e0f98c262a2f3c31281a39fc6061fbfb8d585260c1e98c4c9",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "STAIRS": {
+    "before_sha256": "9db33ecd238f0226f5fbff7d5ea994efd6e4dc697ea0aa0f34f482aa86154f62",
+    "final_sha256": "fc2632f1da3531a16dc51af493372942a2ab51d4af9fa0d7d6bd6e0bc91f2c0b",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  },
+  "WINDOW_CURTAIN": {
+    "before_sha256": "6fcbe4f13bc3294e290a98de87d040fda462d5fd214bf76314edfe0a3602404d",
+    "final_sha256": "bf5c30db8dd587d29c4fb8bf4dd7b4441c4291b09f3dcce30bfa8b42c64a48b9",
+    "change": "Diagnostic title band only; native contacts, frame timing and clean film untouched."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "M08": {
+    "running_peak_speed_m_s": 3.198676088599708,
+    "running_peak_acceleration_m_s2": 44.90594625580523,
+    "horizontal_speed_at_old_knots_m_s": [
+      0.005775954210771339,
+      0.02081375726099761,
+      0.025146350768266195,
+      0.027121893232344343,
+      0.027259107212182845,
+      0.022438984568971074,
+      0.0266436086768338,
+      0.005728022493996903
+    ],
+    "minimum_root_height_m": 0.445270299911499,
+    "sample_rate_hz": 60
+  },
+  "M08H": {
+    "running_peak_speed_m_s": 3.0455368367724636,
+    "running_peak_acceleration_m_s2": 55.36787553659774,
+    "horizontal_speed_at_old_knots_m_s": [
+      0.4563918614251682,
+      0.8544465066234564,
+      1.198646879737071,
+      1.2886199275183976,
+      1.314482368882321,
+      1.1829302178244976,
+      0.9196467038313688,
+      0.23119877037006945
+    ],
+    "minimum_root_height_m": 0.33514946699142456,
+    "sample_rate_hz": 60,
+    "status": "REJECTED: vertical acceleration regressed"
+  },
+  "M08J": {
+    "running_peak_speed_m_s": 1.3583952196822122,
+    "running_peak_acceleration_m_s2": 3.1842670857643647,
+    "horizontal_speed_at_old_knots_m_s": [
+      0.4563918614251682,
+      0.8544465066234564,
+      1.198646879737071,
+      1.2886199275183976,
+      1.314482368882321,
+      1.1829302178244976,
+      0.9196467038313688,
+      0.23119877037006945
+    ],
+    "minimum_root_height_m": 0.5706097483634949,
+    "sample_rate_hz": 60,
+    "status": "SELECTED: contact checks pass; artistic review required"
+  },
+  "selected_native_tag": "M08J"
+}

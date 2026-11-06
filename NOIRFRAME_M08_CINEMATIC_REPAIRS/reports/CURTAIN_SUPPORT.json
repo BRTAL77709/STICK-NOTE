@@ -1,0 +1,18 @@
+{
+  "native_source_tag": "M08F",
+  "max_authored_top_pin_to_rail_tab_alignment_error_m": 8.326672684688674e-17,
+  "rail_y_m": 2.23,
+  "fabric_header_y_m": 2.15,
+  "tab_span_m": 0.08,
+  "rail_z_m": -0.21,
+  "ring_x_range_m": [
+    -0.7,
+    0.7
+  ],
+  "rail_x_range_m": [
+    -0.86,
+    0.86
+  ],
+  "technical_status": "TECHNICAL PASS",
+  "scope": "Source mesh-pin positions plus actual scripted rail/tab geometry. This is a controlled attachment, not force/friction simulation; sampled saved-native fabric parity is reported separately."
+}

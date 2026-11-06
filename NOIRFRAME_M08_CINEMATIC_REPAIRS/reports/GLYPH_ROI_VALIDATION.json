@@ -1,0 +1,43 @@
+{
+  "samples": [
+    {
+      "shot": "CAR_CHASE",
+      "time": 1,
+      "build_s": 0.30580527399979474,
+      "old_s": 0.6417828499997995,
+      "roi_s": 0.680924968999534,
+      "max_channel_difference": 0,
+      "different_pixels": 0
+    },
+    {
+      "shot": "CAR_CHASE",
+      "time": 3,
+      "build_s": 0.10911181799929182,
+      "old_s": 0.11172287200133724,
+      "roi_s": 0.1272541469988937,
+      "max_channel_difference": 0,
+      "different_pixels": 0
+    },
+    {
+      "shot": "DRIVING_COCKPIT",
+      "time": 2,
+      "build_s": 0.08395127699986915,
+      "old_s": 0.10660100600034639,
+      "roi_s": 0.09755912899890973,
+      "max_channel_difference": 0,
+      "different_pixels": 0
+    },
+    {
+      "shot": "ROAD_BUILDINGS",
+      "time": 3,
+      "build_s": 0.13652450399968075,
+      "old_s": 0.2844921250016341,
+      "roi_s": 0.29305580699838174,
+      "max_channel_difference": 0,
+      "different_pixels": 0
+    }
+  ],
+  "max_allowed_channel_rounding": 1,
+  "technical_status": "TECHNICAL PASS",
+  "scope": "Same current geometry/camera; compare cropped and original visible SVG glyphs at270px; no motion/position changes."
+}

@@ -1,0 +1,49 @@
+{
+  "shot": "KEY_LOCK",
+  "native_contact_tag": "M08",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 1.0666666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 1.4,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 3.1818181818181817,
+      "kind": "key",
+      "amplitude": 0.055
+    },
+    {
+      "time_s": 4.056818181818181,
+      "kind": "key",
+      "amplitude": 0.055
+    },
+    {
+      "time_s": 5.011363636363636,
+      "kind": "key",
+      "amplitude": 0.055
+    },
+    {
+      "time_s": 5.456818181818182,
+      "kind": "key",
+      "amplitude": 0.055
+    },
+    {
+      "time_s": 6.236363636363635,
+      "kind": "key",
+      "amplitude": 0.055
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -16.29632833611292,
+  "RMS_dBFS": -45.630865776367116,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "b4c880a539f3bf948b614814b303ea6142b3000ab4de2d8668fa573859bea1a5",
+  "final_sha256": "ea966204c5ac142fd5d0bf3cc41140e9c4bfd8e9725810cea881dfe04a16fc4c"
+}

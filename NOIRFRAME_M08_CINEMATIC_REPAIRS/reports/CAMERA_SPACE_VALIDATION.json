@@ -1,0 +1,44 @@
+{
+  "driver_local_world_projection_max_error_px": 1.3258049636636544e-12,
+  "projection_tolerance_px": 1e-06,
+  "sampled_culling_comparisons": [
+    {
+      "shot": "DRIVING_COCKPIT",
+      "time_s": 0,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "shot": "DRIVING_COCKPIT",
+      "time_s": 3.5,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "shot": "CAR_EXIT_RUNNING",
+      "time_s": 4,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "shot": "ROAD_BUILDINGS",
+      "time_s": 3,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "shot": "CAR_CHASE",
+      "time_s": 1,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    },
+    {
+      "shot": "CAR_CHASE",
+      "time_s": 8,
+      "different_pixels": 0,
+      "max_channel_difference": 0
+    }
+  ],
+  "technical_status": "TECHNICAL PASS",
+  "limits": "Six environment-only rendered samples270px; not continuous full-resolution culling/camera collision certification."
+}
