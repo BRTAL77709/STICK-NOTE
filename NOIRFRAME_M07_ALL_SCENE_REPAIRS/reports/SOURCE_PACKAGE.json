@@ -1,0 +1,21 @@
+{
+  "path": "M07_EDITABLE_SOURCE.zip",
+  "bytes": 11248163,
+  "sha256": "466afe3d3d073e62671550fcef92d7e9fd3abf536cb50e2395de2a10511a2535",
+  "members": 121,
+  "zip_test": "PASS",
+  "native_models": [
+    "BASELINE_M04.blend",
+    "CAR_CHASE_WORLD_R09.blend",
+    "CAR_EXIT_RUNNING_R09.blend",
+    "DOOR_ENTRY_PRESENTATION_R23.blend",
+    "DOOR_ENTRY_R22.blend",
+    "DRIVER_CHASE_R07.blend",
+    "DRIVING_COCKPIT_R12.blend",
+    "KEY_LOCK_PRESENTATION_R15.blend",
+    "KEY_LOCK_R08.blend",
+    "ROAD_BUILDINGS_WORLD_R09.blend",
+    "STAIRS_M05_INHERITED.blend",
+    "WINDOW_CURTAIN_R11.blend"
+  ]
+}

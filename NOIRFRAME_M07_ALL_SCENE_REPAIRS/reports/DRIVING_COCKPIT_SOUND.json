@@ -1,0 +1,13 @@
+{
+  "shot": "DRIVING_COCKPIT",
+  "native_contact_tag": "R12",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [],
+  "sample_rate": 24000,
+  "peak_dBFS": -21.523016861082933,
+  "RMS_dBFS": -30.341035567459173,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "703a3a051a1a15cef8fe7594ab715fe198df8cad7677b6ea5e2eef91ec137a86",
+  "final_sha256": "a28a3c32e8ba33c1d5a7724f581ee6b821d1c4b2bca37ccbf4ef3b52f7f91279"
+}

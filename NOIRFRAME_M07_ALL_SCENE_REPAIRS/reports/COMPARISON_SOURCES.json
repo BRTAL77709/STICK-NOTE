@@ -1,0 +1,82 @@
+{
+  "DRIVING_COCKPIT": {
+    "before_path": "NOIRFRAME_M03/previews/STEERING_M03_C02_1080.mp4",
+    "before_start_s": 0,
+    "before_duration_s": 4,
+    "after_path": "renders/M07_DRIVING_COCKPIT_1080.mp4",
+    "comparison": "comparisons/M07_DRIVING_COCKPIT_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 8.0,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "ROAD_BUILDINGS": {
+    "before_path": "NOIRFRAME_M03/previews/CHASE_M03_C02_1080.mp4",
+    "before_start_s": 0,
+    "before_duration_s": 6,
+    "after_path": "renders/M07_ROAD_BUILDINGS_1080.mp4",
+    "comparison": "comparisons/M07_ROAD_BUILDINGS_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 1.0,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "CAR_CHASE": {
+    "before_path": "NOIRFRAME_M03/previews/CHASE_M03_C02_1080.mp4",
+    "before_start_s": 0,
+    "before_duration_s": 6,
+    "after_path": "renders/M07_CAR_CHASE_1080.mp4",
+    "comparison": "comparisons/M07_CAR_CHASE_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 5.0,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "CAR_EXIT_RUNNING": {
+    "before_path": "NOIRFRAME_FULL_FILM_REPRO_VERIFIED/renders/THE_PRICE_OF_SILENCE_NOIRFRAME_COMPLETE_86s.mp4",
+    "before_start_s": 42,
+    "before_duration_s": 5,
+    "after_path": "renders/M07_CAR_EXIT_RUNNING_1080.mp4",
+    "comparison": "comparisons/M07_CAR_EXIT_RUNNING_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 5.800000000000001,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "KEY_LOCK": {
+    "before_path": "NOIRFRAME_M03/previews/KEY_DOOR_M03_C03_1080.mp4",
+    "before_start_s": 0,
+    "before_duration_s": 4.4,
+    "after_path": "renders/M07_KEY_LOCK_1080.mp4",
+    "comparison": "comparisons/M07_KEY_LOCK_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 2.5999999999999996,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "DOOR_ENTRY": {
+    "before_path": "NOIRFRAME_M03/previews/KEY_DOOR_M03_C03_1080.mp4",
+    "before_start_s": 4.4,
+    "before_duration_s": 10.6,
+    "after_path": "renders/M07_DOOR_ENTRY_1080.mp4",
+    "comparison": "comparisons/M07_DOOR_ENTRY_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 2.4000000000000004,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "STAIRS": {
+    "before_path": "NOIRFRAME_M05/previews/STAIRS_M05_CINEMATIC_1080.mp4",
+    "before_start_s": 0,
+    "before_duration_s": 5,
+    "after_path": "renders/M07_STAIRS_1080.mp4",
+    "comparison": "comparisons/M07_STAIRS_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 0,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  },
+  "WINDOW_CURTAIN": {
+    "before_path": "NOIRFRAME_M03/previews/CURTAIN_M03_C02_1080.mp4",
+    "before_start_s": 0,
+    "before_duration_s": 5,
+    "after_path": "renders/M07_WINDOW_CURTAIN_1080.mp4",
+    "comparison": "comparisons/M07_WINDOW_CURTAIN_BEFORE_AFTER.mp4",
+    "speed_multiplier_both": 1,
+    "old_end_hold_s": 5.5,
+    "limits": "Different cuts/timing; not frame-aligned acting. Old ended holds labelled. Stairs is retained M05, not a new gait improvement."
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "DRIVING_COCKPIT": {
+    "file": "blender/DRIVING_COCKPIT_R12.blend",
+    "sha256": "71d959a9bcd4d59dbce525392dcc69aea1cf67fe23e4c896095b3cdb5a176ea5",
+    "checked_vertex_samples": 500,
+    "max_reopened_vs_exported_vertex_error_m": 0.0,
+    "tolerance_m": 0.0002,
+    "IK_constraints": [
+      {
+        "bone": "forearm.L",
+        "constraint": "M07_NATIVE_ARM_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "forearm.R",
+        "constraint": "M07_NATIVE_ARM_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.L",
+        "constraint": "LEG_TWO_BONE_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.R",
+        "constraint": "LEG_TWO_BONE_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      }
+    ],
+    "technical_status": "TECHNICAL PASS",
+    "limits": "Five saved-pose samples, skinned meshes only. Prop controller/native mirror parity and full collision are separate checks."
+  },
+  "KEY_LOCK": {
+    "file": "blender/KEY_LOCK_R08.blend",
+    "sha256": "f7701950062bcc9c380f1364433fd2674874807f7754a9d89bb1f778ecf03f8e",
+    "checked_vertex_samples": 500,
+    "max_reopened_vs_exported_vertex_error_m": 0.0,
+    "tolerance_m": 0.0002,
+    "IK_constraints": [
+      {
+        "bone": "forearm.L",
+        "constraint": "M07_NATIVE_ARM_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "forearm.R",
+        "constraint": "M07_NATIVE_ARM_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.L",
+        "constraint": "LEG_TWO_BONE_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.R",
+        "constraint": "LEG_TWO_BONE_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      }
+    ],
+    "technical_status": "TECHNICAL PASS",
+    "limits": "Five saved-pose samples, skinned meshes only. Prop controller/native mirror parity and full collision are separate checks."
+  },
+  "DOOR_ENTRY": {
+    "file": "blender/DOOR_ENTRY_R22.blend",
+    "sha256": "ce4d327009fe7475fbed55ce754da1678093b9b30667d56ac54767f07468448f",
+    "checked_vertex_samples": 500,
+    "max_reopened_vs_exported_vertex_error_m": 0.0,
+    "tolerance_m": 0.0002,
+    "IK_constraints": [
+      {
+        "bone": "forearm.L",
+        "constraint": "M07_NATIVE_ARM_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "forearm.R",
+        "constraint": "M07_NATIVE_ARM_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.L",
+        "constraint": "LEG_TWO_BONE_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.R",
+        "constraint": "LEG_TWO_BONE_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      }
+    ],
+    "technical_status": "TECHNICAL PASS",
+    "limits": "Five saved-pose samples, skinned meshes only. Prop controller/native mirror parity and full collision are separate checks."
+  },
+  "WINDOW_CURTAIN": {
+    "file": "blender/WINDOW_CURTAIN_R11.blend",
+    "sha256": "0348507a2065506e3a5debec59be3db1f5d9773eec2ffa56b009024faa4356c2",
+    "checked_vertex_samples": 500,
+    "max_reopened_vs_exported_vertex_error_m": 0.0,
+    "tolerance_m": 0.0002,
+    "IK_constraints": [
+      {
+        "bone": "forearm.L",
+        "constraint": "M07_NATIVE_ARM_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "forearm.R",
+        "constraint": "M07_NATIVE_ARM_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.L",
+        "constraint": "LEG_TWO_BONE_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.R",
+        "constraint": "LEG_TWO_BONE_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      }
+    ],
+    "technical_status": "TECHNICAL PASS",
+    "limits": "Five saved-pose samples, skinned meshes only. Prop controller/native mirror parity and full collision are separate checks."
+  },
+  "CAR_EXIT_RUNNING": {
+    "file": "blender/CAR_EXIT_RUNNING_R09.blend",
+    "sha256": "bbac46123d6a88b5c85a7e4da4d4bbb629287da5fb3695828a1b2d24f3e26041",
+    "checked_vertex_samples": 500,
+    "max_reopened_vs_exported_vertex_error_m": 0.0,
+    "tolerance_m": 0.0002,
+    "IK_constraints": [
+      {
+        "bone": "forearm.L",
+        "constraint": "M07_NATIVE_ARM_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "forearm.R",
+        "constraint": "M07_NATIVE_ARM_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.L",
+        "constraint": "LEG_TWO_BONE_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.R",
+        "constraint": "LEG_TWO_BONE_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      }
+    ],
+    "technical_status": "TECHNICAL PASS",
+    "limits": "Five saved-pose samples, skinned meshes only. Prop controller/native mirror parity and full collision are separate checks."
+  },
+  "DRIVER_CHASE": {
+    "file": "blender/DRIVER_CHASE_R07.blend",
+    "sha256": "8dcc100665bab1e1ace84b6cdfdf19e9dc501d7d0fc0d3b2ed1aa5b76c6eac4a",
+    "checked_vertex_samples": 500,
+    "max_reopened_vs_exported_vertex_error_m": 0.0,
+    "tolerance_m": 0.0002,
+    "IK_constraints": [
+      {
+        "bone": "forearm.L",
+        "constraint": "M07_NATIVE_ARM_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.L",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "forearm.R",
+        "constraint": "M07_NATIVE_ARM_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit0b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "digit1b.R",
+        "constraint": "M07_NATIVE_DIGIT_IK",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.L",
+        "constraint": "LEG_TWO_BONE_IK_L",
+        "chain_count": 2,
+        "stretch": false
+      },
+      {
+        "bone": "shin.R",
+        "constraint": "LEG_TWO_BONE_IK_R",
+        "chain_count": 2,
+        "stretch": false
+      }
+    ],
+    "technical_status": "TECHNICAL PASS",
+    "limits": "Five saved-pose samples, skinned meshes only. Prop controller/native mirror parity and full collision are separate checks."
+  }
+}

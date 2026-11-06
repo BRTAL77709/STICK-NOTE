@@ -1,0 +1,69 @@
+{
+  "shot": "CAR_EXIT_RUNNING",
+  "native_contact_tag": "R09",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 4.7,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 5.466666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 6.433333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 6.933333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 7.433333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 7.933333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 8.433333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 8.966666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 9.533333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.55,
+      "kind": "key",
+      "amplitude": 0.05
+    },
+    {
+      "time_s": 2.8,
+      "kind": "door",
+      "amplitude": 0.09
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -13.317003772047514,
+  "RMS_dBFS": -33.638621605962946,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "d0f1ca37eb2ae42796ea55a37baf358b3e00b342fcdd04cc702190bfb5d0a7b8",
+  "final_sha256": "b4b5ae71abd3689aab05635cf930672aa02dc7859f073252edd06cd7cb19e269"
+}

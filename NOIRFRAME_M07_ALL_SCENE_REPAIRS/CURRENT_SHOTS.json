@@ -1,0 +1,66 @@
+{
+  "DRIVING_COCKPIT": {
+    "duration": 12.0,
+    "preview": "renders/M07_DRIVING_COCKPIT_1080.mp4",
+    "final": "renders/M07_DRIVING_COCKPIT_1080.mp4",
+    "diagnostic": "debug/M07_DRIVING_COCKPIT_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_DRIVING_COCKPIT_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "ROAD_BUILDINGS": {
+    "duration": 7.0,
+    "preview": "renders/M07_ROAD_BUILDINGS_1080.mp4",
+    "final": "renders/M07_ROAD_BUILDINGS_1080.mp4",
+    "diagnostic": "debug/M07_ROAD_BUILDINGS_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_ROAD_BUILDINGS_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "CAR_CHASE": {
+    "duration": 11.0,
+    "preview": "renders/M07_CAR_CHASE_1080.mp4",
+    "final": "renders/M07_CAR_CHASE_1080.mp4",
+    "diagnostic": "debug/M07_CAR_CHASE_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_CAR_CHASE_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "CAR_EXIT_RUNNING": {
+    "duration": 10.8,
+    "preview": "renders/M07_CAR_EXIT_RUNNING_1080.mp4",
+    "final": "renders/M07_CAR_EXIT_RUNNING_1080.mp4",
+    "diagnostic": "debug/M07_CAR_EXIT_RUNNING_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_CAR_EXIT_RUNNING_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "KEY_LOCK": {
+    "duration": 7.0,
+    "preview": "renders/M07_KEY_LOCK_1080.mp4",
+    "final": "renders/M07_KEY_LOCK_1080.mp4",
+    "diagnostic": "debug/M07_KEY_LOCK_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_KEY_LOCK_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "DOOR_ENTRY": {
+    "duration": 13.0,
+    "preview": "renders/M07_DOOR_ENTRY_1080.mp4",
+    "final": "renders/M07_DOOR_ENTRY_1080.mp4",
+    "diagnostic": "debug/M07_DOOR_ENTRY_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_DOOR_ENTRY_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "STAIRS": {
+    "duration": 5.0,
+    "preview": "renders/M07_STAIRS_1080.mp4",
+    "final": "renders/M07_STAIRS_1080.mp4",
+    "diagnostic": "debug/M07_STAIRS_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_STAIRS_BEFORE_AFTER.mp4",
+    "approved": false
+  },
+  "WINDOW_CURTAIN": {
+    "duration": 10.5,
+    "preview": "renders/M07_WINDOW_CURTAIN_1080.mp4",
+    "final": "renders/M07_WINDOW_CURTAIN_1080.mp4",
+    "diagnostic": "debug/M07_WINDOW_CURTAIN_1080_DEBUG.mp4",
+    "comparison": "comparisons/M07_WINDOW_CURTAIN_BEFORE_AFTER.mp4",
+    "approved": false
+  }
+}

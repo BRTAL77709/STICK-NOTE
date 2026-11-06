@@ -1,0 +1,75 @@
+{
+  "integration_rate_hz": 120,
+  "rear_axle_lateral_slip_residual_m_per_step": 1.236675704049923e-15,
+  "wheel_phase_distance_residual_rad": 1.4210854715202004e-14,
+  "minimum_tyre_centre_to_curb_margin_m": 3.019050158899115,
+  "minimum_car_centre_gap_m": 6.406865870753792,
+  "car_body_length_m": 4.3,
+  "conservative_bumper_gap_m": 2.1068658707537926,
+  "gap_range_m": [
+    6.406865870753792,
+    14.0
+  ],
+  "speed_range_m_s": [
+    0.0,
+    9.92133008965229
+  ],
+  "maximum_abs_acceleration_m_s2": 3.73,
+  "steer_range_deg": [
+    -5.613117328761756,
+    5.599849728027814
+  ],
+  "park_speed_m_s": 0,
+  "independent_brake_channels": true,
+  "House17_origin": [
+    -0.9516927453098694,
+    0.13,
+    64.60566473433754
+  ],
+  "House17_rotation": [
+    [
+      -0.15603017311135373,
+      0.0,
+      -0.987752289331106
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.987752289331106,
+      0.0,
+      -0.15603017311135373
+    ]
+  ],
+  "bedroom_window_origin": [
+    -0.8268686068207863,
+    2.73,
+    63.81546290287265
+  ],
+  "bedroom_window_rotation": [
+    [
+      0.15603017311135384,
+      0.0,
+      0.987752289331106
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      -0.987752289331106,
+      0.0,
+      0.15603017311135384
+    ]
+  ],
+  "parked_black_sedan_in_window_coordinates": [
+    6.206864320380854,
+    -2.73,
+    6.004457135920511
+  ],
+  "limits": "Kinematic bicycle plus spring approximations. No tyre friction, continuous body collision or full suspension simulation. Bumper gap is a conservative centre-distance minus body length, not exact mesh distance.",
+  "technical_status": "TECHNICAL PASS"
+}

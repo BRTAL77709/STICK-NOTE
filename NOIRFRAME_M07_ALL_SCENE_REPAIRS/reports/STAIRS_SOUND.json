@@ -1,0 +1,34 @@
+{
+  "shot": "STAIRS",
+  "native_contact_tag": "INHERITED_M05",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 1.2,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 2.23,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 3.26,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 4.29,
+      "kind": "footstep",
+      "amplitude": 0.1
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -14.973439437164021,
+  "RMS_dBFS": -42.86582709291753,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "f46f5c1cf7fc02cfcce019c40a7b71fd027171d4719c849f89da8e142cdf306f",
+  "final_sha256": "51aa5a5ff68bc4412b479b75b7020d6a9ea8fea991863d9b0e49fce5fc74d388"
+}

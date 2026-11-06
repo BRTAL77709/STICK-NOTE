@@ -1,0 +1,49 @@
+{
+  "shot": "WINDOW_CURTAIN",
+  "native_contact_tag": "R11",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 0.6333333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 0.9666666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 1.6666666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 1.9333333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.6,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.966666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 4.72,
+      "kind": "key",
+      "amplitude": 0.025
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -16.1149817316496,
+  "RMS_dBFS": -43.52834493979236,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "08f7415b5a650e7bf97c42c31d0607b3b0f9aa9212d3bc279b273886e873bdf6",
+  "final_sha256": "51b4aeacb74475aa88034359b7369ce0b93e0f187d28a35b79ce32b79f191175"
+}

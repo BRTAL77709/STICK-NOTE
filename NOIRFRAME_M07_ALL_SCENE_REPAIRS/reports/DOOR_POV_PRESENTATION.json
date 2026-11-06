@@ -1,0 +1,11 @@
+{
+  "native_presentation_file": "blender/DOOR_ENTRY_PRESENTATION_R23.blend",
+  "sha256": "5a3eb56d12613f195cde87b277cd0e87187e5d0c32bbdbc6ad2fc2cb3ca18020",
+  "motion_geometry_source": "blender/DOOR_ENTRY_R22.blend",
+  "arm_vertices_checked": 576,
+  "max_native_presentation_vs_R22_arm_error_m": 0,
+  "POV_cut_s": 10.8,
+  "door_closed_before_POV_s": 9.85,
+  "change": "Only native camera and body render visibility changed after entry. Gripping forearm, mitten and digits remain native evaluated meshes. Visible thumbturn uses same scripted transform as native prop.",
+  "approval": "ARTISTIC REVIEW REQUIRED"
+}

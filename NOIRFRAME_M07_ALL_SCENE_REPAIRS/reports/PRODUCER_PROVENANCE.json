@@ -1,0 +1,68 @@
+{
+  "ROAD_BUILDINGS": {
+    "render_report": "reports/M07_ROAD_BUILDINGS_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R07.py",
+    "selected_native_tag": "R07",
+    "core_producer_changes_since_render": [
+      "source/render_clips.py",
+      "source/sets.py",
+      "source/cameras.py"
+    ],
+    "source_frame_hashes": 210,
+    "explanation": "Retained prior M07 pass. Later actor-face/POV overrides are not used by this shot. Exact recorded producer hashes remain in its render report."
+  },
+  "STAIRS": {
+    "render_report": "reports/M07_STAIRS_1080_RENDER.json",
+    "recorded_controller_snapshot": null,
+    "selected_native_tag": "INHERITED_M05",
+    "core_producer_changes_since_render": [
+      "source/render_clips.py",
+      "source/sets.py",
+      "source/cameras.py"
+    ],
+    "source_frame_hashes": 150,
+    "explanation": "Retained prior M07 pass. Later actor-face/POV overrides are not used by this shot. Exact recorded producer hashes remain in its render report."
+  },
+  "DOOR_ENTRY": {
+    "render_report": "reports/M07_DOOR_ENTRY_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R22.py",
+    "selected_native_tag": "R22",
+    "core_producer_changes_since_render": [],
+    "source_frame_hashes": 390
+  },
+  "CAR_CHASE": {
+    "render_report": "reports/M07_CAR_CHASE_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R07.py",
+    "selected_native_tag": "R07",
+    "core_producer_changes_since_render": [],
+    "source_frame_hashes": 330
+  },
+  "CAR_EXIT_RUNNING": {
+    "render_report": "reports/M07_CAR_EXIT_RUNNING_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R09.py",
+    "selected_native_tag": "R09",
+    "core_producer_changes_since_render": [],
+    "source_frame_hashes": 324
+  },
+  "DRIVING_COCKPIT": {
+    "render_report": "reports/M07_DRIVING_COCKPIT_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R12.py",
+    "selected_native_tag": "R12",
+    "core_producer_changes_since_render": [],
+    "source_frame_hashes": 360
+  },
+  "WINDOW_CURTAIN": {
+    "render_report": "reports/M07_WINDOW_CURTAIN_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R11.py",
+    "selected_native_tag": "R11",
+    "core_producer_changes_since_render": [],
+    "source_frame_hashes": 315
+  },
+  "KEY_LOCK": {
+    "render_report": "reports/M07_KEY_LOCK_1080_RENDER.json",
+    "recorded_controller_snapshot": "source/actions_R08.py",
+    "selected_native_tag": "R08",
+    "core_producer_changes_since_render": [],
+    "source_frame_hashes": 210
+  }
+}

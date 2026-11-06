@@ -1,0 +1,10 @@
+{
+  "native_presentation_file": "blender/KEY_LOCK_PRESENTATION_R15.blend",
+  "sha256": "de2cb981f369dcd4394d70f9ad6a1a58cdc04eecaf248fd15b56269c863b25c6",
+  "motion_geometry_source": "blender/KEY_LOCK_R08.blend",
+  "arm_vertices_checked": 576,
+  "max_native_presentation_vs_R08_arm_error_m": 0,
+  "POV_cut_s": 2.0,
+  "change": "Only native camera and body render visibility changed after entry. Gripping forearm, mitten and digits remain native evaluated meshes. Visible thumbturn uses same scripted transform as native prop.",
+  "approval": "ARTISTIC REVIEW REQUIRED"
+}

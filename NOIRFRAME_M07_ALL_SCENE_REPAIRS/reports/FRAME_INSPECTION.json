@@ -1,0 +1,22 @@
+{
+  "method": "Actual Chromium normal/half-speed playback; displayed-frame contact sheets plus encoded hero and complete diagnostic frame pages",
+  "inspected_hero_clips": [
+    "DRIVING_COCKPIT",
+    "CAR_EXIT_RUNNING",
+    "WINDOW_CURTAIN",
+    "KEY_LOCK",
+    "DOOR_ENTRY",
+    "CAR_CHASE"
+  ],
+  "staircase": "Retained M05, native re-evaluated601poses",
+  "findings": [
+    "Key blade insertion/turn/withdrawal visible in sustained POV",
+    "Door hinge/threshold crossing/inside thumbturn visible; sampled body collision zero",
+    "Exit legs move out before standing; run reaches entrance",
+    "Sedan visible through registered bedroom window after fabric pull",
+    "Vehicles remain angular/boxy; cockpit elbows/seating angular",
+    "Fabric folds remain strip-like; graphic face-card perspective approximate"
+  ],
+  "status": "ARTISTIC REVIEW REQUIRED",
+  "auditory_review": "No human listening approval claimed"
+}
