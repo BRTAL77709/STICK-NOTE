@@ -1,0 +1,20 @@
+{
+  "source_script_sha256": "5d77ff200dee1a39319905ef2e053e3ee6c763b141472e5ee8c8b8f52ce2d61f",
+  "shot": "CAR_CHASE",
+  "native_contact_tag": "M09L",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 6.2,
+      "kind": "brake",
+      "amplitude": 0.035
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -19.141722844750923,
+  "RMS_dBFS": -29.988854335428,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "402b0d19f8a1099877f5dda6dafd14e0bb6133a25643c7a58ed550d383dc2d08",
+  "final_sha256": "acf0602a32370f32e1a158030ee4b477530cf10ebc9f8a6f9167146c8b85763e"
+}

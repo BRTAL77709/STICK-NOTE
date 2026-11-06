@@ -1,0 +1,5 @@
+{
+  "selected": "M09D existing dense bounded solver",
+  "rejected": "M09F experimental sparse solver reached iteration limit; no native cache/export accepted",
+  "no_rendered_F_delivered": true
+}

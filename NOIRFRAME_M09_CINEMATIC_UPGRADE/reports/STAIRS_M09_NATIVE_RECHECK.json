@@ -1,0 +1,12 @@
+{
+  "fresh_native_evaluations": 601,
+  "sample_rate_hz": 120,
+  "native_two_bone_leg_IK_constraints": 2,
+  "native_vs_stored_shoe_vertex_max_error_m": 0.0,
+  "actual_stance_drift_m": 0.00036004543525917237,
+  "actual_foot_tread_distance_m": 0.0003592813014984264,
+  "actual_limb_length_variation_m": 4.2675859207585987e-07,
+  "actual_connected_gap_m": 3.379148385062387e-07,
+  "pass": true,
+  "artistic_approval": "NOT GRANTED"
+}

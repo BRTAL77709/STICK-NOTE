@@ -1,0 +1,18 @@
+{
+  "M09": {
+    "max_sampled_shoe_terrain_penetration_m": 1.3327441592991818e-05,
+    "worst": {
+      "time_s": 4.8,
+      "side": "L",
+      "world_point": [
+        3.946108525165655,
+        -1.3327441592991818e-05,
+        64.7159627762582
+      ],
+      "surface_height_m": 0.0
+    }
+  },
+  "method": "Actual native evaluated shoes, vertices and four interior edge samples, all rendered frames at30Hz; exact interpolated road/curb/sidewalk receiver; not continuous collision certification",
+  "tolerance_m": 0.0015,
+  "technical_status": "TECHNICAL PASS"
+}

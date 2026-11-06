@@ -1,0 +1,22 @@
+{
+  "file": "renders/M09_WINDOW_CURTAIN_FINAL.mp4",
+  "sha256": "b4ea867fe4ae01035ac551780accf84106ea0f839152f9dad3b77a721baf6149",
+  "bytes": 2072069,
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "pixel_format": "yuv420p",
+  "fps": 30.0,
+  "duration_s": 10.5,
+  "decoded_frames": 315,
+  "expected_frames": 315,
+  "audio_codec": "aac",
+  "audio_duration_s": 10.5,
+  "decode_errors": "",
+  "black_intervals": [],
+  "maximum_exactly_identical_frame_run": 1,
+  "maximum_exactly_identical_run_s": 0.03333333333333333,
+  "frozen_frame_scope": "Exact decoded image equality; deliberate short holds are reported, not automatically judged artistically.",
+  "technical_status": "TECHNICAL PASS",
+  "artistic_status": "USER REVIEW REQUIRED"
+}

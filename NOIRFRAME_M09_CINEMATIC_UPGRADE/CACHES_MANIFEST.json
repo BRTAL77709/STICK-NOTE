@@ -1,0 +1,52 @@
+[
+  {
+    "path": "scenes/CAR_EXIT_RUNNING_M09D.json.gz",
+    "bytes": 5930220,
+    "sha256": "8ab5f6b245668582f2d6f30341ff26a88fc5c6db75257b4708986020ee4dde86"
+  },
+  {
+    "path": "scenes/CAR_EXIT_RUNNING_M09K.json.gz",
+    "bytes": 5930755,
+    "sha256": "83b584e284202a887b67a9425b8b0d94c8d91fe81d75402f4d5a837717909092"
+  },
+  {
+    "path": "scenes/DOOR_ENTRY_M09H.json.gz",
+    "bytes": 7344109,
+    "sha256": "bb5f436751f054e04e3756906f6af51587438a3a7de6f6591b0405ea7b2f5a26"
+  },
+  {
+    "path": "scenes/DRIVER_CHASE_M09D.json.gz",
+    "bytes": 6372171,
+    "sha256": "41401795361a566d4c2b0b2b49c80671d712ef9686e50e0ca38183ac6863df7e"
+  },
+  {
+    "path": "scenes/DRIVER_CHASE_M09L.json.gz",
+    "bytes": 6372171,
+    "sha256": "41401795361a566d4c2b0b2b49c80671d712ef9686e50e0ca38183ac6863df7e"
+  },
+  {
+    "path": "scenes/DRIVING_COCKPIT_M09D.json.gz",
+    "bytes": 6868023,
+    "sha256": "60d9bc9020c4fd89d279052c50e17dade1f6551a1205c538e80c78dab8800905"
+  },
+  {
+    "path": "scenes/KEY_LOCK_M09D.json.gz",
+    "bytes": 4895085,
+    "sha256": "fabf2e2c8f51d73075e5fab8febb5b5a3e263c7321896d1fd3960a824f1be805"
+  },
+  {
+    "path": "scenes/KEY_LOCK_M09E.json.gz",
+    "bytes": 4895085,
+    "sha256": "fabf2e2c8f51d73075e5fab8febb5b5a3e263c7321896d1fd3960a824f1be805"
+  },
+  {
+    "path": "scenes/STAIRS_M09_NATIVE.json.gz",
+    "bytes": 4263810,
+    "sha256": "412d66f673312626de2482594f7d372d1bf69ca39bfd87f16b8f754aba5aa91c"
+  },
+  {
+    "path": "scenes/WINDOW_CURTAIN_M09G.json.gz",
+    "bytes": 8574278,
+    "sha256": "4e854e0543bf06b6cbaec627855e048f73359e57158781a65b23e2e4b6d9fd5b"
+  }
+]

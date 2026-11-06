@@ -1,0 +1,138 @@
+[
+  {
+    "file": "M08_CAR_CHASE_FINAL.mp4",
+    "sha256": "3f406b343b3f1458bc34c27e479f00b873b9b63572706ca51ed32a54a2668320",
+    "duration": "11.000000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_CAR_EXIT_RUNNING_FINAL.mp4",
+    "sha256": "ed564657a36c71c062c23e4a5ef73a9da2dc39aa05b396cb516d03423b5fd8e6",
+    "duration": "10.800000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_DOOR_ENTRY_FINAL.mp4",
+    "sha256": "25eb9ead485ad3f48932335a9acd44b5ff65884989bc5eb4dbf797b7d6161bb8",
+    "duration": "13.000000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_DRIVING_COCKPIT_FINAL.mp4",
+    "sha256": "132d15116d7011d1fef4195c8ab5c35ba0acc8069a29dd5d404ef061a677c3a2",
+    "duration": "12.000000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_KEY_LOCK_FINAL.mp4",
+    "sha256": "ea966204c5ac142fd5d0bf3cc41140e9c4bfd8e9725810cea881dfe04a16fc4c",
+    "duration": "7.000000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_ROAD_BUILDINGS_FINAL.mp4",
+    "sha256": "ddd90cfcb83a7c89eef5ed4486bee6796e665890584291998999ea56625a4264",
+    "duration": "7.000000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_STAIRS_FINAL.mp4",
+    "sha256": "bda3b274a9058f5a2ddf5aff5fcbc13dabbd6b8a7e170b20ed5c5ef2659dec78",
+    "duration": "5.000000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  },
+  {
+    "file": "M08_WINDOW_CURTAIN_FINAL.mp4",
+    "sha256": "268e29355dca6933b03fb7d76b469032d4f4c1297dd46d5c9cdfbee510a8480d",
+    "duration": "10.500000",
+    "video": [
+      {
+        "codec": "h264",
+        "width": 1080,
+        "height": 1920
+      },
+      {
+        "codec": "aac",
+        "width": null,
+        "height": null
+      }
+    ]
+  }
+]

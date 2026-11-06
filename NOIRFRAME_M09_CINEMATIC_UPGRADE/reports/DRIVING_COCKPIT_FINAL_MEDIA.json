@@ -1,0 +1,22 @@
+{
+  "file": "renders/M09_DRIVING_COCKPIT_FINAL.mp4",
+  "sha256": "cbe336a547f434787ac34acd5998278b8f576cd2a282ff49d451c4dab0460754",
+  "bytes": 4304667,
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "pixel_format": "yuv420p",
+  "fps": 30.0,
+  "duration_s": 12.0,
+  "decoded_frames": 360,
+  "expected_frames": 360,
+  "audio_codec": "aac",
+  "audio_duration_s": 12.0,
+  "decode_errors": "",
+  "black_intervals": [],
+  "maximum_exactly_identical_frame_run": 1,
+  "maximum_exactly_identical_run_s": 0.03333333333333333,
+  "frozen_frame_scope": "Exact decoded image equality; deliberate short holds are reported, not automatically judged artistically.",
+  "technical_status": "TECHNICAL PASS",
+  "artistic_status": "USER REVIEW REQUIRED"
+}

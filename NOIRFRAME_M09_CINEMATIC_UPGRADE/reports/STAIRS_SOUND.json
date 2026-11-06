@@ -1,0 +1,34 @@
+{
+  "shot": "STAIRS",
+  "native_contact_tag": "R07",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 1.2,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 2.2333333333333334,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 3.2666666666666666,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 4.3,
+      "kind": "footstep",
+      "amplitude": 0.1
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -14.973439437164021,
+  "RMS_dBFS": -42.87087426172341,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "945dcf0227ba528052a7a1c772eb28ad55b5676ba150fa9e7815c04a8ac29f62",
+  "final_sha256": "35c1d148cef65331efe23d824c795f18e8ea139f4e9ccd22e363f968a4453e2c"
+}

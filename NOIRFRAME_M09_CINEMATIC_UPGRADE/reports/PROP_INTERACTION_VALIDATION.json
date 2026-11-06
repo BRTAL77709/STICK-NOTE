@@ -1,0 +1,69 @@
+{
+  "DRIVER_CHASE": {
+    "native_fingertip_contact_marker_error_m": 5.069743528395827e-06,
+    "active_digit_measurements": 1320,
+    "definition": "Actual native distal bone endpoint minus authored7mm tip-radius normal compared with prop pad. Tests a rounded-contact proxy; flat visible finger meshes and full hand collision are not certified.",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "actual_native_heel_centre_anchor_error_m": 5.740338241358153e-05,
+    "actual_native_toe_centre_to_pressed_pedal_plane_error_m": 4.6773308473991584e-05,
+    "limits": "Heel centre and toe centre tested, not full shoe/pedal mesh contact patch.",
+    "technical_status": "TECHNICAL PASS"
+  },
+  "DRIVING_COCKPIT": {
+    "native_fingertip_contact_marker_error_m": 5.069743528395827e-06,
+    "active_digit_measurements": 1440,
+    "definition": "Actual native distal bone endpoint minus authored7mm tip-radius normal compared with prop pad. Tests a rounded-contact proxy; flat visible finger meshes and full hand collision are not certified.",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "actual_native_heel_centre_anchor_error_m": 5.740338241358153e-05,
+    "actual_native_toe_centre_to_pressed_pedal_plane_error_m": 4.6773308473991584e-05,
+    "limits": "Heel centre and toe centre tested, not full shoe/pedal mesh contact patch.",
+    "technical_status": "TECHNICAL PASS"
+  },
+  "KEY_LOCK": {
+    "native_fingertip_contact_marker_error_m": 5.321933878433024e-06,
+    "active_digit_measurements": 458,
+    "definition": "Actual native distal bone endpoint minus authored7mm tip-radius normal compared with prop pad. Tests a rounded-contact proxy; flat visible finger meshes and full hand collision are not certified.",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "native_hand_key_grip_frame_error_m": 8.080095765596709e-05,
+    "key_lock_axis_lateral_error_m": 0.0,
+    "key_tip_axial_range_m": [
+      -0.1089999999999998,
+      0.05099999999999995
+    ],
+    "maximum_inserted_depth_m": 0.05099999999999995,
+    "blade_length_m": 0.1,
+    "door_thickness_m": 0.13,
+    "technical_status": "TECHNICAL PASS"
+  },
+  "DOOR_ENTRY": {
+    "native_fingertip_contact_marker_error_m": 5.8149558876979755e-06,
+    "active_digit_measurements": 502,
+    "definition": "Actual native distal bone endpoint minus authored7mm tip-radius normal compared with prop pad. Tests a rounded-contact proxy; flat visible finger meshes and full hand collision are not certified.",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "hinge_measurement": "Shared world pivot used to generate all rendered leaf vertices; independently sampled native prop check reported separately",
+    "hinge_pivot_drift_m": 0.0,
+    "door_open_only_after_unlock": true,
+    "inside_lock_operation_included": true,
+    "technical_status": "TECHNICAL PASS"
+  },
+  "WINDOW_CURTAIN": {
+    "native_fingertip_contact_marker_error_m": 1.2291396224703004e-05,
+    "active_digit_measurements": 450,
+    "definition": "Actual native distal bone endpoint minus authored7mm tip-radius normal compared with prop pad. Tests a rounded-contact proxy; flat visible finger meshes and full hand collision are not certified.",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "native_wrist_to_fabric_grip_frame_error_m": 8.212312347512993e-05,
+    "max_horizontal_material_arc_length_error_m": 8.76484462786209e-09,
+    "material_width_m": 1.6,
+    "limits": "Horizontal arc-length rig, row lag and settling; no general cloth strain/tension/self-collision solve.",
+    "technical_status": "TECHNICAL PASS"
+  },
+  "CAR_EXIT_RUNNING": {
+    "native_fingertip_contact_marker_error_m": 3.3234816875796846e-06,
+    "active_digit_measurements": 28,
+    "definition": "Actual native distal bone endpoint minus authored7mm tip-radius normal compared with prop pad. Tests a rounded-contact proxy; flat visible finger meshes and full hand collision are not certified.",
+    "artistic_status": "ARTISTIC REVIEW REQUIRED",
+    "native_hand_to_car_handle_grip_frame_error_m": 6.104668801413007e-05,
+    "limits": "Fixed authored35mm wrist stand-off plus native articulated digits; no force-driven door dynamics.",
+    "technical_status": "TECHNICAL PASS"
+  }
+}

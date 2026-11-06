@@ -1,0 +1,22 @@
+{
+  "file": "renders/M09_CAR_CHASE_FINAL.mp4",
+  "sha256": "acf0602a32370f32e1a158030ee4b477530cf10ebc9f8a6f9167146c8b85763e",
+  "bytes": 5493071,
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "pixel_format": "yuv420p",
+  "fps": 30.0,
+  "duration_s": 11.0,
+  "decoded_frames": 330,
+  "expected_frames": 330,
+  "audio_codec": "aac",
+  "audio_duration_s": 11.0,
+  "decode_errors": "",
+  "black_intervals": [],
+  "maximum_exactly_identical_frame_run": 1,
+  "maximum_exactly_identical_run_s": 0.03333333333333333,
+  "frozen_frame_scope": "Exact decoded image equality; deliberate short holds are reported, not automatically judged artistically.",
+  "technical_status": "TECHNICAL PASS",
+  "artistic_status": "USER REVIEW REQUIRED"
+}

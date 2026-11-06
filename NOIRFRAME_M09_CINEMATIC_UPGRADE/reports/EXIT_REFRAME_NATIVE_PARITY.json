@@ -1,0 +1,6 @@
+{
+  "native_non_head_vertices_compared": 180144,
+  "maximum_non_head_coordinate_difference_m": 0,
+  "allowed_change": "Camera and native illustrated head-card orientation only; saved M09D body/hand/feet/root unchanged",
+  "pass": true
+}

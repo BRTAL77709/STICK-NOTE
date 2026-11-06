@@ -1,0 +1,7 @@
+{
+  "native_mesh_vertices_checked": 576,
+  "maximum_geometry_difference_m": 0,
+  "change": "Camera and POV visibility only; interacting arm/hand/digits remain original evaluated native geometry",
+  "file": "blender/KEY_LOCK_EDITABLE_FINAL_M09_R02.blend",
+  "sha256": "efa481183e74918eb44415f06b5d2de2c84495a3a56e29e3b43835d225696f92"
+}

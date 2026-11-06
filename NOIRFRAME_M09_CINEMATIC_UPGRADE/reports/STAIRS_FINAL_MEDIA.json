@@ -1,0 +1,22 @@
+{
+  "file": "renders/M09_STAIRS_FINAL.mp4",
+  "sha256": "35c1d148cef65331efe23d824c795f18e8ea139f4e9ccd22e363f968a4453e2c",
+  "bytes": 1575398,
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "pixel_format": "yuv420p",
+  "fps": 30.0,
+  "duration_s": 5.0,
+  "decoded_frames": 150,
+  "expected_frames": 150,
+  "audio_codec": "aac",
+  "audio_duration_s": 5.0,
+  "decode_errors": "",
+  "black_intervals": [],
+  "maximum_exactly_identical_frame_run": 1,
+  "maximum_exactly_identical_run_s": 0.03333333333333333,
+  "frozen_frame_scope": "Exact decoded image equality; deliberate short holds are reported, not automatically judged artistically.",
+  "technical_status": "TECHNICAL PASS",
+  "artistic_status": "USER REVIEW REQUIRED"
+}

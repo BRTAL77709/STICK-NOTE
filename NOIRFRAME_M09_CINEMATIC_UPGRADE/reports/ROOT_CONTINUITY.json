@@ -1,0 +1,8 @@
+{
+  "stair_probe_half_interval_s": 1e-05,
+  "max_before_after_position_difference_m_at_20us": 1.1250204621232123e-05,
+  "probe_tolerance_m": 0.001,
+  "root_frame_displacement_max_m_at_30Hz": 0.01883492161555421,
+  "interpretation": "20us probe differences include intended movement; frame displacement is not called a teleport. Linear native keys are position-continuous.",
+  "pass": true
+}

@@ -1,0 +1,258 @@
+{
+  "DRIVING_COCKPIT": {
+    "M08_sha256": "132d15116d7011d1fef4195c8ab5c35ba0acc8069a29dd5d404ef061a677c3a2",
+    "M09_sha256": "cbe336a547f434787ac34acd5998278b8f576cd2a282ff49d451c4dab0460754",
+    "sheet": "contact_sheets/DRIVING_COCKPIT_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0
+      },
+      {
+        "M08_time_s": 2.16,
+        "M09_time_s": 2.16
+      },
+      {
+        "M08_time_s": 4.32,
+        "M09_time_s": 4.32
+      },
+      {
+        "M08_time_s": 6.48,
+        "M09_time_s": 6.48
+      },
+      {
+        "M08_time_s": 8.64,
+        "M09_time_s": 8.64
+      },
+      {
+        "M08_time_s": 11.76,
+        "M09_time_s": 11.76
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "ROAD_BUILDINGS": {
+    "M08_sha256": "ddd90cfcb83a7c89eef5ed4486bee6796e665890584291998999ea56625a4264",
+    "M09_sha256": "cf0c5fdc140afccc424cd7891f4121f17c46655b80dc3d8c0a9df45957fd1662",
+    "sheet": "contact_sheets/ROAD_BUILDINGS_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0
+      },
+      {
+        "M08_time_s": 1.26,
+        "M09_time_s": 1.26
+      },
+      {
+        "M08_time_s": 2.52,
+        "M09_time_s": 2.52
+      },
+      {
+        "M08_time_s": 3.7800000000000002,
+        "M09_time_s": 3.7800000000000002
+      },
+      {
+        "M08_time_s": 5.04,
+        "M09_time_s": 5.04
+      },
+      {
+        "M08_time_s": 6.859999999999999,
+        "M09_time_s": 6.859999999999999
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "CAR_CHASE": {
+    "M08_sha256": "3f406b343b3f1458bc34c27e479f00b873b9b63572706ca51ed32a54a2668320",
+    "M09_sha256": "acf0602a32370f32e1a158030ee4b477530cf10ebc9f8a6f9167146c8b85763e",
+    "sheet": "contact_sheets/CAR_CHASE_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0
+      },
+      {
+        "M08_time_s": 1.98,
+        "M09_time_s": 1.98
+      },
+      {
+        "M08_time_s": 3.96,
+        "M09_time_s": 3.96
+      },
+      {
+        "M08_time_s": 5.94,
+        "M09_time_s": 5.94
+      },
+      {
+        "M08_time_s": 7.92,
+        "M09_time_s": 7.92
+      },
+      {
+        "M08_time_s": 10.78,
+        "M09_time_s": 10.78
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "CAR_EXIT_RUNNING": {
+    "M08_sha256": "ed564657a36c71c062c23e4a5ef73a9da2dc39aa05b396cb516d03423b5fd8e6",
+    "M09_sha256": "b542fc696544a4773157bf0a693d34d6b0aeb045a36e6d7ef8377d326fd65ceb",
+    "sheet": "contact_sheets/CAR_EXIT_RUNNING_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0.0
+      },
+      {
+        "M08_time_s": 1.944,
+        "M09_time_s": 1.944
+      },
+      {
+        "M08_time_s": 3.888,
+        "M09_time_s": 3.888
+      },
+      {
+        "M08_time_s": 5.832000000000001,
+        "M09_time_s": 5.832000000000001
+      },
+      {
+        "M08_time_s": 7.776,
+        "M09_time_s": 7.776
+      },
+      {
+        "M08_time_s": 10.584,
+        "M09_time_s": 10.584
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "KEY_LOCK": {
+    "M08_sha256": "ea966204c5ac142fd5d0bf3cc41140e9c4bfd8e9725810cea881dfe04a16fc4c",
+    "M09_sha256": "6b34316725378d4874e607124702d193450c1fb3f5984012fb04ddf15cdd95f4",
+    "sheet": "contact_sheets/KEY_LOCK_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0
+      },
+      {
+        "M08_time_s": 2.027971603349185,
+        "M09_time_s": 1.6199999999999999
+      },
+      {
+        "M08_time_s": 3.3943707046059646,
+        "M09_time_s": 3.2399999999999998
+      },
+      {
+        "M08_time_s": 4.712744077812156,
+        "M09_time_s": 4.86
+      },
+      {
+        "M08_time_s": 5.74219493891094,
+        "M09_time_s": 6.4799999999999995
+      },
+      {
+        "M08_time_s": 6.920781362517514,
+        "M09_time_s": 8.82
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "DOOR_ENTRY": {
+    "M08_sha256": "25eb9ead485ad3f48932335a9acd44b5ff65884989bc5eb4dbf797b7d6161bb8",
+    "M09_sha256": "d2a28cc4d97708b28ca6e9a330d6b23c4c88578e38b5b78a111fc3adce4f12c3",
+    "sheet": "contact_sheets/DOOR_ENTRY_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0
+      },
+      {
+        "M08_time_s": 2.34,
+        "M09_time_s": 2.34
+      },
+      {
+        "M08_time_s": 4.68,
+        "M09_time_s": 4.68
+      },
+      {
+        "M08_time_s": 7.0200000000000005,
+        "M09_time_s": 7.0200000000000005
+      },
+      {
+        "M08_time_s": 9.36,
+        "M09_time_s": 9.36
+      },
+      {
+        "M08_time_s": 12.74,
+        "M09_time_s": 12.74
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "STAIRS": {
+    "M08_sha256": "bda3b274a9058f5a2ddf5aff5fcbc13dabbd6b8a7e170b20ed5c5ef2659dec78",
+    "M09_sha256": "35c1d148cef65331efe23d824c795f18e8ea139f4e9ccd22e363f968a4453e2c",
+    "sheet": "contact_sheets/STAIRS_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0
+      },
+      {
+        "M08_time_s": 0.8999999999999999,
+        "M09_time_s": 0.8999999999999999
+      },
+      {
+        "M08_time_s": 1.7999999999999998,
+        "M09_time_s": 1.7999999999999998
+      },
+      {
+        "M08_time_s": 2.7,
+        "M09_time_s": 2.7
+      },
+      {
+        "M08_time_s": 3.5999999999999996,
+        "M09_time_s": 3.5999999999999996
+      },
+      {
+        "M08_time_s": 4.9,
+        "M09_time_s": 4.9
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  },
+  "WINDOW_CURTAIN": {
+    "M08_sha256": "268e29355dca6933b03fb7d76b469032d4f4c1297dd46d5c9cdfbee510a8480d",
+    "M09_sha256": "b4ea867fe4ae01035ac551780accf84106ea0f839152f9dad3b77a721baf6149",
+    "sheet": "contact_sheets/WINDOW_CURTAIN_M08_vs_M09.jpg",
+    "times": [
+      {
+        "M08_time_s": 0.0,
+        "M09_time_s": 0.0
+      },
+      {
+        "M08_time_s": 1.89,
+        "M09_time_s": 1.89
+      },
+      {
+        "M08_time_s": 3.78,
+        "M09_time_s": 3.78
+      },
+      {
+        "M08_time_s": 5.67,
+        "M09_time_s": 5.67
+      },
+      {
+        "M08_time_s": 7.56,
+        "M09_time_s": 7.56
+      },
+      {
+        "M08_time_s": 10.29,
+        "M09_time_s": 10.29
+      }
+    ],
+    "method": "Frames extracted from the actual encoded MP4s; key action phases matched through its new monotone clock; other clips use normalized coverage."
+  }
+}

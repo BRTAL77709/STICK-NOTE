@@ -1,0 +1,28 @@
+{
+  "CAR_CHASE": {
+    "minimum_camera_to_vehicle_bound_m": 2.5044959572736376,
+    "worst": {
+      "time_s": 2.2333333333333334,
+      "vehicle": "witness"
+    },
+    "tolerance_m": 0.1,
+    "pass": true,
+    "scope": "Camera origin versus conservative oriented vehicle boxes, 30Hz. Does not certify all camera rays or environment collision."
+  },
+  "ROAD_BUILDINGS": {
+    "minimum_camera_to_vehicle_bound_m": 2.9009091779879936,
+    "worst": {
+      "time_s": 6.266666666666667,
+      "vehicle": "pursuer_"
+    },
+    "tolerance_m": 0.1,
+    "pass": true,
+    "scope": "Camera origin versus conservative oriented vehicle boxes, 30Hz. Does not certify all camera rays or environment collision."
+  },
+  "CAR_EXIT_RUNNING": {
+    "minimum_camera_street_side_distance_to_House17_facade_m": 0.75,
+    "facade_car_local_x_m": -6,
+    "pass": true,
+    "scope": "Actual final camera origin remains on street side; separate visual frame inspection checks readable witness silhouette."
+  }
+}
