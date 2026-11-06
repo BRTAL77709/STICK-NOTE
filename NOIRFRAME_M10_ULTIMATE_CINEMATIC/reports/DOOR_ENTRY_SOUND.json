@@ -1,0 +1,135 @@
+{
+  "source_script_sha256": "ad9482a6c84057fe57c63dae67777903147bd8e5101c186d6d99954688e5e7e6",
+  "shot": "DOOR_ENTRY",
+  "native_contact_tag": "M10G",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 1.4,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.033333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.6666666666666665,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 3.2333333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 3.8666666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 4.466666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 5.1,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 5.7,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 6.333333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 6.966666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 7.566666666666666,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 8.2,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 8.8,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 9.433333333333334,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 10.066666666666666,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 10.566666666666666,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 13.9,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 14.633333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 15.3,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 15.966666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 0.58,
+      "kind": "key",
+      "amplitude": 0.05
+    },
+    {
+      "time_s": 0.85,
+      "kind": "door",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 9.85,
+      "kind": "door",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 11.6,
+      "kind": "key",
+      "amplitude": 0.05
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -14.25353846471432,
+  "RMS_dBFS": -41.294319171705055,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "afd2a07497e8f200ad6bf36d03431069349a9531d116e6a2efa5f263cdc91df3",
+  "final_sha256": "52f364c87e6ac9d25aa35256ad17c23a2671f7a837abf28c898b18eb6dc88341"
+}

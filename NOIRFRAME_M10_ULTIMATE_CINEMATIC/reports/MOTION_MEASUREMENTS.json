@@ -1,0 +1,42 @@
+{
+  "DRIVING_COCKPIT": {
+    "maximum_adjacent_knee_plane_change_deg_at_30Hz": 1.0616434468906848,
+    "interpretation": "A change in the measured bend plane, including intended turning; not a standalone natural-motion pass."
+  },
+  "DRIVER_CHASE": {
+    "maximum_adjacent_knee_plane_change_deg_at_30Hz": 1.0616434468906848,
+    "interpretation": "A change in the measured bend plane, including intended turning; not a standalone natural-motion pass."
+  },
+  "CAR_EXIT_RUNNING": {
+    "maximum_adjacent_knee_plane_change_deg_at_30Hz": 9.675401321493302,
+    "interpretation": "A change in the measured bend plane, including intended turning; not a standalone natural-motion pass."
+  },
+  "KEY_LOCK": {
+    "maximum_adjacent_knee_plane_change_deg_at_30Hz": 0.1390796899354635,
+    "interpretation": "A change in the measured bend plane, including intended turning; not a standalone natural-motion pass."
+  },
+  "DOOR_ENTRY": {
+    "maximum_adjacent_knee_plane_change_deg_at_30Hz": 13.822614912375537,
+    "interpretation": "A change in the measured bend plane, including intended turning; not a standalone natural-motion pass.",
+    "hallway_root_displacement_m": 1.060107571436125,
+    "hallway_foot_landings_s": {
+      "0": [
+        13.9,
+        15.3
+      ],
+      "1": [
+        14.633333333333333,
+        15.966666666666667
+      ]
+    },
+    "final_root": [
+      -0.25,
+      0.6948957298985973,
+      1.5
+    ]
+  },
+  "WINDOW_CURTAIN": {
+    "maximum_adjacent_knee_plane_change_deg_at_30Hz": 1.7927566134168471,
+    "interpretation": "A change in the measured bend plane, including intended turning; not a standalone natural-motion pass."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "blend": "blender/ROAD_BUILDINGS_WORLD_M10_RELEASE.blend",
+  "sha256": "22c2fed05a70d30c68aac855c3b9c1680214a0e44bd67cb1ddefd47e925eee82",
+  "vehicle_state_source": "source/vehicle_system.py",
+  "shared_House17_origin": [
+    -0.9516927453098694,
+    0.13,
+    64.60566473433754
+  ],
+  "shared_House17_rotation": [
+    [
+      -0.15603017311135373,
+      0.0,
+      -0.987752289331106
+    ],
+    [
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.987752289331106,
+      0.0,
+      -0.15603017311135373
+    ]
+  ],
+  "native_scene_scope": "Editable vehicle roots, rotating wheels, fixed architecture and animated cinematic camera; procedural renderer uses same world definitions."
+}

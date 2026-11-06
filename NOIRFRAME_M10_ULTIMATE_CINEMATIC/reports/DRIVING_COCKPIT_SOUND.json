@@ -1,0 +1,20 @@
+{
+  "source_script_sha256": "ad9482a6c84057fe57c63dae67777903147bd8e5101c186d6d99954688e5e7e6",
+  "shot": "DRIVING_COCKPIT",
+  "native_contact_tag": "M10",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 3.2,
+      "kind": "original_suspense_accent",
+      "amplitude": 0.018
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -21.47980553127049,
+  "RMS_dBFS": -30.325164249300034,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "35d6d67bc84c6b9666043b9662388f404e7436b0b3fce9737ba2a2f02108394b",
+  "final_sha256": "777ab838afa73f9fc098ba6a35e25d13b09adc3e596dcd057e52860ece03b235"
+}

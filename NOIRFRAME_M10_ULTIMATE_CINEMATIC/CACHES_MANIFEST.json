@@ -1,0 +1,72 @@
+[
+  {
+    "path": "scenes/CAR_EXIT_RUNNING_M09K.json.gz",
+    "bytes": 5930755,
+    "sha256": "83b584e284202a887b67a9425b8b0d94c8d91fe81d75402f4d5a837717909092"
+  },
+  {
+    "path": "scenes/CAR_EXIT_RUNNING_M10I.json.gz",
+    "bytes": 6065508,
+    "sha256": "de0078c78ad3e88bf0c26e25f7b19cd4c1824552c18c1e2e43e5c7eedbf33627"
+  },
+  {
+    "path": "scenes/DOOR_ENTRY_M09H.json.gz",
+    "bytes": 7344109,
+    "sha256": "bb5f436751f054e04e3756906f6af51587438a3a7de6f6591b0405ea7b2f5a26"
+  },
+  {
+    "path": "scenes/DOOR_ENTRY_M10G.json.gz",
+    "bytes": 8977666,
+    "sha256": "1fea918bd6797f28a8320fe7143ac232d07f800a985cad5e6d45b6c8e0e384f4"
+  },
+  {
+    "path": "scenes/DRIVER_CHASE_M09D.json.gz",
+    "bytes": 6372171,
+    "sha256": "41401795361a566d4c2b0b2b49c80671d712ef9686e50e0ca38183ac6863df7e"
+  },
+  {
+    "path": "scenes/DRIVER_CHASE_M10.json.gz",
+    "bytes": 6381254,
+    "sha256": "d7e1f434a4ea0a6f071c9b5971c2abf1dbc7b92375117d2a969e99f1da31ede9"
+  },
+  {
+    "path": "scenes/DRIVER_CHASE_M10C.json.gz",
+    "bytes": 6381254,
+    "sha256": "d7e1f434a4ea0a6f071c9b5971c2abf1dbc7b92375117d2a969e99f1da31ede9"
+  },
+  {
+    "path": "scenes/DRIVING_COCKPIT_M09D.json.gz",
+    "bytes": 6868023,
+    "sha256": "60d9bc9020c4fd89d279052c50e17dade1f6551a1205c538e80c78dab8800905"
+  },
+  {
+    "path": "scenes/DRIVING_COCKPIT_M10.json.gz",
+    "bytes": 6876609,
+    "sha256": "cb5d20084231f344a955146fbc6da0a408ce34a6c3108cd6801d6b6eb0280009"
+  },
+  {
+    "path": "scenes/KEY_LOCK_M09E.json.gz",
+    "bytes": 4895085,
+    "sha256": "fabf2e2c8f51d73075e5fab8febb5b5a3e263c7321896d1fd3960a824f1be805"
+  },
+  {
+    "path": "scenes/KEY_LOCK_M10B.json.gz",
+    "bytes": 4924875,
+    "sha256": "55f136d010461c0f97fb578f747366e0ac4bcdb4a585b9950b44e4503199ef55"
+  },
+  {
+    "path": "scenes/STAIRS_M10D_NATIVE.json.gz",
+    "bytes": 5081955,
+    "sha256": "2f54112946750900708885c95f1f98988bdd02f8c2ee06d60238da2ff048ab92"
+  },
+  {
+    "path": "scenes/WINDOW_CURTAIN_M09G.json.gz",
+    "bytes": 8574278,
+    "sha256": "4e854e0543bf06b6cbaec627855e048f73359e57158781a65b23e2e4b6d9fd5b"
+  },
+  {
+    "path": "scenes/WINDOW_CURTAIN_M10B.json.gz",
+    "bytes": 8455484,
+    "sha256": "f35d7982fc1afcd78d92b5be463e379c916ff1da0453e305bf230e2a504fef98"
+  }
+]

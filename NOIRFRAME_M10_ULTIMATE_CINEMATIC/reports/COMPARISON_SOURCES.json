@@ -1,0 +1,266 @@
+{
+  "DRIVING_COCKPIT": {
+    "M09_sha256": "cbe336a547f434787ac34acd5998278b8f576cd2a282ff49d451c4dab0460754",
+    "M10_sha256": "777ab838afa73f9fc098ba6a35e25d13b09adc3e596dcd057e52860ece03b235",
+    "sheet": "contact_sheets/DRIVING_COCKPIT_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_DRIVING_COCKPIT.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0
+      },
+      {
+        "M09_time_s": 2.16,
+        "M10_time_s": 2.16
+      },
+      {
+        "M09_time_s": 4.32,
+        "M10_time_s": 4.32
+      },
+      {
+        "M09_time_s": 6.48,
+        "M10_time_s": 6.48
+      },
+      {
+        "M09_time_s": 8.64,
+        "M10_time_s": 8.64
+      },
+      {
+        "M09_time_s": 11.76,
+        "M10_time_s": 11.76
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "ROAD_BUILDINGS": {
+    "M09_sha256": "cf0c5fdc140afccc424cd7891f4121f17c46655b80dc3d8c0a9df45957fd1662",
+    "M10_sha256": "a79f4f1a470438a7dafef56ce7ff44af98789df2d3013d398a41abb8ba056213",
+    "sheet": "contact_sheets/ROAD_BUILDINGS_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_ROAD_BUILDINGS.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0
+      },
+      {
+        "M09_time_s": 1.26,
+        "M10_time_s": 1.26
+      },
+      {
+        "M09_time_s": 2.52,
+        "M10_time_s": 2.52
+      },
+      {
+        "M09_time_s": 3.7800000000000002,
+        "M10_time_s": 3.7800000000000002
+      },
+      {
+        "M09_time_s": 5.04,
+        "M10_time_s": 5.04
+      },
+      {
+        "M09_time_s": 6.859999999999999,
+        "M10_time_s": 6.859999999999999
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "CAR_CHASE": {
+    "M09_sha256": "acf0602a32370f32e1a158030ee4b477530cf10ebc9f8a6f9167146c8b85763e",
+    "M10_sha256": "43cf80fb31079e427954d5c9f7b949426a5b09bdfdc189c818ef24fff2e27003",
+    "sheet": "contact_sheets/CAR_CHASE_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_CAR_CHASE.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0
+      },
+      {
+        "M09_time_s": 1.98,
+        "M10_time_s": 1.98
+      },
+      {
+        "M09_time_s": 3.96,
+        "M10_time_s": 3.96
+      },
+      {
+        "M09_time_s": 5.94,
+        "M10_time_s": 5.94
+      },
+      {
+        "M09_time_s": 7.92,
+        "M10_time_s": 7.92
+      },
+      {
+        "M09_time_s": 10.78,
+        "M10_time_s": 10.78
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "CAR_EXIT_RUNNING": {
+    "M09_sha256": "b542fc696544a4773157bf0a693d34d6b0aeb045a36e6d7ef8377d326fd65ceb",
+    "M10_sha256": "0306863dd7dbc49f37ed8b88768426b6e73fde659a15ac2b7ce25f7e97f892ed",
+    "sheet": "contact_sheets/CAR_EXIT_RUNNING_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_CAR_EXIT_RUNNING.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0.0
+      },
+      {
+        "M09_time_s": 1.944,
+        "M10_time_s": 1.944
+      },
+      {
+        "M09_time_s": 3.888,
+        "M10_time_s": 3.888
+      },
+      {
+        "M09_time_s": 5.832000000000001,
+        "M10_time_s": 5.832000000000001
+      },
+      {
+        "M09_time_s": 7.776,
+        "M10_time_s": 7.776
+      },
+      {
+        "M09_time_s": 10.584,
+        "M10_time_s": 10.584
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "KEY_LOCK": {
+    "M09_sha256": "6b34316725378d4874e607124702d193450c1fb3f5984012fb04ddf15cdd95f4",
+    "M10_sha256": "2f6277b8a3530587725d9c66ff66a437280908295db1ed24c744b1850c846334",
+    "sheet": "contact_sheets/KEY_LOCK_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_KEY_LOCK.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0
+      },
+      {
+        "M09_time_s": 1.6199999999999999,
+        "M10_time_s": 1.6199999999999999
+      },
+      {
+        "M09_time_s": 3.2399999999999998,
+        "M10_time_s": 3.2399999999999998
+      },
+      {
+        "M09_time_s": 4.86,
+        "M10_time_s": 4.86
+      },
+      {
+        "M09_time_s": 6.4799999999999995,
+        "M10_time_s": 6.4799999999999995
+      },
+      {
+        "M09_time_s": 8.82,
+        "M10_time_s": 8.82
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "DOOR_ENTRY": {
+    "M09_sha256": "d2a28cc4d97708b28ca6e9a330d6b23c4c88578e38b5b78a111fc3adce4f12c3",
+    "M10_sha256": "52f364c87e6ac9d25aa35256ad17c23a2671f7a837abf28c898b18eb6dc88341",
+    "sheet": "contact_sheets/DOOR_ENTRY_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_DOOR_ENTRY.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0
+      },
+      {
+        "M09_time_s": 2.34,
+        "M10_time_s": 2.88
+      },
+      {
+        "M09_time_s": 4.68,
+        "M10_time_s": 5.76
+      },
+      {
+        "M09_time_s": 7.0200000000000005,
+        "M10_time_s": 8.64
+      },
+      {
+        "M09_time_s": 9.36,
+        "M10_time_s": 11.52
+      },
+      {
+        "M09_time_s": 12.74,
+        "M10_time_s": 15.68
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "STAIRS": {
+    "M09_sha256": "35c1d148cef65331efe23d824c795f18e8ea139f4e9ccd22e363f968a4453e2c",
+    "M10_sha256": "e444381c4c62b98d47e20075415cd7ef0e345771c240fe8326bde93090be6272",
+    "sheet": "contact_sheets/STAIRS_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_STAIRS.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0
+      },
+      {
+        "M09_time_s": 0.614997061232736,
+        "M10_time_s": 1.08
+      },
+      {
+        "M09_time_s": 1.6179932865982507,
+        "M10_time_s": 2.16
+      },
+      {
+        "M09_time_s": 2.743364594132889,
+        "M10_time_s": 3.24
+      },
+      {
+        "M09_time_s": 3.819264131268235,
+        "M10_time_s": 4.32
+      },
+      {
+        "M09_time_s": 4.9326547399889495,
+        "M10_time_s": 5.88
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  },
+  "WINDOW_CURTAIN": {
+    "M09_sha256": "b4ea867fe4ae01035ac551780accf84106ea0f839152f9dad3b77a721baf6149",
+    "M10_sha256": "f298dabb40a086190f20dd3bb8bfc27ff191c9301e75a33e79644a9fdd5b6c5f",
+    "sheet": "contact_sheets/WINDOW_CURTAIN_M09_vs_M10.jpg",
+    "comparison_video": "comparisons/M09_VS_M10_WINDOW_CURTAIN.mp4",
+    "sample_times": [
+      {
+        "M09_time_s": 0.0,
+        "M10_time_s": 0.0
+      },
+      {
+        "M09_time_s": 1.89,
+        "M10_time_s": 1.89
+      },
+      {
+        "M09_time_s": 3.78,
+        "M10_time_s": 3.78
+      },
+      {
+        "M09_time_s": 5.67,
+        "M10_time_s": 5.67
+      },
+      {
+        "M09_time_s": 7.56,
+        "M10_time_s": 7.56
+      },
+      {
+        "M09_time_s": 10.29,
+        "M10_time_s": 10.29
+      }
+    ],
+    "note": "Actual encoded video frames; staircase sheet aligns the retimed action clock. Side-by-side movies play each original timing at normal speed, holding the shorter M09 ending when necessary; audio is M10 only."
+  }
+}

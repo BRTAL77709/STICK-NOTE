@@ -1,0 +1,24 @@
+{
+  "shot": "DOOR_ENTRY",
+  "sampling": "Native evaluated meshes/bones at 30Hz; dense joint cache 60Hz supplied; not continuous collision certification",
+  "max_native_wrist_IK_error_m": 8.275748622272759e-05,
+  "max_native_leg_IK_error_m": 1.347175201156375e-05,
+  "max_native_finger_target_error_m": 5.788808654764031e-06,
+  "max_limb_length_variation_m": 1.607475973414152e-06,
+  "max_connected_joint_gap_m": 4.851466594964178e-07,
+  "max_stance_mesh_drift_m": 7.923887746798345e-06,
+  "max_foot_ground_distance_m": 1.2817039532819763e-05,
+  "max_root_frame_displacement_m": 0.03356033225899053,
+  "peak_root_acceleration_m_s2": 13.716458757965231,
+  "root_interpolation": "Native keyed location curves are piecewise linear and position-continuous; frame displacement is reported separately, not labelled a discontinuity",
+  "tolerances": {
+    "native_IK_error_m": 0.0015,
+    "finger_error_m": 0.002,
+    "limb_length_m": 0.0001,
+    "joint_gap_m": 0.0001,
+    "ground_contact_m": 0.0015,
+    "stance_drift_m": 0.0015
+  },
+  "artistic_status": "ARTISTIC REVIEW REQUIRED",
+  "technical_status": "TECHNICAL PASS"
+}

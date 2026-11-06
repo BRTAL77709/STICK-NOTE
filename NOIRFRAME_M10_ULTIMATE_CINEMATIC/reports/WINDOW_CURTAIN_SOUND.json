@@ -1,0 +1,55 @@
+{
+  "source_script_sha256": "ad9482a6c84057fe57c63dae67777903147bd8e5101c186d6d99954688e5e7e6",
+  "shot": "WINDOW_CURTAIN",
+  "native_contact_tag": "M10B",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 0.6333333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 0.9666666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 1.6666666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 1.9333333333333333,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.6,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 2.966666666666667,
+      "kind": "footstep",
+      "amplitude": 0.09
+    },
+    {
+      "time_s": 4.733333333333333,
+      "kind": "fabric_grip",
+      "amplitude": 0.012
+    },
+    {
+      "time_s": 7.4,
+      "kind": "original_suspense_accent",
+      "amplitude": 0.018
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -16.1149817316496,
+  "RMS_dBFS": -43.838030078787604,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "f4da211b204cedc408392e8c892f61c1f2ddd971413452d63b9b29d7f79039ea",
+  "final_sha256": "f298dabb40a086190f20dd3bb8bfc27ff191c9301e75a33e79644a9fdd5b6c5f"
+}

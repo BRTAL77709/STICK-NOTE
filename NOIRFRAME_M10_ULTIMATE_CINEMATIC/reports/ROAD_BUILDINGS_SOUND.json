@@ -1,0 +1,14 @@
+{
+  "source_script_sha256": "ad9482a6c84057fe57c63dae67777903147bd8e5101c186d6d99954688e5e7e6",
+  "shot": "ROAD_BUILDINGS",
+  "native_contact_tag": "M10",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [],
+  "sample_rate": 24000,
+  "peak_dBFS": -21.394050672364475,
+  "RMS_dBFS": -29.312459071975553,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "c57d8d8f62a616886264f5c2edaa8192bfe67c9261d4744054d4312dd0979660",
+  "final_sha256": "a79f4f1a470438a7dafef56ce7ff44af98789df2d3013d398a41abb8ba056213"
+}

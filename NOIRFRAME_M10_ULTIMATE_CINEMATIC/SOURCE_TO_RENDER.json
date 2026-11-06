@@ -1,0 +1,124 @@
+{
+  "DRIVING_COCKPIT": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_DRIVING_COCKPIT_FINAL.mp4",
+    "final_mp4": "renders/M10_DRIVING_COCKPIT_FINAL.mp4",
+    "native_models": [
+      "blender/DRIVING_COCKPIT_M10.blend"
+    ],
+    "native_cache": "scenes/DRIVING_COCKPIT_M10.json.gz",
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_DRIVING_COCKPIT_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "ROAD_BUILDINGS": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_ROAD_BUILDINGS_FINAL.mp4",
+    "final_mp4": "renders/M10_ROAD_BUILDINGS_FINAL.mp4",
+    "native_models": [
+      "blender/ROAD_BUILDINGS_WORLD_M10_RELEASE.blend"
+    ],
+    "native_cache": null,
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_ROAD_BUILDINGS_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "CAR_CHASE": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_CAR_CHASE_FINAL.mp4",
+    "final_mp4": "renders/M10_CAR_CHASE_FINAL.mp4",
+    "native_models": [
+      "blender/CAR_CHASE_WORLD_M10_RELEASE.blend",
+      "blender/DRIVER_CHASE_M10.blend",
+      "blender/DRIVER_CHASE_EDITABLE_M10.blend"
+    ],
+    "native_cache": null,
+    "driver_cache": "scenes/DRIVER_CHASE_M10C.json.gz",
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10C.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_CAR_CHASE_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "CAR_EXIT_RUNNING": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_CAR_EXIT_RUNNING_FINAL.mp4",
+    "final_mp4": "renders/M10_CAR_EXIT_RUNNING_FINAL.mp4",
+    "native_models": [
+      "blender/CAR_EXIT_RUNNING_M10I.blend"
+    ],
+    "native_cache": "scenes/CAR_EXIT_RUNNING_M10I.json.gz",
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10I.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_CAR_EXIT_RUNNING_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "KEY_LOCK": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_KEY_LOCK_FINAL.mp4",
+    "final_mp4": "renders/M10_KEY_LOCK_FINAL.mp4",
+    "native_models": [
+      "blender/KEY_LOCK_M10B.blend"
+    ],
+    "native_cache": "scenes/KEY_LOCK_M10B.json.gz",
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10B.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_KEY_LOCK_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "DOOR_ENTRY": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_DOOR_ENTRY_FINAL.mp4",
+    "final_mp4": "renders/M10_DOOR_ENTRY_FINAL.mp4",
+    "native_models": [
+      "blender/DOOR_ENTRY_M10G.blend"
+    ],
+    "native_cache": "scenes/DOOR_ENTRY_M10G.json.gz",
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10G.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_DOOR_ENTRY_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "STAIRS": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_STAIRS_FINAL.mp4",
+    "final_mp4": "renders/M10_STAIRS_FINAL.mp4",
+    "native_models": [
+      "blender/STAIRS_M10D.blend"
+    ],
+    "native_cache": "scenes/STAIRS_M10D_NATIVE.json.gz",
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/stairs_m10d.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_STAIRS_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  },
+  "WINDOW_CURTAIN": {
+    "baseline_mp4": "/workspace/STICK-NOTE/NOIRFRAME_M09_CINEMATIC_UPGRADE/renders/M09_WINDOW_CURTAIN_FINAL.mp4",
+    "final_mp4": "renders/M10_WINDOW_CURTAIN_FINAL.mp4",
+    "native_models": [
+      "blender/WINDOW_CURTAIN_M10B.blend"
+    ],
+    "native_cache": "scenes/WINDOW_CURTAIN_M10B.json.gz",
+    "driver_cache": null,
+    "renderer": "source/render_clips.py",
+    "cameras": "source/cameras.py",
+    "controller": "source/actions_M10B.py",
+    "camera_data": "CAMERA_ANIMATION.json",
+    "sound_master": "sound/M10_WINDOW_CURTAIN_FOLEY.wav",
+    "geometry_origin": "Actual native evaluated body/skin; scripted world/prop/face composition; native world mirrors are editable but not a one-click final-look renderer"
+  }
+}

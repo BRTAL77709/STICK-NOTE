@@ -1,0 +1,22 @@
+{
+  "file": "renders/M10_CAR_EXIT_RUNNING_FINAL.mp4",
+  "sha256": "6007693200db67ed5bdd9e8e23ac27e7df54926a0ab23492dbe3b6731b958e4e",
+  "bytes": 4019786,
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "pixel_format": "yuv420p",
+  "fps": 30.0,
+  "duration_s": 10.8,
+  "decoded_frames": 324,
+  "expected_frames": 324,
+  "audio_codec": "aac",
+  "audio_duration_s": 10.8,
+  "decode_errors": "",
+  "black_intervals": [],
+  "maximum_exactly_identical_frame_run": 1,
+  "maximum_exactly_identical_run_s": 0.03333333333333333,
+  "frozen_frame_scope": "Exact decoded image equality; deliberate short holds are reported, not automatically judged artistically.",
+  "technical_status": "TECHNICAL PASS",
+  "artistic_status": "USER REVIEW REQUIRED"
+}

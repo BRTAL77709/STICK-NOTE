@@ -1,0 +1,35 @@
+{
+  "source_script_sha256": "ad9482a6c84057fe57c63dae67777903147bd8e5101c186d6d99954688e5e7e6",
+  "shot": "STAIRS",
+  "native_contact_tag": "M10D",
+  "audio_source": "Locally synthesized engine/rain/interaction Foley; no dialogue or paid service",
+  "events": [
+    {
+      "time_s": 1.7333333333333334,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 2.7666666666666666,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 3.7666666666666666,
+      "kind": "footstep",
+      "amplitude": 0.1
+    },
+    {
+      "time_s": 4.9,
+      "kind": "footstep",
+      "amplitude": 0.1
+    }
+  ],
+  "sample_rate": 24000,
+  "peak_dBFS": -14.698082058132954,
+  "RMS_dBFS": -43.38968870804094,
+  "clock_alignment_bound_s": 0.03333333333333333,
+  "auditory_review": "USER REVIEW REQUIRED; waveform and synchronization numerically inspected, no claim of human listening approval",
+  "silent_video_sha256": "3678b296cd4e59638532afac0e69b38c3b7457367c5e214f50b8bdf8e8b43dc6",
+  "final_sha256": "e444381c4c62b98d47e20075415cd7ef0e345771c240fe8326bde93090be6272"
+}

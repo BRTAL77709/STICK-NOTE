@@ -1,0 +1,130 @@
+{
+  "DRIVING_COCKPIT": {
+    "hierarchy": {
+      "CAR_ROOT": {
+        "parent": null,
+        "direct_children": 9,
+        "space": "car local"
+      },
+      "BODY": {
+        "parent": "CAR_ROOT",
+        "direct_children": 5,
+        "space": "car local"
+      },
+      "INTERIOR": {
+        "parent": "CAR_ROOT",
+        "direct_children": 5,
+        "space": "car local"
+      },
+      "DRIVER_SEAT": {
+        "parent": "CAR_ROOT",
+        "direct_children": 16,
+        "space": "car local"
+      },
+      "DASHBOARD": {
+        "parent": "CAR_ROOT",
+        "direct_children": 9,
+        "space": "car local"
+      },
+      "STEERING_COLUMN": {
+        "parent": "CAR_ROOT",
+        "direct_children": 2,
+        "space": "car local"
+      },
+      "STEERING_WHEEL": {
+        "parent": "STEERING_COLUMN",
+        "direct_children": 1,
+        "space": "car local"
+      },
+      "WINDSHIELD": {
+        "parent": "CAR_ROOT",
+        "direct_children": 1,
+        "space": "car local"
+      },
+      "REARVIEW_MIRROR": {
+        "parent": "CAR_ROOT",
+        "direct_children": 2,
+        "space": "car local"
+      },
+      "SIDE_MIRRORS": {
+        "parent": "CAR_ROOT",
+        "direct_children": 6,
+        "space": "car local"
+      },
+      "DRIVER_RIG": {
+        "parent": "CAR_ROOT",
+        "direct_children": 49,
+        "space": "car local"
+      }
+    },
+    "native_mesh_vertices_checked": 2800,
+    "geometry_difference_m": 0,
+    "file": "blender/DRIVING_COCKPIT_EDITABLE_M10.blend",
+    "sha256": "9d66b6313c40d997cd37ad06f9aa885f097e11fe7c3f968045865c673569a1ae",
+    "world_mapping": "Native rig/interior use car-local units; source renderer applies the same integrated vehicle world pose once. No double world transform."
+  },
+  "DRIVER_CHASE": {
+    "hierarchy": {
+      "CAR_ROOT": {
+        "parent": null,
+        "direct_children": 9,
+        "space": "car local"
+      },
+      "BODY": {
+        "parent": "CAR_ROOT",
+        "direct_children": 5,
+        "space": "car local"
+      },
+      "INTERIOR": {
+        "parent": "CAR_ROOT",
+        "direct_children": 5,
+        "space": "car local"
+      },
+      "DRIVER_SEAT": {
+        "parent": "CAR_ROOT",
+        "direct_children": 16,
+        "space": "car local"
+      },
+      "DASHBOARD": {
+        "parent": "CAR_ROOT",
+        "direct_children": 9,
+        "space": "car local"
+      },
+      "STEERING_COLUMN": {
+        "parent": "CAR_ROOT",
+        "direct_children": 2,
+        "space": "car local"
+      },
+      "STEERING_WHEEL": {
+        "parent": "STEERING_COLUMN",
+        "direct_children": 1,
+        "space": "car local"
+      },
+      "WINDSHIELD": {
+        "parent": "CAR_ROOT",
+        "direct_children": 1,
+        "space": "car local"
+      },
+      "REARVIEW_MIRROR": {
+        "parent": "CAR_ROOT",
+        "direct_children": 2,
+        "space": "car local"
+      },
+      "SIDE_MIRRORS": {
+        "parent": "CAR_ROOT",
+        "direct_children": 6,
+        "space": "car local"
+      },
+      "DRIVER_RIG": {
+        "parent": "CAR_ROOT",
+        "direct_children": 49,
+        "space": "car local"
+      }
+    },
+    "native_mesh_vertices_checked": 2800,
+    "geometry_difference_m": 0,
+    "file": "blender/DRIVER_CHASE_EDITABLE_M10.blend",
+    "sha256": "bd6bfd11796fb084c3f5aea35ca9a6a4058de5f2c18bc9f17a93c25693493002",
+    "world_mapping": "Native rig/interior use car-local units; source renderer applies the same integrated vehicle world pose once. No double world transform."
+  }
+}

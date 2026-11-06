@@ -1,0 +1,24 @@
+{
+  "KEY_LOCK": {
+    "sampled_body_vertex_door_or_jamb_penetration_m": 0.0,
+    "worst": null,
+    "scope": "Every visible body mesh vertex at30Hz except transparent head card and intentionally contacting mittens/digits. No edge, continuous swept-volume or full hand mesh collision certification.",
+    "status": "TECHNICAL PASS",
+    "tolerance_m": 0.005
+  },
+  "DOOR_ENTRY": {
+    "sampled_body_vertex_door_or_jamb_penetration_m": 0.06493371962045785,
+    "worst": {
+      "time_s": 13.466666666666667,
+      "mesh": "SLEEVE_LOWER_R",
+      "point": [
+        -0.36363640427589417,
+        0.9559065699577332,
+        -6.62803795421496e-05
+      ]
+    },
+    "scope": "Every visible body mesh vertex at30Hz except transparent head card and intentionally contacting mittens/digits. No edge, continuous swept-volume or full hand mesh collision certification.",
+    "status": "TECHNICAL FAIL",
+    "tolerance_m": 0.005
+  }
+}

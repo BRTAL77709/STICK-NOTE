@@ -1,0 +1,22 @@
+{
+  "file": "renders/M10_DRIVING_COCKPIT_FINAL.mp4",
+  "sha256": "777ab838afa73f9fc098ba6a35e25d13b09adc3e596dcd057e52860ece03b235",
+  "bytes": 3775578,
+  "codec": "h264",
+  "width": 1080,
+  "height": 1920,
+  "pixel_format": "yuv420p",
+  "fps": 30.0,
+  "duration_s": 12.0,
+  "decoded_frames": 360,
+  "expected_frames": 360,
+  "audio_codec": "aac",
+  "audio_duration_s": 12.0,
+  "decode_errors": "",
+  "black_intervals": [],
+  "maximum_exactly_identical_frame_run": 1,
+  "maximum_exactly_identical_run_s": 0.03333333333333333,
+  "frozen_frame_scope": "Exact decoded image equality; deliberate short holds are reported, not automatically judged artistically.",
+  "technical_status": "TECHNICAL PASS",
+  "artistic_status": "USER REVIEW REQUIRED"
+}
