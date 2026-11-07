@@ -1,0 +1,16 @@
+{
+  "filename": "pack-DRIVER_CHASE-M11R02-1794059999246108858.tar.gz",
+  "kind": "output",
+  "label": "DRIVER_CHASE-M11R02",
+  "sha256": "4baad4b4f07ad28a8569244293c1e21379ca59ec19be5220a1c973e50f92c5d3",
+  "bytes": 6926737,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 6926737,
+      "sha256": "4baad4b4f07ad28a8569244293c1e21379ca59ec19be5220a1c973e50f92c5d3",
+      "git_sha": "413d4840e22df05a4191f5c16c5fc5e8ee020bbd"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
