@@ -1,0 +1,34 @@
+{
+  "filename": "pack-native world export source checkpoint-1794060390847431777.tar.gz",
+  "kind": "source",
+  "label": "native world export source checkpoint",
+  "sha256": "c05c3794d9dd0a8c9eb5124a9513a84c2465452ba3e6bc30e41de510f3de7448",
+  "bytes": 26374586,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "aa3ce76501107a3d15d399f552d4bfb366d3e44645126efb33425f4cdabcedd0",
+      "git_sha": "22f466371ffb00423f5bc4d25630cbcbfba5bae5"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "f6bfd7597d18d9c26ed56a761a65be1362491d19bd57e028087def68273c136a",
+      "git_sha": "1d5729da1f20ec175cdf4b01f6a06ce09a6f807f"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "9db96a63fd6dad203bf0977bfd15bb8d9463cc486e00f4424cef947c7dd450cf",
+      "git_sha": "ba96053784509cbadc93d1e94b288d80e007adf2"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 1208762,
+      "sha256": "40212714540a08b0057c5a5e315c7fafbdfc086e37cba2c965d6dacf2dd85c1e",
+      "git_sha": "4210b507a238ffb99c87c358094cda88096f5d07"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
