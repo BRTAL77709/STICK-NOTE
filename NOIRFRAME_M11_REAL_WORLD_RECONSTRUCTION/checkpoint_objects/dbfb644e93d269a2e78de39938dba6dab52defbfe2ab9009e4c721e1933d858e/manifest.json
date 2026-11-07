@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00000-00059-1794062020275084439.tar.gz",
+  "kind": "output",
+  "label": "M11_DRIVING_COCKPIT_M11R03_FINAL-00000-00059",
+  "sha256": "dbfb644e93d269a2e78de39938dba6dab52defbfe2ab9009e4c721e1933d858e",
+  "bytes": 13641474,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "3b71989e08f0a30b98e2aa6894c8289e0046bfc3d11fc991c76d57ec4127007e",
+      "git_sha": "552cbd6f73d1e273858bc6a4e7d402f3bfb98c9d"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 5252866,
+      "sha256": "4595eb6e1810815807dfd9865c646ea9985c07527210149f7cc7d6ab615f0e85",
+      "git_sha": "045b2738cd47ae0b85e0272ebd006fa4a52b3903"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
