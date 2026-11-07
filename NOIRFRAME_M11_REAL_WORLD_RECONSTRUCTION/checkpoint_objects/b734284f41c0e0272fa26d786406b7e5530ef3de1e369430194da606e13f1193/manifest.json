@@ -1,0 +1,16 @@
+{
+  "filename": "M11_CAR_EXIT_RUNNING_M11R01_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_CAR_EXIT_RUNNING_M11R01_PREVIEW_360",
+  "sha256": "b734284f41c0e0272fa26d786406b7e5530ef3de1e369430194da606e13f1193",
+  "bytes": 1489711,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1489711,
+      "sha256": "b734284f41c0e0272fa26d786406b7e5530ef3de1e369430194da606e13f1193",
+      "git_sha": "5bd05c1f5698cd5a90352ebcd6c58f96acb1905f"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
