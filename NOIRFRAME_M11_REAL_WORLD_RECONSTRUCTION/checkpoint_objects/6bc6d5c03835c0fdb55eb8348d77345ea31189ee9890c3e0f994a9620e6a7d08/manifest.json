@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00120-00179-1794062234554792419.tar.gz",
+  "kind": "output",
+  "label": "M11_ROAD_BUILDINGS_M11R03_FINAL-00120-00179",
+  "sha256": "6bc6d5c03835c0fdb55eb8348d77345ea31189ee9890c3e0f994a9620e6a7d08",
+  "bytes": 14416814,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "cfc9bd6b75c73700e4171b607438e8d30f2a783b3aa41660cdbc4303aefc5450",
+      "git_sha": "a147e035bc951d53771ed9064377c266b1d34650"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 6028206,
+      "sha256": "5e8b18f07e7608a5bac19f7eb3388d5c086b3ede3bcc17fdd59f685c8fb6e276",
+      "git_sha": "bff0b36b16c43156cafff78602620f63fbccf63d"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
