@@ -1,0 +1,7 @@
+{
+  "object": "pack-backup-restore-drill-1794058410023614044.tar.gz",
+  "sha256": "0c533940fe6309c11d3cf6cdbc626352cef28050a0e46d17f94ebd73b94d2838",
+  "members_restored_and_verified": 5,
+  "passed": true,
+  "restore_source": "Remote committed GitHub chunks downloaded again and reassembled, not local archive"
+}

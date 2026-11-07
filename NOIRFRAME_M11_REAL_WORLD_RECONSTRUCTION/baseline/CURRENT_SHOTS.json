@@ -1,0 +1,50 @@
+{
+  "DRIVING_COCKPIT": {
+    "duration": 12,
+    "preview": "renders/M10_DRIVING_COCKPIT_M10_360.mp4",
+    "final": "renders/M10_DRIVING_COCKPIT_FINAL.mp4",
+    "diagnostic": "debug/M10_DRIVING_COCKPIT_M10_360_DEBUG.mp4"
+  },
+  "ROAD_BUILDINGS": {
+    "duration": 7,
+    "preview": "renders/M10_ROAD_BUILDINGS_M10_360.mp4",
+    "final": "renders/M10_ROAD_BUILDINGS_FINAL.mp4",
+    "diagnostic": "debug/M10_ROAD_BUILDINGS_M10_360_DEBUG.mp4"
+  },
+  "CAR_CHASE": {
+    "duration": 11,
+    "preview": "renders/M10_CAR_CHASE_M10C_360.mp4",
+    "final": "renders/M10_CAR_CHASE_FINAL.mp4",
+    "diagnostic": "debug/M10_CAR_CHASE_M10C_360_DEBUG.mp4"
+  },
+  "CAR_EXIT_RUNNING": {
+    "duration": 10.8,
+    "preview": "renders/M10_CAR_EXIT_RUNNING_M10I_360.mp4",
+    "final": "renders/M10_CAR_EXIT_RUNNING_FINAL.mp4",
+    "diagnostic": "debug/M10_CAR_EXIT_RUNNING_M10I_360_DEBUG.mp4"
+  },
+  "KEY_LOCK": {
+    "duration": 9,
+    "preview": "renders/M10_KEY_LOCK_M10B_360.mp4",
+    "final": "renders/M10_KEY_LOCK_FINAL.mp4",
+    "diagnostic": "debug/M10_KEY_LOCK_M10B_360_DEBUG.mp4"
+  },
+  "DOOR_ENTRY": {
+    "duration": 16,
+    "preview": "renders/M10_DOOR_ENTRY_M10G_360.mp4",
+    "final": "renders/M10_DOOR_ENTRY_FINAL.mp4",
+    "diagnostic": "debug/M10_DOOR_ENTRY_M10G_360_DEBUG.mp4"
+  },
+  "STAIRS": {
+    "duration": 6,
+    "preview": "renders/M10_STAIRS_M10D_360.mp4",
+    "final": "renders/M10_STAIRS_FINAL.mp4",
+    "diagnostic": "debug/M10_STAIRS_M10D_360_DEBUG.mp4"
+  },
+  "WINDOW_CURTAIN": {
+    "duration": 10.5,
+    "preview": "renders/M10_WINDOW_CURTAIN_M10B_360.mp4",
+    "final": "renders/M10_WINDOW_CURTAIN_FINAL.mp4",
+    "diagnostic": "debug/M10_WINDOW_CURTAIN_M10B_360_DEBUG.mp4"
+  }
+}

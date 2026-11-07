@@ -1,0 +1,1420 @@
+{
+  "archive": "M10_EDITABLE_SOURCE.zip",
+  "bytes": 17786445,
+  "sha256": "35f3d894f3f8bcce0a9c6ae51ace08f5a9936c761e9ff14a958f3bd73dee68e6",
+  "native_blend_files": 14,
+  "sound_masters": 8,
+  "evaluated_native_caches_available": 14,
+  "evaluated_native_caches_bundled": 1,
+  "files": 282,
+  "all_members_match_current_source_SHA256": true,
+  "zip_integrity_pass": true,
+  "transport_note": "Complete evaluated caches are separately published and checksum-verified by the included helper; all local master videos/PNGs are preserved at production quality. No artificial MP4 size limit.",
+  "manifest": [
+    {
+      "path": "BASELINE_REVISIONS.json",
+      "bytes": 194,
+      "sha256": "95f0a2bd7dcd9dd234c6b9172e7e350d19b873dd33c19c149818aca135cdbac2"
+    },
+    {
+      "path": "CACHES_MANIFEST.json",
+      "bytes": 2247,
+      "sha256": "f13ab99c88a0209c8ab18a44e32a4022215c53a32fce7619acf5fb123d570f32"
+    },
+    {
+      "path": "CAMERA_ANIMATION.json",
+      "bytes": 524625,
+      "sha256": "54afd3636cf96b2232073d186f376f72a1f844a99be917507a02890365d2aafd"
+    },
+    {
+      "path": "CURRENT_SHOTS.json",
+      "bytes": 1695,
+      "sha256": "4b635fa83abf1d7615cd0e20d77fd4c49633dee9414effe73ce4370c5b2dc5a9"
+    },
+    {
+      "path": "KNOWN_LIMITATIONS.md",
+      "bytes": 2078,
+      "sha256": "b0918e4c77e2d1140225dc1a7bd8da066851a313c9dbd7c49e8b24b6b91ba02c"
+    },
+    {
+      "path": "M10_DIRECTIVE.md",
+      "bytes": 18734,
+      "sha256": "1808c89714f400b02791116b74eddfc23a6cc782ef0b06a68e3bf7c3483e1da9"
+    },
+    {
+      "path": "README.md",
+      "bytes": 316,
+      "sha256": "7c065a9a7d3e838d3ba22aa376699c4f83d2b0be41edfc2f7b9c2690c5812a49"
+    },
+    {
+      "path": "REBUILD.md",
+      "bytes": 3414,
+      "sha256": "03ee398813176d6c04ddacc8993bcb6e00e08db0a2bb2e680014a29339c60527"
+    },
+    {
+      "path": "REVIEW.md",
+      "bytes": 1933,
+      "sha256": "52dbef4c71721eaec079c42d65fb012045b6beda3484cc5f9f636c8fadfe7f32"
+    },
+    {
+      "path": "SCENE_DEFECT_REPORT.md",
+      "bytes": 4927,
+      "sha256": "debfe6426113bf0ebe395d53ecf5cad2b757cb8b15319ec80246fc0809d42d2f"
+    },
+    {
+      "path": "SOURCE_TO_RENDER.json",
+      "bytes": 5970,
+      "sha256": "6268733190efabd09a21d1d5cbd458e341fa7c3d1f00e7cf1bf679060611db7a"
+    },
+    {
+      "path": "TECHNICAL_REPORT.md",
+      "bytes": 4394,
+      "sha256": "5f717c558bfc4df9c4197cde0b4775c053ff1ff9a3b6a1d7148512113f5ce353"
+    },
+    {
+      "path": "assets/CONTROLS_M08.json",
+      "bytes": 519861,
+      "sha256": "574de56b3f40a626668fa41fe5cfad93178c171cce3218bf8bb10c93acdbb01c"
+    },
+    {
+      "path": "assets/CONTROLS_M09.json",
+      "bytes": 519861,
+      "sha256": "574de56b3f40a626668fa41fe5cfad93178c171cce3218bf8bb10c93acdbb01c"
+    },
+    {
+      "path": "assets/CONTROLS_M10.json",
+      "bytes": 667738,
+      "sha256": "dfc31f3a4b86a0a31f8d919991053e7f11114481ac1b8d2c25cd9c15e3db5aef"
+    },
+    {
+      "path": "assets/CONTROLS_M10D.json",
+      "bytes": 667704,
+      "sha256": "b85bdd0954bfd581092eb86a61e2151302a91cd9d65b5d6c5ef47685ef7083a9"
+    },
+    {
+      "path": "assets/STAIRS_CONTROLS.json",
+      "bytes": 519861,
+      "sha256": "574de56b3f40a626668fa41fe5cfad93178c171cce3218bf8bb10c93acdbb01c"
+    },
+    {
+      "path": "assets/STAIRS_CONTROLS_M10.json",
+      "bytes": 667738,
+      "sha256": "dfc31f3a4b86a0a31f8d919991053e7f11114481ac1b8d2c25cd9c15e3db5aef"
+    },
+    {
+      "path": "assets/STAIRS_CONTROLS_M10D.json",
+      "bytes": 667704,
+      "sha256": "b85bdd0954bfd581092eb86a61e2151302a91cd9d65b5d6c5ef47685ef7083a9"
+    },
+    {
+      "path": "blender/BASELINE_M04.blend",
+      "bytes": 606922,
+      "sha256": "20e9dbf31b30d207289e7e080b4c42bc7a0aa042de603a3d02a25c3d9f532e48"
+    },
+    {
+      "path": "blender/CAR_CHASE_WORLD_M10_RELEASE.blend",
+      "bytes": 585369,
+      "sha256": "ed0514ed037c0bf84bbb6d3824caead867a1cabd1cb62ea109039be3579fe203"
+    },
+    {
+      "path": "blender/CAR_EXIT_RUNNING_M10I.blend",
+      "bytes": 609251,
+      "sha256": "e85905ec48b16c63e7f19aba6d5cbb60be7acd21b223726f5d21564c07b39ac3"
+    },
+    {
+      "path": "blender/DOOR_ENTRY_M10G.blend",
+      "bytes": 769201,
+      "sha256": "7212e36999aa183d15d4f03ca05ec3468710fa3be086b5be5a353fcdd906ada9"
+    },
+    {
+      "path": "blender/DRIVER_CHASE_EDITABLE_M10.blend",
+      "bytes": 604473,
+      "sha256": "bd6bfd11796fb084c3f5aea35ca9a6a4058de5f2c18bc9f17a93c25693493002"
+    },
+    {
+      "path": "blender/DRIVER_CHASE_M10.blend",
+      "bytes": 609823,
+      "sha256": "035282cbcf87450a49c190535f59f9d62cf8a903e598bcfdc7725d6a0f7fbfef"
+    },
+    {
+      "path": "blender/DRIVER_CHASE_M10C.blend",
+      "bytes": 609823,
+      "sha256": "035282cbcf87450a49c190535f59f9d62cf8a903e598bcfdc7725d6a0f7fbfef"
+    },
+    {
+      "path": "blender/DRIVING_COCKPIT_EDITABLE_M10.blend",
+      "bytes": 620070,
+      "sha256": "9d66b6313c40d997cd37ad06f9aa885f097e11fe7c3f968045865c673569a1ae"
+    },
+    {
+      "path": "blender/DRIVING_COCKPIT_M10.blend",
+      "bytes": 625689,
+      "sha256": "29c6e4932adfd140ac8bce472fb03f4138572fca082f00d94bafae99cce28bfd"
+    },
+    {
+      "path": "blender/KEY_LOCK_M10B.blend",
+      "bytes": 501215,
+      "sha256": "f52910670ec89f08de52c10dcbb19089674b517f90d13e76af659b494db68c84"
+    },
+    {
+      "path": "blender/ROAD_BUILDINGS_WORLD_M10_RELEASE.blend",
+      "bytes": 521296,
+      "sha256": "22c2fed05a70d30c68aac855c3b9c1680214a0e44bd67cb1ddefd47e925eee82"
+    },
+    {
+      "path": "blender/STAIRS_M09.blend",
+      "bytes": 414221,
+      "sha256": "799875cb9642e047fe95d3f1803433d5671050460fe94c7c4407ff023e63f4bf"
+    },
+    {
+      "path": "blender/STAIRS_M10D.blend",
+      "bytes": 398777,
+      "sha256": "5ee7c9c83b401ce577455393498e98dc023413beefcea3ee78de4e70cee0a84b"
+    },
+    {
+      "path": "blender/WINDOW_CURTAIN_M10B.blend",
+      "bytes": 879145,
+      "sha256": "e98d379f8028e59d8c185e079f387f78961663f02ceee528709328c3c7f5e354"
+    },
+    {
+      "path": "reports/BATCH_1080_True.json",
+      "bytes": 24,
+      "sha256": "e7f439bcdfc9e2ebd8f65bbf78246aa640716f4b769491b445d2f59da75a3140"
+    },
+    {
+      "path": "reports/BATCH_360_False.json",
+      "bytes": 42,
+      "sha256": "13c8f496603e6532332ecce11d5e69bca2375f8335093259dad442329252119c"
+    },
+    {
+      "path": "reports/CAMERA_CLEARANCE.json",
+      "bytes": 970,
+      "sha256": "319800cf956ffac091126c0d050319262c670a81b74b44d5face954af7c97880"
+    },
+    {
+      "path": "reports/CAR_CHASE_FINAL_MEDIA.json",
+      "bytes": 738,
+      "sha256": "9c9648f47b35ff3450cfd0429d7af34510abb431ada0dc4563cf2322f99ca848"
+    },
+    {
+      "path": "reports/CAR_CHASE_SOUND.json",
+      "bytes": 911,
+      "sha256": "aa42689f31b80eb988195a9d135fcbe62eeb99476a1e66e5df49400b3cc1cedf"
+    },
+    {
+      "path": "reports/CAR_CHASE_WORLD_SOURCE.json",
+      "bytes": 683,
+      "sha256": "d057f2b2e180a9f6a406b275a150ed4807da0bab13baf09370534773f301d26a"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_FINAL_MEDIA.json",
+      "bytes": 745,
+      "sha256": "27279b64caf68db328d94612b830c5b95baf780ac43b81f5e2b568253d7efc62"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_FINAL_MEDIA_HANDLE_ONLY_PASS.json",
+      "bytes": 745,
+      "sha256": "10f1eb35ce714641f5e58ee8c2d1daa9785b7a8085c46f75046da696256e7b19"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_FINAL_MEDIA_REJECTED_HANDLE_TIMING.json",
+      "bytes": 745,
+      "sha256": "a4f22b9518969c0c2967bd2f9bc71e65ff465449befb00b7c8456db0ebbc52a6"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_M10I_CONTACTS.json",
+      "bytes": 1125,
+      "sha256": "69d4c84573b1c449ce6a9be0b6e8b39ec7e388d7ee434b1fe78c84d7bb5abcf1"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_M10_CONTACTS.json",
+      "bytes": 1122,
+      "sha256": "d805634446da222c3c3194868ff522f0b714155807b506d42a6b995bde1e090b"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_SOUND.json",
+      "bytes": 2267,
+      "sha256": "17f30b40406f7332b19681737c132bf05734a0999de985737acb6028b27b4de4"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_SOUND_HANDLE_ONLY_PASS.json",
+      "bytes": 2267,
+      "sha256": "969feaf71ca30f25cddf7d7ddff61030df899af59d0aeba8b940682da3e76864"
+    },
+    {
+      "path": "reports/CAR_EXIT_RUNNING_SOUND_REJECTED_HANDLE_TIMING.json",
+      "bytes": 2266,
+      "sha256": "e6eaada4ae284696157c8413c9f353bea54e398e12c9289771ad5fad33607628"
+    },
+    {
+      "path": "reports/COCKPIT_NATIVE_HIERARCHY.json",
+      "bytes": 3508,
+      "sha256": "83d60da7d56042c8dc4d3f40a86db7076a46b59cd75fabca0306378d8ff0e879"
+    },
+    {
+      "path": "reports/COMPARISON_SOURCES.json",
+      "bytes": 8258,
+      "sha256": "d3ca27b99765a72c9cb2d5095932f45e3639f8505208fae516516632f76d1d8e"
+    },
+    {
+      "path": "reports/DOOR_BODY_COLLISION_CHECK.json",
+      "bytes": 724,
+      "sha256": "d196af4050e1ef0f6b849c1af981cb3db650455d069da5e5df1de1af81d135d1"
+    },
+    {
+      "path": "reports/DOOR_ENTRY_FINAL_MEDIA.json",
+      "bytes": 739,
+      "sha256": "3974e5bf2101723a841b2de8e5ce36240141ace9b168a8a68181696224eea13a"
+    },
+    {
+      "path": "reports/DOOR_ENTRY_M10E_CONTACTS.json",
+      "bytes": 1117,
+      "sha256": "5e0935b9891b5fec8fa299ce134d24c8e408f562ca83321b4ed454e5d883bf89"
+    },
+    {
+      "path": "reports/DOOR_ENTRY_M10G_CONTACTS.json",
+      "bytes": 1117,
+      "sha256": "8634e4919cf0f464264c211d5574a8dc4a4d9cf6b12762d9d3e7808dffecbf71"
+    },
+    {
+      "path": "reports/DOOR_ENTRY_M10_CONTACTS.json",
+      "bytes": 1118,
+      "sha256": "e002540313547d39a7fa7228f595dd8611e45e63db8b2b190019c504066da24d"
+    },
+    {
+      "path": "reports/DOOR_ENTRY_SOUND.json",
+      "bytes": 2921,
+      "sha256": "1f8bae1179d0110c6705a37ad14cd704417887b3762f85a341fbcdb86f12f1e6"
+    },
+    {
+      "path": "reports/DRIVER_CHASE_M10_CONTACTS.json",
+      "bytes": 1054,
+      "sha256": "1fe32c54c0f8d3b0a5b83492831c0778f90ff732515cb25e858c1dac89d5a83f"
+    },
+    {
+      "path": "reports/DRIVING_COCKPIT_FINAL_MEDIA.json",
+      "bytes": 744,
+      "sha256": "c8402fe87f57396eddf137c2e8d43fe9b83b81940edefd36019c178b88b3a328"
+    },
+    {
+      "path": "reports/DRIVING_COCKPIT_M10_CONTACTS.json",
+      "bytes": 1057,
+      "sha256": "3f42d98f0a4b81c14452a551ff632b96acb2efae9b2f6acd3037ea273014c530"
+    },
+    {
+      "path": "reports/DRIVING_COCKPIT_SOUND.json",
+      "bytes": 833,
+      "sha256": "87c91fbb0061db66edcc6650091e717a3b17471af37ae6a77dd57a0aaf8ff823"
+    },
+    {
+      "path": "reports/EXIT_FRAME_REUSE.json",
+      "bytes": 3123,
+      "sha256": "a966d4db84d6599961d155d6b8213396eaeb2bcd4e5c70d303bbcc9eeaf91a8d"
+    },
+    {
+      "path": "reports/EXIT_FRAME_REUSE_HANDLE_ONLY.json",
+      "bytes": 3122,
+      "sha256": "e398493c63739d3a6bf867c667cd75fdf4315504d8a9e9fdd880b460e187068d"
+    },
+    {
+      "path": "reports/EXIT_TERRAIN_REPAIR.json",
+      "bytes": 563,
+      "sha256": "007c813a13e163966306ccfdb42d4bae36975e82187729f190e91b007967ff40"
+    },
+    {
+      "path": "reports/INPUT_MEDIA_AUDIT.json",
+      "bytes": 2851,
+      "sha256": "0d3ef2f02caa7f0476bc74643d0d146cb81d52951a1ca116dce685c0b4ca28b1"
+    },
+    {
+      "path": "reports/KEY_LOCK_FINAL_MEDIA.json",
+      "bytes": 735,
+      "sha256": "76264e87d9bb8a506368d03a6aec13439999401e3417f0e623c5704fb5685f96"
+    },
+    {
+      "path": "reports/KEY_LOCK_M10B_CONTACTS.json",
+      "bytes": 1117,
+      "sha256": "6ca7b51cf3aa4653367959776a9356af26bc8ca800daf1e97cb1283b7625bdca"
+    },
+    {
+      "path": "reports/KEY_LOCK_SOUND.json",
+      "bytes": 1325,
+      "sha256": "884688d70ab58d1891b55146c1085dfd3dd5780dd542e65d8c8d975fb39f3ea9"
+    },
+    {
+      "path": "reports/M09_PRESERVATION_BASELINE.json",
+      "bytes": 86980,
+      "sha256": "ac96fea7b929b5f2b70db06f6c70a573deaaad2302d552a48809ce44a9c35bd4"
+    },
+    {
+      "path": "reports/M10_CAR_EXIT_RUNNING_FINAL_RENDER_HANDLE_ONLY_PASS.json",
+      "bytes": 40971,
+      "sha256": "42bebb8029926950504afe41811ca281275df56064e7b8cddd80854742a7ba25"
+    },
+    {
+      "path": "reports/M10_CAR_EXIT_RUNNING_FINAL_RENDER_REJECTED_HANDLE_TIMING.json",
+      "bytes": 40338,
+      "sha256": "5fca4418483638fec3490e372e0beab7fc674bd12fc822d2f8fb91cff394900e"
+    },
+    {
+      "path": "reports/M10_DELIVERY_A_final-playback.json",
+      "bytes": 9832,
+      "sha256": "36af5be2981f896bc941bb3192e6287c0ee548e205a7095e4ab3f39ca127a5a2"
+    },
+    {
+      "path": "reports/M10_DELIVERY_B_final-playback.json",
+      "bytes": 9601,
+      "sha256": "6ee3891deff8abb6e7b5931832779d7eebae55402cb37d74091f644e51d9e0dd"
+    },
+    {
+      "path": "reports/M10_DELIVERY_C_final-playback.json",
+      "bytes": 2915,
+      "sha256": "75c911cd1e122a177348655983bc414dfbd2030eaa11d1a1c8c85546c2073bbe"
+    },
+    {
+      "path": "reports/M10_PREVIEW_A_preview-playback.json",
+      "bytes": 8789,
+      "sha256": "676ec4ed16b8c3005c7608108f9f9f62183f2fe35a71294dfb9ddabf7979a915"
+    },
+    {
+      "path": "reports/M10_PREVIEW_B_preview-playback.json",
+      "bytes": 6386,
+      "sha256": "086028a3e5a19bd6fe83ad65abcbedd111b5c9f909666f3e61c23e55bbe1d8d7"
+    },
+    {
+      "path": "reports/M10_PREVIEW_DOOR_preview-playback.json",
+      "bytes": 3055,
+      "sha256": "9cbbec1e68fb26f37197631318d46410599b0d5480504fccc7f6a3ce16b152f4"
+    },
+    {
+      "path": "reports/M10_PREVIEW_EXIT_FINAL_preview-playback.json",
+      "bytes": 2400,
+      "sha256": "5c464e868ee0962deb8cb27320cf601e16d53b03d9d927dcb918d7f280914cf0"
+    },
+    {
+      "path": "reports/MASTER_VALIDATION.json",
+      "bytes": 402566,
+      "sha256": "df9ed7d59fd4c5dd30dba9dc8f95205f7dcc9ee2ccee27242624d51021b3db0e"
+    },
+    {
+      "path": "reports/MEDIA_VALIDATION.json",
+      "bytes": 6412,
+      "sha256": "2323e92d160155a782c1743f10206e390e838df62bfd721d06fa7e45e70e15cb"
+    },
+    {
+      "path": "reports/MOTION_MEASUREMENTS.json",
+      "bytes": 1655,
+      "sha256": "00e4ed56d81a72c160697730498815b6a4db0c7f3c2d0ee0d45b7275451c9f90"
+    },
+    {
+      "path": "reports/NATIVE_PROP_PARITY.json",
+      "bytes": 2317,
+      "sha256": "ee6eab197cdab737766e1815b0ec1b3a024a378a9939d9b7de245b14b78271b2"
+    },
+    {
+      "path": "reports/NATIVE_QA_SUMMARY.json",
+      "bytes": 6994,
+      "sha256": "9ff17f673539f8ef469c366c476e9ab9cac9c9a6c34522fe0b8d9be63a25c830"
+    },
+    {
+      "path": "reports/PRESERVATION_AFTER.json",
+      "bytes": 219,
+      "sha256": "a8d2728f3ddb9f6f53d06643db2d22d8c786e108d3a59047287b2a691f4cc74c"
+    },
+    {
+      "path": "reports/PROP_INTERACTION_VALIDATION.json",
+      "bytes": 4223,
+      "sha256": "3de66943d78d47a975accf9e34afe43c04ede458849a35fd3b37454aafa3e0d3"
+    },
+    {
+      "path": "reports/REJECTED_DOOR_BODY_COLLISION_CHECK.json",
+      "bytes": 924,
+      "sha256": "4fcdc7aacfff77058e09de4ba163f70db927ea582d0bff9a2552df7840ffbae4"
+    },
+    {
+      "path": "reports/REJECTED_STAIRS_M10_NATIVE_RECHECK.json",
+      "bytes": 427,
+      "sha256": "185fab2a515e86c97298cc03a547ad6c40b35036a4936d4c9ad4b8c98bad8103"
+    },
+    {
+      "path": "reports/ROAD_BUILDINGS_FINAL_MEDIA.json",
+      "bytes": 741,
+      "sha256": "4c81e9d82f271dbbb412565b28783eb895a1321218cff708501be1c362f4e411"
+    },
+    {
+      "path": "reports/ROAD_BUILDINGS_SOUND.json",
+      "bytes": 730,
+      "sha256": "e6c524d413c17916bb7e3c7a06687ab3684f83a1ce964181f85c011f17ace305"
+    },
+    {
+      "path": "reports/ROAD_BUILDINGS_WORLD_SOURCE.json",
+      "bytes": 688,
+      "sha256": "ad6a1d5fc514213153d9bd44e78a763c1e124e7c308a28f4fbbc644f14f1ed1c"
+    },
+    {
+      "path": "reports/SHOT_REVISIONS.json",
+      "bytes": 209,
+      "sha256": "eeeb7e9b38b3906a582d01f11004eba1e0a3488ecd62cbde4a92409a48b8fcdf"
+    },
+    {
+      "path": "reports/STAIRS_FINAL_MEDIA.json",
+      "bytes": 733,
+      "sha256": "0e88edab3ea322bdacf227e1583db70dc84ab13f5e9b7e7e374eeb7ddbfb72bc"
+    },
+    {
+      "path": "reports/STAIRS_M10D_NATIVE_RECHECK.json",
+      "bytes": 430,
+      "sha256": "b307c89d84ec65a469f6b343e3d72c33401da3e696c76602716d371e673c61ab"
+    },
+    {
+      "path": "reports/STAIRS_M10_NATIVE_RECHECK.json",
+      "bytes": 427,
+      "sha256": "185fab2a515e86c97298cc03a547ad6c40b35036a4936d4c9ad4b8c98bad8103"
+    },
+    {
+      "path": "reports/STAIRS_SOUND.json",
+      "bytes": 1101,
+      "sha256": "0a7f5b3c6062ad9f99be86377a37337d093146410e0c89e5ee84ae22a123eea0"
+    },
+    {
+      "path": "reports/VEHICLE_TRAJECTORY.json",
+      "bytes": 288240,
+      "sha256": "8729b9181649cc96edb4ae2ec50c3c9244866b461edbd096fcad3e0a4f79a24f"
+    },
+    {
+      "path": "reports/VEHICLE_WORLD_VALIDATION.json",
+      "bytes": 1654,
+      "sha256": "3bf0ef60c424e56030468abcfba1ba6d218ebfdd4bae38e41c567f00aba7da1f"
+    },
+    {
+      "path": "reports/WINDOW_CURTAIN_FINAL_MEDIA.json",
+      "bytes": 743,
+      "sha256": "3f0fdcca8d101741ac017d531e4be339e94d1f2bd39e95b36d905f569d3fb35a"
+    },
+    {
+      "path": "reports/WINDOW_CURTAIN_M10B_CONTACTS.json",
+      "bytes": 1123,
+      "sha256": "508ee82acdaf5aa5bd9e95e7e66bf7e1ba729bf6f24e5008479cb58957458bd6"
+    },
+    {
+      "path": "reports/WINDOW_CURTAIN_SOUND.json",
+      "bytes": 1512,
+      "sha256": "4d47cd9078acbeba2a179b09c0618183dced6fe2ccbfcec123ce129d27265f11"
+    },
+    {
+      "path": "scenes/STAIRS_M10D_NATIVE.json.gz",
+      "bytes": 5081955,
+      "sha256": "2f54112946750900708885c95f1f98988bdd02f8c2ee06d60238da2ff048ab92"
+    },
+    {
+      "path": "sound/M10_CAR_CHASE_FOLEY.wav",
+      "bytes": 528044,
+      "sha256": "c8269790a806eb92a8deead91b42a16f87edc0cc5ad96a1655f29bfe69ca5726"
+    },
+    {
+      "path": "sound/M10_CAR_EXIT_RUNNING_FOLEY.wav",
+      "bytes": 518444,
+      "sha256": "ccf1256178251c5015d3bc7b155fcad7962bce29fcd92933b1b9dd26a9e6e40a"
+    },
+    {
+      "path": "sound/M10_DOOR_ENTRY_FOLEY.wav",
+      "bytes": 768044,
+      "sha256": "72545a9cdfd92b23acfa17812df2756e81e1051001f7d10a3bb41b73443a187a"
+    },
+    {
+      "path": "sound/M10_DRIVING_COCKPIT_FOLEY.wav",
+      "bytes": 576044,
+      "sha256": "6ff81d15d613c72d1efe1223e54a65734e411d34368e6875976c35a074d6c5bf"
+    },
+    {
+      "path": "sound/M10_KEY_LOCK_FOLEY.wav",
+      "bytes": 432044,
+      "sha256": "77fe83df3e27e9492d76eb605285d9cee9a239cb79e8aa5a402372b820c7a56a"
+    },
+    {
+      "path": "sound/M10_ROAD_BUILDINGS_FOLEY.wav",
+      "bytes": 336044,
+      "sha256": "dac9ad17b906b49369d4f1375f3f3d1b9717447ebfdab6188423fcca463872a4"
+    },
+    {
+      "path": "sound/M10_STAIRS_FOLEY.wav",
+      "bytes": 288044,
+      "sha256": "9fdd4b165f004995bc862ceb37ff5700d6a856a6c0857901e6114a4bc1f50e8e"
+    },
+    {
+      "path": "sound/M10_WINDOW_CURTAIN_FOLEY.wav",
+      "bytes": 504044,
+      "sha256": "55a8deb223c154b7ad984f106a081e793bfed56bbb0b9cd5090a1e7296855c34"
+    },
+    {
+      "path": "source/actions.py",
+      "bytes": 6585,
+      "sha256": "8be6a9be5dba4ba8837c8687bf13aec5dde2c2180690cb50478cc166ecad177c"
+    },
+    {
+      "path": "source/actions_M08.py",
+      "bytes": 12957,
+      "sha256": "f49ce4046bf6f54836e006bc357966bec6b307b1c976e9f24e89cbee3e3662ac"
+    },
+    {
+      "path": "source/actions_M08B.py",
+      "bytes": 12955,
+      "sha256": "33497cf96c51b4098ebe21c79d70b50930c181eefb71dde115ca78bc6ab2c689"
+    },
+    {
+      "path": "source/actions_M08C.py",
+      "bytes": 12955,
+      "sha256": "33497cf96c51b4098ebe21c79d70b50930c181eefb71dde115ca78bc6ab2c689"
+    },
+    {
+      "path": "source/actions_M08D.py",
+      "bytes": 12947,
+      "sha256": "55797a98a37fc0db32e606d7ab4327a819701aab02aa1b3486e9480207da80cb"
+    },
+    {
+      "path": "source/actions_M08E.py",
+      "bytes": 12947,
+      "sha256": "55797a98a37fc0db32e606d7ab4327a819701aab02aa1b3486e9480207da80cb"
+    },
+    {
+      "path": "source/actions_M08F.py",
+      "bytes": 12947,
+      "sha256": "55797a98a37fc0db32e606d7ab4327a819701aab02aa1b3486e9480207da80cb"
+    },
+    {
+      "path": "source/actions_M08G.py",
+      "bytes": 15316,
+      "sha256": "26684442450df6dffad035ac2e60493f79e2186559f8856c9f5597246c452f50"
+    },
+    {
+      "path": "source/actions_M08H.py",
+      "bytes": 15422,
+      "sha256": "9954fc8575a47206474799f49343e6ef5bdccb294ab85b2560d94ad7fe1f1cd7"
+    },
+    {
+      "path": "source/actions_M08I.py",
+      "bytes": 15944,
+      "sha256": "49b7a71f953eb35cb1f70a3cb128d0d1f2a95f4b116030ece1f434362ea49d5b"
+    },
+    {
+      "path": "source/actions_M08J.py",
+      "bytes": 13260,
+      "sha256": "790dfe0a8dd194ecf781147d0dd5f2eebd7bd6db98a435aae48dfcf5dbb7bb0f"
+    },
+    {
+      "path": "source/actions_M09.py",
+      "bytes": 2364,
+      "sha256": "c80226def37b01f5409f0a75eb315ad6e19be3ff9f846cb2f16b59146f198cbe"
+    },
+    {
+      "path": "source/actions_M09B.py",
+      "bytes": 3046,
+      "sha256": "c11e435b8538a7ff95cf4c3988500c6c9ca3392a7a6f821fac186d4ddae06da6"
+    },
+    {
+      "path": "source/actions_M09C.py",
+      "bytes": 3084,
+      "sha256": "7bfa371793c712907d91b7f0ad23fc8f1460ce1826e6b4533fa0cdb755ae36aa"
+    },
+    {
+      "path": "source/actions_M09D.py",
+      "bytes": 3154,
+      "sha256": "dad5026ddaecf685203b49002f3894234c44a7c0fee2d1b82fadcdc8276adce5"
+    },
+    {
+      "path": "source/actions_M09E.py",
+      "bytes": 3154,
+      "sha256": "dad5026ddaecf685203b49002f3894234c44a7c0fee2d1b82fadcdc8276adce5"
+    },
+    {
+      "path": "source/actions_M09F.py",
+      "bytes": 3154,
+      "sha256": "dad5026ddaecf685203b49002f3894234c44a7c0fee2d1b82fadcdc8276adce5"
+    },
+    {
+      "path": "source/actions_M09G.py",
+      "bytes": 3154,
+      "sha256": "dad5026ddaecf685203b49002f3894234c44a7c0fee2d1b82fadcdc8276adce5"
+    },
+    {
+      "path": "source/actions_M09H.py",
+      "bytes": 3614,
+      "sha256": "08dea3adf06f9c81b8216a7a00f49165a463faced68798e4ba72ae6a7c244027"
+    },
+    {
+      "path": "source/actions_M09K.py",
+      "bytes": 734,
+      "sha256": "64602ef73b515c61d591171e214dd41e90981115524651a56a835586b971cc77"
+    },
+    {
+      "path": "source/actions_M09L.py",
+      "bytes": 3154,
+      "sha256": "dad5026ddaecf685203b49002f3894234c44a7c0fee2d1b82fadcdc8276adce5"
+    },
+    {
+      "path": "source/actions_M10.py",
+      "bytes": 4925,
+      "sha256": "c63379cb25ab9437c385cd233e0bf0bfef6122df0e8157a4112ecff91ccbf0ed"
+    },
+    {
+      "path": "source/actions_M10B.py",
+      "bytes": 5697,
+      "sha256": "c0a7b9c5c3b56139d72c796cd9833e8666ed323cd54374d3013c9809639e80d1"
+    },
+    {
+      "path": "source/actions_M10C.py",
+      "bytes": 4925,
+      "sha256": "c63379cb25ab9437c385cd233e0bf0bfef6122df0e8157a4112ecff91ccbf0ed"
+    },
+    {
+      "path": "source/actions_M10E.py",
+      "bytes": 5819,
+      "sha256": "927ac56edf5f6789e83b2090c0d5842795b7db4f66aad35df06dd6fe88b760cc"
+    },
+    {
+      "path": "source/actions_M10F.py",
+      "bytes": 5819,
+      "sha256": "927ac56edf5f6789e83b2090c0d5842795b7db4f66aad35df06dd6fe88b760cc"
+    },
+    {
+      "path": "source/actions_M10G.py",
+      "bytes": 6071,
+      "sha256": "d8c16b5dae623e14e4e2aabc02df78cda82c49eb8e6cc3198e82e43b2d38894b"
+    },
+    {
+      "path": "source/actions_M10H.py",
+      "bytes": 6071,
+      "sha256": "da861073b191ea668e5ef88cb094cf825bbade787621cf56f9aa114505ca0162"
+    },
+    {
+      "path": "source/actions_M10I.py",
+      "bytes": 6585,
+      "sha256": "8be6a9be5dba4ba8837c8687bf13aec5dde2c2180690cb50478cc166ecad177c"
+    },
+    {
+      "path": "source/actions_R07.py",
+      "bytes": 9643,
+      "sha256": "b8f921241c4c13701661f1be8d9c1fc9e434eff831cc615f05942d50cff599c6"
+    },
+    {
+      "path": "source/actions_R08.py",
+      "bytes": 9820,
+      "sha256": "d3eac5e4e932b1009c3c156d7ff92f85cc7ecbe16130d0fc4e20cbde3f2ee98f"
+    },
+    {
+      "path": "source/actions_R09.py",
+      "bytes": 9820,
+      "sha256": "0bae53014ee9d3c21c44c25a07cb13c071a18dfb7a0a2e46fabb636f636043a1"
+    },
+    {
+      "path": "source/actions_R11.py",
+      "bytes": 10835,
+      "sha256": "52e7cc6fa12e7aa6fff66433a899da5b79cb03c83611323f4741beedd4eb1016"
+    },
+    {
+      "path": "source/actions_R12.py",
+      "bytes": 10972,
+      "sha256": "3eab2ce6913dfbce980709e184f7eb42ac8a64c06affc0dad30c41b867e47494"
+    },
+    {
+      "path": "source/actions_R16.py",
+      "bytes": 11261,
+      "sha256": "9a3b2c78dd19179b6b462ae8cd911612d26d5ceb42344503ecab18e9d5b04849"
+    },
+    {
+      "path": "source/actions_R18.py",
+      "bytes": 11419,
+      "sha256": "0f6e83b69988dff6cf1a126a549df8183bd5920e605bea8e82048aae9355991b"
+    },
+    {
+      "path": "source/actions_R20.py",
+      "bytes": 11444,
+      "sha256": "65bd5380cb761ff261be0cc459200cacf6490e2013f4d8c6e07a132482ed3a88"
+    },
+    {
+      "path": "source/actions_R22.py",
+      "bytes": 11502,
+      "sha256": "59063741bc485a838df3bb0914d0bbacb8ef6c53214c0e97a6667fbae3ddda27"
+    },
+    {
+      "path": "source/actions_exit_reframe_controller.py",
+      "bytes": 734,
+      "sha256": "64602ef73b515c61d591171e214dd41e90981115524651a56a835586b971cc77"
+    },
+    {
+      "path": "source/approved_head.py",
+      "bytes": 2046,
+      "sha256": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc"
+    },
+    {
+      "path": "source/approved_head_view.py",
+      "bytes": 2401,
+      "sha256": "ff008ce392226417a083e75e53d5119adc0d41132ca1fd79b684c2ec121e3d33"
+    },
+    {
+      "path": "source/audit_baseline.py",
+      "bytes": 2472,
+      "sha256": "27a79a9f1da2fba9dc0b0c879aba214b8dc2ad5c75fbf0a064f8953fd24cd395"
+    },
+    {
+      "path": "source/audit_m09.py",
+      "bytes": 1108,
+      "sha256": "d74933ad920b475c5ee93eb028749580e97b0f2aa2bb073f9e3d6faf67f10b6b"
+    },
+    {
+      "path": "source/audit_m10.py",
+      "bytes": 1108,
+      "sha256": "4d06ef1cdd4be60ec9fad66273e96e305df40637f33e5838ed2cc8a002db693a"
+    },
+    {
+      "path": "source/bake_native.py",
+      "bytes": 11319,
+      "sha256": "9783d39cef536ec7552f19d27e27c61ddc808b74881d3454a4095e96f3f0b4c6"
+    },
+    {
+      "path": "source/bake_native_R07.py",
+      "bytes": 10930,
+      "sha256": "81e0af78c28627bf5ddab3bf841eacc5572ef3aae7553f4f61c778b4a9ae9515"
+    },
+    {
+      "path": "source/bootstrap.py",
+      "bytes": 203,
+      "sha256": "61fb92f525f24174053cee05c081332013f4f31df2063f506b64536fe3f57f5b"
+    },
+    {
+      "path": "source/build_comparison_sheets.py",
+      "bytes": 1342,
+      "sha256": "a281012944241c35910c2b076c7cb3a470213637d90e50f652e90c1a6cd4ede6"
+    },
+    {
+      "path": "source/build_comparisons.py",
+      "bytes": 2431,
+      "sha256": "07ac266d9f9be5132b6bda33244a5b0be6e74b6bd9c816da8aa3ceac94e34607"
+    },
+    {
+      "path": "source/build_qa_report.py",
+      "bytes": 7690,
+      "sha256": "bbc5a84cc30f17fd98f226074dc3a8730555f26a23d2b3742f24535e8627ab0b"
+    },
+    {
+      "path": "source/cameras.py",
+      "bytes": 3304,
+      "sha256": "1113c5a7e4564b8e97513fefd963c2c33a526381755a25b97f7064f08e3ccc91"
+    },
+    {
+      "path": "source/cameras_M08A.py",
+      "bytes": 838,
+      "sha256": "6544293c5d3ffda670714e2e360f7c838187cbb3f353a69d2d87bb4c8e6d211c"
+    },
+    {
+      "path": "source/cameras_M08E.py",
+      "bytes": 921,
+      "sha256": "a1a51d97fe083a841375c4011f6dd1360bc63c9435c8c0d2c5095ac49e0acd97"
+    },
+    {
+      "path": "source/cameras_M09D.py",
+      "bytes": 2213,
+      "sha256": "06a1c5181fb3a8249ed81b33f91abee5326cc9293c5fcae7635319de7e12ebb8"
+    },
+    {
+      "path": "source/cameras_M09E.py",
+      "bytes": 2213,
+      "sha256": "90ddf36de42f57ab30048410a8c6673ca3d421157fa83465ff7991e288d75699"
+    },
+    {
+      "path": "source/cameras_M09G.py",
+      "bytes": 2277,
+      "sha256": "65174109ec5abc71fbbe68c208a3e95f348caa880cd96a9e4b33fb8293e14c6c"
+    },
+    {
+      "path": "source/cameras_M09K.py",
+      "bytes": 2288,
+      "sha256": "c22f8bc03d8455a352c7e58a05f8f7e5868120d0bc436298cbb9a90d983b23dc"
+    },
+    {
+      "path": "source/cameras_M09_FINAL.py",
+      "bytes": 2452,
+      "sha256": "f810534adb8e7da63183b271d713ff712fe4ddc53dcacecab47070beefc588ab"
+    },
+    {
+      "path": "source/cameras_M10A.py",
+      "bytes": 3304,
+      "sha256": "4f2dff8e64b0510bed21ac28dceff9554c69dbf7b37697c096935e536156c997"
+    },
+    {
+      "path": "source/cameras_R11.py",
+      "bytes": 402,
+      "sha256": "2f9fdabb068dc1043b1383dd399720dadfd5ac4d3dda123ca0379d9c6c306c7e"
+    },
+    {
+      "path": "source/cameras_R12.py",
+      "bytes": 505,
+      "sha256": "814e323ce8d789e1bea003b7804b166e5524a4917e1bc3491ab79d613c6ba79c"
+    },
+    {
+      "path": "source/cameras_base_R07.py",
+      "bytes": 1955,
+      "sha256": "c6ea8b4b1b845c541392b1e1af8d355c6d2dee9df935ea9cfd855298cd36f443"
+    },
+    {
+      "path": "source/check_door_body.py",
+      "bytes": 1597,
+      "sha256": "3d4579fe875702f9a95010f65eed73b8946bf16f4e53de01beb7f41a4bc61f7d"
+    },
+    {
+      "path": "source/check_glyph_roi.py",
+      "bytes": 1299,
+      "sha256": "a8c791ccc3dc54f700dd62c7af0c78fc6068e095e92957348a24cb67cd2e1531"
+    },
+    {
+      "path": "source/check_inherited_stairs.py",
+      "bytes": 2467,
+      "sha256": "40819d974508f3ec4fb19b541036ef523a4b1159902066e4b36b399a8ec3e772"
+    },
+    {
+      "path": "source/check_native_props.py",
+      "bytes": 2335,
+      "sha256": "d81ad283371bd43a8e5006193e48b4253fd7f495eddfcc56c180dbbcbd262091"
+    },
+    {
+      "path": "source/check_stairs_m09.py",
+      "bytes": 2467,
+      "sha256": "52004297bfc9cff155b1c66ce95411153717f5b0087c4d8565201e4a9d46ae19"
+    },
+    {
+      "path": "source/check_stairs_m10.py",
+      "bytes": 2467,
+      "sha256": "ca2f1aa3cec4aa5a66fa922c8d2056d2bce275065cc7e64cdb6710e9772cb71b"
+    },
+    {
+      "path": "source/check_stairs_m10d.py",
+      "bytes": 2470,
+      "sha256": "d5dbf26cf00bb4ee1aeef003b7f2b956daff13656b26b00e87dd2bcf7fedc6ff"
+    },
+    {
+      "path": "source/complete_cockpit_hierarchy_m10.py",
+      "bytes": 2584,
+      "sha256": "bc3e37efe7b738d50a0d01f3365afc0e3d33afb0cb5bf2e01a7aee07e15daa30"
+    },
+    {
+      "path": "source/depth_render.py",
+      "bytes": 5331,
+      "sha256": "5f846c188716dddb26e25d92b51d86728c956d28f6dfa5c55646b4d62d595878"
+    },
+    {
+      "path": "source/depth_render_M08_BEFORE_ROI.py",
+      "bytes": 5497,
+      "sha256": "f329a9d8ed9bbad450fbbe99557c19af6a908fab39ceaf9e8322d83531e89587"
+    },
+    {
+      "path": "source/embed_assets.py",
+      "bytes": 8636,
+      "sha256": "b79ecccf8afb8409639549e5dd296e7971a014231820315da00951ea2dfb3498"
+    },
+    {
+      "path": "source/evaluate_saved.py",
+      "bytes": 3379,
+      "sha256": "0c7ae223c1cde863e662712c1848e1ff5f8a9af0234f067aa8c698346f776a10"
+    },
+    {
+      "path": "source/export_camera_data_m10.py",
+      "bytes": 1692,
+      "sha256": "b0ccb4e9129106eaddcf38206b956e7d6ebb7f5bfef5151c2bff0a8c2835787d"
+    },
+    {
+      "path": "source/export_stairs_m08.py",
+      "bytes": 4610,
+      "sha256": "e8530b2764c2b645bb94dccea6a1cd025df663adac8128dcbd6235bd89a6bb7c"
+    },
+    {
+      "path": "source/export_vehicle_scene.py",
+      "bytes": 2246,
+      "sha256": "e6fad4843bc727234ba4d5f81f5a3ff71908427205cce3fa9dd8b81115d19997"
+    },
+    {
+      "path": "source/export_vehicle_scene_m09.py",
+      "bytes": 2246,
+      "sha256": "c6cdda19b76869b59a7ea5bf6253c031cba98ebc9e18efd87b82cc24fbd1c187"
+    },
+    {
+      "path": "source/export_vehicle_scene_m10.py",
+      "bytes": 2246,
+      "sha256": "b604b3f163d06b5d42db4fcd8167d29d69fe236957134a13f0b52e8e0f3abe0b"
+    },
+    {
+      "path": "source/fast_depth.py",
+      "bytes": 2005,
+      "sha256": "e1e023c1c886b67200d0e6bbf1e19686e78e1491059f3cb200aef95df2e1d3b2"
+    },
+    {
+      "path": "source/fast_depth_M08_UNCACHED.py",
+      "bytes": 1365,
+      "sha256": "a7769cffe44a05267d0aa617dd0d5ed6ee87d607b4071c8b369a850ad5d38e6e"
+    },
+    {
+      "path": "source/fast_raster.cpp",
+      "bytes": 1721,
+      "sha256": "afa6b7ab734668e0bc8d6c706e83078241771ccb5337130e2c72b53531929458"
+    },
+    {
+      "path": "source/fetch_native_caches.py",
+      "bytes": 943,
+      "sha256": "46169aea94ff699a098caff9761cb0fba8abadc8bf00d85fa1536dd9e4b82384"
+    },
+    {
+      "path": "source/finalize_m09.py",
+      "bytes": 9322,
+      "sha256": "55e1a888f0389dbe7e72799a187b19f5c7e890c1487943dd4fdd0c39d2329883"
+    },
+    {
+      "path": "source/finalize_m10.py",
+      "bytes": 13355,
+      "sha256": "83fc293640955a3736f63a0cf9072bd62d29120f42900779a8710a9d5f142979"
+    },
+    {
+      "path": "source/finalize_report_m08.py",
+      "bytes": 9740,
+      "sha256": "f2f784f5d68385be6c62135a6b07367391f492271c27ac5658e0ed197e3feb77"
+    },
+    {
+      "path": "source/finish_and_validate_m09.py",
+      "bytes": 3030,
+      "sha256": "8a6d8683e4ed4196bd392a696a73210180288c4f9c2d0788d36cb5a7bd80c28c"
+    },
+    {
+      "path": "source/finish_and_validate_m10.py",
+      "bytes": 3306,
+      "sha256": "b59bc25a52bbdec6972f0f3135681530db42b77c7804adaa742cc9348d599800"
+    },
+    {
+      "path": "source/finish_diagnostic_labels.py",
+      "bytes": 1549,
+      "sha256": "e4658f23ea337fd6bcec8cbc134c22b294011aedb6cfc76fdd39e934ab10ee78"
+    },
+    {
+      "path": "source/interaction_system.py",
+      "bytes": 1230,
+      "sha256": "48629fa0d768ad642ae4cbf50eeace93a8030590af990af64f3198f61f8254d7"
+    },
+    {
+      "path": "source/legacy/actor.py",
+      "bytes": 3495,
+      "sha256": "294b39c8d92c59725df46929448c7e4f6809c6f3cbf74fa0ac9bf205d497a127"
+    },
+    {
+      "path": "source/legacy/approved_head.py",
+      "bytes": 2046,
+      "sha256": "e03092a7e7bc102cfd64a4b26ee1145547fe14e7296cb8ec46534900aee654dc"
+    },
+    {
+      "path": "source/legacy/contact_rig.py",
+      "bytes": 4880,
+      "sha256": "b4419d23cce001c8b4c44c1ea7580dc6cac59caf9b28dad5943bdaf160c186b3"
+    },
+    {
+      "path": "source/legacy/curtain_test.py",
+      "bytes": 2621,
+      "sha256": "32bb2c2f4063a1c9e6f86e48a42a30d82735cea7e581b83d1c1fd4e0e70d3ef8"
+    },
+    {
+      "path": "source/legacy/depth_render.py",
+      "bytes": 5099,
+      "sha256": "1312cc94ec06581a25b8abec38bc5f894ae4441de56c70151f553b73940ff4d2"
+    },
+    {
+      "path": "source/legacy/export_review.py",
+      "bytes": 4327,
+      "sha256": "8bcb52b6c0286ac74bef56a6c343f59f18e6a832c72ce8013c1f33c793f42394"
+    },
+    {
+      "path": "source/legacy/finish.py",
+      "bytes": 258,
+      "sha256": "490cc75f21fb8d5f39c8b8aafb62b9ec9bac76555af892b67e6e8813e5adc198"
+    },
+    {
+      "path": "source/legacy/geometry.py",
+      "bytes": 5435,
+      "sha256": "bfcfbaa5e3a94745a7863af090196c2ca07e482eeffa92c194c02d3716111b9f"
+    },
+    {
+      "path": "source/legacy/head_25d.py",
+      "bytes": 2365,
+      "sha256": "a1adfe8a7f4b2eff19db681cbeef5898ff7537ba38cb2eea0cc05736bd4719da"
+    },
+    {
+      "path": "source/legacy/head_view.py",
+      "bytes": 424,
+      "sha256": "11617865af63d274ab129beed9060232d6c75055a8d1ded06d583dace1032dbf"
+    },
+    {
+      "path": "source/legacy/key_test.py",
+      "bytes": 4214,
+      "sha256": "5ed237a3c3d957ac6b14a1db695e739e62d3fbefd12e586ce73397219605b281"
+    },
+    {
+      "path": "source/legacy/locomotion.py",
+      "bytes": 748,
+      "sha256": "e2b039d59a30451bdf63af2ea393f231658e69aeaba3bd18cbd6f130975ac693"
+    },
+    {
+      "path": "source/legacy/make_report.py",
+      "bytes": 5633,
+      "sha256": "c2596208e2a25345ed57e20bfffad711ad3904fe26263b5bacd647de10ef0fb9"
+    },
+    {
+      "path": "source/legacy/plot_trajectory.py",
+      "bytes": 969,
+      "sha256": "9309d497f9be35e7ef526484e65a076a7f7458932c91fb64b80b052673d9f705"
+    },
+    {
+      "path": "source/legacy/prove_freshness.py",
+      "bytes": 1580,
+      "sha256": "ded13d2e04ddff68902321922510154b57c4942fc2acb958dbb804d17b7a3b08"
+    },
+    {
+      "path": "source/legacy/qa.py",
+      "bytes": 6606,
+      "sha256": "1f2fc78c937f50a295358fa956e8b24de0865268e835d4177720f3d400ab927c"
+    },
+    {
+      "path": "source/legacy/render.py",
+      "bytes": 5076,
+      "sha256": "c3b895e2bfda548261e0f621076d2d7057719d0cead28551fde6b11948067daa"
+    },
+    {
+      "path": "source/legacy/repair_diagnostic_projection.py",
+      "bytes": 2660,
+      "sha256": "f24fa507ba08c4ada544b707b5170dd4e705e5996848ddf65513cb3c25645bf3"
+    },
+    {
+      "path": "source/legacy/review_playback.py",
+      "bytes": 3034,
+      "sha256": "5da6d418ea3ce75d7af526b795ad1c08984c3869614b43c369ed8bfb80897ef9"
+    },
+    {
+      "path": "source/legacy/rig.py",
+      "bytes": 1060,
+      "sha256": "b74d74e4cd23d9434cfa7809f76aea2d297d337bec09225ad08d185e9f21ad80"
+    },
+    {
+      "path": "source/legacy/shots.py",
+      "bytes": 11035,
+      "sha256": "f572685694bf7aff6c5ce2739303a68ac2aa83dcf0270a3f58bd28e4d2df2180"
+    },
+    {
+      "path": "source/legacy/stabilize.py",
+      "bytes": 3457,
+      "sha256": "05db76aaba2971f0df25517f35c72a2824a53af63116b145be7572b6ccb438a7"
+    },
+    {
+      "path": "source/legacy/stair_test.py",
+      "bytes": 3540,
+      "sha256": "e7a6f8d6e8676c9431259d472aa6acace4f7c2681700cf6dbf40dfddf06f8f09"
+    },
+    {
+      "path": "source/legacy/svg.py",
+      "bytes": 2619,
+      "sha256": "747944a913ae665f5bc8c83a461debad07f259de17f5c9a7c0fa092ff5d57c6b"
+    },
+    {
+      "path": "source/legacy/svg_M08_UNCACHED.py",
+      "bytes": 2569,
+      "sha256": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d"
+    },
+    {
+      "path": "source/legacy/vehicle_dynamics.py",
+      "bytes": 2800,
+      "sha256": "f0bb784c0aa2bcf3d9db80f401a03736ca0c1d22a7ab25803fa93c699a3860ca"
+    },
+    {
+      "path": "source/legacy/vehicle_test.py",
+      "bytes": 2633,
+      "sha256": "9d9b2cce70df148380ac42ed3808d12c3b3b9374a9e7f8f6e0a1284c6b47d7c1"
+    },
+    {
+      "path": "source/legacy/world.py",
+      "bytes": 5699,
+      "sha256": "a001dff3285e00dad61e530815cd5a14b862bbbaaec2e24810cc443c9de86ddb"
+    },
+    {
+      "path": "source/make_door_presentation.py",
+      "bytes": 2379,
+      "sha256": "7ecb9650da6667733f0e48e8ac84ce039d5744aae547fbb5e458358f457dac97"
+    },
+    {
+      "path": "source/make_door_presentation_R21.py",
+      "bytes": 2379,
+      "sha256": "08a39a2436c8d8b790ea0772baee8626a2b1ecf14d04238599cf883e0e2278a0"
+    },
+    {
+      "path": "source/make_door_presentation_R23.py",
+      "bytes": 2379,
+      "sha256": "afbfd151c16916829b4c85a2e32bd54d2db0e9a730065b9725398420c4b659f0"
+    },
+    {
+      "path": "source/make_key_presentation.py",
+      "bytes": 2331,
+      "sha256": "48e9372e19bcea22f1f0d004da7a202cc448d744c2bb5899bf83b31915b862d7"
+    },
+    {
+      "path": "source/measure_header_support.py",
+      "bytes": 1144,
+      "sha256": "c184730b16f198ce625b87c0d0feca27ddbc17fec195b76fb41d8ccc4bd61210"
+    },
+    {
+      "path": "source/measure_motion_m10.py",
+      "bytes": 1664,
+      "sha256": "5c1500b0b60c2b847db83e3a6c216166ac27e31f0a5042c64ae7e35452bc846c"
+    },
+    {
+      "path": "source/native_pov_presentation.py",
+      "bytes": 1770,
+      "sha256": "f7facdd3840bdd409d4b6150c39a788626882d6764b2616558869ed5176476bb"
+    },
+    {
+      "path": "source/native_reopen_check.py",
+      "bytes": 1922,
+      "sha256": "c5765c585341aaa2a1efb4f49b4f99c2c41b41b6ba0bdabedff04a95b4c1f5ad"
+    },
+    {
+      "path": "source/native_style.py",
+      "bytes": 9707,
+      "sha256": "1ae08a1286418d017a0b1d2c8f63b2f8867404b5103fc8603f095ebb82192d64"
+    },
+    {
+      "path": "source/package_m08.py",
+      "bytes": 2366,
+      "sha256": "49ec480927dc8972947302cc95123cc98fa6903ed452a5070445b861de631181"
+    },
+    {
+      "path": "source/package_m09.py",
+      "bytes": 2485,
+      "sha256": "6159ac60b00e552232f5c15374049eb9511f0b4b5b6be706920daf84e01e7aa1"
+    },
+    {
+      "path": "source/package_m10.py",
+      "bytes": 3204,
+      "sha256": "f63d5770fe3d195654d249d1a441494c82aef312a663cf836d912c0dce484384"
+    },
+    {
+      "path": "source/package_sources.py",
+      "bytes": 2142,
+      "sha256": "11cc83db4ffd3227402c2e0b478c0732ab881b359828269406fd02c911aa2643"
+    },
+    {
+      "path": "source/polish_stairs_m08.py",
+      "bytes": 1636,
+      "sha256": "966145ca5d8402d0c5785b3487f4aeb7823137d7cd13faa2d0725c34d297b1ae"
+    },
+    {
+      "path": "source/polish_stairs_m09.py",
+      "bytes": 1834,
+      "sha256": "b3ede93e9f59b86060480be4a9340edf5f8532e3caa2ebafc587820d279e869c"
+    },
+    {
+      "path": "source/prepare_m10.py",
+      "bytes": 259,
+      "sha256": "f597034c4c93b590020e45ec004067440c6bd9859ca04fcaf5614b58b286733e"
+    },
+    {
+      "path": "source/prestage_m10.py",
+      "bytes": 2000,
+      "sha256": "dd0f7ea83e078136bc9f1145cb481976d5c85495c4143cee94c95241fbf9b2e9"
+    },
+    {
+      "path": "source/produce_m09.py",
+      "bytes": 607,
+      "sha256": "e763a973b7672eab6c6f16696a8b2ccccfbc60c26137173706fa1fd8c7bab02d"
+    },
+    {
+      "path": "source/produce_m09d.py",
+      "bytes": 610,
+      "sha256": "91620300c9720da5987a99194d4c7946c700c82f9836eb8b6e1dd13caae2d22d"
+    },
+    {
+      "path": "source/produce_m10.py",
+      "bytes": 611,
+      "sha256": "70ca1fa5fcbee0c90853b86a0dbf620e04d7889df31a4509d864794641c4bd1b"
+    },
+    {
+      "path": "source/producer_provenance.py",
+      "bytes": 1259,
+      "sha256": "e0364ec4679f10547695aaefb25f32ace4c51390f8d501343a35cad781d684bb"
+    },
+    {
+      "path": "source/reframe_exit_m09.py",
+      "bytes": 1851,
+      "sha256": "4d8628de1b4dbab3d1ecc1c4af3dabfd56898b8cfb21a2c2150de9a4891402ef"
+    },
+    {
+      "path": "source/render_batch_m09.py",
+      "bytes": 1359,
+      "sha256": "470ca802a414537b4b2a0a5b7f44cc080d6ea08823e093ae393a1a07bfd1091a"
+    },
+    {
+      "path": "source/render_batch_m10.py",
+      "bytes": 1371,
+      "sha256": "e42ca6d795771ad3f3f95f832cd966c97a746cbb679611433d7771a1f4e02b8c"
+    },
+    {
+      "path": "source/render_clips.py",
+      "bytes": 13572,
+      "sha256": "cb58d3dc8133410c1586a2deea93f5ece4482b4befc12243b6932e521500ac83"
+    },
+    {
+      "path": "source/render_clips_before_head_view.py",
+      "bytes": 9837,
+      "sha256": "13682530e7f904eaed7a41907456e28aa47d45e38d500a8b1fd7666ad6f6b847"
+    },
+    {
+      "path": "source/render_clips_before_lock_POV.py",
+      "bytes": 9289,
+      "sha256": "74b539418c863fd539d653ea14ff7fca60bdd04d860cd29eb9fbe5e4eac53c6e"
+    },
+    {
+      "path": "source/reuse_exit_frames_m10.py",
+      "bytes": 1640,
+      "sha256": "9f168b2ee0012d5a02ba8626ef9ed1122a6623385e6a51dc2fb7dba13ffdb2ed"
+    },
+    {
+      "path": "source/reuse_exit_frames_m10i.py",
+      "bytes": 1640,
+      "sha256": "d76bbbb012d415e39316d58d8633a0c41ea77fae3c25b578f10805a659d21144"
+    },
+    {
+      "path": "source/review_playback.py",
+      "bytes": 3167,
+      "sha256": "720c2b2697f4167e0793e3fae5d4c16963df212ceac3d545fef837552b320804"
+    },
+    {
+      "path": "source/rig.py",
+      "bytes": 160,
+      "sha256": "90ff06f808b97b2433f37c596311b45b8655d1f1b2c01a31b02acf950b5e74e2"
+    },
+    {
+      "path": "source/run_repair.py",
+      "bytes": 5426,
+      "sha256": "9e59f8c0886fac81c01f6e514bfdc1da580f556e9a1cc737d7b98db3f25f3829"
+    },
+    {
+      "path": "source/run_repair_sparse_attempt.py",
+      "bytes": 5479,
+      "sha256": "9cb3c612d7885b4673a860500627f6145bab155c1005e2e29e25266091ab9bc0"
+    },
+    {
+      "path": "source/save_key_presentation_m09.py",
+      "bytes": 2275,
+      "sha256": "34324f001eba297f0813c935eea891be4bf27dd15b693428a6ff3df6a7382d80"
+    },
+    {
+      "path": "source/save_key_presentation_m09_r02.py",
+      "bytes": 2283,
+      "sha256": "b7744de01eb300de3d96c4727d31675e39838eeba39fb7a14b958690a3c14122"
+    },
+    {
+      "path": "source/sets.py",
+      "bytes": 13583,
+      "sha256": "65428c99b16d537bf7f4ac9fdb6ca3b523d4323168eac89c5daf041c269e6573"
+    },
+    {
+      "path": "source/sound_finish.py",
+      "bytes": 5696,
+      "sha256": "ad9482a6c84057fe57c63dae67777903147bd8e5101c186d6d99954688e5e7e6"
+    },
+    {
+      "path": "source/sound_finish_before_chase_brake.py",
+      "bytes": 4882,
+      "sha256": "5cbf04f0ff4078bb6c1690831d7ccf8575f41679b9058d3922cf1238d2c574ba"
+    },
+    {
+      "path": "source/stair_style.py",
+      "bytes": 9706,
+      "sha256": "4dda4c0fd136b06b31112840e953373407c91275cada172b40d7f7faf13a01e9"
+    },
+    {
+      "path": "source/stairs_m10.py",
+      "bytes": 2688,
+      "sha256": "a9deece4b1a7b4dce86c52b4ae895f0f5db58c3c172a993b332d95d4240cb2ed"
+    },
+    {
+      "path": "source/stairs_m10d.py",
+      "bytes": 2780,
+      "sha256": "0e6b4a432d040fd6665f49de3d3a2e5c6a0c49c3418d9babb5055d7740e1880b"
+    },
+    {
+      "path": "source/svg.py",
+      "bytes": 2619,
+      "sha256": "747944a913ae665f5bc8c83a461debad07f259de17f5c9a7c0fa092ff5d57c6b"
+    },
+    {
+      "path": "source/svg_M08_UNCACHED.py",
+      "bytes": 2569,
+      "sha256": "798a0128fc3e669c6c6951ea34213bde3de9be68874cd82e86ed4dff5222784d"
+    },
+    {
+      "path": "source/validate_camera_clearance_m09.py",
+      "bytes": 1662,
+      "sha256": "e0a260d1023ca07f6f18744160f124d139386bdc1dd0af75826c4d4689a4d968"
+    },
+    {
+      "path": "source/validate_camera_m10.py",
+      "bytes": 1661,
+      "sha256": "1e261d88e242dd082e7ad7f43e4f7fa7ac383f6fb6d194efd0c122c3372af8f8"
+    },
+    {
+      "path": "source/validate_camera_space.py",
+      "bytes": 1797,
+      "sha256": "d52cccd96851fae1f8bfad4d495db87da2bc32bd386fc7893e76b9d2d673edf3"
+    },
+    {
+      "path": "source/validate_exit_m09.py",
+      "bytes": 1846,
+      "sha256": "8a33134856345082369300d271562e6dba0018effae19bfffd562f6765c8b433"
+    },
+    {
+      "path": "source/validate_exit_terrain.py",
+      "bytes": 1901,
+      "sha256": "8cf3ca6f6f9b9e942c90f5d6e8442fe5652d4f377226859f9d0bfc640527e9e2"
+    },
+    {
+      "path": "source/validate_interactions.py",
+      "bytes": 3776,
+      "sha256": "ce09559ccb397a3b755b810c43d2dee08d7aac0e7b59175b7feb3a149e5288d3"
+    },
+    {
+      "path": "source/validate_media.py",
+      "bytes": 2571,
+      "sha256": "901774824a8b117d51ed1c5709e78534705effba961ad037083c67f5abd0ad65"
+    },
+    {
+      "path": "source/validate_media_m08.py",
+      "bytes": 2571,
+      "sha256": "901774824a8b117d51ed1c5709e78534705effba961ad037083c67f5abd0ad65"
+    },
+    {
+      "path": "source/validate_props.py",
+      "bytes": 4335,
+      "sha256": "866aecc28103e9bcb674f568a52de3b31dbcbec768929ab7468ce5ab2338159a"
+    },
+    {
+      "path": "source/validate_world.py",
+      "bytes": 2705,
+      "sha256": "975c3a2904f380138015f97c3898da7764e907f318edb7fa5b26998380623c48"
+    },
+    {
+      "path": "source/vehicle_system.py",
+      "bytes": 2630,
+      "sha256": "5c5f4ec0f9f879a426d512da12ea031bde23d66f80b7e1b35ca78fcec7f40e7a"
+    },
+    {
+      "path": "source/view_head.py",
+      "bytes": 693,
+      "sha256": "9e0f7e791f249267600659d6cc0209c70a41a691e0c43e053238a7bfb9a5b2de"
+    },
+    {
+      "path": "source/world.py",
+      "bytes": 5699,
+      "sha256": "a001dff3285e00dad61e530815cd5a14b862bbbaaec2e24810cc443c9de86ddb"
+    }
+  ]
+}

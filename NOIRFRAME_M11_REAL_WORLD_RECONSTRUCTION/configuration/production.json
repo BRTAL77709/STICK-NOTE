@@ -1,0 +1,19 @@
+{
+  "repository": "BRTAL77709/STICK-NOTE",
+  "branch": "noirframe/m11-safe-rebuild",
+  "base_commit": "651b19f30ac23278445a0b74da71fff5337e895e",
+  "project_directory": "/workspace/STICK-NOTE/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION",
+  "baseline_prefix": "NOIRFRAME_M10_ULTIMATE_CINEMATIC",
+  "state": "NEW RECONSTRUCTION \u2014 previous M11 files not recovered",
+  "rendering_permitted": true,
+  "checkpoint_backend": "GitHub committed immutable chunks + milestone commits, fully downloaded SHA256 verification",
+  "temporary_storage_policy": "Scratch only; no sole copies of source, native projects, reports, or completed frame batches",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "assemble_full_film": false,
+  "release_tag": "noirframe-m11-checkpoints-20261107",
+  "release_id": 437595893,
+  "release_url": "https://github.com/BRTAL77709/STICK-NOTE/releases/tag/noirframe-m11-checkpoints-20261107",
+  "release_upload_status": "Unavailable: uploads.github.com returns HTTP 401 Bad credentials; no Release asset claimed uploaded"
+}
