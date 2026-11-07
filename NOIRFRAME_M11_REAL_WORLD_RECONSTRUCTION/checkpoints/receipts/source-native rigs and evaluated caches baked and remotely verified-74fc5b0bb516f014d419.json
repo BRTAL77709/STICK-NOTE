@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "native rigs and evaluated caches baked and remotely verified",
+  "local_path": "checkpoints/pack-native rigs and evaluated caches baked and remotely verified-1794061171401921639.tar.gz",
+  "asset_name": "pack-native rigs and evaluated caches baked and remotely verified-1794061171401921639.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a4a1ac35ad9dc1def8c3c376897f6cf151e9d932/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/74fc5b0bb516f014d419985a258ddb0936443d9d0214abd56879eef1188a1a75/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a4a1ac35ad9dc1def8c3c376897f6cf151e9d932/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/74fc5b0bb516f014d419985a258ddb0936443d9d0214abd56879eef1188a1a75/",
+  "sha256": "74fc5b0bb516f014d419985a258ddb0936443d9d0214abd56879eef1188a1a75",
+  "bytes": 34943183,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "a4a1ac35ad9dc1def8c3c376897f6cf151e9d932",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:20:00Z"
+}

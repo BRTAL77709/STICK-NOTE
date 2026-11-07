@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "UNKNOWN_CALLER-M11R03",
+  "local_path": "checkpoints/pack-UNKNOWN_CALLER-M11R03-1794061162648612572.tar.gz",
+  "asset_name": "pack-UNKNOWN_CALLER-M11R03-1794061162648612572.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/284cde78a8a47beaac2c4d8c6638ce3758a70a42/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4d6b3a0ef1b6b8c61969529d533bd74cadda3c63eb79a2450971854574456a25/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/284cde78a8a47beaac2c4d8c6638ce3758a70a42/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4d6b3a0ef1b6b8c61969529d533bd74cadda3c63eb79a2450971854574456a25/",
+  "sha256": "4d6b3a0ef1b6b8c61969529d533bd74cadda3c63eb79a2450971854574456a25",
+  "bytes": 3592977,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "284cde78a8a47beaac2c4d8c6638ce3758a70a42",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:19:31Z"
+}

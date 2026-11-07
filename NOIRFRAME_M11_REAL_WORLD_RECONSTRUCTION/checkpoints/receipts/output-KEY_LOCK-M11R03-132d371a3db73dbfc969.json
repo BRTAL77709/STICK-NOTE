@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "KEY_LOCK-M11R03",
+  "local_path": "checkpoints/pack-KEY_LOCK-M11R03-1794061028492114865.tar.gz",
+  "asset_name": "pack-KEY_LOCK-M11R03-1794061028492114865.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d7f1ff8259b19237e9cc3c9970b3ab0848a080e0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d7f1ff8259b19237e9cc3c9970b3ab0848a080e0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302/",
+  "sha256": "132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302",
+  "bytes": 5438931,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "d7f1ff8259b19237e9cc3c9970b3ab0848a080e0",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:17:18Z"
+}

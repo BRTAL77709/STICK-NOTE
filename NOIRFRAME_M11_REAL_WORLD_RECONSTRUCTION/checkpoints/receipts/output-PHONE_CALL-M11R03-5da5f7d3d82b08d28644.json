@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "PHONE_CALL-M11R03",
+  "local_path": "checkpoints/pack-PHONE_CALL-M11R03-1794061142866072808.tar.gz",
+  "asset_name": "pack-PHONE_CALL-M11R03-1794061142866072808.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/9f5dc3b4912585a349656e3d28a1925fd6e406cd/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5da5f7d3d82b08d286443bb87af8c4602491bfa66b28fa7abf0c45cd90803d9e/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/9f5dc3b4912585a349656e3d28a1925fd6e406cd/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5da5f7d3d82b08d286443bb87af8c4602491bfa66b28fa7abf0c45cd90803d9e/",
+  "sha256": "5da5f7d3d82b08d286443bb87af8c4602491bfa66b28fa7abf0c45cd90803d9e",
+  "bytes": 9412532,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "9f5dc3b4912585a349656e3d28a1925fd6e406cd",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:19:16Z"
+}
