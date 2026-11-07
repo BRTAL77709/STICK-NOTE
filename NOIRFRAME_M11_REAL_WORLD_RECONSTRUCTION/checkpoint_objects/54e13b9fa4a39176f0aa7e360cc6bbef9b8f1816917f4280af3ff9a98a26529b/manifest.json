@@ -1,0 +1,16 @@
+{
+  "filename": "M11_DOOR_ENTRY_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_DOOR_ENTRY_M11R03_PREVIEW_360",
+  "sha256": "54e13b9fa4a39176f0aa7e360cc6bbef9b8f1816917f4280af3ff9a98a26529b",
+  "bytes": 1168664,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1168664,
+      "sha256": "54e13b9fa4a39176f0aa7e360cc6bbef9b8f1816917f4280af3ff9a98a26529b",
+      "git_sha": "65f385b25ea69508438098124bdd056e87d098e1"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
