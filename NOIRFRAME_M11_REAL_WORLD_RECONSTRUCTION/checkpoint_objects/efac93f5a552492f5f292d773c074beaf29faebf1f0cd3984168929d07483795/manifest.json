@@ -1,0 +1,22 @@
+{
+  "filename": "pack-reconstructed motion, shared geometry, native grips and camera sources-1794058926699222633.tar.gz",
+  "kind": "source",
+  "label": "reconstructed motion, shared geometry, native grips and camera sources",
+  "sha256": "efac93f5a552492f5f292d773c074beaf29faebf1f0cd3984168929d07483795",
+  "bytes": 9769038,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "c588e7286ebea550627e2d6147fafb22a6a2f3c61c00994fe70cd74972e2f2c2",
+      "git_sha": "9e7367dadb4dbb25475e2f36bba5ac2ace0e4782"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 1380430,
+      "sha256": "033c4c02cd85b2d2acdc57718ad5bf2b87cb6d7f0fd4433f8749c6a9fb22652c",
+      "git_sha": "cf94b6fa7ed3d917374850090cb9b5e90f15affc"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
