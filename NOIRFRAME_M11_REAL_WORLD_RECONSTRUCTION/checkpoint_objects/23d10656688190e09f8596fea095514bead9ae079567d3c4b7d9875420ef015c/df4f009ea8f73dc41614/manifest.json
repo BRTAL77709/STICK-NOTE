@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_DOOR_ENTRY_M11R03_FINAL-00300-00359-1794064487958127696.tar.gz",
+  "kind": "output",
+  "label": "M11_DOOR_ENTRY_M11R03_FINAL-00300-00359",
+  "sha256": "23d10656688190e09f8596fea095514bead9ae079567d3c4b7d9875420ef015c",
+  "bytes": 8876428,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "68dbab12cb138dc7bfce816db280829bd1f4498b6a696ec83d96fff833e87ef1",
+      "git_sha": "4613297d68d7b37a035adbbe55b449234c8a6f1f"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 487820,
+      "sha256": "8ef27f87989d045c89133445edb4ffa12ec49f99f5a364fab385431f418d0b4e",
+      "git_sha": "134220d5ee2918c4bbbaae3fc3806f3101e8b5d1"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
