@@ -1,0 +1,16 @@
+{
+  "filename": "pack-CAR_CHASE-world-1794060483753511675.tar.gz",
+  "kind": "output",
+  "label": "CAR_CHASE-world",
+  "sha256": "79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b",
+  "bytes": 876145,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 876145,
+      "sha256": "79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b",
+      "git_sha": "ded400096f7eb2b4e9a842556afa01eb06a51d32"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
