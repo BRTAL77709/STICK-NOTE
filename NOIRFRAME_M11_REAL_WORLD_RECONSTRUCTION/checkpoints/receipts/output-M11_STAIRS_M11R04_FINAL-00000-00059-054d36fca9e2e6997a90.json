@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "M11_STAIRS_M11R04_FINAL-00000-00059",
+  "local_path": "checkpoints/pack-M11_STAIRS_M11R04_FINAL-00000-00059-1794063119245981544.tar.gz",
+  "asset_name": "pack-M11_STAIRS_M11R04_FINAL-00000-00059-1794063119245981544.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1574f98d17866992d66a0c00087de4f5d77b1953/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/054d36fca9e2e6997a903a91de403d9515b13b22929786489bb3696c08066b7d/f512b419ab08cc3fcade/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1574f98d17866992d66a0c00087de4f5d77b1953/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/054d36fca9e2e6997a903a91de403d9515b13b22929786489bb3696c08066b7d/f512b419ab08cc3fcade/",
+  "sha256": "054d36fca9e2e6997a903a91de403d9515b13b22929786489bb3696c08066b7d",
+  "bytes": 17327575,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "1574f98d17866992d66a0c00087de4f5d77b1953",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:52:32Z"
+}

@@ -1,0 +1,26 @@
+{
+  "DRIVING_COCKPIT": {
+    "duration": 12.0,
+    "versioned_source_export": "renders/M11_DRIVING_COCKPIT_M11R03_FINAL.mp4",
+    "file": "renders/M11_DRIVING_COCKPIT_FINAL.mp4",
+    "sha256": "5a971af668b72a8100c67f852a215108081018d057d29b64e803c9691f96faf7",
+    "bytes": 3148807,
+    "download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1d11b3526ca29f481780e9f2bb984512030efb89/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_DRIVING_COCKPIT_FINAL.mp4",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a6232e67b0a4b0f5f9d0b642d39d3440c58888d7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a971af668b72a8100c67f852a215108081018d057d29b64e803c9691f96faf7/00809f009831228a3dec/manifest.json",
+    "remote_download_verified": true,
+    "decode_validated": true,
+    "artistic_approval": "PENDING USER REVIEW"
+  },
+  "ROAD_BUILDINGS": {
+    "duration": 7.0,
+    "versioned_source_export": "renders/M11_ROAD_BUILDINGS_M11R03_FINAL.mp4",
+    "file": "renders/M11_ROAD_BUILDINGS_FINAL.mp4",
+    "sha256": "018ff63c7d5461c99b374e17c86346a1991781f1c8c8ea75cfa48eafa3391da0",
+    "bytes": 3527670,
+    "download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c154653873fa1b16fa8c2fa5b6aded414999a384/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_ROAD_BUILDINGS_FINAL.mp4",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c91bd48ba4d625cbd1a01a06c1c4dbc355b0754f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/018ff63c7d5461c99b374e17c86346a1991781f1c8c8ea75cfa48eafa3391da0/561aed76943c55c7d218/manifest.json",
+    "remote_download_verified": true,
+    "decode_validated": true,
+    "artistic_approval": "PENDING USER REVIEW"
+  }
+}

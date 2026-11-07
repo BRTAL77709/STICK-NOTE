@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before KEY_LOCK render",
+  "local_path": "checkpoints/pack-source checkpoint before KEY_LOCK render-1794063242099459551.tar.gz",
+  "asset_name": "pack-source checkpoint before KEY_LOCK render-1794063242099459551.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6846b20ae5f2335d40122dd0a63fcc9324d2a48f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/1804d136172de82c565722cf05f00ca40f424c9742e587da1d88f29c7199fe35/5d28fc5fbbee8257f0ee/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6846b20ae5f2335d40122dd0a63fcc9324d2a48f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/1804d136172de82c565722cf05f00ca40f424c9742e587da1d88f29c7199fe35/5d28fc5fbbee8257f0ee/",
+  "sha256": "1804d136172de82c565722cf05f00ca40f424c9742e587da1d88f29c7199fe35",
+  "bytes": 42489348,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "6846b20ae5f2335d40122dd0a63fcc9324d2a48f",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:54:35Z"
+}

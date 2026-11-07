@@ -11,6 +11,6 @@
     0.710818886756897,
     -0.41999998688697815
   ],
-  "status": "UNRESOLVED SHOT-CONFORM GAPS",
+  "status": "EXIT-TO-KEY CONFORM GAP; KEY-TO-DOOR MATCHES WITHIN TOLERANCE",
   "interpretation": "Standalone source actions do not join exactly here. Do not claim a continuous finished 86-second edit. No full-film assembly performed."
 }

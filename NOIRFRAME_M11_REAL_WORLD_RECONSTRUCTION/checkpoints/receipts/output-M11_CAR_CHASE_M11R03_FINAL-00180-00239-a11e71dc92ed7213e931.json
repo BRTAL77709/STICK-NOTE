@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "M11_CAR_CHASE_M11R03_FINAL-00180-00239",
+  "local_path": "checkpoints/pack-M11_CAR_CHASE_M11R03_FINAL-00180-00239-1794062961121754201.tar.gz",
+  "asset_name": "pack-M11_CAR_CHASE_M11R03_FINAL-00180-00239-1794062961121754201.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/ec9903bd466c52dfaf1dbb776887e5a80c6d319f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a11e71dc92ed7213e93109114e4952bafb623dbeb710722a3467e6828af74839/8dae3f933e5e38ba6e18/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/ec9903bd466c52dfaf1dbb776887e5a80c6d319f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a11e71dc92ed7213e93109114e4952bafb623dbeb710722a3467e6828af74839/8dae3f933e5e38ba6e18/",
+  "sha256": "a11e71dc92ed7213e93109114e4952bafb623dbeb710722a3467e6828af74839",
+  "bytes": 15645747,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "ec9903bd466c52dfaf1dbb776887e5a80c6d319f",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:49:49Z"
+}

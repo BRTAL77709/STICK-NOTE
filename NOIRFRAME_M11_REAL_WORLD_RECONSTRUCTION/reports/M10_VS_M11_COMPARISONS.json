@@ -1,0 +1,86 @@
+{
+  "DRIVING_COCKPIT": {
+    "M10_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/651b19f30ac23278445a0b74da71fff5337e895e/NOIRFRAME_M10_ULTIMATE_CINEMATIC/renders/M10_DRIVING_COCKPIT_FINAL.mp4",
+    "M10_sha256": "777ab838afa73f9fc098ba6a35e25d13b09adc3e596dcd057e52860ece03b235",
+    "M11_file": "renders/M11_DRIVING_COCKPIT_M11R03_PREVIEW_360.mp4",
+    "M11_sha256": "37961af09e26e3be5a48c029744ef0a0165f0fa44b029066c1f21563bcdca3ad",
+    "sheet": "contact_sheets/DRIVING_COCKPIT_M10_VS_M11_ACTUAL_FRAMES.jpg",
+    "times_s": [
+      0.3,
+      2.5,
+      7.800000000000001,
+      11.9
+    ],
+    "scope": "Equal elapsed shot time, not motion-retimed. Expanded M11 scenes can depict different action phases."
+  },
+  "CAR_EXIT_RUNNING": {
+    "M10_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/651b19f30ac23278445a0b74da71fff5337e895e/NOIRFRAME_M10_ULTIMATE_CINEMATIC/renders/M10_CAR_EXIT_RUNNING_FINAL.mp4",
+    "M10_sha256": "0306863dd7dbc49f37ed8b88768426b6e73fde659a15ac2b7ce25f7e97f892ed",
+    "M11_file": "renders/M11_CAR_EXIT_RUNNING_M11R03_PREVIEW_360.mp4",
+    "M11_sha256": "867f0bcbc689d1ad5486f8239f97792a5932b5046a770f01ce4470204aa91ef8",
+    "sheet": "contact_sheets/CAR_EXIT_RUNNING_M10_VS_M11_ACTUAL_FRAMES.jpg",
+    "times_s": [
+      0.3,
+      2.5,
+      7.0200000000000005,
+      10.700000000000001
+    ],
+    "scope": "Equal elapsed shot time, not motion-retimed. Expanded M11 scenes can depict different action phases."
+  },
+  "KEY_LOCK": {
+    "M10_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/651b19f30ac23278445a0b74da71fff5337e895e/NOIRFRAME_M10_ULTIMATE_CINEMATIC/renders/M10_KEY_LOCK_FINAL.mp4",
+    "M10_sha256": "2f6277b8a3530587725d9c66ff66a437280908295db1ed24c744b1850c846334",
+    "M11_file": "renders/M11_KEY_LOCK_M11R03_PREVIEW_360.mp4",
+    "M11_sha256": "21251f9486cf9861d92fedbdc421c84a2c0b756703e1f00ae9fc063025e2225d",
+    "sheet": "contact_sheets/KEY_LOCK_M10_VS_M11_ACTUAL_FRAMES.jpg",
+    "times_s": [
+      0.3,
+      2.5,
+      5.8500000000000005,
+      8.9
+    ],
+    "scope": "Equal elapsed shot time, not motion-retimed. Expanded M11 scenes can depict different action phases."
+  },
+  "DOOR_ENTRY": {
+    "M10_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/651b19f30ac23278445a0b74da71fff5337e895e/NOIRFRAME_M10_ULTIMATE_CINEMATIC/renders/M10_DOOR_ENTRY_FINAL.mp4",
+    "M10_sha256": "52f364c87e6ac9d25aa35256ad17c23a2671f7a837abf28c898b18eb6dc88341",
+    "M11_file": "renders/M11_DOOR_ENTRY_M11R03_PREVIEW_360.mp4",
+    "M11_sha256": "54e13b9fa4a39176f0aa7e360cc6bbef9b8f1816917f4280af3ff9a98a26529b",
+    "sheet": "contact_sheets/DOOR_ENTRY_M10_VS_M11_ACTUAL_FRAMES.jpg",
+    "times_s": [
+      0.3,
+      2.5,
+      10.4,
+      15.9
+    ],
+    "scope": "Equal elapsed shot time, not motion-retimed. Expanded M11 scenes can depict different action phases."
+  },
+  "STAIRS": {
+    "M10_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/651b19f30ac23278445a0b74da71fff5337e895e/NOIRFRAME_M10_ULTIMATE_CINEMATIC/renders/M10_STAIRS_FINAL.mp4",
+    "M10_sha256": "e444381c4c62b98d47e20075415cd7ef0e345771c240fe8326bde93090be6272",
+    "M11_file": "renders/M11_STAIRS_M11R04_PREVIEW_360.mp4",
+    "M11_sha256": "66493d800c5a3e87722b4d6099887b18a6255e2ea773f6e2bf33c8c9ff770bc2",
+    "sheet": "contact_sheets/STAIRS_M10_VS_M11_ACTUAL_FRAMES.jpg",
+    "times_s": [
+      0.3,
+      2.5,
+      3.9000000000000004,
+      5.9
+    ],
+    "scope": "Equal elapsed shot time, not motion-retimed. Expanded M11 scenes can depict different action phases."
+  },
+  "WINDOW_CURTAIN": {
+    "M10_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/651b19f30ac23278445a0b74da71fff5337e895e/NOIRFRAME_M10_ULTIMATE_CINEMATIC/renders/M10_WINDOW_CURTAIN_FINAL.mp4",
+    "M10_sha256": "f298dabb40a086190f20dd3bb8bfc27ff191c9301e75a33e79644a9fdd5b6c5f",
+    "M11_file": "renders/M11_WINDOW_CURTAIN_M11R03_PREVIEW_360.mp4",
+    "M11_sha256": "63456a2402135506cebf130ee3aaff78802898ab71d73710279289c4a61729e1",
+    "sheet": "contact_sheets/WINDOW_CURTAIN_M10_VS_M11_ACTUAL_FRAMES.jpg",
+    "times_s": [
+      0.3,
+      2.5,
+      6.825,
+      10.4
+    ],
+    "scope": "Equal elapsed shot time, not motion-retimed. Expanded M11 scenes can depict different action phases."
+  }
+}

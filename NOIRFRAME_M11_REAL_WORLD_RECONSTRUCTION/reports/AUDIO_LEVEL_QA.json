@@ -1,0 +1,234 @@
+{
+  "M11_UNKNOWN_CALLER_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 5.0,
+    "peak_dBFS": -6.511335446256009,
+    "rms_dBFS": -23.85022898531481,
+    "clipped_samples": 0
+  },
+  "M11_PHONE_CALL_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 13.0,
+    "peak_dBFS": -6.56761327458589,
+    "rms_dBFS": -26.751140376598066,
+    "clipped_samples": 0
+  },
+  "M11_STAIRS_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 17.0,
+    "peak_dBFS": -15.834960819369002,
+    "rms_dBFS": -42.10184607958765,
+    "clipped_samples": 0
+  },
+  "M11_WINDOW_CURTAIN_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 15.5,
+    "peak_dBFS": -15.500165800199039,
+    "rms_dBFS": -43.221374169150025,
+    "clipped_samples": 0
+  },
+  "M11_DRIVING_COCKPIT_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 12.0,
+    "peak_dBFS": -22.53986964518902,
+    "rms_dBFS": -31.413995830359205,
+    "clipped_samples": 0
+  },
+  "M11_UNKNOWN_CALLER_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 5.0,
+    "peak_dBFS": -6.511335446256009,
+    "rms_dBFS": -23.85022898531481,
+    "clipped_samples": 0
+  },
+  "M11_ROAD_BUILDINGS_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 7.0,
+    "peak_dBFS": -22.600448403091747,
+    "rms_dBFS": -30.58058198116985,
+    "clipped_samples": 0
+  },
+  "M11_DISCOVERY_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 4.0,
+    "peak_dBFS": -23.05558010468102,
+    "rms_dBFS": -31.765979103158564,
+    "clipped_samples": 0
+  },
+  "M11_ARRIVAL_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 5.0,
+    "peak_dBFS": -22.766517852265235,
+    "rms_dBFS": -32.1340953233632,
+    "clipped_samples": 0
+  },
+  "M11_PANIC_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 4.0,
+    "peak_dBFS": -21.959564835128496,
+    "rms_dBFS": -30.372941040000526,
+    "clipped_samples": 0
+  },
+  "M11_ROAD_BUILDINGS_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 7.0,
+    "peak_dBFS": -22.600448403091747,
+    "rms_dBFS": -30.58058198116985,
+    "clipped_samples": 0
+  },
+  "M11_CAR_CHASE_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 11.0,
+    "peak_dBFS": -22.60402505112996,
+    "rms_dBFS": -31.23322666432893,
+    "clipped_samples": 0
+  },
+  "M11_FINAL_POLL_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 4.5,
+    "peak_dBFS": -7.171355410406827,
+    "rms_dBFS": -23.549070535475916,
+    "clipped_samples": 0
+  },
+  "M11_DOOR_ENTRY_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 20.0,
+    "peak_dBFS": -15.317364001883174,
+    "rms_dBFS": -41.89708462224276,
+    "clipped_samples": 0
+  },
+  "M11_CAR_EXIT_RUNNING_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 10.8,
+    "peak_dBFS": -15.854675349424463,
+    "rms_dBFS": -33.48184484222711,
+    "clipped_samples": 0
+  },
+  "M11_FINAL_POLL_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 4.5,
+    "peak_dBFS": -7.171355410406827,
+    "rms_dBFS": -23.549070535475916,
+    "clipped_samples": 0
+  },
+  "M11_PHONE_CALL_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 13.0,
+    "peak_dBFS": -6.56761327458589,
+    "rms_dBFS": -26.751140376598066,
+    "clipped_samples": 0
+  },
+  "M11_KEY_LOCK_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 9.0,
+    "peak_dBFS": -16.61388625702188,
+    "rms_dBFS": -47.25875284960338,
+    "clipped_samples": 0
+  },
+  "M11_STAIRS_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 17.0,
+    "peak_dBFS": -15.834960819369002,
+    "rms_dBFS": -42.10184607958765,
+    "clipped_samples": 0
+  },
+  "M11_UNKNOWN_CALLER_M11R02_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 5.0,
+    "peak_dBFS": -6.511335446256009,
+    "rms_dBFS": -23.85022898531481,
+    "clipped_samples": 0
+  },
+  "M11_PANIC_M11R02_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 4.0,
+    "peak_dBFS": -21.959564835128496,
+    "rms_dBFS": -30.372941040000526,
+    "clipped_samples": 0
+  },
+  "M11_DISCOVERY_M11R02_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 4.0,
+    "peak_dBFS": -23.05558010468102,
+    "rms_dBFS": -31.765979103158564,
+    "clipped_samples": 0
+  },
+  "M11_DOOR_ENTRY_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 20.0,
+    "peak_dBFS": -15.317364001883174,
+    "rms_dBFS": -41.89708462224276,
+    "clipped_samples": 0
+  },
+  "M11_DRIVING_COCKPIT_M11R02_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 12.0,
+    "peak_dBFS": -22.53986964518902,
+    "rms_dBFS": -31.413995830359205,
+    "clipped_samples": 0
+  },
+  "M11_PHONE_CALL_M11R02_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 13.0,
+    "peak_dBFS": -6.56761327458589,
+    "rms_dBFS": -26.751140376598066,
+    "clipped_samples": 0
+  },
+  "M11_CAR_CHASE_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 11.0,
+    "peak_dBFS": -22.60402505112996,
+    "rms_dBFS": -31.23322666432893,
+    "clipped_samples": 0
+  },
+  "M11_WINDOW_CURTAIN_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 15.5,
+    "peak_dBFS": -15.500165800199039,
+    "rms_dBFS": -43.221374169150025,
+    "clipped_samples": 0
+  },
+  "M11_KEY_LOCK_M11R01_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 9.0,
+    "peak_dBFS": -16.61388625702188,
+    "rms_dBFS": -47.25875284960338,
+    "clipped_samples": 0
+  },
+  "M11_ARRIVAL_M11R03_MASTER.wav": {
+    "sample_rate": 24000,
+    "channels": 1,
+    "duration": 5.0,
+    "peak_dBFS": -22.766517852265235,
+    "rms_dBFS": -32.1340953233632,
+    "clipped_samples": 0
+  }
+}
