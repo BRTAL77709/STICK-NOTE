@@ -1,0 +1,16 @@
+{
+  "filename": "pack-PANIC-M11R01-1794059187077565669.tar.gz",
+  "kind": "output",
+  "label": "PANIC-M11R01",
+  "sha256": "7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2",
+  "bytes": 2869598,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 2869598,
+      "sha256": "7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2",
+      "git_sha": "347a8af2d56a966ed03a99d88fbfff4efdba26a1"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
