@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_CAR_EXIT_RUNNING_M11R03_FINAL-00000-00059-1794063063543608821.tar.gz",
+  "kind": "output",
+  "label": "M11_CAR_EXIT_RUNNING_M11R03_FINAL-00000-00059",
+  "sha256": "a1e6dbb23842f97dcd5b22eb4d1256fd582bc847bdd439cc27e584f5b3131a06",
+  "bytes": 13735597,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "976df426ffd5590b3e652c18b2f48279a52f8a17be0be4ba5847a74d7c2dc2ce",
+      "git_sha": "c2e7168f34f5955702a20bc9fe0d84757c2c30fe"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 5346989,
+      "sha256": "c5bdf0756d1624038874b56199d77a870acb20803e31fa8c53fd74931fd12d1a",
+      "git_sha": "e699e1b4c1774030c8fda2e4d92cee69583170ba"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
