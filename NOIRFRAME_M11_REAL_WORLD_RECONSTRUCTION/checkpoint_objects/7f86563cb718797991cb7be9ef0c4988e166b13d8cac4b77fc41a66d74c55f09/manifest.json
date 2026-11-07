@@ -1,0 +1,16 @@
+{
+  "filename": "M11_ARRIVAL_M11R01_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_ARRIVAL_M11R01_PREVIEW_360",
+  "sha256": "7f86563cb718797991cb7be9ef0c4988e166b13d8cac4b77fc41a66d74c55f09",
+  "bytes": 611591,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 611591,
+      "sha256": "7f86563cb718797991cb7be9ef0c4988e166b13d8cac4b77fc41a66d74c55f09",
+      "git_sha": "1723aca69d9d850e67d17182d0bd1a1df7778204"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
