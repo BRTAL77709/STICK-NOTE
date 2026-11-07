@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_CAR_CHASE_M11R03_FINAL-00300-00329-1794063173654363679.tar.gz",
+  "kind": "output",
+  "label": "M11_CAR_CHASE_M11R03_FINAL-00300-00329",
+  "sha256": "b54952f59ff28cd65a1362b63209f5f68b0d335f6b2ed36dbc44ae43803cc2e3",
+  "bytes": 9455501,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "04dac13c3a24410f4a1bbd69425df5aef5e309d51110d5f3d28daaf124b18f57",
+      "git_sha": "2de439383b9aabc528e1bb67a899f4a21afbe2f3"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 1066893,
+      "sha256": "cb97304993bf279ef53102a02083b920c7956bff80933ba7712ecdcabc5e3a79",
+      "git_sha": "9b93b67431b029fa4c82bdb9bbb95a17d7d6abe1"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
