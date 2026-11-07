@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_KEY_LOCK_M11R03_FINAL-00060-00119-1794063715659541340.tar.gz",
+  "kind": "output",
+  "label": "M11_KEY_LOCK_M11R03_FINAL-00060-00119",
+  "sha256": "472bb07c22d04dc2b76ec1f4d6ed9e2b5b802405f54d244e06ee58edf69da186",
+  "bytes": 15766588,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "b024d2adbac755d0d239f35467c35754e7f1eefff8b7fd92ab838c086b18eaac",
+      "git_sha": "15366a5e772caadffa438eb89e3be18f9363f093"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 7377980,
+      "sha256": "af559d949a673583d5c797087616c8fc98db2188d0ad9ea42ce2dd862a991253",
+      "git_sha": "01ae95dc34328e530768288a15c064935d72e429"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
