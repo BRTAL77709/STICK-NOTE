@@ -1,0 +1,16 @@
+{
+  "filename": "M11_ROAD_BUILDINGS_FINAL.mp4",
+  "kind": "output",
+  "label": "M11_ROAD_BUILDINGS_FINAL",
+  "sha256": "018ff63c7d5461c99b374e17c86346a1991781f1c8c8ea75cfa48eafa3391da0",
+  "bytes": 3527670,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 3527670,
+      "sha256": "018ff63c7d5461c99b374e17c86346a1991781f1c8c8ea75cfa48eafa3391da0",
+      "git_sha": "855f1e1a68dcb94d99d62af09affe782b0a878f4"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
