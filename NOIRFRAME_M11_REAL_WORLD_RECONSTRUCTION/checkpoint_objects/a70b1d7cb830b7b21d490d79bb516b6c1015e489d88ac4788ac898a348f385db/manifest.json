@@ -1,0 +1,34 @@
+{
+  "filename": "pack-source checkpoint before ROAD_BUILDINGS render-1794060080262526301.tar.gz",
+  "kind": "source",
+  "label": "source checkpoint before ROAD_BUILDINGS render",
+  "sha256": "a70b1d7cb830b7b21d490d79bb516b6c1015e489d88ac4788ac898a348f385db",
+  "bytes": 25713819,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "57f26ae9a1528feb2413495a490f151f109c60f1d3b2113b843b814ab25b61e2",
+      "git_sha": "7cc73a27f67417859f2734f9c3dc27372321cfe4"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "8f40bf1a983db965a3b9fc8da7d41ec7072f770fd7a7d0aac4d40361ee043a0b",
+      "git_sha": "b4652adfcb9f86e655ecafc08f6f9a725c0425bb"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "dde833e897cbb556a798282fb42c8dd268d77676d770ec4f2a448af927321983",
+      "git_sha": "9a70e6ab3fd879b7de5d8ad9e45b820802f57971"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 547995,
+      "sha256": "937decd077cb8da7cc9e5f584fd6f97a72bb1df1481e5b84c24b1f713b37f6c0",
+      "git_sha": "7ed9c8db7198735bd2d5c51fd83ea9b5829709be"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
