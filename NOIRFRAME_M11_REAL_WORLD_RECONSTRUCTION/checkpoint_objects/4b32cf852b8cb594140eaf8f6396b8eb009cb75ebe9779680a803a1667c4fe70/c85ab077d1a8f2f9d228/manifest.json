@@ -1,0 +1,16 @@
+{
+  "filename": "M11_FINAL_POLL_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_FINAL_POLL_M11R03_PREVIEW_360",
+  "sha256": "4b32cf852b8cb594140eaf8f6396b8eb009cb75ebe9779680a803a1667c4fe70",
+  "bytes": 180493,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 180493,
+      "sha256": "4b32cf852b8cb594140eaf8f6396b8eb009cb75ebe9779680a803a1667c4fe70",
+      "git_sha": "c528455c512979f0a597649e7cb73f6ecb3b7d19"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
