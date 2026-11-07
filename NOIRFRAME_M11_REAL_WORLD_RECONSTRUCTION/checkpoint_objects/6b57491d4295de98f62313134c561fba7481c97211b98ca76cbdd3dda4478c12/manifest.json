@@ -1,0 +1,22 @@
+{
+  "filename": "pack-native rigs and evaluated caches baked and remotely verified-1794059196031937782.tar.gz",
+  "kind": "source",
+  "label": "native rigs and evaluated caches baked and remotely verified",
+  "sha256": "6b57491d4295de98f62313134c561fba7481c97211b98ca76cbdd3dda4478c12",
+  "bytes": 16568864,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "ed208974edc46b6dddffd8732b935fea47b3570fd520a07e99ead0e32b6279ba",
+      "git_sha": "c70513a6bf3ca138b9f0edcc6aec60244f73fe3a"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8180256,
+      "sha256": "0b71ee2a84895c75a1ba3a670ef636e56dd9bcb6e4201a2731f20f6f52756007",
+      "git_sha": "8e9a9e4e342290fdea3421765fcefa3e47fdd908"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
