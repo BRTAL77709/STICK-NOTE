@@ -1,0 +1,22 @@
+{
+  "filename": "pack-STAIRS-M11R03-1794061077949768840.tar.gz",
+  "kind": "output",
+  "label": "STAIRS-M11R03",
+  "sha256": "5a154af975300d73c0c394607c67a3a0d6da076ae02910d2f8fea9271e7ddfef",
+  "bytes": 9718986,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "262202ae4bd8f429c579657aa5230736bd4ad2a2c3790a341281244f3a284372",
+      "git_sha": "3a434c63a24733a9140188ed99c5cb06a53acd3f"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 1330378,
+      "sha256": "a047726beb7cd88a0d8772864b2abbb40e8afa2f51197e9bcfdcade763f087b0",
+      "git_sha": "30eb38863fbc0f566a85162d2113d9e441eecb2e"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
