@@ -1,0 +1,28 @@
+{
+  "filename": "pack-source checkpoint before DRIVING_COCKPIT render-1794059344855591499.tar.gz",
+  "kind": "source",
+  "label": "source checkpoint before DRIVING_COCKPIT render",
+  "sha256": "19f32dca82e2c7b09268b60c040492966dd41b273b48258f1d5c11408f861e6d",
+  "bytes": 22632606,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "4d211275fad52b9a3a9f0696afd13877ff6b96df2e4e0bb11a73c24dc78ab6fc",
+      "git_sha": "5c080f30ad0a1d013e50c981fab78753891c5d06"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "529170cd98472438e57caf03d597f1ed9dd579739e660c82056b58bfa2318b96",
+      "git_sha": "86b2055db953de6fe622bf0c77b4ade5341abc7a"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 5855390,
+      "sha256": "632d6571fced874ff4de5dc6e2d8a4cd1d18b75d30c93d75f6dc5d8c1c0706af",
+      "git_sha": "18f9c575ca6edb693153a42027f38f3531baac27"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
