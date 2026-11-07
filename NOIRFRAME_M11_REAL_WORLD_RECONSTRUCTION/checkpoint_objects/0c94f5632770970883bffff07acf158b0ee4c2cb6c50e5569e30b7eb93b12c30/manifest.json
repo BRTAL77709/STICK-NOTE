@@ -1,0 +1,16 @@
+{
+  "filename": "pack-UNKNOWN_CALLER-M11R01-1794059158813383478.tar.gz",
+  "kind": "output",
+  "label": "UNKNOWN_CALLER-M11R01",
+  "sha256": "0c94f5632770970883bffff07acf158b0ee4c2cb6c50e5569e30b7eb93b12c30",
+  "bytes": 3540522,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 3540522,
+      "sha256": "0c94f5632770970883bffff07acf158b0ee4c2cb6c50e5569e30b7eb93b12c30",
+      "git_sha": "9f28615724fb3e8d450990a9a40697f69a87d71a"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
