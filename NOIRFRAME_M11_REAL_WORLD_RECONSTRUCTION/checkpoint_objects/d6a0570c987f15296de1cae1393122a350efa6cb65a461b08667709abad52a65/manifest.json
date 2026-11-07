@@ -1,0 +1,16 @@
+{
+  "filename": "M11_PHONE_CALL_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_PHONE_CALL_M11R03_PREVIEW_360",
+  "sha256": "d6a0570c987f15296de1cae1393122a350efa6cb65a461b08667709abad52a65",
+  "bytes": 396528,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 396528,
+      "sha256": "d6a0570c987f15296de1cae1393122a350efa6cb65a461b08667709abad52a65",
+      "git_sha": "14febf55390c79ff5b475d71d13ecc734e851cde"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
