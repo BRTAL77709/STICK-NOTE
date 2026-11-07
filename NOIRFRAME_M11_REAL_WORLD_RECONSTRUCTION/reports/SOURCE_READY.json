@@ -47,7 +47,7 @@
     "source/audit_story_m11.py": "7fa6cc8abe1776ad3244d0f156b97a3838902e9ffae0a2e8378f20bf31ecfa89",
     "source/bake_native.py": "c4178596d882a92dccf5a4d671ed00b3ad8e0f5471c1ea48e3e22715c0d09b6e",
     "source/bake_native_R07.py": "81e0af78c28627bf5ddab3bf841eacc5572ef3aae7553f4f61c778b4a9ae9515",
-    "source/batch_m11.py": "0ed5d0506d97d227ac76de2aa699782e412e36f584f1807c24404de26f08600c",
+    "source/batch_m11.py": "50ba093917e58e7f01c1e49c69840a430cc73a7b4203794ae555015c3c8bc050",
     "source/bootstrap.py": "61fb92f525f24174053cee05c081332013f4f31df2063f506b64536fe3f57f5b",
     "source/build_comparison_sheets.py": "a281012944241c35910c2b076c7cb3a470213637d90e50f652e90c1a6cd4ede6",
     "source/build_comparisons.py": "07ac266d9f9be5132b6bda33244a5b0be6e74b6bd9c816da8aa3ceac94e34607",
@@ -158,7 +158,7 @@
     "source/render_clips.py": "cb58d3dc8133410c1586a2deea93f5ece4482b4befc12243b6932e521500ac83",
     "source/render_clips_before_head_view.py": "13682530e7f904eaed7a41907456e28aa47d45e38d500a8b1fd7666ad6f6b847",
     "source/render_clips_before_lock_POV.py": "74b539418c863fd539d653ea14ff7fca60bdd04d860cd29eb9fbe5e4eac53c6e",
-    "source/render_m11.py": "e0bbaeb77fb69397d4b5981229d3c6f50484f3d64062772b54cb052617943b0f",
+    "source/render_m11.py": "7508e6f7885a33c55ae9af0804f5bff039c8de463f8ddf51786406072edc64da",
     "source/restore_checkpoint.py": "c55f83bba50348b2515fe00065b560ef489948b9da5fe926a8a1fec44143c3ca",
     "source/reuse_exit_frames_m10.py": "9f168b2ee0012d5a02ba8626ef9ed1122a6623385e6a51dc2fb7dba13ffdb2ed",
     "source/reuse_exit_frames_m10i.py": "d76bbbb012d415e39316d58d8633a0c41ea77fae3c25b578f10805a659d21144",
@@ -198,6 +198,6 @@
     "source/view_head.py": "225c9b04a4e66f02f02dba5dffdc9dcfd2f652d414404a3479d297066c8be7f4",
     "source/world.py": "51c1d23a7188f51e2f22c018526007b9c1aa1c46bf32df7ec14206f95f7f2212"
   },
-  "verified_source_commit": "9369989b7364f9ec0bc8c8575c06f4bbb0997de0",
+  "verified_source_commit": "0806645795ebc545c633812cfddf41eabe71d52b",
   "branch": "noirframe/m11-safe-rebuild"
 }

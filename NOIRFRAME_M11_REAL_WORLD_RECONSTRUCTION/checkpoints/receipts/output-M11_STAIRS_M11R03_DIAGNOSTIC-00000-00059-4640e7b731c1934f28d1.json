@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "M11_STAIRS_M11R03_DIAGNOSTIC-00000-00059",
+  "local_path": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00000-00059-1794061717933326907.tar.gz",
+  "asset_name": "pack-M11_STAIRS_M11R03_DIAGNOSTIC-00000-00059-1794061717933326907.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6efe1b884eb2e2a14bc009a77b0c9db4fd32c8e0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6efe1b884eb2e2a14bc009a77b0c9db4fd32c8e0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94/",
+  "sha256": "4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94",
+  "bytes": 5613064,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "6efe1b884eb2e2a14bc009a77b0c9db4fd32c8e0",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:29:05Z"
+}

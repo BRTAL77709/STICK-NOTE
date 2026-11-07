@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "complete native world and vehicle layout backed up",
+  "local_path": "checkpoints/pack-complete native world and vehicle layout backed up-1794061745904307692.tar.gz",
+  "asset_name": "pack-complete native world and vehicle layout backed up-1794061745904307692.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bd9b9ced2a71960b8c7a0fd709c5273b5e642df9/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/f88a41d56825553ac6432de6f9116c103072ce67ad4f87d4deca5cda3f09a6fd/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bd9b9ced2a71960b8c7a0fd709c5273b5e642df9/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/f88a41d56825553ac6432de6f9116c103072ce67ad4f87d4deca5cda3f09a6fd/",
+  "sha256": "f88a41d56825553ac6432de6f9116c103072ce67ad4f87d4deca5cda3f09a6fd",
+  "bytes": 41585184,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "bd9b9ced2a71960b8c7a0fd709c5273b5e642df9",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:29:51Z"
+}
