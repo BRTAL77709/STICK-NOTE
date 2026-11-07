@@ -1,0 +1,72 @@
+{
+  "DRIVING_COCKPIT": {
+    "duration": 12.0,
+    "preview": "renders/M11_DRIVING_COCKPIT_M11R02_PREVIEW_360.mp4",
+    "final": "renders/M11_DRIVING_COCKPIT_M11R02_FINAL.mp4"
+  },
+  "ROAD_BUILDINGS": {
+    "duration": 7.0,
+    "preview": "renders/M11_ROAD_BUILDINGS_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_ROAD_BUILDINGS_M11R01_FINAL.mp4"
+  },
+  "CAR_CHASE": {
+    "duration": 11.0,
+    "preview": "renders/M11_CAR_CHASE_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_CAR_CHASE_M11R01_FINAL.mp4"
+  },
+  "CAR_EXIT_RUNNING": {
+    "duration": 10.8,
+    "preview": "renders/M11_CAR_EXIT_RUNNING_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_CAR_EXIT_RUNNING_M11R01_FINAL.mp4"
+  },
+  "KEY_LOCK": {
+    "duration": 9.0,
+    "preview": "renders/M11_KEY_LOCK_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_KEY_LOCK_M11R01_FINAL.mp4"
+  },
+  "DOOR_ENTRY": {
+    "duration": 20.0,
+    "preview": "renders/M11_DOOR_ENTRY_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_DOOR_ENTRY_M11R01_FINAL.mp4"
+  },
+  "STAIRS": {
+    "duration": 17.0,
+    "preview": "renders/M11_STAIRS_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_STAIRS_M11R01_FINAL.mp4"
+  },
+  "WINDOW_CURTAIN": {
+    "duration": 15.5,
+    "preview": "renders/M11_WINDOW_CURTAIN_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_WINDOW_CURTAIN_M11R01_FINAL.mp4"
+  },
+  "PHONE_CALL": {
+    "duration": 13.0,
+    "preview": "renders/M11_PHONE_CALL_M11R02_PREVIEW_360.mp4",
+    "final": "renders/M11_PHONE_CALL_M11R02_FINAL.mp4"
+  },
+  "UNKNOWN_CALLER": {
+    "duration": 5.0,
+    "preview": "renders/M11_UNKNOWN_CALLER_M11R02_PREVIEW_360.mp4",
+    "final": "renders/M11_UNKNOWN_CALLER_M11R02_FINAL.mp4"
+  },
+  "DISCOVERY": {
+    "duration": 4.0,
+    "preview": "renders/M11_DISCOVERY_M11R02_PREVIEW_360.mp4",
+    "final": "renders/M11_DISCOVERY_M11R02_FINAL.mp4"
+  },
+  "PANIC": {
+    "duration": 4.0,
+    "preview": "renders/M11_PANIC_M11R02_PREVIEW_360.mp4",
+    "final": "renders/M11_PANIC_M11R02_FINAL.mp4"
+  },
+  "ARRIVAL": {
+    "duration": 5.0,
+    "preview": "renders/M11_ARRIVAL_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_ARRIVAL_M11R01_FINAL.mp4"
+  },
+  "FINAL_POLL": {
+    "duration": 4.5,
+    "preview": "renders/M11_FINAL_POLL_M11R01_PREVIEW_360.mp4",
+    "final": "renders/M11_FINAL_POLL_M11R01_FINAL.mp4"
+  }
+}

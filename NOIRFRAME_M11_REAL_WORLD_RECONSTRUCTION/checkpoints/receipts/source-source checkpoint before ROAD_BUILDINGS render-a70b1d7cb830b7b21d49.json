@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before ROAD_BUILDINGS render",
+  "local_path": "checkpoints/pack-source checkpoint before ROAD_BUILDINGS render-1794060080262526301.tar.gz",
+  "asset_name": "pack-source checkpoint before ROAD_BUILDINGS render-1794060080262526301.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3dff035724eb56bb9cd6bd656e8b2d6517a779ea/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a70b1d7cb830b7b21d490d79bb516b6c1015e489d88ac4788ac898a348f385db/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3dff035724eb56bb9cd6bd656e8b2d6517a779ea/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a70b1d7cb830b7b21d490d79bb516b6c1015e489d88ac4788ac898a348f385db/",
+  "sha256": "a70b1d7cb830b7b21d490d79bb516b6c1015e489d88ac4788ac898a348f385db",
+  "bytes": 25713819,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "3dff035724eb56bb9cd6bd656e8b2d6517a779ea",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:01:46Z"
+}

@@ -1,0 +1,29 @@
+{
+  "PHONE_CALL": {
+    "native_revision": "M11R02",
+    "native_contact_samples": 648,
+    "actual_native_fingertip_proxy_to_authored_glass_pad_m": 7.969098792954872e-06,
+    "actual_native_contact_point_to_glass_plane_m": 2.598603298138366e-06,
+    "actual_native_wrist_grip_frame_error_m": 7.819106305336564e-05,
+    "minimum_phone_vertex_to_head_sphere_clearance_m": 0.007475847390703616,
+    "table_contact_gap_range_m": [
+      0.0,
+      0.0
+    ],
+    "contact_tolerance_m": 0.002,
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Actual evaluated distal bones with authored 7mm rounded tip proxy versus actual phone glass plane. Head clearance uses explicit .22m envelope, not volumetric face collision. No friction simulation."
+  },
+  "UNKNOWN_CALLER": {
+    "native_revision": "M11R02",
+    "native_contact_samples": 300,
+    "actual_native_fingertip_proxy_to_authored_glass_pad_m": 7.828675818201708e-06,
+    "actual_native_contact_point_to_glass_plane_m": 2.5024414062151112e-06,
+    "actual_native_wrist_grip_frame_error_m": 2.3065383933574552e-05,
+    "minimum_phone_vertex_to_head_sphere_clearance_m": 0.007530994511748462,
+    "table_contact_gap_range_m": null,
+    "contact_tolerance_m": 0.002,
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Actual evaluated distal bones with authored 7mm rounded tip proxy versus actual phone glass plane. Head clearance uses explicit .22m envelope, not volumetric face collision. No friction simulation."
+  }
+}

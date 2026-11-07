@@ -1,21 +1,7 @@
 {
-  "CAR_EXIT_RUNNING": {
-    "minimum_enclosing_boundary_clearance_m": null,
-    "minimum_head_envelope_clearance_m": 3.6976268575496953,
-    "collision_flags": [],
-    "technical_status": "TECHNICAL PASS",
-    "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
-  },
-  "DISCOVERY": {
+  "DRIVING_COCKPIT": {
     "minimum_enclosing_boundary_clearance_m": 0.15500000000000003,
-    "minimum_head_envelope_clearance_m": 0.9408971868837022,
-    "collision_flags": [],
-    "technical_status": "TECHNICAL PASS",
-    "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
-  },
-  "DOOR_ENTRY": {
-    "minimum_enclosing_boundary_clearance_m": null,
-    "minimum_head_envelope_clearance_m": 0.2806940431340772,
+    "minimum_head_envelope_clearance_m": 0.9369575910567918,
     "collision_flags": [],
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
@@ -27,9 +13,9 @@
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
   },
-  "DRIVING_COCKPIT": {
-    "minimum_enclosing_boundary_clearance_m": 0.15500000000000003,
-    "minimum_head_envelope_clearance_m": 0.9369575910567918,
+  "CAR_EXIT_RUNNING": {
+    "minimum_enclosing_boundary_clearance_m": null,
+    "minimum_head_envelope_clearance_m": 3.6976268575496953,
     "collision_flags": [],
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
@@ -41,16 +27,9 @@
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
   },
-  "PANIC": {
-    "minimum_enclosing_boundary_clearance_m": 0.15500000000000003,
-    "minimum_head_envelope_clearance_m": 0.9377160663585256,
-    "collision_flags": [],
-    "technical_status": "TECHNICAL PASS",
-    "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
-  },
-  "PHONE_CALL": {
-    "minimum_enclosing_boundary_clearance_m": 0.17000000000000004,
-    "minimum_head_envelope_clearance_m": 1.2317897921391339,
+  "DOOR_ENTRY": {
+    "minimum_enclosing_boundary_clearance_m": null,
+    "minimum_head_envelope_clearance_m": 0.2806940431340772,
     "collision_flags": [],
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
@@ -62,6 +41,20 @@
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
   },
+  "WINDOW_CURTAIN": {
+    "minimum_enclosing_boundary_clearance_m": 0.15000000000000013,
+    "minimum_head_envelope_clearance_m": 0.2939279627991719,
+    "collision_flags": [],
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
+  },
+  "PHONE_CALL": {
+    "minimum_enclosing_boundary_clearance_m": 0.17000000000000004,
+    "minimum_head_envelope_clearance_m": 1.2317897921391339,
+    "collision_flags": [],
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
+  },
   "UNKNOWN_CALLER": {
     "minimum_enclosing_boundary_clearance_m": 0.17000000000000004,
     "minimum_head_envelope_clearance_m": 1.2317897921391339,
@@ -69,9 +62,16 @@
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
   },
-  "WINDOW_CURTAIN": {
-    "minimum_enclosing_boundary_clearance_m": 0.15000000000000013,
-    "minimum_head_envelope_clearance_m": 0.2939279627991719,
+  "DISCOVERY": {
+    "minimum_enclosing_boundary_clearance_m": 0.15500000000000003,
+    "minimum_head_envelope_clearance_m": 0.9408971868837022,
+    "collision_flags": [],
+    "technical_status": "TECHNICAL PASS",
+    "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
+  },
+  "PANIC": {
+    "minimum_enclosing_boundary_clearance_m": 0.15500000000000003,
+    "minimum_head_envelope_clearance_m": 0.9377160663585256,
     "collision_flags": [],
     "technical_status": "TECHNICAL PASS",
     "scope": "Every-frame camera origin versus explicit enclosing room/cabin bounds and .22m head envelope. Not a proof of every image ray or all swept mesh collisions."
