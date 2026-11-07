@@ -2,7 +2,7 @@
 import bpy,sys,json,math,numpy as np,hashlib
 from pathlib import Path
 R=Path(__file__).resolve().parents[1];sys.path.insert(0,str(R/'source'));import actions
-model=R/'blender/STAIRS_M11R01.blend';bpy.ops.wm.open_mainfile(filepath=str(model));sc=bpy.context.scene;rig=bpy.data.objects['M04_WITNESS_RIG'];anchors={};drift=distance=penetration=length=gap=0.;rows=[];roots=[]
+tag=json.loads((R/'configuration/selected_native.json').read_text())['STAIRS'];model=R/'blender'/f'STAIRS_{tag}.blend';bpy.ops.wm.open_mainfile(filepath=str(model));sc=bpy.context.scene;rig=bpy.data.objects['M04_WITNESS_RIG'];anchors={};drift=distance=penetration=length=gap=0.;rows=[];roots=[]
 def terrain(x,z):
  if .55<=x<=1.55 and 1.5<=z<5.25:return (math.floor((z-1.5)/.25)+1)*actions.RISE
  if z>=5.25 or x<.3:return 2.6

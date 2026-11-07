@@ -9,7 +9,7 @@ def job(shot):
  if FINAL:
   while True:
    plays={}
-   for p in (R/'reports').glob('M11_REVIEW_*preview-playback.json'):plays.update(json.loads(p.read_text()))
+   for p in sorted((R/'reports').glob('M11_REVIEW_*preview-playback.json'),key=lambda p:p.stat().st_mtime):plays.update(json.loads(p.read_text()))
    preview=R/'renders'/f'M11_{shot}_{rev}_PREVIEW_360.mp4'
    if shot in plays and preview.exists() and all(q['ended'] and q['corruptedFrames']==0 and q['sha256']==hashlib.sha256(preview.read_bytes()).hexdigest() for q in plays[shot]):break
    time.sleep(2)

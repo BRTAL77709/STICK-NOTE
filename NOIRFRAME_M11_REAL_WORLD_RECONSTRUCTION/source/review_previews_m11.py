@@ -11,4 +11,4 @@ for g,shots in enumerate([['DRIVING_COCKPIT','ROAD_BUILDINGS','CAR_CHASE','CAR_E
  for shot in shots:
   rev=revision
   while not (R/'reports'/f'M11_{shot}_{rev}_PREVIEW_360_RENDER.json').exists():time.sleep(2)
- subprocess.run([sys.executable,str(R/'source/review_playback.py'),'--stage','preview','--tag','M11_REVIEW_'+str(g),'--shots',*shots,'--rates','1','.5'],check=True)
+ subprocess.run([sys.executable,str(R/'source/review_playback.py'),'--stage','preview','--tag','M11_REVIEW_'+revision+'_'+str(g),'--shots',*shots,'--rates','1','.5'],check=True)

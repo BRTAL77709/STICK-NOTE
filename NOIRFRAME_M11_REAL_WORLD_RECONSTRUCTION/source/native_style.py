@@ -33,7 +33,7 @@ def submit_mesh(w,verts,faces,col,name):
    lit='#'+''.join(f'{int(x):02x}' for x in np.clip(rgb,0,255));w.face([pts[x] for x in face],lit,stroke='none',name=name)
   for a,b in zip(face,face[1:]+face[:1]):adj.setdefault(tuple(sorted([a,b])),[]).append(i)
  for (a,b),fids in adj.items():
-  if any(front[j] for j in fids) and (len(fids)==1 or not all(front[j] for j in fids)):w.line([pts[a],pts[b]],'#06121c',2.5,bias=-.0025)
+  if any(front[j] for j in fids) and (len(fids)==1 or not all(front[j] for j in fids)):w.line([pts[a],pts[b]],'#06121c',3.5,bias=-.0025)
  # Crisp fixed architectural tread edges; no wireframe on the character's skin.
  if name.startswith('TREAD'):
   z=max(p[1] for p in pts);xs=[p[0] for p in pts];zs=[p[2] for p in pts];w.line([np.array([min(xs),z,max(zs)]),np.array([max(xs),z,max(zs)])],'#9aa6a5',1.8)

@@ -7,7 +7,7 @@ from world import World,Camera
 from cameras import camera
 from embed_assets import build,mesh,native,empty,vehicle
 from contact_rig import RY
-p=argparse.ArgumentParser();p.add_argument('--shot',default='MASTER_LAYOUT');a=p.parse_args(sys.argv[sys.argv.index('--')+1:]);shot=a.shot;out=R/'blender'/f'{shot}_WORLD_M11R01.blend';assert not out.exists();bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False);sc=bpy.context.scene;sc.name='M11_'+shot;sc.render.fps=30;sc.render.resolution_x=1080;sc.render.resolution_y=1920;root=empty(sc,'WORLD_ROOT');groups={n:empty(sc,n) for n in ['CITY','ROAD_NETWORK','HOUSE_17','CHARACTER_RIGS','PROPS','CAMERA_RIGS','LIGHTS','AUDIO']}
+p=argparse.ArgumentParser();p.add_argument('--shot',default='MASTER_LAYOUT');p.add_argument('--tag',default='M11R03');a=p.parse_args(sys.argv[sys.argv.index('--')+1:]);shot=a.shot;out=R/'blender'/f'{shot}_WORLD_{a.tag}.blend';assert not out.exists();bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False);sc=bpy.context.scene;sc.name='M11_'+shot;sc.render.fps=30;sc.render.resolution_x=1080;sc.render.resolution_y=1920;root=empty(sc,'WORLD_ROOT');groups={n:empty(sc,n) for n in ['CITY','ROAD_NETWORK','HOUSE_17','CHARACTER_RIGS','PROPS','CAMERA_RIGS','LIGHTS','AUDIO']}
 for o in groups.values():o.parent=root
 if shot!='MASTER_LAYOUT':
  dur=actions.DURATIONS[shot];states=[actions.state(shot,i/30) for i in range(round(dur*30))];build(sc,'CAR_CHASE' if shot=='ARRIVAL' else shot,states);sc.frame_end=len(states)-1

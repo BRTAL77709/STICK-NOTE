@@ -1,6 +1,6 @@
 {
-  "source_blend": "blender/STAIRS_M11R01.blend",
-  "source_blend_sha256": "a23c678fcd1903ef8bd39743f3959561269cc96258074d9bf3bfc7cbdf19ce64",
+  "source_blend": "blender/STAIRS_M11R03.blend",
+  "source_blend_sha256": "832fb13a070665f2ac683044c47719e589550cb2d688aef4459ea1daa840447c",
   "samples": 2040,
   "frequency_Hz": 120,
   "units": "metres; Blender XYZ = renderer ZXY",

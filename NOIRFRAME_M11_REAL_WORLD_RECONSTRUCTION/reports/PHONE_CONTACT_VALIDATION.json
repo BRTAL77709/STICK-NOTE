@@ -1,6 +1,6 @@
 {
   "PHONE_CALL": {
-    "native_revision": "M11R02",
+    "native_revision": "M11R03",
     "native_contact_samples": 648,
     "actual_native_fingertip_proxy_to_authored_glass_pad_m": 7.969098792954872e-06,
     "actual_native_contact_point_to_glass_plane_m": 2.598603298138366e-06,
@@ -15,7 +15,7 @@
     "scope": "Actual evaluated distal bones with authored 7mm rounded tip proxy versus actual phone glass plane. Head clearance uses explicit .22m envelope, not volumetric face collision. No friction simulation."
   },
   "UNKNOWN_CALLER": {
-    "native_revision": "M11R02",
+    "native_revision": "M11R03",
     "native_contact_samples": 300,
     "actual_native_fingertip_proxy_to_authored_glass_pad_m": 7.828675818201708e-06,
     "actual_native_contact_point_to_glass_plane_m": 2.5024414062151112e-06,
