@@ -1,0 +1,16 @@
+{
+  "filename": "M11_STAIRS_FINAL.mp4",
+  "kind": "output",
+  "label": "M11_STAIRS_FINAL",
+  "sha256": "217f79a8dd1329f7d1b5e276d6895cdc02f02d11f7fb5863335ce02468cfedc9",
+  "bytes": 5154983,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 5154983,
+      "sha256": "217f79a8dd1329f7d1b5e276d6895cdc02f02d11f7fb5863335ce02468cfedc9",
+      "git_sha": "8f1b5c37b06f8edab28e893a4ac3979fded5dd91"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
