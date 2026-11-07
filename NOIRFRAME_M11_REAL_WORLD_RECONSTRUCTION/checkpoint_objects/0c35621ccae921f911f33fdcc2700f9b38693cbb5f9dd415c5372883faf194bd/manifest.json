@@ -1,0 +1,16 @@
+{
+  "filename": "pack-DISCOVERY-M11R01-1794059173232440547.tar.gz",
+  "kind": "output",
+  "label": "DISCOVERY-M11R01",
+  "sha256": "0c35621ccae921f911f33fdcc2700f9b38693cbb5f9dd415c5372883faf194bd",
+  "bytes": 2721087,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 2721087,
+      "sha256": "0c35621ccae921f911f33fdcc2700f9b38693cbb5f9dd415c5372883faf194bd",
+      "git_sha": "aa4a1acd5b52d9446407cf2adb8bae80870a86b7"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
