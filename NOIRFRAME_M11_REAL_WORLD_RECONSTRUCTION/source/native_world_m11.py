@@ -39,6 +39,7 @@ def complete(scene,shot,states):
     seen.add(sig);mesh(scene,'M11_'+g['name']+'_'+str(len(seen)),g['vertices'],[tuple(range(len(g['vertices'])))],g['color'],groups['HOUSE_17'])
  if shot in ['PHONE_CALL','UNKNOWN_CALLER']:
   phone=empty(scene,'PHONE_GRIP_ROOT');phone.parent=groups['PROPS'];mesh(scene,'PHONE_RIGID_BODY',[V(x,y,z) for z in [-.012,.012] for x,y in [(-.039,-.08),(.039,-.08),(.039,.08),(-.039,.08)]],[(0,1,2,3),(4,7,6,5),(0,4,5,1),(1,5,6,2),(2,6,7,3),(3,7,4,0)],'#203947',phone)
+  mesh(scene,'PHONE_GLASS_CONTACT_SURFACE',[V(x,y,-.014) for x,y in [(-.033,-.071),(.033,-.071),(.033,.067),(-.033,.067)]],[(0,1,2,3)],'#568091',phone)
   for i,d in enumerate(states):key(scene,phone,i,d['phone_position'],d['phone_R'])
  # Physical area-light locations mirror the procedural cel-light sources.
  lamps=[(-2.23,1.95,1.),(-2.23,1.95,3.5),(-2.23,1.95,5.3)] if shot=='STAIRS' else [(.72,1.55,-3.9)] if shot in ['WINDOW_CURTAIN','PHONE_CALL','UNKNOWN_CALLER'] else []

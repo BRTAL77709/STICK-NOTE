@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before native M11R02",
+  "local_path": "checkpoints/pack-source checkpoint before native M11R02-1794059459795244967.tar.gz",
+  "asset_name": "pack-source checkpoint before native M11R02-1794059459795244967.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/362b915e4ef5d8d14dbd286dd3eb339684d308fe/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a9d687eff78cacb9ac4732ccd6b0211ad232eda37c6273af1127317cd3a1d5e/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/362b915e4ef5d8d14dbd286dd3eb339684d308fe/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a9d687eff78cacb9ac4732ccd6b0211ad232eda37c6273af1127317cd3a1d5e/",
+  "sha256": "5a9d687eff78cacb9ac4732ccd6b0211ad232eda37c6273af1127317cd3a1d5e",
+  "bytes": 22633616,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "362b915e4ef5d8d14dbd286dd3eb339684d308fe",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:51:23Z"
+}

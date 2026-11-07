@@ -88,7 +88,7 @@ def phone(t,threat=False):
  p=pose(root,p['legs'],heading=heading,pitch=.03*Q(t,.7,1.2)-.08*shock-.055*fear,pelvis_roll=.012*shock,fear=.55+.25*shock+.20*fear);d['pose']=p;lift=Q(t,2.3,3.9);center=mix(V(-.55,.732,-.75),p['head']+V(-.235,-.035,-.025),lift);rot=RX(math.pi/2*(1-lift))@RY(-math.pi/2*lift);grip=center+rot@V(-.018,-.045,-.018);neutral=root+RY(heading)@V(.22,.14,.10);wrist=mix(neutral,grip,Q(t,.9,2.2));p['arms'][0]['wrist']=wrist;p['arms'][0]['elbow']=ik(p['arms'][0]['shoulder'],wrist,.34,.34,V(-.6,-.7,-.2));free=root+RY(heading)@V(-.20,.13+.17*shock+.12*fear,.1+.10*shock);p['arms'][1]['wrist']=free;p['arms'][1]['elbow']=ik(p['arms'][1]['shoulder'],free,.34,.34,V(.6,-.7,-.2));p['head_forward']=mix(V(0,0,-1),V(-.7,-.2,-.4),Q(t,.3,.9)*(1-Q(t,3.,4.)));p['gaze']=-.65*Q(t,.15,.5)*(1-Q(t,3.,4.))
  d.update(phone_position=center,phone_R=rot,phone_grip=grip,phone_contact=t>=2.2,fabric=ref['fabric'],sedan_position=VS.window_point(VS.PARK['pursuer_position']),sedan_yaw=VS.PARK['pursuer_yaw']-math.atan2(VS.WINDOW_R[0,2],VS.WINDOW_R[2,2]),phase='ring / attention / supported turn' if t<1.4 else 'reach / grip' if t<2.3 else 'lift / wrist rotation' if t<3.9 else 'offer / listening / threat reaction')
  if t>=2.2:
-  d['hand_frames'][0]=rot;pads=[center+rot@V(-.025,-.045,-.024),center+rot@V(.025,-.045,-.024)];d['fingers'][0]=fingers(wrist,pads,V(0,-1,0),[rot@V(0,0,-1)]*2)
+  d['hand_frames'][0]=rot;pads=[center+rot@V(-.025,-.045,-.014),center+rot@V(.025,-.045,-.014)];d['fingers'][0]=fingers(wrist,pads,V(0,-1,0),[rot@V(0,0,-1)]*2)
  return d
 
 def state(shot,t):

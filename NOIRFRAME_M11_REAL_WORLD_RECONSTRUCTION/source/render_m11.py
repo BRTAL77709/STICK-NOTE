@@ -73,10 +73,10 @@ def backup_batch(directory,paths,start,end,fingerprint):
  report.write_text(json.dumps({'label':label,'fingerprint':fingerprint,'verified':True,'archive':str(archive.relative_to(R)),'sha256':hashlib.sha256(archive.read_bytes()).hexdigest()},indent=2))
 
 def main():
- p=argparse.ArgumentParser();p.add_argument('--shot',required=True);p.add_argument('--tag',default='M11R01');p.add_argument('--width',type=int,default=360);p.add_argument('--diagnostic',action='store_true');p.add_argument('--stills',action='store_true');p.add_argument('--final',action='store_true');a=p.parse_args();ensure('source checkpoint before '+a.shot+' render');shot=a.shot;width=1080 if a.final else a.width;dur=actions.DURATIONS[shot];n=round(dur*30);data=chase=None
+ p=argparse.ArgumentParser();p.add_argument('--shot',required=True);p.add_argument('--tag',default=None);p.add_argument('--width',type=int,default=360);p.add_argument('--diagnostic',action='store_true');p.add_argument('--stills',action='store_true');p.add_argument('--final',action='store_true');a=p.parse_args();ensure('source checkpoint before '+a.shot+' render');shot=a.shot;a.tag=a.tag or json.loads((R/'configuration/selected_native.json').read_text()).get(shot,'M11R01');width=1080 if a.final else a.width;dur=actions.DURATIONS[shot];n=round(dur*30);data=chase=None
  if shot in NATIVE:
   data=json.load(gzip.open(R/'scenes'/f'{shot}_{a.tag}.json.gz','rt'));assert hashlib.sha256((R/'blender'/f'{shot}_{a.tag}.blend').read_bytes()).hexdigest()==data['blend_sha256']
- if shot=='CAR_CHASE':chase=json.load(gzip.open(R/'scenes'/f'DRIVER_CHASE_{a.tag}.json.gz','rt'))
+ if shot=='CAR_CHASE':chase_tag=json.loads((R/'configuration/selected_native.json').read_text())['DRIVER_CHASE'];chase=json.load(gzip.open(R/'scenes'/f'DRIVER_CHASE_{chase_tag}.json.gz','rt'))
  stage='FINAL' if a.final else 'DIAGNOSTIC' if a.diagnostic else f'PREVIEW_{width}';stem=f'M11_{shot}_{a.tag}_{stage}';raster=FastDepth(round(width*1.5) if a.final else width)
  def frame(i):
   t=i/30
@@ -97,7 +97,11 @@ def main():
   for i in [0,n//4,n//2,3*n//4,n-1]:frame(i)[0].save(R/'contact_sheets'/f'{stem}_{i:04d}.png')
   return
  out=R/'renders'/(stem+'.mp4');report=R/'reports'/(stem+'_RENDER.json')
- if report.exists():print('COMPLETED_PRESERVED',stem);return
+ if report.exists():
+  receipts=[json.loads(p.read_text()) for p in (R/'checkpoints/receipts').glob('*.json')]
+  digest=hashlib.sha256(out.read_bytes()).hexdigest()
+  if not any(x['label']==stem and x['sha256']==digest and x.get('download_SHA256_verified') for x in receipts):subprocess.run([sys.executable,str(R/'source/checkpoint_store.py'),'asset','--path',str(out.relative_to(R)),'--label',stem],check=True)
+  print('COMPLETED_AND_BACKUP_VERIFIED',stem);return
  if out.exists():out.rename(R/'scratch'/f'{stem}_INTERRUPTED_{time.time_ns()}.mp4')
  from production_guard import sources
  all_sources=sources();deps={k:v for k,v in all_sources.items() if k.startswith('source/legacy/') or k.split('/')[-1] in ['render_m11.py','render_clips.py','actions.py','sets.py','sets_m10.py','cameras.py','cameras_m10.py','cameras_base_R07.py','vehicle_system.py','spatial_world.py','mirror_feed.py','native_style.py','stair_style.py','world.py','fast_depth.py','depth_render.py','fast_raster.so','approved_head.py','approved_head_view.py','view_head.py','svg.py','overlays_m11.py','dialogue_m11.py']};fp=hashlib.sha256(json.dumps({'sources':deps,'width':width,'shot':shot,'native_blend':data.get('blend_sha256') if data else None,'driver_blend':chase.get('blend_sha256') if chase else None,'duration':dur},sort_keys=True).encode()).hexdigest();directory=R/'frames'/stem;directory.mkdir(exist_ok=True);stamp=directory/'PRODUCER.json'
