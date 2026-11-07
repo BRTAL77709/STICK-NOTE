@@ -1,0 +1,16 @@
+{
+  "filename": "M11_KEY_LOCK_FINAL.mp4",
+  "kind": "output",
+  "label": "M11_KEY_LOCK_FINAL",
+  "sha256": "78ed6f9ea8ad25c152028459e8c10aa4bfe06e5a0f41533951820ba4f60fc5d7",
+  "bytes": 1846317,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1846317,
+      "sha256": "78ed6f9ea8ad25c152028459e8c10aa4bfe06e5a0f41533951820ba4f60fc5d7",
+      "git_sha": "c8b65c8c7dbfcc5bf18974e9fb18fa7d0316dbe2"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
