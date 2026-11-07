@@ -1,0 +1,28 @@
+{
+  "filename": "pack-source checkpoint before native M11R02-1794059459795244967.tar.gz",
+  "kind": "source",
+  "label": "source checkpoint before native M11R02",
+  "sha256": "5a9d687eff78cacb9ac4732ccd6b0211ad232eda37c6273af1127317cd3a1d5e",
+  "bytes": 22633616,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "a14fc3fbc71940420fb8f2464279bcbfef10d53a25e3600a3ffcd89ea6354bf1",
+      "git_sha": "4cad2a111c67da69aa3544b856f2f268e2e8e2e1"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "89a156685f0b875c69e9f89dab120154bf5191c52eca2c276337edea1c02a5a3",
+      "git_sha": "c73c3c253c35e04a0a3c922fbb4b7aec361a0ee4"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 5856400,
+      "sha256": "ffc9867f8e8d1e490cdbc51e20b3deb5fb66af9b72efe785f626e5f6bd04888b",
+      "git_sha": "60fb7e1e4bee98846972bb75c50abe4f39fb7592"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
