@@ -1,0 +1,16 @@
+{
+  "filename": "M11_ROAD_BUILDINGS_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_ROAD_BUILDINGS_M11R03_PREVIEW_360",
+  "sha256": "9d63f648b49ea2e08d0b5f5ab5312292a7ea9d6a7169ffe7baae25b4581b91b6",
+  "bytes": 1254981,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1254981,
+      "sha256": "9d63f648b49ea2e08d0b5f5ab5312292a7ea9d6a7169ffe7baae25b4581b91b6",
+      "git_sha": "b1eaa56c5d2507d0ba357c79f10c23986547e1cd"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
