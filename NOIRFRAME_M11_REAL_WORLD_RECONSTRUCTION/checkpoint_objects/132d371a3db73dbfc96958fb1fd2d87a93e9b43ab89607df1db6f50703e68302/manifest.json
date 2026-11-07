@@ -1,0 +1,16 @@
+{
+  "filename": "pack-KEY_LOCK-M11R03-1794061028492114865.tar.gz",
+  "kind": "output",
+  "label": "KEY_LOCK-M11R03",
+  "sha256": "132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302",
+  "bytes": 5438931,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 5438931,
+      "sha256": "132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302",
+      "git_sha": "124a1bd3b28af2c22691eb00cc89bc6624017a57"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
