@@ -1,0 +1,16 @@
+{
+  "filename": "M11_KEY_LOCK_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_KEY_LOCK_M11R03_PREVIEW_360",
+  "sha256": "21251f9486cf9861d92fedbdc421c84a2c0b756703e1f00ae9fc063025e2225d",
+  "bytes": 619506,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 619506,
+      "sha256": "21251f9486cf9861d92fedbdc421c84a2c0b756703e1f00ae9fc063025e2225d",
+      "git_sha": "107c51dbb6e62ee912bf2fb309dbb87b59a97eb2"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
