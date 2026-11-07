@@ -1,0 +1,16 @@
+{
+  "filename": "M11_STAIRS_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_STAIRS_M11R03_PREVIEW_360",
+  "sha256": "665d042f6c54034ad8bdcc1e929c12c69a122352958a75b36f9a1a1a69334714",
+  "bytes": 2143081,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 2143081,
+      "sha256": "665d042f6c54034ad8bdcc1e929c12c69a122352958a75b36f9a1a1a69334714",
+      "git_sha": "2df63801713da7762a191c588479cc2d3beb02c2"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
