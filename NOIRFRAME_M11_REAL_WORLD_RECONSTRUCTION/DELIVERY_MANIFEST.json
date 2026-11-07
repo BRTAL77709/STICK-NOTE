@@ -22,5 +22,17 @@
     "remote_download_verified": true,
     "decode_validated": true,
     "artistic_approval": "PENDING USER REVIEW"
+  },
+  "CAR_CHASE": {
+    "duration": 11.0,
+    "versioned_source_export": "renders/M11_CAR_CHASE_M11R03_FINAL.mp4",
+    "file": "renders/M11_CAR_CHASE_FINAL.mp4",
+    "sha256": "e5ba39a9870e647daf4b3abfd0cac1f1d6a4f0f87926c1650d747ea3a6d3359f",
+    "bytes": 4876486,
+    "download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/03e7adae30e49a5f0de92a850fb0237eb70faae4/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_CAR_CHASE_FINAL.mp4",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cd9ebf00696881fb9f6e0458f597ed59b86a84ca/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/e5ba39a9870e647daf4b3abfd0cac1f1d6a4f0f87926c1650d747ea3a6d3359f/cb747bb2260321f5a69d/manifest.json",
+    "remote_download_verified": true,
+    "decode_validated": true,
+    "artistic_approval": "PENDING USER REVIEW"
   }
 }

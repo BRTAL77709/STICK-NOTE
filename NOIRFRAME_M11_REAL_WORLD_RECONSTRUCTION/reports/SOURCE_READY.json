@@ -52,6 +52,7 @@
     "source/build_comparison_sheets.py": "a281012944241c35910c2b076c7cb3a470213637d90e50f652e90c1a6cd4ede6",
     "source/build_comparisons.py": "07ac266d9f9be5132b6bda33244a5b0be6e74b6bd9c816da8aa3ceac94e34607",
     "source/build_qa_report.py": "bbc5a84cc30f17fd98f226074dc3a8730555f26a23d2b3742f24535e8627ab0b",
+    "source/build_review_diagrams_m11.py": "806f212c013a42e2e0e237f3babd9e9be92fe0f2b280fffbd9721858ae2c2731",
     "source/cameras.py": "89a2d497f81af343d2fc20311bb932b795e0db26e27ffcd51249c637167c36d3",
     "source/cameras_M08A.py": "6544293c5d3ffda670714e2e360f7c838187cbb3f353a69d2d87bb4c8e6d211c",
     "source/cameras_M08E.py": "a1a51d97fe083a841375c4011f6dd1360bc63c9435c8c0d2c5095ac49e0acd97",
@@ -74,6 +75,7 @@
     "source/check_stairs_m10.py": "ca2f1aa3cec4aa5a66fa922c8d2056d2bce275065cc7e64cdb6710e9772cb71b",
     "source/check_stairs_m10d.py": "d5dbf26cf00bb4ee1aeef003b7f2b956daff13656b26b00e87dd2bcf7fedc6ff",
     "source/checkpoint_store.py": "b6a93cde7090428dc5d9b6a61313fd443c169eb2a37886c9ad30410ba876e567",
+    "source/compare_m10_m11.py": "9545f5fdc48debcb4aa77019a5a4e2285d058f95db151864c9f764d37e47df6c",
     "source/complete_cockpit_hierarchy_m10.py": "bc3e37efe7b738d50a0d01f3365afc0e3d33afb0cb5bf2e01a7aee07e15daa30",
     "source/depth_render.py": "5f846c188716dddb26e25d92b51d86728c956d28f6dfa5c55646b4d62d595878",
     "source/depth_render_M08_BEFORE_ROI.py": "f329a9d8ed9bbad450fbbe99557c19af6a908fab39ceaf9e8322d83531e89587",
@@ -154,6 +156,7 @@
     "source/produce_m11.py": "783b1cdaa0e75d7baf93774cfe0a20984e284dfbe0bf6bf3a76591a17a89f050",
     "source/producer_provenance.py": "e0364ec4679f10547695aaefb25f32ace4c51390f8d501343a35cad781d684bb",
     "source/production_guard.py": "7fec1849f183b07789424b64c8eaac435d0c22f4d452e5f436195c9fc396f0ee",
+    "source/publish_scenes_m11.py": "8b7811b454ee8d67be0991ca916c0b3d47618baf96bf7adefbcacebbe90bfade",
     "source/reframe_exit_m09.py": "4d8628de1b4dbab3d1ecc1c4af3dabfd56898b8cfb21a2c2150de9a4891402ef",
     "source/render_batch_m09.py": "470ca802a414537b4b2a0a5b7f44cc080d6ea08823e093ae393a1a07bfd1091a",
     "source/render_batch_m10.py": "e42ca6d795771ad3f3f95f832cd966c97a746cbb679611433d7771a1f4e02b8c",
@@ -202,6 +205,6 @@
     "source/view_head.py": "225c9b04a4e66f02f02dba5dffdc9dcfd2f652d414404a3479d297066c8be7f4",
     "source/world.py": "51c1d23a7188f51e2f22c018526007b9c1aa1c46bf32df7ec14206f95f7f2212"
   },
-  "verified_source_commit": "1fbf55c8e6ec6ee6e1de5b4f04ba5c6080bd72a2",
+  "verified_source_commit": "1fed21ce92b6766197b980dbf6ff5143c4c07601",
   "branch": "noirframe/m11-safe-rebuild"
 }

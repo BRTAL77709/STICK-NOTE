@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "Verified reconstructed native rigs, contact QA, review diagrams and initial final exports",
+  "local_path": "checkpoints/pack-Verified reconstructed native rigs, contact QA, review diagrams and initial final exports-1794063353860705916.tar.gz",
+  "asset_name": "pack-Verified reconstructed native rigs, contact QA, review diagrams and initial final exports-1794063353860705916.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/11e98949a8fc2bb9b4d03ae13a3c99686b44d2c4/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3d7d30b512693cefe515efbf88240907be8ea666227e9a0ca41c4abd8a0597f4/38da1b2d0a2776935a93/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/11e98949a8fc2bb9b4d03ae13a3c99686b44d2c4/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3d7d30b512693cefe515efbf88240907be8ea666227e9a0ca41c4abd8a0597f4/38da1b2d0a2776935a93/",
+  "sha256": "3d7d30b512693cefe515efbf88240907be8ea666227e9a0ca41c4abd8a0597f4",
+  "bytes": 68761028,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "11e98949a8fc2bb9b4d03ae13a3c99686b44d2c4",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:57:10Z"
+}

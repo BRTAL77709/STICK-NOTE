@@ -2,5 +2,7 @@
   "files_checked": 11871,
   "errors": [],
   "passed": true,
-  "scope": "all original regular files from pre-rebuild inventory; remote previous tree entries checked at every source milestone"
+  "scope": "all original regular files from pre-rebuild inventory; remote previous tree entries checked at every source milestone",
+  "symlinks_checked": 68,
+  "symlink_errors": []
 }

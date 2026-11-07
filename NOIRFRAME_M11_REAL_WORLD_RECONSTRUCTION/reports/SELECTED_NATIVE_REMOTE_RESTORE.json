@@ -1,0 +1,13 @@
+{
+  "manifest_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/f0a4c94de7be223bc2bb7ed30fd9eb8f986bc6bd/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a154af975300d73c0c394607c67a3a0d6da076ae02910d2f8fea9271e7ddfef/manifest.json",
+  "sha256": "5a154af975300d73c0c394607c67a3a0d6da076ae02910d2f8fea9271e7ddfef",
+  "files_restored_and_verified": [
+    "/workspace/STICK-NOTE/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoints/restore_tests/selected_stairs_M11R03/blender/STAIRS_M11R03.blend",
+    "/workspace/STICK-NOTE/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoints/restore_tests/selected_stairs_M11R03/scenes/STAIRS_M11R03.json.gz"
+  ],
+  "passed": true,
+  "matches_current_selected_production_files": {
+    "blender/STAIRS_M11R03.blend": "832fb13a070665f2ac683044c47719e589550cb2d688aef4459ea1daa840447c",
+    "scenes/STAIRS_M11R03.json.gz": "3dd04ee211f1a51f8c90fcb3f7aed19700deda96c8100c05f04091dbf5b92306"
+  }
+}
