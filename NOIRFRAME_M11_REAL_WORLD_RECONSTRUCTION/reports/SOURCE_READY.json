@@ -44,8 +44,10 @@
     "source/audit_baseline.py": "27a79a9f1da2fba9dc0b0c879aba214b8dc2ad5c75fbf0a064f8953fd24cd395",
     "source/audit_m09.py": "d74933ad920b475c5ee93eb028749580e97b0f2aa2bb073f9e3d6faf67f10b6b",
     "source/audit_m10.py": "4d06ef1cdd4be60ec9fad66273e96e305df40637f33e5838ed2cc8a002db693a",
+    "source/audit_story_m11.py": "7fa6cc8abe1776ad3244d0f156b97a3838902e9ffae0a2e8378f20bf31ecfa89",
     "source/bake_native.py": "c4178596d882a92dccf5a4d671ed00b3ad8e0f5471c1ea48e3e22715c0d09b6e",
     "source/bake_native_R07.py": "81e0af78c28627bf5ddab3bf841eacc5572ef3aae7553f4f61c778b4a9ae9515",
+    "source/batch_m11.py": "9d37c428a59f0dbfff97755f25314c755fa2260399a84323eb501ca31e7aa902",
     "source/bootstrap.py": "61fb92f525f24174053cee05c081332013f4f31df2063f506b64536fe3f57f5b",
     "source/build_comparison_sheets.py": "a281012944241c35910c2b076c7cb3a470213637d90e50f652e90c1a6cd4ede6",
     "source/build_comparisons.py": "07ac266d9f9be5132b6bda33244a5b0be6e74b6bd9c816da8aa3ceac94e34607",
@@ -147,7 +149,7 @@
     "source/produce_m10.py": "70ca1fa5fcbee0c90853b86a0dbf620e04d7889df31a4509d864794641c4bd1b",
     "source/produce_m11.py": "783b1cdaa0e75d7baf93774cfe0a20984e284dfbe0bf6bf3a76591a17a89f050",
     "source/producer_provenance.py": "e0364ec4679f10547695aaefb25f32ace4c51390f8d501343a35cad781d684bb",
-    "source/production_guard.py": "a8fbd560b82ee5ec6c7067910a2b8a87b1cb2b6a1816ec080afa0032d97e18af",
+    "source/production_guard.py": "7fec1849f183b07789424b64c8eaac435d0c22f4d452e5f436195c9fc396f0ee",
     "source/reframe_exit_m09.py": "4d8628de1b4dbab3d1ecc1c4af3dabfd56898b8cfb21a2c2150de9a4891402ef",
     "source/render_batch_m09.py": "470ca802a414537b4b2a0a5b7f44cc080d6ea08823e093ae393a1a07bfd1091a",
     "source/render_batch_m10.py": "e42ca6d795771ad3f3f95f832cd966c97a746cbb679611433d7771a1f4e02b8c",
@@ -159,6 +161,7 @@
     "source/reuse_exit_frames_m10.py": "9f168b2ee0012d5a02ba8626ef9ed1122a6623385e6a51dc2fb7dba13ffdb2ed",
     "source/reuse_exit_frames_m10i.py": "d76bbbb012d415e39316d58d8633a0c41ea77fae3c25b578f10805a659d21144",
     "source/review_playback.py": "720c2b2697f4167e0793e3fae5d4c16963df212ceac3d545fef837552b320804",
+    "source/review_previews_m11.py": "7ca12c2480bd34f093334ef52ec0b4996920deb8016aa6497a5c116f59e45e08",
     "source/rig.py": "90ff06f808b97b2433f37c596311b45b8655d1f1b2c01a31b02acf950b5e74e2",
     "source/run_repair.py": "9e59f8c0886fac81c01f6e514bfdc1da580f556e9a1cc737d7b98db3f25f3829",
     "source/run_repair_sparse_attempt.py": "9cb3c612d7885b4673a860500627f6145bab155c1005e2e29e25266091ab9bc0",
@@ -184,6 +187,7 @@
     "source/validate_m11.py": "7b6c224bdea3cd1b58909f46f3ce2935d60df188c14197aadfd59dfb08dad864",
     "source/validate_media.py": "901774824a8b117d51ed1c5709e78534705effba961ad037083c67f5abd0ad65",
     "source/validate_media_m08.py": "901774824a8b117d51ed1c5709e78534705effba961ad037083c67f5abd0ad65",
+    "source/validate_phone_m11.py": "4b6b5c78a1059323c5365c10ef9c8dc5c501989e6db92b4f8fb621f601cf941f",
     "source/validate_props.py": "866aecc28103e9bcb674f568a52de3b31dbcbec768929ab7468ce5ab2338159a",
     "source/validate_stairs_native_120.py": "8f2921781d7dd109f7c465640d8b48eab03627b9f6748f14603948c226acead6",
     "source/validate_world.py": "975c3a2904f380138015f97c3898da7764e907f318edb7fa5b26998380623c48",
@@ -191,6 +195,6 @@
     "source/view_head.py": "225c9b04a4e66f02f02dba5dffdc9dcfd2f652d414404a3479d297066c8be7f4",
     "source/world.py": "51c1d23a7188f51e2f22c018526007b9c1aa1c46bf32df7ec14206f95f7f2212"
   },
-  "verified_source_commit": "249c16148d040b6c285380cb160cfd8e600f5ac4",
+  "verified_source_commit": "635278db5f327a7af2d557b5c23c02c8894cb9a9",
   "branch": "noirframe/m11-safe-rebuild"
 }

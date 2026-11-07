@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "native world export source checkpoint",
+  "local_path": "checkpoints/pack-native world export source checkpoint-1794060390847431777.tar.gz",
+  "asset_name": "pack-native world export source checkpoint-1794060390847431777.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/37adcf0abe4c3b4636510180e984a02704246d5b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/c05c3794d9dd0a8c9eb5124a9513a84c2465452ba3e6bc30e41de510f3de7448/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/37adcf0abe4c3b4636510180e984a02704246d5b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/c05c3794d9dd0a8c9eb5124a9513a84c2465452ba3e6bc30e41de510f3de7448/",
+  "sha256": "c05c3794d9dd0a8c9eb5124a9513a84c2465452ba3e6bc30e41de510f3de7448",
+  "bytes": 26374586,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "37adcf0abe4c3b4636510180e984a02704246d5b",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:06:58Z"
+}

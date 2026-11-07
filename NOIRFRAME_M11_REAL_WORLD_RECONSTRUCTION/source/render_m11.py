@@ -57,10 +57,16 @@ def poll(t,width):
  for k in range(100):
   x=(k*71)%1080;y=(k*113+t*440)%1920;dr.line([(x*s,y*s),((x-8)*s,(y+43)*s)],fill='#264555',width=max(1,round(s)))
  text(540,470,'WHAT WOULD',76);text(540,570,'YOU DO?',100,'#ed453c')
- for j,(col,title,sub) in enumerate([('#49dd8d','A · TAKE','$1,000,000'),('#ef5d53','B · CALL','THE POLICE')]):
-  y=790+j*280
+ for j,(col,title,sub) in enumerate([('#49dd8d','A) TAKE','$1,000,000'),('#ef5d53','B) CALL','THE POLICE')]):
+  x=65+j*500;y=850
   if actions.Q(t,.4+j*.35,.9+j*.35)<=0:continue
-  dr.rounded_rectangle((100*s,y*s,980*s,(y+220)*s),radius=25*s,fill='#123b36' if j==0 else '#3e1b27',outline=col,width=max(2,round(5*s)));text(540,y+66,title,55,col);text(540,y+147,sub,62)
+  dr.rounded_rectangle((x*s,y*s,(x+450)*s,(y+425)*s),radius=25*s,fill='#123b36' if j==0 else '#3e1b27',outline=col,width=max(2,round(5*s)))
+  if j==0:
+   for k in [2,1,0]:
+    xx=x+145+k*8;yy=y+95-k*9;dr.polygon([(xx*s,yy*s),((xx+100)*s,(yy-35)*s),((xx+155)*s,(yy-5)*s),((xx+55)*s,(yy+30)*s)],fill='#74c698',outline='#d9f0ce')
+  else:
+   xx=x+225;yy=y+90;dr.polygon([((xx-48)*s,(yy-24)*s),(xx*s,(yy-38)*s),((xx+48)*s,(yy-24)*s),((xx+42)*s,(yy+35)*s),(xx*s,(yy+64)*s),((xx-42)*s,(yy+35)*s)],outline='#efe7d1',width=max(2,round(4*s)))
+  text(x+225,y+245,title,49,col);text(x+225,y+325,sub,48)
  text(540,1470,'COMMENT A OR B',54);text(540,1540,'FOR PART 2',42,'#b6c6c8');return im
 
 def backup_batch(directory,paths,start,end,fingerprint):
