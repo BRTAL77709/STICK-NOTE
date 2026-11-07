@@ -1,0 +1,103 @@
+{
+  "shot": "STAIRS",
+  "tag": "M11R03",
+  "sample_rate": 24000,
+  "events": [
+    {
+      "time_s": 0.9666666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 1.6333333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 2.3,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 2.933333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 3.6,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 4.233333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 4.9,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 5.533333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.166666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.833333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 7.5,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.133333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.8,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 9.433333333333334,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 10.1,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 10.733333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 11.4,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 12.366666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 13.0,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 13.666666666666666,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 14.333333333333334,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 14.966666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 15.6,
+      "kind": "footstep"
+    }
+  ],
+  "dialogue": [],
+  "peak_dBFS": -15.833125920560619,
+  "RMS_dBFS": -42.09479044228735,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

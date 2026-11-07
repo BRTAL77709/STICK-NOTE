@@ -89,7 +89,7 @@ def main():
  if shot in NATIVE:
   data=json.load(gzip.open(R/'scenes'/f'{shot}_{native_tag}.json.gz','rt'));assert hashlib.sha256((R/'blender'/f'{shot}_{native_tag}.blend').read_bytes()).hexdigest()==data['blend_sha256']
  if shot=='CAR_CHASE':chase_tag=json.loads((R/'configuration/selected_native.json').read_text())['DRIVER_CHASE'];chase=json.load(gzip.open(R/'scenes'/f'DRIVER_CHASE_{chase_tag}.json.gz','rt'))
- stage='FINAL' if a.final else 'DIAGNOSTIC' if a.diagnostic else f'PREVIEW_{width}';stem=f'M11_{shot}_{a.tag}_{stage}';raster=FastDepth(round(width*1.5) if a.final else width)
+ stage='DIAGNOSTIC' if a.diagnostic else 'FINAL' if a.final else f'PREVIEW_{width}';stem=f'M11_{shot}_{a.tag}_{stage}';raster=FastDepth(round(width*1.5) if a.final else width)
  def frame(i):
   t=i/30
   from overlays_m11 import apply
@@ -103,7 +103,11 @@ def main():
    dr=ImageDraw.Draw(im);scale=width/1080
    for side,j in [('L',1),('R',0)]:
     leg=d['pose']['legs'][j];x,y=w.cam(leg['sole']);col='#69eea1' if leg['planted'] else '#edb960';dr.ellipse(((x-14)*scale,(y-14)*scale,(x+14)*scale,(y+14)*scale),outline=col,width=2)
-   dr.rectangle((0,0,width,70),fill='#071923');dr.text((10,10),f'M11 {shot} / {t:.3f}s',fill='white');dr.text((10,30),'GREEN: STANCE / AMBER: SWING',fill='white');dr.text((10,50),'Diagnostic walls omitted only here',fill='white')
+   font=ImageFont.truetype('/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',max(12,round(25*scale)))
+   for side in ['L','R']:
+    for pref in ['thigh.','shin.','upper_arm.','forearm.']:
+     b=f['bones'][pref+side];A=np.array(w.cam(np.array([b['head'][1],b['head'][2],b['head'][0]])))*scale;B=np.array(w.cam(np.array([b['tail'][1],b['tail'][2],b['tail'][0]])))*scale;dr.line([tuple(A),tuple(B)],fill='#efbb71',width=max(1,round(3*scale)))
+   dr.rectangle((0,0,width,round(135*scale)),fill='#071923');dr.text((10*scale,10*scale),f'M11 ACTUAL NATIVE MESH / {t:.3f}s',font=font,fill='white');dr.text((10*scale,48*scale),'GREEN: STANCE / AMBER: SWING',font=font,fill='white');dr.text((10*scale,86*scale),'Room walls omitted ONLY in this diagnostic',font=font,fill='#d7b67f')
   return im,w
  if a.stills:
   for i in [0,n//4,n//2,3*n//4,n-1]:frame(i)[0].save(R/'contact_sheets'/f'{stem}_{i:04d}.png')
@@ -116,7 +120,7 @@ def main():
   print('COMPLETED_AND_BACKUP_VERIFIED',stem);return
  if out.exists():out.rename(R/'scratch'/f'{stem}_INTERRUPTED_{time.time_ns()}.mp4')
  from production_guard import sources
- all_sources=sources();deps={k:v for k,v in all_sources.items() if k.startswith('source/legacy/') or k.split('/')[-1] in ['render_m11.py','render_clips.py','actions.py','sets.py','sets_m10.py','cameras.py','cameras_m10.py','cameras_base_R07.py','vehicle_system.py','spatial_world.py','mirror_feed.py','native_style.py','stair_style.py','world.py','fast_depth.py','depth_render.py','fast_raster.so','approved_head.py','approved_head_view.py','view_head.py','svg.py','overlays_m11.py','dialogue_m11.py']};fp=hashlib.sha256(json.dumps({'sources':deps,'width':width,'shot':shot,'native_blend':data.get('blend_sha256') if data else None,'driver_blend':chase.get('blend_sha256') if chase else None,'duration':dur},sort_keys=True).encode()).hexdigest();directory=R/'frames'/stem;directory.mkdir(exist_ok=True);stamp=directory/'PRODUCER.json'
+ all_sources=sources();deps={k:v for k,v in all_sources.items() if k.startswith('source/legacy/') or k.split('/')[-1] in ['render_m11.py','render_clips.py','actions.py','sets.py','sets_m10.py','cameras.py','cameras_m10.py','cameras_base_R07.py','vehicle_system.py','spatial_world.py','mirror_feed.py','native_style.py','stair_style.py','world.py','fast_depth.py','depth_render.py','fast_raster.so','approved_head.py','approved_head_view.py','view_head.py','svg.py','overlays_m11.py','dialogue_m11.py']};fp=hashlib.sha256(json.dumps({'sources':deps,'width':width,'diagnostic':a.diagnostic,'shot':shot,'native_blend':data.get('blend_sha256') if data else None,'driver_blend':chase.get('blend_sha256') if chase else None,'duration':dur},sort_keys=True).encode()).hexdigest();directory=R/'frames'/stem;directory.mkdir(exist_ok=True);stamp=directory/'PRODUCER.json'
  if stamp.exists():assert json.loads(stamp.read_text())['fingerprint']==fp,'Source changed. Use a NEW revision tag; preserve these completed frames.'
  else:stamp.write_text(json.dumps({'fingerprint':fp,'width':width,'height':round(width*16/9),'fps':30,'dependency_sha256':deps,'native_blend_sha256':data.get('blend_sha256') if data else None,'batch_frames':60,'persistence':'/workspace plus SHA256-verified committed remote chunks'},indent=2))
  wav=R/'sound'/f'M11_{shot}_{native_tag}_MASTER.wav'
@@ -140,6 +144,6 @@ def main():
  proc.stdin.close();assert proc.wait()==0
  sheet=Image.new('RGB',(900,344*math.ceil(len(samples)/5)),'#071521');dr=ImageDraw.Draw(sheet)
  for k,(i,im) in enumerate(samples):x=k%5*180;y=k//5*344;sheet.paste(im,(x,y));dr.text((x+4,y+322),f'{i/30:.2f}s',fill='white')
- sheet.save(R/'contact_sheets'/f'{stem}.jpg',quality=92);rp={'shot':shot,'render_revision':a.tag,'native_tag':native_tag,'duration':dur,'fps':30,'width':width,'height':round(width*16/9),'frames':n,'native_blend_sha256':data.get('blend_sha256') if data else None,'source_sha256':all_sources,'source_frame_sha256':hashes,'pixel_checks':checks,'spatial_samples':1.5 if a.final else 1.,'file':str(out.relative_to(R)),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'render_command':cmd,'master_frames_persistent':a.final,'remote_frame_batch_verification_required':a.final};report.write_text(json.dumps(rp,indent=2))
+ sheet.save(R/'contact_sheets'/f'{stem}.jpg',quality=92);rp={'shot':shot,'render_revision':a.tag,'native_tag':native_tag,'duration':dur,'fps':30,'width':width,'height':round(width*16/9),'frames':n,'native_blend_sha256':data.get('blend_sha256') if data else None,'source_sha256':all_sources,'source_frame_sha256':hashes,'pixel_checks':checks,'spatial_samples':1.5 if a.final else 1.,'file':str(out.relative_to(R)),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'render_command':cmd,'diagnostic':a.diagnostic,'master_frames_persistent':a.final,'remote_frame_batch_verification_required':a.final};report.write_text(json.dumps(rp,indent=2))
  subprocess.run([sys.executable,str(R/'source/checkpoint_store.py'),'asset','--path',str(out.relative_to(R)),'--label',stem],check=True);print('DONE_BACKED_UP',stem,flush=True)
 if __name__=='__main__':main()

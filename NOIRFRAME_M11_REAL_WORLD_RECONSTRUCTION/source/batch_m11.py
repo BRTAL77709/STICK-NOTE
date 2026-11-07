@@ -7,6 +7,8 @@ FINAL='--final' in sys.argv
 def job(shot):
  rev=json.loads((R/'configuration/render_revision.json').read_text())['revision'];stage='FINAL' if FINAL else 'PREVIEW_360';name=f'M11_{shot}_{rev}_{stage}';report=R/'reports'/(name+'_RENDER.json')
  if FINAL:
+  while not (R/'reports/FRAME_BACKUP_RESTORE_DRILL.json').exists():time.sleep(2)
+  assert json.loads((R/'reports/FRAME_BACKUP_RESTORE_DRILL.json').read_text())['passed']
   while True:
    plays={}
    for p in sorted((R/'reports').glob('M11_REVIEW_*preview-playback.json'),key=lambda p:p.stat().st_mtime):plays.update(json.loads(p.read_text()))

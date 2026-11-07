@@ -1,7 +1,7 @@
 {
-  "blend": "blender/ROAD_BUILDINGS_WORLD_M11R01.blend",
-  "sha256": "e89f572d3edda64ce3f9573556a26313a19799aabcee8f972b51750682ccd974",
-  "surfaces": 3080,
+  "blend": "blender/ROAD_BUILDINGS_WORLD_M11R03.blend",
+  "sha256": "72ba7c584d3d7313cfb5e57e3474f7c6c7bb96d10a0611eda5b08c60898bf4c3",
+  "surfaces": 3187,
   "House17_origin": [
     -0.9516927453098694,
     0.13,
