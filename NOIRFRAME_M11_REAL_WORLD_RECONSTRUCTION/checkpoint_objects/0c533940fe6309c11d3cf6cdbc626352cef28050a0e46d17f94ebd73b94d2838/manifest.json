@@ -1,0 +1,16 @@
+{
+  "filename": "pack-backup-restore-drill-1794058410023614044.tar.gz",
+  "kind": "source",
+  "label": "backup-restore-drill",
+  "sha256": "0c533940fe6309c11d3cf6cdbc626352cef28050a0e46d17f94ebd73b94d2838",
+  "bytes": 625175,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 625175,
+      "sha256": "0c533940fe6309c11d3cf6cdbc626352cef28050a0e46d17f94ebd73b94d2838",
+      "git_sha": "43b3bbb73d08a1b8daf8de0ac9368db39aea5fa7"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
