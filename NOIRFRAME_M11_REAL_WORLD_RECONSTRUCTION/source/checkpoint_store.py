@@ -67,7 +67,12 @@ def store_asset(path,kind,label):
  for part in parts:
   data=subprocess.check_output(['curl','-q','-fLsS','--retry','2','--max-time','180',base+part['name']]);assert len(data)==part['bytes'];assert hashlib.sha256(data).hexdigest()==part['sha256'];whole.update(data);total+=len(data)
  assert total==manifest['bytes'] and whole.hexdigest()==digest
- receipt={'kind':kind,'label':label,'local_path':str(path.relative_to(R)),'asset_name':path.name,'url':base+'manifest.json','parts_base_url':base,'sha256':digest,'bytes':total,'backend':'GitHub committed immutable chunks','commit':commit,'download_SHA256_verified':True,'verified_at_utc':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime())}
+ direct_url=None
+ if path.suffix=='.mp4' and path.stat().st_size<=32*1024*1024:
+  b=path.read_bytes();g=hashlib.sha1(b'blob '+str(len(b)).encode()+b'\0'+b).hexdigest()
+  if g not in known:assert api('git/blobs',{'encoding':'base64','content':base64.b64encode(b).decode()})['sha']==g
+  direct_path=R.name+'/'+str(path.relative_to(R));oldhead=api('git/ref/heads/'+c['branch'])['object']['sha'];base_tree=api('git/commits/'+oldhead)['tree']['sha'];new_tree=api('git/trees',{'base_tree':base_tree,'tree':[{'path':direct_path,'mode':'100644','type':'blob','sha':g}]})['sha'];new_commit=api('git/commits',{'message':'M11 verified downloadable video: '+label,'tree':new_tree,'parents':[oldhead]})['sha'];api('git/refs/heads/'+c['branch'],{'sha':new_commit,'force':False},'PATCH');direct_url='https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/'+new_commit+'/'+direct_path;verify_download(direct_url,digest,path.stat().st_size)
+ receipt={'direct_download_url':direct_url,'kind':kind,'label':label,'local_path':str(path.relative_to(R)),'asset_name':path.name,'url':base+'manifest.json','parts_base_url':base,'sha256':digest,'bytes':total,'backend':'GitHub committed immutable chunks','commit':commit,'download_SHA256_verified':True,'verified_at_utc':time.strftime('%Y-%m-%dT%H:%M:%SZ',time.gmtime())}
  out=R/'checkpoints/receipts';out.mkdir(exist_ok=True);(out/(kind+'-'+label+'-'+digest[:20]+'.json')).write_text(json.dumps(receipt,indent=2));return receipt
 
 def pack(paths,label):

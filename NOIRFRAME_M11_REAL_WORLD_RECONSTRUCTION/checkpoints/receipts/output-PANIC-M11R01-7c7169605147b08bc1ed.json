@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "PANIC-M11R01",
+  "local_path": "checkpoints/pack-PANIC-M11R01-1794059187077565669.tar.gz",
+  "asset_name": "pack-PANIC-M11R01-1794059187077565669.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3b88e4fdf11a7e5b81e84551354dbbaf319ac73d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3b88e4fdf11a7e5b81e84551354dbbaf319ac73d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2/",
+  "sha256": "7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2",
+  "bytes": 2869598,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "3b88e4fdf11a7e5b81e84551354dbbaf319ac73d",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:46:35Z"
+}

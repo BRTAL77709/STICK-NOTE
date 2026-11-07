@@ -1,0 +1,2 @@
+"""Original local voice assets, clip-local cue timings. No synthesis service."""
+CUES={'PHONE_CALL':[(5.0,'s16_0_caller.wav','One million dollars.'),(6.70,'s16_1_caller.wav','All you have to do'),(8.15,'s16_2_caller.wav','is forget what you saw.'),(10.10,'s17_0_caller.wav','Do not call the police.')],'UNKNOWN_CALLER':[(.15,'s17_0_caller.wav','Do not call the police.'),(2.05,'s17_1_caller.wav','We know which window you are standing at.')],'FINAL_POLL':[(.15,'s18_0_protagonist.wav','A million dollars. Or the police.'),(2.90,'s18_1_protagonist.wav','What would you do?')]}

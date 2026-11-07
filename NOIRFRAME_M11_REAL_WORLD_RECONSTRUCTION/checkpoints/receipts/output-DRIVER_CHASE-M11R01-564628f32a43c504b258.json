@@ -1,0 +1,14 @@
+{
+  "kind": "output",
+  "label": "DRIVER_CHASE-M11R01",
+  "local_path": "checkpoints/pack-DRIVER_CHASE-M11R01-1794058991051796026.tar.gz",
+  "asset_name": "pack-DRIVER_CHASE-M11R01-1794058991051796026.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b7c9adf29f417a0bd6ff6a739c4527d22972e468/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/564628f32a43c504b2580bb3d7ec41dfa615629b5a7a28bb520bef9d5cc21f35/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b7c9adf29f417a0bd6ff6a739c4527d22972e468/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/564628f32a43c504b2580bb3d7ec41dfa615629b5a7a28bb520bef9d5cc21f35/",
+  "sha256": "564628f32a43c504b2580bb3d7ec41dfa615629b5a7a28bb520bef9d5cc21f35",
+  "bytes": 6948934,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "b7c9adf29f417a0bd6ff6a739c4527d22972e468",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:43:22Z"
+}

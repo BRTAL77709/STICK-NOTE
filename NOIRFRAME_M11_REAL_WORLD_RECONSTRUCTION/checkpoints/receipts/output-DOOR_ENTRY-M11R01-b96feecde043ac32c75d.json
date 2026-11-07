@@ -1,0 +1,14 @@
+{
+  "kind": "output",
+  "label": "DOOR_ENTRY-M11R01",
+  "local_path": "checkpoints/pack-DOOR_ENTRY-M11R01-1794059050091804033.tar.gz",
+  "asset_name": "pack-DOOR_ENTRY-M11R01-1794059050091804033.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b3739e00fbb80989a107a9edb5f3f905ade7c21a/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/b96feecde043ac32c75ddfcb2b052c08bd233fd938e044bee44bc194b93a03a0/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b3739e00fbb80989a107a9edb5f3f905ade7c21a/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/b96feecde043ac32c75ddfcb2b052c08bd233fd938e044bee44bc194b93a03a0/",
+  "sha256": "b96feecde043ac32c75ddfcb2b052c08bd233fd938e044bee44bc194b93a03a0",
+  "bytes": 11795870,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "b3739e00fbb80989a107a9edb5f3f905ade7c21a",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:44:24Z"
+}

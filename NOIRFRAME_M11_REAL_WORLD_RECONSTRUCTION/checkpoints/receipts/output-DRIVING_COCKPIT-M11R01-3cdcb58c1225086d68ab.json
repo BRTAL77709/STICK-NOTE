@@ -1,0 +1,14 @@
+{
+  "kind": "output",
+  "label": "DRIVING_COCKPIT-M11R01",
+  "local_path": "checkpoints/pack-DRIVING_COCKPIT-M11R01-1794058971779806646.tar.gz",
+  "asset_name": "pack-DRIVING_COCKPIT-M11R01-1794058971779806646.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cb2eef3f7471c6307189ed40b9531b64810a67ae/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cb2eef3f7471c6307189ed40b9531b64810a67ae/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b/",
+  "sha256": "3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b",
+  "bytes": 7422684,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "cb2eef3f7471c6307189ed40b9531b64810a67ae",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:43:03Z"
+}

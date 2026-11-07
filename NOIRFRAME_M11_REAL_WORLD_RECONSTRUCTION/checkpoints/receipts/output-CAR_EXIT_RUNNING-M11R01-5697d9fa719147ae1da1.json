@@ -1,0 +1,14 @@
+{
+  "kind": "output",
+  "label": "CAR_EXIT_RUNNING-M11R01",
+  "local_path": "checkpoints/pack-CAR_EXIT_RUNNING-M11R01-1794059009108716160.tar.gz",
+  "asset_name": "pack-CAR_EXIT_RUNNING-M11R01-1794059009108716160.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/ee99534dc9da7965a7a29407566d3992754c55f8/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5697d9fa719147ae1da1eb6dc770ffd7253622cfa2f5a605dcf137999f884159/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/ee99534dc9da7965a7a29407566d3992754c55f8/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5697d9fa719147ae1da1eb6dc770ffd7253622cfa2f5a605dcf137999f884159/",
+  "sha256": "5697d9fa719147ae1da1eb6dc770ffd7253622cfa2f5a605dcf137999f884159",
+  "bytes": 6636790,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "ee99534dc9da7965a7a29407566d3992754c55f8",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:43:39Z"
+}

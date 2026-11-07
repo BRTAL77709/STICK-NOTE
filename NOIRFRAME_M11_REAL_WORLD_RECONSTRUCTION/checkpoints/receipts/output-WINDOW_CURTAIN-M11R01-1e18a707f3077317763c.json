@@ -1,0 +1,14 @@
+{
+  "kind": "output",
+  "label": "WINDOW_CURTAIN-M11R01",
+  "local_path": "checkpoints/pack-WINDOW_CURTAIN-M11R01-1794059108367319435.tar.gz",
+  "asset_name": "pack-WINDOW_CURTAIN-M11R01-1794059108367319435.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a6cb175aa9118bd66cf4af3804113498e96554ac/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/1e18a707f3077317763c0762c399fb4463ebede36d61a887128918d09dd71ff7/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a6cb175aa9118bd66cf4af3804113498e96554ac/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/1e18a707f3077317763c0762c399fb4463ebede36d61a887128918d09dd71ff7/",
+  "sha256": "1e18a707f3077317763c0762c399fb4463ebede36d61a887128918d09dd71ff7",
+  "bytes": 12792516,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "a6cb175aa9118bd66cf4af3804113498e96554ac",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:45:22Z"
+}
