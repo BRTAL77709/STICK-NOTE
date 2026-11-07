@@ -1,0 +1,34 @@
+{
+  "filename": "pack-native rigs and evaluated caches baked and remotely verified-1794060037474281760.tar.gz",
+  "kind": "source",
+  "label": "native rigs and evaluated caches baked and remotely verified",
+  "sha256": "ad3e0210599ba0ed2f6a1044badddbd3ce90bb7c92c1f41c0c0c3ea7162fa8c7",
+  "bytes": 25713771,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "6e696513230dd98e41eb710e4e0044fe6ffd6d1a4e8d8e879d1844e9313b6e14",
+      "git_sha": "fab4459152f773011c09c49fc80b7544dbd283e5"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "db527a22a8f990c40214e72debc60d4cbaa6bfac2c376406d772457fbd710b04",
+      "git_sha": "62b1e36d1ec974526cc48c3e735cc33123826f70"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "669a3da9f56f09d038ebebd741bb9576cccd8b835490075ec0f413de9ee79fe6",
+      "git_sha": "db9b1e0b604ec6a4f7e002a7d91799ddbd022975"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 547947,
+      "sha256": "ed61bfc587e86ac32edeeed61059dd3664a99a9ef6fa333359eacf04124303f8",
+      "git_sha": "8c80d04d2b6e4d47870807d97286c110a583eb0d"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
