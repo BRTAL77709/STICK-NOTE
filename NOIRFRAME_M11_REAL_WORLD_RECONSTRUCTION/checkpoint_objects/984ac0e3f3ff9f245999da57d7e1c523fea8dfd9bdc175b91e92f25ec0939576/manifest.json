@@ -1,0 +1,16 @@
+{
+  "filename": "pack-MASTER_LAYOUT-world-1794061559109862594.tar.gz",
+  "kind": "output",
+  "label": "MASTER_LAYOUT-world",
+  "sha256": "984ac0e3f3ff9f245999da57d7e1c523fea8dfd9bdc175b91e92f25ec0939576",
+  "bytes": 706600,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 706600,
+      "sha256": "984ac0e3f3ff9f245999da57d7e1c523fea8dfd9bdc175b91e92f25ec0939576",
+      "git_sha": "ad1c0ae860792e35ff8c8754190287798520f567"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
