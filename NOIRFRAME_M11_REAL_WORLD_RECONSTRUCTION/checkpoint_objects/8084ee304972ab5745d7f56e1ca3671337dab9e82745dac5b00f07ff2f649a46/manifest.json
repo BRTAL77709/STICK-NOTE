@@ -1,0 +1,16 @@
+{
+  "filename": "pack-ROAD_BUILDINGS-world-1794060461651298295.tar.gz",
+  "kind": "output",
+  "label": "ROAD_BUILDINGS-world",
+  "sha256": "8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46",
+  "bytes": 814314,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 814314,
+      "sha256": "8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46",
+      "git_sha": "be6d1280f825f0a25496b56bd89a9dab2a54c3ab"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
