@@ -1,0 +1,16 @@
+{
+  "filename": "M11_WINDOW_CURTAIN_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_WINDOW_CURTAIN_M11R03_PREVIEW_360",
+  "sha256": "63456a2402135506cebf130ee3aaff78802898ab71d73710279289c4a61729e1",
+  "bytes": 1042817,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1042817,
+      "sha256": "63456a2402135506cebf130ee3aaff78802898ab71d73710279289c4a61729e1",
+      "git_sha": "c7b567d1fe8a2754681eba08f6214ec4387bafe8"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
