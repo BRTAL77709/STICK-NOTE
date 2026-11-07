@@ -1,0 +1,16 @@
+{
+  "filename": "M11_CAR_EXIT_RUNNING_FINAL.mp4",
+  "kind": "output",
+  "label": "M11_CAR_EXIT_RUNNING_FINAL",
+  "sha256": "e9af3bf67b1c9684540b2ecc9e6f2fb7da82fb24c6a99046f3d8b4cce457495d",
+  "bytes": 4002294,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 4002294,
+      "sha256": "e9af3bf67b1c9684540b2ecc9e6f2fb7da82fb24c6a99046f3d8b4cce457495d",
+      "git_sha": "946f87ca63902cfa77213f12bb4473c2effe345d"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
