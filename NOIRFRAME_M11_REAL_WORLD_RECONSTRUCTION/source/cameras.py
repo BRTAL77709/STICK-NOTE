@@ -5,7 +5,7 @@ from contact_rig import V,Q,RY
 import numpy as np
 
 def camera(shot,t,d,debug=False):
- if shot in ['DRIVING_COCKPIT','DRIVER_CHASE','DISCOVERY','PANIC']:return Camera((.24,1.27,-.98),(-.15,1.10,1.25),780)
+ if shot in ['DRIVING_COCKPIT','DRIVER_CHASE','DISCOVERY','PANIC']:return Camera((.24,1.27,-.98),(-.28,.55,1.25),820)
  if shot=='STAIRS':
   r=np.array(d['pose']['root'])
   if debug:return Camera((5.5,4.3,2.4),(.8,1.75,3.8),720)

@@ -7,8 +7,8 @@ from render_clips import restore_state,Q
 from validate_interactions import run
 from spatial_world import ROOM
 TAG='M11R01';contacts={};cams={};paths={};producer={}
-for file in sorted((R/'scenes').glob('*_'+TAG+'.json.gz')):
- shot=file.name.removesuffix('_'+TAG+'.json.gz');d=json.load(gzip.open(file,'rt'));blend=R/'blender'/f'{shot}_{TAG}.blend';assert hashlib.sha256(blend.read_bytes()).hexdigest()==d['blend_sha256'];producer[shot]={'blend':str(blend.relative_to(R)),'blend_sha256':d['blend_sha256'],'cache_sha256':hashlib.sha256(file.read_bytes()).hexdigest(),'cached_source_sha256':d['source_sha256']};contacts[shot]=run(shot,TAG);rows=[];bad=[];margin=1e9;headclear=1e9
+for shot,TAG in json.loads((R/'configuration/selected_native.json').read_text()).items():
+ file=R/'scenes'/f'{shot}_{TAG}.json.gz';d=json.load(gzip.open(file,'rt'));blend=R/'blender'/f'{shot}_{TAG}.blend';assert hashlib.sha256(blend.read_bytes()).hexdigest()==d['blend_sha256'];producer[shot]={'blend':str(blend.relative_to(R)),'blend_sha256':d['blend_sha256'],'cache_sha256':hashlib.sha256(file.read_bytes()).hexdigest(),'cached_source_sha256':d['source_sha256']};contacts[shot]=run(shot,TAG);rows=[];bad=[];margin=1e9;headclear=1e9
  for i,(raw,f) in enumerate(zip(d['state'],d['frames'])):
   s=restore_state(raw);c=camera(shot,i/30,s);head=Q(f['bones']['head']['head']);headclear=min(headclear,float(np.linalg.norm(c.eye-head))-.22)
   if shot in ['DRIVING_COCKPIT','DRIVER_CHASE','DISCOVERY','PANIC']:
