@@ -1,0 +1,40 @@
+{
+  "filename": "pack-complete native world and vehicle layout backed up-1794061745904307692.tar.gz",
+  "kind": "source",
+  "label": "complete native world and vehicle layout backed up",
+  "sha256": "f88a41d56825553ac6432de6f9116c103072ce67ad4f87d4deca5cda3f09a6fd",
+  "bytes": 41585184,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "4a7ac3adf882e90e492f105ac5496bb6613346785c477ba35b888c782ee37909",
+      "git_sha": "4eea9f7df5b9b6b26477d063c1dc22feec78c33f"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "96a47bd5b21a24de8055f7fb85af2bb79485b13ab5c68b447fefb78f2cb9959a",
+      "git_sha": "8ab91a5009df8f711c0f72c8b57cd828c22cd2ee"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "e561b77680551b02b48b48376ef9df3e103f154daa0c75fafaac9784cc27ad22",
+      "git_sha": "7903486374ca8acfb777503be9cf7c4f990a288d"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 8388608,
+      "sha256": "ff36e83c2160ad12f9cee61a2bac889bc69fe57cf74cd2c12c179780fa86c2f4",
+      "git_sha": "be20dcfb2f2da271ea5003bc27f0c0d618604d2d"
+    },
+    {
+      "name": "part-00004.bin",
+      "bytes": 8030752,
+      "sha256": "d6b03bb328a3765e2796d06c112b9c5c7007918aae989459653c57e065c9aca1",
+      "git_sha": "59a95e9f5c43bc8b670f47422934bd597ef32f7f"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
