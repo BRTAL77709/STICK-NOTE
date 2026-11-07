@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a796cdfa965d9009822d869f522faf25f31a292d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_DOOR_ENTRY_M11R01_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_DOOR_ENTRY_M11R01_PREVIEW_360",
+  "local_path": "renders/M11_DOOR_ENTRY_M11R01_PREVIEW_360.mp4",
+  "asset_name": "M11_DOOR_ENTRY_M11R01_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/04bd0d3c377619a7f3b905cb4e05c88479d919c6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5f07bab4a591196904d39673f74f95cd7753e8f44036acb83e283640201b4794/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/04bd0d3c377619a7f3b905cb4e05c88479d919c6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5f07bab4a591196904d39673f74f95cd7753e8f44036acb83e283640201b4794/",
+  "sha256": "5f07bab4a591196904d39673f74f95cd7753e8f44036acb83e283640201b4794",
+  "bytes": 1152764,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "04bd0d3c377619a7f3b905cb4e05c88479d919c6",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:10:21Z"
+}

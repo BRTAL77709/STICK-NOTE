@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/fbcc891930ed69e4d15a9e8adfd1f01d471c027e/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_PANIC_M11R02_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_PANIC_M11R02_PREVIEW_360",
+  "local_path": "renders/M11_PANIC_M11R02_PREVIEW_360.mp4",
+  "asset_name": "M11_PANIC_M11R02_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/289da4533fc013888d3b71181d29b914f096e823/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/90d35cdaacce6499fcf0c9e5c9b13b7f11b8c50b81d93240f27d25f16e857870/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/289da4533fc013888d3b71181d29b914f096e823/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/90d35cdaacce6499fcf0c9e5c9b13b7f11b8c50b81d93240f27d25f16e857870/",
+  "sha256": "90d35cdaacce6499fcf0c9e5c9b13b7f11b8c50b81d93240f27d25f16e857870",
+  "bytes": 470885,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "289da4533fc013888d3b71181d29b914f096e823",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:13:35Z"
+}

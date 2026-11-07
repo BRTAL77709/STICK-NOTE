@@ -1,0 +1,27 @@
+{
+  "shot": "UNKNOWN_CALLER",
+  "tag": "M11R02",
+  "sample_rate": 24000,
+  "events": [],
+  "dialogue": [
+    {
+      "start": 0.15,
+      "end": 1.9093333333333333,
+      "text": "Do not call the police.",
+      "asset": "sound/voices/s17_0_caller.wav",
+      "sha256": "590d26cdfe57b3f48731f9dcabcbdda9c9c340f811d1a83419545a879f2026c1",
+      "truncated": false
+    },
+    {
+      "start": 2.05,
+      "end": 4.378125,
+      "text": "We know which window you are standing at.",
+      "asset": "sound/voices/s17_1_caller.wav",
+      "sha256": "7f4f660904f9f24074fe092352bb31a7ff8efbf84ca792e1edd24e2b97f859ab",
+      "truncated": false
+    }
+  ],
+  "peak_dBFS": -6.510720424934084,
+  "RMS_dBFS": -23.848868772498157,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

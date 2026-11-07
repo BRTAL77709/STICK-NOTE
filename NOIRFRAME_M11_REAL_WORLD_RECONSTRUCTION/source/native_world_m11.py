@@ -33,6 +33,8 @@ def complete(scene,shot,states):
   seen=set()
   for eye in [(8,3,3),(-8,3,3),(0,3,-5),(0,3,12),(0,10,3),(0,-4,3)]:
    w=World(Camera(eye,(0,2,3)));house(w)
+   import sets,actions
+   sets.door_live(w,actions.baseline('DOOR_ENTRY',15.999))
    for g in w.geometry:
     sig=tuple(sorted(tuple(round(x,5) for x in q) for q in g['vertices']))
     if sig in seen:continue

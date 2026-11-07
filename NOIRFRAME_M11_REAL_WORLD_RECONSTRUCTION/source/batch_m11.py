@@ -5,7 +5,7 @@ SHOTS=[s for s in actions.DURATIONS if s!='DRIVER_CHASE']
 FINAL='--final' in sys.argv
 
 def job(shot):
- rev=json.loads((R/'configuration/selected_native.json').read_text()).get(shot,'M11R01');stage='FINAL' if FINAL else 'PREVIEW_360';name=f'M11_{shot}_{rev}_{stage}';report=R/'reports'/(name+'_RENDER.json')
+ rev=json.loads((R/'configuration/render_revision.json').read_text())['revision'];stage='FINAL' if FINAL else 'PREVIEW_360';name=f'M11_{shot}_{rev}_{stage}';report=R/'reports'/(name+'_RENDER.json')
  if FINAL:
   while True:
    plays={}

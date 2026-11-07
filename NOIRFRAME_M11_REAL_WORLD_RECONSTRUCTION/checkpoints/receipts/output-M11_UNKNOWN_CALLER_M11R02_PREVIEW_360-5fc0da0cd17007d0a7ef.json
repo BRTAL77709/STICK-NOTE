@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/5ff501ae1d3d9e6b515b749029430942ff3b11d6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_UNKNOWN_CALLER_M11R02_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_UNKNOWN_CALLER_M11R02_PREVIEW_360",
+  "local_path": "renders/M11_UNKNOWN_CALLER_M11R02_PREVIEW_360.mp4",
+  "asset_name": "M11_UNKNOWN_CALLER_M11R02_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/14503494ff6d9bf50707eb5af54010d96ea1772a/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5fc0da0cd17007d0a7efe5d9f0644707279b83a9a1d73fad55c01168bf4b5fac/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/14503494ff6d9bf50707eb5af54010d96ea1772a/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5fc0da0cd17007d0a7efe5d9f0644707279b83a9a1d73fad55c01168bf4b5fac/",
+  "sha256": "5fc0da0cd17007d0a7efe5d9f0644707279b83a9a1d73fad55c01168bf4b5fac",
+  "bytes": 111494,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "14503494ff6d9bf50707eb5af54010d96ea1772a",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:12:23Z"
+}

@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c5eb13a958b00a454873efecd187522d9a7bf4f7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_STAIRS_M11R01_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_STAIRS_M11R01_PREVIEW_360",
+  "local_path": "renders/M11_STAIRS_M11R01_PREVIEW_360.mp4",
+  "asset_name": "M11_STAIRS_M11R01_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8ddbcfa016911e8010ed82de77159fbcd88844a1/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/9e90cca18f40780d20e2a00c43a2dc0ec010718938db4969b81411effd46092d/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8ddbcfa016911e8010ed82de77159fbcd88844a1/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/9e90cca18f40780d20e2a00c43a2dc0ec010718938db4969b81411effd46092d/",
+  "sha256": "9e90cca18f40780d20e2a00c43a2dc0ec010718938db4969b81411effd46092d",
+  "bytes": 2142060,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "8ddbcfa016911e8010ed82de77159fbcd88844a1",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:10:08Z"
+}

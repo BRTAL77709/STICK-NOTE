@@ -1,0 +1,56 @@
+{
+  "shot": "PHONE_CALL",
+  "tag": "M11R02",
+  "sample_rate": 24000,
+  "events": [
+    {
+      "time_s": 0.9,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 1.4,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 2.2,
+      "kind": "pickup"
+    }
+  ],
+  "dialogue": [
+    {
+      "start": 5.0,
+      "end": 6.568208333333334,
+      "text": "One million dollars.",
+      "asset": "sound/voices/s16_0_caller.wav",
+      "sha256": "03ae945511abc4b503b6a482929e9427fdee97a5e84e8a72468b4640571be4da",
+      "truncated": false
+    },
+    {
+      "start": 6.7,
+      "end": 8.028125,
+      "text": "All you have to do",
+      "asset": "sound/voices/s16_1_caller.wav",
+      "sha256": "27f4d58e20cd7ce08039ae4d7e1c8aebac44d0778b1f16a30796ada7b5de6bc4",
+      "truncated": false
+    },
+    {
+      "start": 8.15,
+      "end": 9.770916666666666,
+      "text": "is forget what you saw.",
+      "asset": "sound/voices/s16_2_caller.wav",
+      "sha256": "a6cb37cff48d0d93a62567838e35cb194f1bae14b2f05e19eb7dac9ca040ad9f",
+      "truncated": false
+    },
+    {
+      "start": 10.1,
+      "end": 11.859333333333334,
+      "text": "Do not call the police.",
+      "asset": "sound/voices/s17_0_caller.wav",
+      "sha256": "590d26cdfe57b3f48731f9dcabcbdda9c9c340f811d1a83419545a879f2026c1",
+      "truncated": false
+    }
+  ],
+  "peak_dBFS": -6.566910923423687,
+  "RMS_dBFS": -26.749614695231777,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

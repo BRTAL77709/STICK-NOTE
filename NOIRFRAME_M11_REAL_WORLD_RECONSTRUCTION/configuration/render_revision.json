@@ -1,0 +1,5 @@
+{
+  "revision": "M11R03",
+  "native_selection": "configuration/selected_native.json",
+  "reason": "Real shared facade apertures and matching interior wall/window return depth"
+}

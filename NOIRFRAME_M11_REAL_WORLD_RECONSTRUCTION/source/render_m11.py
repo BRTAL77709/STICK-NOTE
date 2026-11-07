@@ -37,7 +37,7 @@ def make_world(shot,t,d,f=None,data=None,diagnostic=False):
    tmp=World(cam,t);house(tmp)
    for g in tmp.geometry:
     if 'stair' in g['name']:w.face(g['vertices'],g['color'],name=g['name'])
-  else:house(w)
+  else:house(w);sets.door_live(w,actions.baseline('DOOR_ENTRY',15.999))
   w.light_sources=[((-2.23,1.95,z),2.8,1.) for z in [1.,3.5,5.3]]
  elif shot in ['WINDOW_CURTAIN','PHONE_CALL','UNKNOWN_CALLER']:
   sets.bedroom(w,d);w.light_sources=[((.72,1.55,-3.9),3.,1.)]
@@ -85,9 +85,9 @@ def backup_batch(directory,paths,start,end,fingerprint):
  report.write_text(json.dumps({'label':label,'fingerprint':fingerprint,'verified':True,'archive':str(archive.relative_to(R)),'sha256':hashlib.sha256(archive.read_bytes()).hexdigest()},indent=2))
 
 def main():
- p=argparse.ArgumentParser();p.add_argument('--shot',required=True);p.add_argument('--tag',default=None);p.add_argument('--width',type=int,default=360);p.add_argument('--diagnostic',action='store_true');p.add_argument('--stills',action='store_true');p.add_argument('--final',action='store_true');a=p.parse_args();ensure('source checkpoint before '+a.shot+' render');shot=a.shot;a.tag=a.tag or json.loads((R/'configuration/selected_native.json').read_text()).get(shot,'M11R01');width=1080 if a.final else a.width;dur=actions.DURATIONS[shot];n=round(dur*30);data=chase=None
+ p=argparse.ArgumentParser();p.add_argument('--shot',required=True);p.add_argument('--tag',default=None);p.add_argument('--native-tag',default=None);p.add_argument('--width',type=int,default=360);p.add_argument('--diagnostic',action='store_true');p.add_argument('--stills',action='store_true');p.add_argument('--final',action='store_true');a=p.parse_args();ensure('source checkpoint before '+a.shot+' render');shot=a.shot;a.tag=a.tag or json.loads((R/'configuration/render_revision.json').read_text())['revision'];native_tag=a.native_tag or json.loads((R/'configuration/selected_native.json').read_text()).get(shot,a.tag);width=1080 if a.final else a.width;dur=actions.DURATIONS[shot];n=round(dur*30);data=chase=None
  if shot in NATIVE:
-  data=json.load(gzip.open(R/'scenes'/f'{shot}_{a.tag}.json.gz','rt'));assert hashlib.sha256((R/'blender'/f'{shot}_{a.tag}.blend').read_bytes()).hexdigest()==data['blend_sha256']
+  data=json.load(gzip.open(R/'scenes'/f'{shot}_{native_tag}.json.gz','rt'));assert hashlib.sha256((R/'blender'/f'{shot}_{native_tag}.blend').read_bytes()).hexdigest()==data['blend_sha256']
  if shot=='CAR_CHASE':chase_tag=json.loads((R/'configuration/selected_native.json').read_text())['DRIVER_CHASE'];chase=json.load(gzip.open(R/'scenes'/f'DRIVER_CHASE_{chase_tag}.json.gz','rt'))
  stage='FINAL' if a.final else 'DIAGNOSTIC' if a.diagnostic else f'PREVIEW_{width}';stem=f'M11_{shot}_{a.tag}_{stage}';raster=FastDepth(round(width*1.5) if a.final else width)
  def frame(i):
@@ -119,10 +119,10 @@ def main():
  all_sources=sources();deps={k:v for k,v in all_sources.items() if k.startswith('source/legacy/') or k.split('/')[-1] in ['render_m11.py','render_clips.py','actions.py','sets.py','sets_m10.py','cameras.py','cameras_m10.py','cameras_base_R07.py','vehicle_system.py','spatial_world.py','mirror_feed.py','native_style.py','stair_style.py','world.py','fast_depth.py','depth_render.py','fast_raster.so','approved_head.py','approved_head_view.py','view_head.py','svg.py','overlays_m11.py','dialogue_m11.py']};fp=hashlib.sha256(json.dumps({'sources':deps,'width':width,'shot':shot,'native_blend':data.get('blend_sha256') if data else None,'driver_blend':chase.get('blend_sha256') if chase else None,'duration':dur},sort_keys=True).encode()).hexdigest();directory=R/'frames'/stem;directory.mkdir(exist_ok=True);stamp=directory/'PRODUCER.json'
  if stamp.exists():assert json.loads(stamp.read_text())['fingerprint']==fp,'Source changed. Use a NEW revision tag; preserve these completed frames.'
  else:stamp.write_text(json.dumps({'fingerprint':fp,'width':width,'height':round(width*16/9),'fps':30,'dependency_sha256':deps,'native_blend_sha256':data.get('blend_sha256') if data else None,'batch_frames':60,'persistence':'/workspace plus SHA256-verified committed remote chunks'},indent=2))
- wav=R/'sound'/f'M11_{shot}_{a.tag}_MASTER.wav'
+ wav=R/'sound'/f'M11_{shot}_{native_tag}_MASTER.wav'
  if not wav.exists():
   from sound_m11 import make
-  make(shot,a.tag)
+  wav=make(shot,native_tag)
  cmd=['ffmpeg','-v','error','-n','-f','rawvideo','-pix_fmt','rgb24','-s',f'{width}x{round(width*16/9)}','-r','30','-i','pipe:0','-i',str(wav),'-map','0:v','-map','1:a','-c:v','libx264','-crf','18','-preset','fast','-threads','1','-pix_fmt','yuv420p','-c:a','aac','-b:a','128k','-t',str(dur),'-movflags','+faststart',str(out)];proc=subprocess.Popen(cmd,stdin=subprocess.PIPE);hashes=[];checks=[];samples=[];start=time.monotonic();last=None;batch=[]
  for i in range(n):
   path=directory/f'{i:05d}.png'
@@ -140,6 +140,6 @@ def main():
  proc.stdin.close();assert proc.wait()==0
  sheet=Image.new('RGB',(900,344*math.ceil(len(samples)/5)),'#071521');dr=ImageDraw.Draw(sheet)
  for k,(i,im) in enumerate(samples):x=k%5*180;y=k//5*344;sheet.paste(im,(x,y));dr.text((x+4,y+322),f'{i/30:.2f}s',fill='white')
- sheet.save(R/'contact_sheets'/f'{stem}.jpg',quality=92);rp={'shot':shot,'native_tag':a.tag,'duration':dur,'fps':30,'width':width,'height':round(width*16/9),'frames':n,'native_blend_sha256':data.get('blend_sha256') if data else None,'source_sha256':all_sources,'source_frame_sha256':hashes,'pixel_checks':checks,'spatial_samples':1.5 if a.final else 1.,'file':str(out.relative_to(R)),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'render_command':cmd,'master_frames_persistent':a.final,'remote_frame_batch_verification_required':a.final};report.write_text(json.dumps(rp,indent=2))
+ sheet.save(R/'contact_sheets'/f'{stem}.jpg',quality=92);rp={'shot':shot,'render_revision':a.tag,'native_tag':native_tag,'duration':dur,'fps':30,'width':width,'height':round(width*16/9),'frames':n,'native_blend_sha256':data.get('blend_sha256') if data else None,'source_sha256':all_sources,'source_frame_sha256':hashes,'pixel_checks':checks,'spatial_samples':1.5 if a.final else 1.,'file':str(out.relative_to(R)),'sha256':hashlib.sha256(out.read_bytes()).hexdigest(),'render_command':cmd,'master_frames_persistent':a.final,'remote_frame_batch_verification_required':a.final};report.write_text(json.dumps(rp,indent=2))
  subprocess.run([sys.executable,str(R/'source/checkpoint_store.py'),'asset','--path',str(out.relative_to(R)),'--label',stem],check=True);print('DONE_BACKED_UP',stem,flush=True)
 if __name__=='__main__':main()

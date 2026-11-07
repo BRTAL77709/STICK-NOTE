@@ -1,11 +1,11 @@
 """M11 set geometry: shared city and House17, permanent enclosed bedroom, consistent sedan."""
 from sets_m10 import *
 import sets_m10 as base
-from spatial_world import house as connected_house,bedroom as bedroom_shell,cabin as cabin_completion
+from spatial_world import house as connected_house,bedroom as bedroom_shell,cabin as cabin_completion,facade
 
 def house_exterior(w):
- base._HOUSE_M09(w)
  if getattr(w,'full_detail',False) or np.linalg.norm(w.cam.eye)<25:connected_house(w)
+ else:facade(w)
 base.house_exterior=house_exterior
 
 def append_transform(w,other,R,T):
@@ -26,9 +26,9 @@ def bedroom(w,d):
  w.face([V(-12,-2.73,2),V(12,-2.73,2),V(12,-2.73,15),V(-12,-2.73,15)],'#142f3f',stroke='none',name='registered street outside');basecar(w,d['sedan_position'],d['sedan_yaw'],VS.PARK['pursuer_wheel_phase'],0,True)
  for j in range(65):
   x=-9+(j*3.17)%18;z=2+(j*2.37)%13;y=-2.73+(j*.23-w.t*4.1)%6;w.line([V(x,y,z),V(x-.025,y-.24,z+.03)],'#607f90',1)
- for x in [-.76,.73]:w.box(x,.60,.03,.03,1.60,.09,'#83958e','window jamb')
- for y in [.60,2.17]:w.box(-.76,y,.03,1.52,.035,.09,'#83958e','window lintel')
- w.box(-.82,.56,-.08,1.64,.05,.20,'#9a9e8b','window sill');w.tube([V(-.86,2.23,-.21),V(.86,2.23,-.21)],'#bea977',.025)
+ for x in [-.76,.73]:w.box(x,.60,-.11,.03,1.60,.22,'#83958e','window jamb')
+ for y in [.60,2.17]:w.box(-.76,y,-.11,1.52,.035,.22,'#83958e','window lintel')
+ w.box(-.82,.56,-.18,1.64,.05,.29,'#9a9e8b','window sill');w.tube([V(-.86,2.23,-.21),V(.86,2.23,-.21)],'#bea977',.025)
  for x in [-.86,.86]:w.tube([V(x,2.23,.03),V(x,2.23,-.21)],'#8c815f',.018)
  mesh=np.array(d['fabric']);nr,nc=mesh.shape[:2]
  for row in range(nr-1):

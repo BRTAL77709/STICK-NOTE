@@ -1,0 +1,10 @@
+{
+  "shot": "PANIC",
+  "tag": "M11R02",
+  "sample_rate": 24000,
+  "events": [],
+  "dialogue": [],
+  "peak_dBFS": -21.95858016153496,
+  "RMS_dBFS": -30.368863932213852,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}
