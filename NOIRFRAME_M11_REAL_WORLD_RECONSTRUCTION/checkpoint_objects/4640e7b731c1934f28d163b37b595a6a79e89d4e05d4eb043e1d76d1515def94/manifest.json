@@ -1,0 +1,16 @@
+{
+  "filename": "pack-M11_STAIRS_M11R03_DIAGNOSTIC-00000-00059-1794061717933326907.tar.gz",
+  "kind": "output",
+  "label": "M11_STAIRS_M11R03_DIAGNOSTIC-00000-00059",
+  "sha256": "4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94",
+  "bytes": 5613064,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 5613064,
+      "sha256": "4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94",
+      "git_sha": "800acaaa54fc80be8f7c534b33cddbdb28a8b706"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
