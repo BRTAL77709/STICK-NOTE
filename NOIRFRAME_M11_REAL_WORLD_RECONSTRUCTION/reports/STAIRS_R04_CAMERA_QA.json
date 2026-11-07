@@ -1,0 +1,10 @@
+{
+  "source": "source/cameras_stairs_m11r04.py",
+  "source_sha256": "ab3a0b84b20a64c3a656f6e668445ce3eeca98bb7336bb9e775365f7a460e127",
+  "frames": 510,
+  "minimum_boundary_clearance_m": 0.22,
+  "minimum_head_envelope_clearance_m": 0.8664682433022426,
+  "flags": [],
+  "technical_pass": true,
+  "scope": "Camera origins and head envelope; composition additionally inspected in actual preview playback and frame sheets. Natural doorway occlusion at scene end remains visible."
+}

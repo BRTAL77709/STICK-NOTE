@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "M11_CAR_EXIT_RUNNING_M11R03_FINAL-00300-00323",
+  "local_path": "checkpoints/pack-M11_CAR_EXIT_RUNNING_M11R03_FINAL-00300-00323-1794063792387092126.tar.gz",
+  "asset_name": "pack-M11_CAR_EXIT_RUNNING_M11R03_FINAL-00300-00323-1794063792387092126.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/5fb1445725dd38c4606291fba8755ac4e640fc0d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/46f54d98e7cd8c61f7e0eeda0c62ca26fba1fb32fc46de41ac503661eca203e3/b1b5f433718785d83d7c/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/5fb1445725dd38c4606291fba8755ac4e640fc0d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/46f54d98e7cd8c61f7e0eeda0c62ca26fba1fb32fc46de41ac503661eca203e3/b1b5f433718785d83d7c/",
+  "sha256": "46f54d98e7cd8c61f7e0eeda0c62ca26fba1fb32fc46de41ac503661eca203e3",
+  "bytes": 7375183,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "5fb1445725dd38c4606291fba8755ac4e640fc0d",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T15:03:25Z"
+}

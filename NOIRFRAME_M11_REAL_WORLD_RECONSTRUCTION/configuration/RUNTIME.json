@@ -1,0 +1,25 @@
+{
+  "python": "3.12.14",
+  "blender": "Blender 4.3.2",
+  "ffmpeg": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.0",
+    "Pillow": "12.3.0",
+    "playwright": "1.62.0"
+  },
+  "native_raster_build": [
+    "g++",
+    "-O3",
+    "-shared",
+    "-fPIC",
+    "-std=c++17",
+    "source/fast_raster.cpp",
+    "-o",
+    "source/fast_raster.so"
+  ],
+  "network_services_used": [
+    "GitHub for user-authorized source and exact-byte artifact backups"
+  ],
+  "paid_services_used": []
+}

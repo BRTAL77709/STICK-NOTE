@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before DOOR_ENTRY render",
+  "local_path": "checkpoints/pack-source checkpoint before DOOR_ENTRY render-1794063831688069524.tar.gz",
+  "asset_name": "pack-source checkpoint before DOOR_ENTRY render-1794063831688069524.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d64007d32c4f7eaafa37113f5f6c163ee5623b0f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/cfdcb2bc9fbddf56513ddc2d44b0990ede643c13f59fd3ba1ff5767421ee78ff/1c17bb41f792fd365304/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d64007d32c4f7eaafa37113f5f6c163ee5623b0f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/cfdcb2bc9fbddf56513ddc2d44b0990ede643c13f59fd3ba1ff5767421ee78ff/1c17bb41f792fd365304/",
+  "sha256": "cfdcb2bc9fbddf56513ddc2d44b0990ede643c13f59fd3ba1ff5767421ee78ff",
+  "bytes": 69573391,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "d64007d32c4f7eaafa37113f5f6c163ee5623b0f",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T15:04:45Z"
+}

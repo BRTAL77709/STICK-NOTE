@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b56a8d6a1a59a5ad485895a9c7d7356efd506737/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_CAR_EXIT_RUNNING_M11R03_FINAL.mp4",
+  "kind": "output",
+  "label": "M11_CAR_EXIT_RUNNING_M11R03_FINAL",
+  "local_path": "renders/M11_CAR_EXIT_RUNNING_M11R03_FINAL.mp4",
+  "asset_name": "M11_CAR_EXIT_RUNNING_M11R03_FINAL.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b3cf4d3aa90077dd9593595f38fb67afe26cae76/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/e9af3bf67b1c9684540b2ecc9e6f2fb7da82fb24c6a99046f3d8b4cce457495d/cf550de589b18d2070c2/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b3cf4d3aa90077dd9593595f38fb67afe26cae76/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/e9af3bf67b1c9684540b2ecc9e6f2fb7da82fb24c6a99046f3d8b4cce457495d/cf550de589b18d2070c2/",
+  "sha256": "e9af3bf67b1c9684540b2ecc9e6f2fb7da82fb24c6a99046f3d8b4cce457495d",
+  "bytes": 4002294,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "b3cf4d3aa90077dd9593595f38fb67afe26cae76",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T15:03:50Z"
+}
