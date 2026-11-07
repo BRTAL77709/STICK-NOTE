@@ -1,0 +1,16 @@
+{
+  "filename": "M11_UNKNOWN_CALLER_M11R02_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_UNKNOWN_CALLER_M11R02_PREVIEW_360",
+  "sha256": "5fc0da0cd17007d0a7efe5d9f0644707279b83a9a1d73fad55c01168bf4b5fac",
+  "bytes": 111494,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 111494,
+      "sha256": "5fc0da0cd17007d0a7efe5d9f0644707279b83a9a1d73fad55c01168bf4b5fac",
+      "git_sha": "41941cb162edbebe2f8e1a0891bea2d3c174ec03"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
