@@ -1,0 +1,16 @@
+{
+  "filename": "M11_DRIVING_COCKPIT_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_DRIVING_COCKPIT_M11R03_PREVIEW_360",
+  "sha256": "37961af09e26e3be5a48c029744ef0a0165f0fa44b029066c1f21563bcdca3ad",
+  "bytes": 1128541,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1128541,
+      "sha256": "37961af09e26e3be5a48c029744ef0a0165f0fa44b029066c1f21563bcdca3ad",
+      "git_sha": "3d6a304f22c3a7d99ca15b1111438318eee4afb4"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
