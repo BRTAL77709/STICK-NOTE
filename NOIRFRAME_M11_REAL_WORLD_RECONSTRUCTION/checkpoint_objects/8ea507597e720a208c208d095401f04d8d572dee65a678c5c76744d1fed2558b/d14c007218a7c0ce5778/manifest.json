@@ -1,0 +1,46 @@
+{
+  "filename": "pack-source checkpoint before CAR_EXIT_RUNNING render-1794062894646321755.tar.gz",
+  "kind": "source",
+  "label": "source checkpoint before CAR_EXIT_RUNNING render",
+  "sha256": "8ea507597e720a208c208d095401f04d8d572dee65a678c5c76744d1fed2558b",
+  "bytes": 42408270,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "2eff90106c55a41ed9a713816d573c3f9de64e2b6a716cb160dc74162fad7f5b",
+      "git_sha": "0e4de887fcec13620e55b48c1fce40f90a19b677"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "3e65e2ae63223720f78e5da269a3587f7b3cf5557824b3c7385e4d8349b47f45",
+      "git_sha": "87d7eee71e89b4777aacbff9479511638b7d4175"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "506506c98cc783ba2998a79ce103e7dfaf5ee5550d84d93fd5653fc4e1907621",
+      "git_sha": "6a99250abce4f70293908ec67a6d5f60bbd27bd0"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 8388608,
+      "sha256": "d6bb6789dc23b4348931a2b11c2f0ee6b57f8e679e037485ec848f7ad187e037",
+      "git_sha": "37b04be12eee0a740349590702c07b31886b98cb"
+    },
+    {
+      "name": "part-00004.bin",
+      "bytes": 8388608,
+      "sha256": "f026e2490d4a3616f8817d993b3040b5ce85a00eb310cc294535d7386f65a9f2",
+      "git_sha": "da3d9eb3e689cd1da34a2391bc09b79e35e058bf"
+    },
+    {
+      "name": "part-00005.bin",
+      "bytes": 465230,
+      "sha256": "faf12754eebc396bcf55ed310d3d17a5045430f441504acc153dc550e2e96ff4",
+      "git_sha": "989ad430112743f0c007a2d3dd2b287f935317f6"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
