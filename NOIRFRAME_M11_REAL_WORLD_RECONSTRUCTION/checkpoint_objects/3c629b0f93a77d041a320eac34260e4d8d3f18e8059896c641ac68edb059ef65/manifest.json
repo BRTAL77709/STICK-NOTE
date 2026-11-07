@@ -1,0 +1,16 @@
+{
+  "filename": "M11_STAIRS_M11R03_DIAGNOSTIC.mp4",
+  "kind": "output",
+  "label": "M11_STAIRS_M11R03_DIAGNOSTIC",
+  "sha256": "3c629b0f93a77d041a320eac34260e4d8d3f18e8059896c641ac68edb059ef65",
+  "bytes": 924000,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 924000,
+      "sha256": "3c629b0f93a77d041a320eac34260e4d8d3f18e8059896c641ac68edb059ef65",
+      "git_sha": "1e50ecf5e6a09143b679162c773e5174c768d151"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
