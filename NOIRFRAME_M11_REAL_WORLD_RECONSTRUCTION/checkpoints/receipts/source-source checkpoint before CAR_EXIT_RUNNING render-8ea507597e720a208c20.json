@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before CAR_EXIT_RUNNING render",
+  "local_path": "checkpoints/pack-source checkpoint before CAR_EXIT_RUNNING render-1794062894646321755.tar.gz",
+  "asset_name": "pack-source checkpoint before CAR_EXIT_RUNNING render-1794062894646321755.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c3db308695f49a3d43b2d2f1183a11f6edeca11f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8ea507597e720a208c208d095401f04d8d572dee65a678c5c76744d1fed2558b/d14c007218a7c0ce5778/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c3db308695f49a3d43b2d2f1183a11f6edeca11f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8ea507597e720a208c208d095401f04d8d572dee65a678c5c76744d1fed2558b/d14c007218a7c0ce5778/",
+  "sha256": "8ea507597e720a208c208d095401f04d8d572dee65a678c5c76744d1fed2558b",
+  "bytes": 42408270,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "c3db308695f49a3d43b2d2f1183a11f6edeca11f",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:49:03Z"
+}

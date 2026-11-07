@@ -42,5 +42,27 @@
     "decode_errors": "",
     "artistic_approval": "PENDING USER REVIEW",
     "verified_utc": "2026-11-07T14:46:34Z"
+  },
+  "M11_DRIVING_COCKPIT_M11R03_FINAL.mp4": {
+    "file": "renders/M11_DRIVING_COCKPIT_M11R03_FINAL.mp4",
+    "sha256": "5a971af668b72a8100c67f852a215108081018d057d29b64e803c9691f96faf7",
+    "bytes": 3148807,
+    "duration": 12.0,
+    "frames": 360,
+    "checks": {
+      "h264": true,
+      "resolution": true,
+      "fps": true,
+      "yuv420p": true,
+      "aac": true,
+      "complete_decode": true,
+      "faststart": true,
+      "duration": true,
+      "frame_count": true
+    },
+    "technical_pass": true,
+    "decode_errors": "",
+    "artistic_approval": "PENDING USER REVIEW",
+    "verified_utc": "2026-11-07T14:48:08Z"
   }
 }

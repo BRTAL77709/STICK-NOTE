@@ -1,0 +1,16 @@
+{
+  "exit_to_key_world_root_gap_m": 0.12683881094642918,
+  "key_to_door_house_root_gap_m": 1.5676021575927734e-05,
+  "key_end_root_house_m": [
+    -0.11999999731779099,
+    0.710803210735321,
+    -0.41999998688697815
+  ],
+  "door_start_root_house_m": [
+    -0.11999999731779099,
+    0.710818886756897,
+    -0.41999998688697815
+  ],
+  "status": "UNRESOLVED SHOT-CONFORM GAPS",
+  "interpretation": "Standalone source actions do not join exactly here. Do not claim a continuous finished 86-second edit. No full-film assembly performed."
+}

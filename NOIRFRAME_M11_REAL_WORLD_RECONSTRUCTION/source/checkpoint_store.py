@@ -76,12 +76,13 @@ def store_asset(path,kind,label):
  out=R/'checkpoints/receipts';out.mkdir(exist_ok=True);(out/(kind+'-'+label+'-'+digest[:20]+'.json')).write_text(json.dumps(receipt,indent=2));return receipt
 
 def pack(paths,label):
+ # Snapshot each member once: other workers may finish QA while a milestone packs.
  out=R/'checkpoints'/('pack-'+label+'-'+str(time.time_ns())+'.tar.gz');rows=[]
- for p in sorted(set(Path(p) for p in paths)):
-  assert p.is_file() and not p.is_symlink();assert p.resolve().is_relative_to(R.resolve());rows.append({'path':str(p.relative_to(R)),'bytes':p.stat().st_size,'sha256':sha(p)})
  with tarfile.open(out,'x:gz') as t:
-  for row in rows:t.add(R/row['path'],arcname=row['path'],recursive=False)
-  data=json.dumps({'label':label,'files':rows},indent=2).encode();info=tarfile.TarInfo('CHECKPOINT_FILE_MANIFEST.json');info.size=len(data);t.addfile(info,io.BytesIO(data))
+  for p in sorted(set(Path(p) for p in paths)):
+   assert p.is_file() and not p.is_symlink();assert p.resolve().is_relative_to(R.resolve())
+   raw=p.read_bytes();name=str(p.relative_to(R));rows.append({'path':name,'bytes':len(raw),'sha256':hashlib.sha256(raw).hexdigest()});info=tarfile.TarInfo(name);info.size=len(raw);info.mode=0o644;t.addfile(info,io.BytesIO(raw))
+  raw=json.dumps({'label':label,'files':rows},indent=2).encode();info=tarfile.TarInfo('CHECKPOINT_FILE_MANIFEST.json');info.size=len(raw);t.addfile(info,io.BytesIO(raw))
  with tarfile.open(out,'r:gz') as t:
   for row in rows:assert hashlib.sha256(t.extractfile(row['path']).read()).hexdigest()==row['sha256']
  return out,rows

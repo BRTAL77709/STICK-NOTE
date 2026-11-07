@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/2fa88bf41e90e9816d6f51659d9c1dc38d5d9e6f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_DRIVING_COCKPIT_M11R03_FINAL.mp4",
+  "kind": "output",
+  "label": "M11_DRIVING_COCKPIT_M11R03_FINAL",
+  "local_path": "renders/M11_DRIVING_COCKPIT_M11R03_FINAL.mp4",
+  "asset_name": "M11_DRIVING_COCKPIT_M11R03_FINAL.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/370d64b50b4585a20320e1121231b29988efd435/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a971af668b72a8100c67f852a215108081018d057d29b64e803c9691f96faf7/1872e30dc499c1dc87e2/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/370d64b50b4585a20320e1121231b29988efd435/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a971af668b72a8100c67f852a215108081018d057d29b64e803c9691f96faf7/1872e30dc499c1dc87e2/",
+  "sha256": "5a971af668b72a8100c67f852a215108081018d057d29b64e803c9691f96faf7",
+  "bytes": 3148807,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "370d64b50b4585a20320e1121231b29988efd435",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:48:11Z"
+}

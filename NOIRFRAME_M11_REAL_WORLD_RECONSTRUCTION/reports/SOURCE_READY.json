@@ -65,6 +65,7 @@
     "source/cameras_R12.py": "814e323ce8d789e1bea003b7804b166e5524a4917e1bc3491ab79d613c6ba79c",
     "source/cameras_base_R07.py": "c6ea8b4b1b845c541392b1e1af8d355c6d2dee9df935ea9cfd855298cd36f443",
     "source/cameras_m10.py": "1113c5a7e4564b8e97513fefd963c2c33a526381755a25b97f7064f08e3ccc91",
+    "source/cameras_stairs_m11r04.py": "ab3a0b84b20a64c3a656f6e668445ce3eeca98bb7336bb9e775365f7a460e127",
     "source/check_door_body.py": "3d4579fe875702f9a95010f65eed73b8946bf16f4e53de01beb7f41a4bc61f7d",
     "source/check_glyph_roi.py": "a8c791ccc3dc54f700dd62c7af0c78fc6068e095e92957348a24cb67cd2e1531",
     "source/check_inherited_stairs.py": "40819d974508f3ec4fb19b541036ef523a4b1159902066e4b36b399a8ec3e772",
@@ -72,7 +73,7 @@
     "source/check_stairs_m09.py": "52004297bfc9cff155b1c66ce95411153717f5b0087c4d8565201e4a9d46ae19",
     "source/check_stairs_m10.py": "ca2f1aa3cec4aa5a66fa922c8d2056d2bce275065cc7e64cdb6710e9772cb71b",
     "source/check_stairs_m10d.py": "d5dbf26cf00bb4ee1aeef003b7f2b956daff13656b26b00e87dd2bcf7fedc6ff",
-    "source/checkpoint_store.py": "5c8bea65c7f67614d0a55642726f4066f8f54415af056cac8747720b52708123",
+    "source/checkpoint_store.py": "fb6d5db895a1545896b90435d3e4a908c759edbff0578e3968dd8848ff464ab0",
     "source/complete_cockpit_hierarchy_m10.py": "bc3e37efe7b738d50a0d01f3365afc0e3d33afb0cb5bf2e01a7aee07e15daa30",
     "source/depth_render.py": "5f846c188716dddb26e25d92b51d86728c956d28f6dfa5c55646b4d62d595878",
     "source/depth_render_M08_BEFORE_ROI.py": "f329a9d8ed9bbad450fbbe99557c19af6a908fab39ceaf9e8322d83531e89587",
@@ -159,6 +160,7 @@
     "source/render_clips_before_head_view.py": "13682530e7f904eaed7a41907456e28aa47d45e38d500a8b1fd7666ad6f6b847",
     "source/render_clips_before_lock_POV.py": "74b539418c863fd539d653ea14ff7fca60bdd04d860cd29eb9fbe5e4eac53c6e",
     "source/render_m11.py": "7508e6f7885a33c55ae9af0804f5bff039c8de463f8ddf51786406072edc64da",
+    "source/render_stairs_m11r04.py": "8bd38156e483ada7382035d053ba689d0c849c71c769482758c7ff4e329cb3e8",
     "source/restore_checkpoint.py": "c55f83bba50348b2515fe00065b560ef489948b9da5fe926a8a1fec44143c3ca",
     "source/reuse_exit_frames_m10.py": "9f168b2ee0012d5a02ba8626ef9ed1122a6623385e6a51dc2fb7dba13ffdb2ed",
     "source/reuse_exit_frames_m10i.py": "d76bbbb012d415e39316d58d8633a0c41ea77fae3c25b578f10805a659d21144",
@@ -198,6 +200,6 @@
     "source/view_head.py": "225c9b04a4e66f02f02dba5dffdc9dcfd2f652d414404a3479d297066c8be7f4",
     "source/world.py": "51c1d23a7188f51e2f22c018526007b9c1aa1c46bf32df7ec14206f95f7f2212"
   },
-  "verified_source_commit": "0806645795ebc545c633812cfddf41eabe71d52b",
+  "verified_source_commit": "861ddfdd53ba6fa6616334747f7aff7c592667cf",
   "branch": "noirframe/m11-safe-rebuild"
 }
