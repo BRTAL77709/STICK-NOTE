@@ -1,0 +1,28 @@
+{
+  "filename": "pack-M11_STAIRS_M11R04_FINAL-00060-00119-1794063235111263423.tar.gz",
+  "kind": "output",
+  "label": "M11_STAIRS_M11R04_FINAL-00060-00119",
+  "sha256": "cb1db93accf5d883808006e59ca2ff0ce4119ad402e38b7134b61c481b93b189",
+  "bytes": 20109204,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "88b0a70feb77e58c673d9683dd5143bdb9a48b8b5904ccf68beb39619c64c53e",
+      "git_sha": "109b60f88059e83a3c67b43f9686119dd739fc48"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "5dca054fbd272ea71a09020384077de38b5487b7c1c15ad35bb01821ec7e99ef",
+      "git_sha": "56860c4c9c2757d665f6531e57a26b0a4ce5ed5d"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 3331988,
+      "sha256": "afccc5ce0efd34bfdbd5f5f62ec7bba572c35a62914d4086c275f48ec3c8ff58",
+      "git_sha": "f96564cb6f1fb1841f5b523d508a8709de677c03"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
