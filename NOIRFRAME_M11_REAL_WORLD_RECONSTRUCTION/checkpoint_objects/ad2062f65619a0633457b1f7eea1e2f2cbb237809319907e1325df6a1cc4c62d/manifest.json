@@ -1,0 +1,16 @@
+{
+  "filename": "M11_DISCOVERY_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_DISCOVERY_M11R03_PREVIEW_360",
+  "sha256": "ad2062f65619a0633457b1f7eea1e2f2cbb237809319907e1325df6a1cc4c62d",
+  "bytes": 396483,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 396483,
+      "sha256": "ad2062f65619a0633457b1f7eea1e2f2cbb237809319907e1325df6a1cc4c62d",
+      "git_sha": "a0e2abd724867588dd6eeeb56110f050b7cb49ce"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
