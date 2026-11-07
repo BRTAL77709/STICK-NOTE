@@ -1,0 +1,16 @@
+{
+  "filename": "pack-ARRIVAL-world-1794061700881553866.tar.gz",
+  "kind": "output",
+  "label": "ARRIVAL-world",
+  "sha256": "76868cdf67350b4ed330ef38fcfe2fe6a362cfd07bf2abec36d380100efec793",
+  "bytes": 789877,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 789877,
+      "sha256": "76868cdf67350b4ed330ef38fcfe2fe6a362cfd07bf2abec36d380100efec793",
+      "git_sha": "de3bf8d89002ffba8743ba68ce6c3fba007c4c6c"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
