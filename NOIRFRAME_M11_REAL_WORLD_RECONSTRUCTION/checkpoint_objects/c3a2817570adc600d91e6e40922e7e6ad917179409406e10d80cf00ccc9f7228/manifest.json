@@ -1,0 +1,40 @@
+{
+  "filename": "pack-source checkpoint before STAIRS render-1794061607488276442.tar.gz",
+  "kind": "source",
+  "label": "source checkpoint before STAIRS render",
+  "sha256": "c3a2817570adc600d91e6e40922e7e6ad917179409406e10d80cf00ccc9f7228",
+  "bytes": 38844807,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "b979e9826d4fafe72e8f8b9e23613cbaa4d287cdf6c1a6efda802f1a4b23c96f",
+      "git_sha": "41b73a2b935e0fb64039308b4ba6c5bc9780ad93"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "2904b016d90d92d7b461c5eda17d85aa945df7946c4177b57ab1adff1a8c2042",
+      "git_sha": "9f1b0c67e186aeb20a9841eeb99d0bd000e85be8"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "c8922d5d91fc68eabbe31caf8111242e713f3ccf8c7b6eda050aa73e51b6d198",
+      "git_sha": "bbc65f4ce083aff351388d0c806943cd9adc7437"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 8388608,
+      "sha256": "5209601f80f46429c51369f827e3a7324bec93aeca260db0cfe8bf2b01c0a5d0",
+      "git_sha": "72e6215894b7c2b32e2bb6b00984cff18b5c0657"
+    },
+    {
+      "name": "part-00004.bin",
+      "bytes": 5290375,
+      "sha256": "4a1d276d55581bdd6efbac91cc2beec7ac6307996f8a0dc14f61bef65f95bdae",
+      "git_sha": "c5ee4c73cb204dcc18583088b6a117cafe014293"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
