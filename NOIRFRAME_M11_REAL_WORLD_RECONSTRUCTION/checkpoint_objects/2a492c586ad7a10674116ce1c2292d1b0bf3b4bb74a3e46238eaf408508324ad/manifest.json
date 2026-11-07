@@ -1,0 +1,34 @@
+{
+  "filename": "pack-source checkpoint before native M11R03-1794060961130260883.tar.gz",
+  "kind": "source",
+  "label": "source checkpoint before native M11R03",
+  "sha256": "2a492c586ad7a10674116ce1c2292d1b0bf3b4bb74a3e46238eaf408508324ad",
+  "bytes": 30814353,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "58da03740abc3aa6efd0cad997a9cbd7250d503f65296eac5cbd2433c5513ea3",
+      "git_sha": "049b7690cedebce7ecccab7b98f2618436f25c16"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "4b1926d08296e7c8d722192f26bfd633fbad0e925381fbccfe73e35e2902b845",
+      "git_sha": "ec1f37ff9e8eae6b2d7f4593ae1818aff2dfb58d"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "bee44ab6177da30dfcdf12c7f831242aee7f6af1ef819b8e6841a8d22068315b",
+      "git_sha": "48826a32999df462ab6d77b9295a0d3ade3467a6"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 5648529,
+      "sha256": "aadc9b8dbbec7abbf4d25141f48e4dd1b0d4e386f1b1500b2f38397e60dca8e8",
+      "git_sha": "ba033589499b2ea4758b2aeb50acd56c16d02556"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
