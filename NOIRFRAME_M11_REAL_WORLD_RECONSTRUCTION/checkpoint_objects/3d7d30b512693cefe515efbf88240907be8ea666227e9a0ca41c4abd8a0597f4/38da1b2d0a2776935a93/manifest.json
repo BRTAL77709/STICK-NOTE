@@ -1,0 +1,64 @@
+{
+  "filename": "pack-Verified reconstructed native rigs, contact QA, review diagrams and initial final exports-1794063353860705916.tar.gz",
+  "kind": "source",
+  "label": "Verified reconstructed native rigs, contact QA, review diagrams and initial final exports",
+  "sha256": "3d7d30b512693cefe515efbf88240907be8ea666227e9a0ca41c4abd8a0597f4",
+  "bytes": 68761028,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "54800688f0a366a7eabb0181ae438a44c3b8432b3938c4245c80d57fc2217493",
+      "git_sha": "3722c2febc475ebbee8462418a431961264abadb"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "23b530976e128947d0a7cbcc7bf7ce2de8873c98a0d14a9980d4e3d6d64ebb6c",
+      "git_sha": "d156ae57005f5a0aafb01a6c8f54fd3b634af096"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "098f9b4385a34d144f1bc3ea8512b84ad207eb8847b01fb11ee6632fe62a432c",
+      "git_sha": "73b6858cd01f7632ca35af7640aace26957f219e"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 8388608,
+      "sha256": "2df1f2aa0dc05da736c895f9a3cdba8621e14726a7a0aba9a8035e986566991d",
+      "git_sha": "bf271512d68f7a5757eb37bcedd2268be17e068a"
+    },
+    {
+      "name": "part-00004.bin",
+      "bytes": 8388608,
+      "sha256": "c8397a7dac5c1758b823c10a58b3938b2f3e19509c435e4c78320ebec1dabdac",
+      "git_sha": "8eeb3ccf4d64ba7fd11a80a2234c8adf51a2bb26"
+    },
+    {
+      "name": "part-00005.bin",
+      "bytes": 8388608,
+      "sha256": "6843af664f0679a2c65fa5c80404df9305e1968eef6efbf8078eeec47625ef2f",
+      "git_sha": "1be910fc896bade50eb45b7e16775e9237197b0a"
+    },
+    {
+      "name": "part-00006.bin",
+      "bytes": 8388608,
+      "sha256": "6d2627729ff78ccce7649c3e342a909e7fb254733c57f3caba6133fb8b323337",
+      "git_sha": "d5a120962228d02832590fa4305fe018b8189402"
+    },
+    {
+      "name": "part-00007.bin",
+      "bytes": 8388608,
+      "sha256": "9b5a34a43365e07e3cdb041a5f68683c2a7a7cf5758f80d5fd91bd62a415105e",
+      "git_sha": "b8642423374617c8ccaa43781f8b410b94426b81"
+    },
+    {
+      "name": "part-00008.bin",
+      "bytes": 1652164,
+      "sha256": "5ba6ec2d6894ff4848a3cba92fc18c9cd26bea88c1e52e10c533e41e2338d90b",
+      "git_sha": "7135d4ae6dc6eb4c8fb20495dc37fb12ebacf4fd"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
