@@ -6,7 +6,7 @@ R=Path(__file__).resolve().parents[1];sys.path.insert(0,str(R/'source'));from bo
 import actions
 from cameras import camera
 import numpy as np
-p=argparse.ArgumentParser();p.add_argument('--shot',required=True);p.add_argument('--tag',default='R01');a=p.parse_args(sys.argv[sys.argv.index('--')+1:]);shot=a.shot;dur=actions.DURATIONS[shot];n=round(dur*30);out=R/'blender'/f'{shot}_{a.tag}.blend';cache=R/'scenes'/f'{shot}_{a.tag}.json.gz';assert not out.exists() and not cache.exists();bpy.ops.wm.open_mainfile(filepath=str(R/'blender/BASELINE_M04.blend'));scene=bpy.context.scene;rig=bpy.data.objects['M04_WITNESS_RIG'];scene.name='M07_'+shot;scene.frame_end=n-1;scene.render.fps=30;scene.render.resolution_x=1080;scene.render.resolution_y=1920;scene.render.resolution_percentage=100
+p=argparse.ArgumentParser();p.add_argument('--shot',required=True);p.add_argument('--tag',default='R01');a=p.parse_args(sys.argv[sys.argv.index('--')+1:]);shot=a.shot;dur=actions.DURATIONS[shot];n=round(dur*30);out=R/'blender'/f'{shot}_{a.tag}.blend';cache=R/'scenes'/f'{shot}_{a.tag}.json.gz';assert not out.exists() and not cache.exists();bpy.ops.wm.open_mainfile(filepath=str(R/'blender/BASELINE_M04.blend'));scene=bpy.context.scene;rig=bpy.data.objects['M04_WITNESS_RIG'];scene.name='M11_'+shot;scene.frame_end=n-1;scene.render.fps=30;scene.render.resolution_x=1080;scene.render.resolution_y=1920;scene.render.resolution_percentage=100
 # Proper rotation mapping legacy Y-up coordinates into Blender Z-up: (z,x,y).
 B=Matrix(((0,0,1),(1,0,0),(0,1,0)));Bt=B.transposed()
 def V(q):return B@Vector(q)
@@ -84,16 +84,15 @@ cam=scene.camera;cam.data.type='PERSP';cam.data.sensor_fit='HORIZONTAL';cam.data
 for i,d in enumerate(states):
  c=camera(shot,i/30,d);cam.location=V(c.eye);cam.rotation_euler=(-V(c.forward)).to_track_quat('Z','Y').to_euler();cam.data.lens=c.focal/1080*36;cam.keyframe_insert('location',frame=i);cam.keyframe_insert('rotation_euler',frame=i);cam.data.keyframe_insert('lens',frame=i)
 from embed_assets import build as embed_assets
-embed_assets(scene,shot,states)
-if shot in ['DRIVING_COCKPIT','DRIVER_CHASE']:
+embed_assets(scene,'DRIVING_COCKPIT' if shot in ['DISCOVERY','PANIC'] else 'WINDOW_CURTAIN' if shot in ['PHONE_CALL','UNKNOWN_CALLER'] else shot,states)
+if shot in ['DRIVING_COCKPIT','DRIVER_CHASE','DISCOVERY','PANIC']:
  from embed_assets import cockpit_hierarchy
  cockpit_hierarchy(scene)
 if shot=='WINDOW_CURTAIN':
  for o in [q for q in scene.objects if q.type=='MESH' and q.modifiers]:
   for i,d in enumerate(states):o.hide_render=bool(d.get('hide_actor',False));o.keyframe_insert('hide_render',frame=i)
-if shot=='WINDOW_CURTAIN':
- for o in [q for q in scene.objects if 'bedroom cutaway back wall' in q.name]:
-  o.hide_render=False;o.keyframe_insert('hide_render',frame=0);o.keyframe_insert('hide_render',frame=29);o.hide_render=True;o.keyframe_insert('hide_render',frame=30)
+from native_world_m11 import complete
+complete(scene,shot,states)
 scene['M07_source']='Existing M04 native rig; added native arm/digit IK. Controllers author targets, Blender evaluates final meshes.';scene['shot']=shot;scene.frame_set(0);bpy.context.view_layer.update();bpy.ops.wm.save_as_mainfile(filepath=str(out),compress=True)
 meshes=[o for o in scene.objects if o.type=='MESH' and o.modifiers];topology={o.name:{'faces':[list(f.vertices) for f in o.data.polygons],'color':o.get('base_color','#294653')} for o in meshes}
 def sample(t,full):

@@ -44,7 +44,7 @@ def build(scene,shot,states):
  else:w=None
  if w:
   for i,g in enumerate(w.geometry):
-   if g['name'] in ['rigged curtain fold','same-state projective mirror feed']:continue
+   if g['name'] in ['rigged curtain fold','same-state projective mirror feed','connected curtain fold','calibrated rear camera feed','rigid phone body','caller screen']:continue
    mesh(scene,f'SET_{g["name"]}_{i}',g['vertices'],[tuple(range(len(g['vertices'])))],g['color'])
  if shot in ['DRIVING_COCKPIT','DRIVER_CHASE']:
   wheel=empty(scene,'STEERING_COLUMN_AXIS');ring=[]
@@ -59,7 +59,7 @@ def build(scene,shot,states):
  if shot in ['KEY_LOCK','DOOR_ENTRY']:
   hinge=empty(scene,'PROP_DOOR_HINGE');
   for j,(x0,x1,y0,y1) in enumerate([(-.9,-.785,0,2.1),(-.715,0,0,2.1),(-.785,-.715,0,1.125),(-.785,-.715,1.195,2.1)]):box(scene,'DOOR_LEAF_'+str(j),(x0,y0,-.065),(x1-x0,y1-y0,.13),'#1d3c49',hinge)
-  keyobj=empty(scene,'PROP_KEY_BOW');mesh(scene,'KEY_BLADE_160mm',[(-.008,-.002,0),(.008,-.002,0),(.008,-.002,.16),(-.008,-.002,.16)],[(0,1,2,3)],'#dcb875',keyobj)
+  keyobj=empty(scene,'PROP_KEY_BOW');mesh(scene,'KEY_BLADE_100mm',[(-.008,-.002,0),(.008,-.002,0),(.008,-.002,.10),(-.008,-.002,.10)],[(0,1,2,3)],'#dcb875',keyobj)
   ring=[(.044*math.cos(a),.027*math.sin(a),0) for a in np.linspace(0,math.tau,32,endpoint=False)];mesh(scene,'KEY_BOW',ring,[tuple(range(32))],'#dcb875',keyobj)
   handle=empty(scene,'PROP_HANDLE_SPINDLE');box(scene,'HANDLE_LEVER',(0,-.011,-.011),(.105,.022,.022),'#dbbb7d',handle);thumb=empty(scene,'PROP_INSIDE_THUMBTURN');box(scene,'THUMBTURN_TAB',(-.024,-.006,-.006),(.048,.012,.012),'#c7aa70',thumb)
   for i,d in enumerate(states):
@@ -75,7 +75,7 @@ def build(scene,shot,states):
   if shot!='CAR_EXIT_RUNNING':cars.append(vehicle(scene,'BLACK_SEDAN',True))
   for i,d in enumerate(states):
    for j,(root,wheels) in enumerate(cars):
-    prefix='' if j==0 else 'pursuer_';v=VS.state(min(11,9+d['time'])) if shot=='CAR_EXIT_RUNNING' else d;pos=V(0,0,0) if shot=='CAR_EXIT_RUNNING' else v[prefix+'position'];yaw=0 if shot=='CAR_EXIT_RUNNING' else v[prefix+'yaw'];key(scene,root,i,pos,RY(yaw));phase=v[prefix+'wheel_phase'];steer=v[prefix+'steer']
+    prefix='' if j==0 else 'pursuer_';v=dict(VS.PARK) if shot=='CAR_EXIT_RUNNING' else d;pos=V(0,0,0) if shot=='CAR_EXIT_RUNNING' else v[prefix+'position'];yaw=0 if shot=='CAR_EXIT_RUNNING' else v[prefix+'yaw'];key(scene,root,i,pos,RY(yaw));phase=v[prefix+'wheel_phase'];steer=v[prefix+'steer']
     for k,wh in enumerate(wheels):wh.rotation_mode='QUATERNION';wh.rotation_quaternion=(Matrix.Rotation(steer if k%2 else 0,3,'Z')@Matrix.Rotation(float(phase[k]),3,'Y')).to_quaternion();wh.keyframe_insert('rotation_quaternion',frame=i)
   if shot=='CAR_EXIT_RUNNING':
    door=empty(scene,'DRIVER_DOOR_REAL_HINGE');box(scene,'DRIVER_DOOR_LEAF',(0,-.28,-1.35),(.035,.56,1.35),'#294b5e',door)

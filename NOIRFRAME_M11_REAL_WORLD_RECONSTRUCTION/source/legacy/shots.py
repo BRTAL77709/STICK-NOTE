@@ -78,15 +78,8 @@ def cabin(w,d):
  actor(w,d,True)
  w.tube([d['pose']['shoulder']+V(-.14,0,-.018),d['pose']['root']+V(.15,.02,-.018)],'#6c7c80',.027)
  w.box(-.22,1.20,.28,.44,.13,.035,'#071823','mirror');w.tube([V(0,1.33,.28),V(0,1.46,.10)],'#59717b',.018)
- # Project the actual pursuer geometry into the mirror instead of an unrelated icon.
- rel=RY(-d['yaw'])@(d['pursuer_position']-d['position']);rear=World(Camera((0,1.25,.28),(0,1.25,-20),1300,center=(0,0)),d['time']);car(rear,rel,d['pursuer_yaw']-d['yaw'],d['pursuer_wheel_phase'],d['pursuer_steer'],True)
- for op in rear.ops:
-  if op[0] not in ['face','line']:continue
-  points=[]
-  for q in op[1]:
-   x,y=rear.cam(q);points.append(V(clamp(x*.001,-.215,.215),clamp(1.26-y*.001,1.205,1.325),.259))
-  if op[0]=='face':w.face(points,op[2],op[3],.7,name='same-state projective mirror feed')
-  else:w.line(points,op[2],.6)
+ from mirror_feed import draw as mirror_draw
+ mirror_draw(w,d)
 
 def city_set(w):
  # Build fixed vertices on a route sampled ONCE, not a time-varying road scroll.

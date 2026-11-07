@@ -46,7 +46,8 @@ class World:
  def box(self,x,y,z,dx,dy,dz,col='#254452',name='box'):
   # Per-face flat shading, no glossy realistic materials.
   p=[V(x+i*dx,y+j*dy,z+k*dz) for i,j,k in [(0,0,0),(1,0,0),(1,1,0),(0,1,0),(0,0,1),(1,0,1),(1,1,1),(0,1,1)]]
-  colors=[col,'#162c39','#35515d',col,'#405c65','#102632']
+  base=np.array([int(col.lstrip('#')[j:j+2],16) for j in [0,2,4]],float)
+  colors=['#'+''.join(f'{int(q):02x}' for q in np.clip(base*k,0,255)) for k in [.86,.72,.66,1.,1.16,.60]]
   for ii,cc in zip([(0,1,2,3),(4,7,6,5),(0,4,5,1),(1,5,6,2),(3,2,6,7),(0,3,7,4)],colors):
    ps=[p[n] for n in ii];center=np.mean(ps,axis=0);out=center-V(x+dx/2,y+dy/2,z+dz/2)
    if np.dot(out,self.cam.eye-center)>0:self.face(ps,cc,name=name)

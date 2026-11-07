@@ -1,0 +1,14 @@
+{
+  "kind": "source",
+  "label": "reconstructed motion, shared geometry, native grips and camera sources",
+  "local_path": "checkpoints/pack-reconstructed motion, shared geometry, native grips and camera sources-1794058926699222633.tar.gz",
+  "asset_name": "pack-reconstructed motion, shared geometry, native grips and camera sources-1794058926699222633.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/f336a02024746526e00c3d41ae52600e0fb66ba7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/efac93f5a552492f5f292d773c074beaf29faebf1f0cd3984168929d07483795/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/f336a02024746526e00c3d41ae52600e0fb66ba7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/efac93f5a552492f5f292d773c074beaf29faebf1f0cd3984168929d07483795/",
+  "sha256": "efac93f5a552492f5f292d773c074beaf29faebf1f0cd3984168929d07483795",
+  "bytes": 9769038,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "f336a02024746526e00c3d41ae52600e0fb66ba7",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:42:21Z"
+}

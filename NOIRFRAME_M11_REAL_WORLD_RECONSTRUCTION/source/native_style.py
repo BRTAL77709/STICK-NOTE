@@ -26,11 +26,10 @@ def submit_mesh(w,verts,faces,col,name):
   if visible:
    factor=1.28 if normal>.35 else .70 if normal<-.35 else 1.02
    # Ambient/key bands remain flat illustrated shading, not photorealistic material response.
-   lamps=[np.array([-.67,2.02,-.53]),np.array([.80,2.37,-.53])]
-   light=max(math.exp(-float(np.linalg.norm(center-l))**2/1.2) for l in lamps)
+   lamps=getattr(w,'light_sources',[])
+   light=max([math.exp(-float(np.linalg.norm(center-np.array(pos)))**2/(reach*reach))*energy for pos,reach,energy in lamps]+[0.])
    h=col.lstrip('#');rgb=np.array([int(h[k:k+2],16) for k in (0,2,4)],float)*factor
-   if not name.startswith('SCONCE_GLOW'):
-    rgb=rgb*np.array([.80+.39*light,.89+.17*light,.97-.10*light])
+   rgb=rgb*np.array([.80+.39*light,.89+.17*light,.97-.10*light])
    lit='#'+''.join(f'{int(x):02x}' for x in np.clip(rgb,0,255));w.face([pts[x] for x in face],lit,stroke='none',name=name)
   for a,b in zip(face,face[1:]+face[:1]):adj.setdefault(tuple(sorted([a,b])),[]).append(i)
  for (a,b),fids in adj.items():
