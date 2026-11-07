@@ -1,0 +1,27 @@
+{
+  "shot": "FINAL_POLL",
+  "tag": "M11R03",
+  "sample_rate": 24000,
+  "events": [],
+  "dialogue": [
+    {
+      "start": 0.15,
+      "end": 2.728833333333333,
+      "text": "A million dollars. Or the police.",
+      "asset": "sound/voices/s18_0_protagonist.wav",
+      "sha256": "d1b3e94fe1266a889095ec141f321200b4fad4e6da0910fa41a0445d4d60686f",
+      "truncated": false
+    },
+    {
+      "start": 2.9,
+      "end": 4.112375,
+      "text": "What would you do?",
+      "asset": "sound/voices/s18_1_protagonist.wav",
+      "sha256": "b2de17114a34dba34160a9514d7b2032fe1131ce4f1e90dd7f17270b68c9170a",
+      "truncated": false
+    }
+  ],
+  "peak_dBFS": -7.170674243054158,
+  "RMS_dBFS": -23.5476706765289,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

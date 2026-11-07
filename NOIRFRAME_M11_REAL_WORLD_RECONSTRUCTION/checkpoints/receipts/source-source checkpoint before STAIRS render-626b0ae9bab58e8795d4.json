@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before STAIRS render",
+  "local_path": "checkpoints/pack-source checkpoint before STAIRS render-1794062747455132578.tar.gz",
+  "asset_name": "pack-source checkpoint before STAIRS render-1794062747455132578.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/4f469fb459c0dffb1709f2b2a1fbbc856e3b1cc6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/626b0ae9bab58e8795d4b15b52d225daeaf3c8c19dbe320a3919215032252cd6/c12e243d440aaa2337ca/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/4f469fb459c0dffb1709f2b2a1fbbc856e3b1cc6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/626b0ae9bab58e8795d4b15b52d225daeaf3c8c19dbe320a3919215032252cd6/c12e243d440aaa2337ca/",
+  "sha256": "626b0ae9bab58e8795d4b15b52d225daeaf3c8c19dbe320a3919215032252cd6",
+  "bytes": 42389721,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "4f469fb459c0dffb1709f2b2a1fbbc856e3b1cc6",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:46:32Z"
+}

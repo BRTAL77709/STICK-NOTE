@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/813e9b1d4b110402c07e136ee24bda2cf642075b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_STAIRS_M11R03_DIAGNOSTIC.mp4",
+  "kind": "output",
+  "label": "M11_STAIRS_M11R03_DIAGNOSTIC",
+  "local_path": "renders/M11_STAIRS_M11R03_DIAGNOSTIC.mp4",
+  "asset_name": "M11_STAIRS_M11R03_DIAGNOSTIC.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cf038222dbf7d92bba910ed214cc6fa9349fe4c9/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3c629b0f93a77d041a320eac34260e4d8d3f18e8059896c641ac68edb059ef65/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cf038222dbf7d92bba910ed214cc6fa9349fe4c9/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3c629b0f93a77d041a320eac34260e4d8d3f18e8059896c641ac68edb059ef65/",
+  "sha256": "3c629b0f93a77d041a320eac34260e4d8d3f18e8059896c641ac68edb059ef65",
+  "bytes": 924000,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "cf038222dbf7d92bba910ed214cc6fa9349fe4c9",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:43:53Z"
+}

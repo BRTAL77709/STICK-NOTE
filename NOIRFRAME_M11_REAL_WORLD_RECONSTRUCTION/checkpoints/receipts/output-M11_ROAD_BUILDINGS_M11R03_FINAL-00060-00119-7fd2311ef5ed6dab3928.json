@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "M11_ROAD_BUILDINGS_M11R03_FINAL-00060-00119",
+  "local_path": "checkpoints/pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00060-00119-1794062015851631652.tar.gz",
+  "asset_name": "pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00060-00119-1794062015851631652.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6a73286bd56a50c98d52ec74a4d0f9d1c15c28ea/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7fd2311ef5ed6dab39283eff8b165b7d9f8fd4ef0491d894bb27019d1d47b28c/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6a73286bd56a50c98d52ec74a4d0f9d1c15c28ea/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7fd2311ef5ed6dab39283eff8b165b7d9f8fd4ef0491d894bb27019d1d47b28c/",
+  "sha256": "7fd2311ef5ed6dab39283eff8b165b7d9f8fd4ef0491d894bb27019d1d47b28c",
+  "bytes": 12582881,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "6a73286bd56a50c98d52ec74a4d0f9d1c15c28ea",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:33:54Z"
+}

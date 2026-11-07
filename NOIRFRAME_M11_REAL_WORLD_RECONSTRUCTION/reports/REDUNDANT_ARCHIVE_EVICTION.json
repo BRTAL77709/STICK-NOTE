@@ -1,0 +1,410 @@
+[
+  {
+    "local_archive": "checkpoints/pack-UNKNOWN_CALLER-M11R01-1794059158813383478.tar.gz",
+    "bytes": 3540522,
+    "sha256": "0c94f5632770970883bffff07acf158b0ee4c2cb6c50e5569e30b7eb93b12c30",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/993b0b522ac839413bd32e54651981613c2f8a0b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/0c94f5632770970883bffff07acf158b0ee4c2cb6c50e5569e30b7eb93b12c30/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00060-00119-1794061860240550562.tar.gz",
+    "bytes": 5574558,
+    "sha256": "0f25d5b0f7ecd7a90b11513698de2ef95021c234b6b37e5004b12f11defefabe",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c70976491f2cf870b7a32a52fb920c93cbbc5c7b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/0f25d5b0f7ecd7a90b11513698de2ef95021c234b6b37e5004b12f11defefabe/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-PANIC-M11R01-1794059187077565669.tar.gz",
+    "bytes": 2869598,
+    "sha256": "7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3b88e4fdf11a7e5b81e84551354dbbaf319ac73d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7c7169605147b08bc1edfca9f12a47ce43db6b42bb8c196fe224a1c28a76cfd2/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-backup-restore-drill-1794058410023614044.tar.gz",
+    "bytes": 625175,
+    "sha256": "0c533940fe6309c11d3cf6cdbc626352cef28050a0e46d17f94ebd73b94d2838",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c68674aab29b517b6c557ccb4f2cffb4435664cc/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/0c533940fe6309c11d3cf6cdbc626352cef28050a0e46d17f94ebd73b94d2838/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00420-00479-1794062527231688622.tar.gz",
+    "bytes": 5476239,
+    "sha256": "e2d346062b8ae569f4bf10b30deb5b61a2cb689475b6bda20496f602a9e306f0",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/5751e7555e234b25e785ab94b4bca974a552ef11/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/e2d346062b8ae569f4bf10b30deb5b61a2cb689475b6bda20496f602a9e306f0/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-MASTER_LAYOUT-world-1794060440797618942.tar.gz",
+    "bytes": 687318,
+    "sha256": "575eb13e5c913b0882bb160dc4a992202a46695f5fb56c9552de4c350f0e7377",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cfc0a760ef8d0f8917005c37bb126a2e66c54464/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/575eb13e5c913b0882bb160dc4a992202a46695f5fb56c9552de4c350f0e7377/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DRIVING_COCKPIT-M11R01-1794058971779806646.tar.gz",
+    "bytes": 7422684,
+    "sha256": "3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cb2eef3f7471c6307189ed40b9531b64810a67ae/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00300-00359-1794062372696061753.tar.gz",
+    "bytes": 5806440,
+    "sha256": "c3eacd285893a876a24a0d63719ae1cf87f3b0d34ed4c0e1dc17d0e670bd1f0c",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/528e75b3e3051a49630bc15bec3c6aa6e282fc51/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/c3eacd285893a876a24a0d63719ae1cf87f3b0d34ed4c0e1dc17d0e670bd1f0c/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-complete native world and vehicle layout backed up-1794060507202214047.tar.gz",
+    "bytes": 29581224,
+    "sha256": "7952ad4d0aa207be07c4c33ac36229fe96d6ad0ac528969880882f9c5f8e61c4",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/f4365f0bd0458df2f14fc039d1cbaa8e511c3591/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7952ad4d0aa207be07c4c33ac36229fe96d6ad0ac528969880882f9c5f8e61c4/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-PHONE_CALL-M11R01-1794059138587062916.tar.gz",
+    "bytes": 9445708,
+    "sha256": "40f6c68c74aaa5c3180a7d85fb158f17ad20c35f4df69153b5eb0ac50cd69132",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/02db5012e62af6b178f386a9e2a90ef78396cad5/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/40f6c68c74aaa5c3180a7d85fb158f17ad20c35f4df69153b5eb0ac50cd69132/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DOOR_ENTRY-M11R01-1794059050091804033.tar.gz",
+    "bytes": 11795870,
+    "sha256": "b96feecde043ac32c75ddfcb2b052c08bd233fd938e044bee44bc194b93a03a0",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b3739e00fbb80989a107a9edb5f3f905ade7c21a/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/b96feecde043ac32c75ddfcb2b052c08bd233fd938e044bee44bc194b93a03a0/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-PHONE_CALL-M11R02-1794059512902098105.tar.gz",
+    "bytes": 9409674,
+    "sha256": "61cf120ab047722d376eb22c8256870e3ce0ec0cc1ed6c908e06383702464939",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/4add6bd8aae984347e2b209855ce3bd5f25eae2f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/61cf120ab047722d376eb22c8256870e3ce0ec0cc1ed6c908e06383702464939/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-STAIRS-M11R03-1794061077949768840.tar.gz",
+    "bytes": 9718986,
+    "sha256": "5a154af975300d73c0c394607c67a3a0d6da076ae02910d2f8fea9271e7ddfef",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/f0a4c94de7be223bc2bb7ed30fd9eb8f986bc6bd/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a154af975300d73c0c394607c67a3a0d6da076ae02910d2f8fea9271e7ddfef/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before DRIVING_COCKPIT render-1794061224722132442.tar.gz",
+    "bytes": 34943533,
+    "sha256": "bad026dc810f8fb39a3b02e0ea332e389747c653f2477a2cf11843ca770eabe5",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/64b2c361b30f8ad4031064a337b27f75deeab891/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/bad026dc810f8fb39a3b02e0ea332e389747c653f2477a2cf11843ca770eabe5/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-native rigs and evaluated caches baked and remotely verified-1794059196031937782.tar.gz",
+    "bytes": 16568864,
+    "sha256": "6b57491d4295de98f62313134c561fba7481c97211b98ca76cbdd3dda4478c12",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/4647529f74ecf54e05cf42f0e14a9bbc93c8cb70/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/6b57491d4295de98f62313134c561fba7481c97211b98ca76cbdd3dda4478c12/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DISCOVERY-M11R02-1794060013911847709.tar.gz",
+    "bytes": 2710679,
+    "sha256": "002248ef5eea48ed7c7d76e8ab77da635c4a8179353aaa4b7b572811a4327300",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8582d8c2c809e5633506c84badb7636c5473eeb0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/002248ef5eea48ed7c7d76e8ab77da635c4a8179353aaa4b7b572811a4327300/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-ROAD_BUILDINGS-world-1794061596637776304.tar.gz",
+    "bytes": 821316,
+    "sha256": "ee0414afffd8165032b12d7e333b9a9934876042251e7f574932537d4498d9fa",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c6438ced167c46ab90bbe9a2bd5aac4c238a59bd/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/ee0414afffd8165032b12d7e333b9a9934876042251e7f574932537d4498d9fa/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00000-00059-1794062020275084439.tar.gz",
+    "bytes": 13641474,
+    "sha256": "dbfb644e93d269a2e78de39938dba6dab52defbfe2ab9009e4c721e1933d858e",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/2357ebd80488a8d2655b400a39d96a967674ad31/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/dbfb644e93d269a2e78de39938dba6dab52defbfe2ab9009e4c721e1933d858e/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-UNKNOWN_CALLER-M11R03-1794061162648612572.tar.gz",
+    "bytes": 3592977,
+    "sha256": "4d6b3a0ef1b6b8c61969529d533bd74cadda3c63eb79a2450971854574456a25",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/284cde78a8a47beaac2c4d8c6638ce3758a70a42/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4d6b3a0ef1b6b8c61969529d533bd74cadda3c63eb79a2450971854574456a25/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DRIVING_COCKPIT-M11R02-1794059980930158614.tar.gz",
+    "bytes": 7393648,
+    "sha256": "26dcfaeb3d2fbf9bb9981d1b32705e2e1bc24138a18d594a59bf76ce57ee9507",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/79eeb4bd68a180801bac174711cb483976aa8287/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/26dcfaeb3d2fbf9bb9981d1b32705e2e1bc24138a18d594a59bf76ce57ee9507/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DISCOVERY-M11R01-1794059173232440547.tar.gz",
+    "bytes": 2721087,
+    "sha256": "0c35621ccae921f911f33fdcc2700f9b38693cbb5f9dd415c5372883faf194bd",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8911ecabcd83a33ff4554ea12cc8cf4dd89fd0be/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/0c35621ccae921f911f33fdcc2700f9b38693cbb5f9dd415c5372883faf194bd/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-native world export source checkpoint-1794061502972273665.tar.gz",
+    "bytes": 36044808,
+    "sha256": "3b970aebcef53e40ccf7ef1555ffd4d2811605b32825c7c7cac8e5d18e3d870d",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/dc84f9c9c2941b1bc75f108a1c04a4235e4f3c5c/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3b970aebcef53e40ccf7ef1555ffd4d2811605b32825c7c7cac8e5d18e3d870d/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00360-00419-1794062444294600614.tar.gz",
+    "bytes": 5710967,
+    "sha256": "5d2c6364d5fdd5929b100033fc5e48a8afd412fdf16c2702defbe7e9d057a7dc",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/58f904061e3c53eec4e5f4d76e1489f3f1108279/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5d2c6364d5fdd5929b100033fc5e48a8afd412fdf16c2702defbe7e9d057a7dc/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00240-00299-1794062664761564642.tar.gz",
+    "bytes": 14902807,
+    "sha256": "58fb44cca825562a90dd90705f18a584cedc8fc25b50d77cc6314f6f8ff431a7",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/dd049344046b5674695ecf6c2d28a56fa184c852/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/58fb44cca825562a90dd90705f18a584cedc8fc25b50d77cc6314f6f8ff431a7/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00180-00209-1794062346295080754.tar.gz",
+    "bytes": 6323006,
+    "sha256": "86d969fc5ecd0b624c95a5922bc26670e8c820ea59f0ff3600995b5aef18fa66",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/0b948249783c40701bf0cd8aad6f80def41bb56e/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/86d969fc5ecd0b624c95a5922bc26670e8c820ea59f0ff3600995b5aef18fa66/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_CAR_CHASE_M11R03_FINAL-00060-00119-1794062665467043473.tar.gz",
+    "bytes": 14512863,
+    "sha256": "bf8ce1b7e711ef69b41a726e10c43b02e3bf6701e3968f47aba35c2dcabd35d0",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8302c27ece65e0ed97c719de0f3d30e4b079a3c7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/bf8ce1b7e711ef69b41a726e10c43b02e3bf6701e3968f47aba35c2dcabd35d0/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-reconstructed motion, shared geometry, native grips and camera sources-1794058926699222633.tar.gz",
+    "bytes": 9769038,
+    "sha256": "efac93f5a552492f5f292d773c074beaf29faebf1f0cd3984168929d07483795",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/f336a02024746526e00c3d41ae52600e0fb66ba7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/efac93f5a552492f5f292d773c074beaf29faebf1f0cd3984168929d07483795/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00060-00119-1794062185699846532.tar.gz",
+    "bytes": 14934362,
+    "sha256": "0124cac4c9c71537bcf81d7a96e3887140e53f59f0bff5cef3cc66562c180f77",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/720df2c1045e47e92c7831907933007aefd84a4d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/0124cac4c9c71537bcf81d7a96e3887140e53f59f0bff5cef3cc66562c180f77/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00000-00059-1794061717933326907.tar.gz",
+    "bytes": 5613064,
+    "sha256": "4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6efe1b884eb2e2a14bc009a77b0c9db4fd32c8e0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4640e7b731c1934f28d163b37b595a6a79e89d4e05d4eb043e1d76d1515def94/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-ARRIVAL-world-1794060497661635308.tar.gz",
+    "bytes": 775560,
+    "sha256": "a6cf5d5a3ef85730f70ada1d4ced022cbb5710f74c3e85c4cf612bd5aecf45cd",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/263311f7a237ce1eb6428eb3c2a08ee03a0aa2c7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a6cf5d5a3ef85730f70ada1d4ced022cbb5710f74c3e85c4cf612bd5aecf45cd/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-CAR_EXIT_RUNNING-M11R01-1794059009108716160.tar.gz",
+    "bytes": 6636790,
+    "sha256": "5697d9fa719147ae1da1eb6dc770ffd7253622cfa2f5a605dcf137999f884159",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/ee99534dc9da7965a7a29407566d3992754c55f8/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5697d9fa719147ae1da1eb6dc770ffd7253622cfa2f5a605dcf137999f884159/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-KEY_LOCK-M11R01-1794059026273727960.tar.gz",
+    "bytes": 5428239,
+    "sha256": "d9cfc94fa4ade0585de0f755d1b5368713fc33b6e202dd13b1936c66add3a6d5",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8047ca7537939ed9c14bcebefeaa3e212410b760/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/d9cfc94fa4ade0585de0f755d1b5368713fc33b6e202dd13b1936c66add3a6d5/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-WINDOW_CURTAIN-M11R03-1794061113034324165.tar.gz",
+    "bytes": 12789560,
+    "sha256": "ae819622e3f8873ddd91514220077054f02ae48392bb2aa404d5bff121c6cfdc",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bf9e48cbace5216246e1229372ab0c4c301b2757/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/ae819622e3f8873ddd91514220077054f02ae48392bb2aa404d5bff121c6cfdc/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-PHONE_CALL-M11R03-1794061142866072808.tar.gz",
+    "bytes": 9412532,
+    "sha256": "5da5f7d3d82b08d286443bb87af8c4602491bfa66b28fa7abf0c45cd90803d9e",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/9f5dc3b4912585a349656e3d28a1925fd6e406cd/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5da5f7d3d82b08d286443bb87af8c4602491bfa66b28fa7abf0c45cd90803d9e/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before native M11R02-1794059937510462595.tar.gz",
+    "bytes": 23579799,
+    "sha256": "9f1b7f542e7b73db8ebba9df867d21611c35b2ece6a887a4255fbb52e3307a91",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/9042a86ecd85b49b444bff7a3e12fe5b9d560083/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/9f1b7f542e7b73db8ebba9df867d21611c35b2ece6a887a4255fbb52e3307a91/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-ROAD_BUILDINGS-world-1794060461651298295.tar.gz",
+    "bytes": 814314,
+    "sha256": "8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/997ce05add8b221bf6cd3d555a0289d7d511af80/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-WINDOW_CURTAIN-M11R01-1794059108367319435.tar.gz",
+    "bytes": 12792516,
+    "sha256": "1e18a707f3077317763c0762c399fb4463ebede36d61a887128918d09dd71ff7",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a6cb175aa9118bd66cf4af3804113498e96554ac/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/1e18a707f3077317763c0762c399fb4463ebede36d61a887128918d09dd71ff7/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before native M11R02-1794059459795244967.tar.gz",
+    "bytes": 22633616,
+    "sha256": "5a9d687eff78cacb9ac4732ccd6b0211ad232eda37c6273af1127317cd3a1d5e",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/362b915e4ef5d8d14dbd286dd3eb339684d308fe/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/5a9d687eff78cacb9ac4732ccd6b0211ad232eda37c6273af1127317cd3a1d5e/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00180-00239-1794062110643967834.tar.gz",
+    "bytes": 5685800,
+    "sha256": "e85218b7d6b3b749eeebbe1394b1f7ad176ba64b66e13bcdca8c521c19af2bc0",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/9f48551830a3021b6c4333dcd741366cc5db2ba9/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/e85218b7d6b3b749eeebbe1394b1f7ad176ba64b66e13bcdca8c521c19af2bc0/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DRIVER_CHASE-M11R01-1794058991051796026.tar.gz",
+    "bytes": 6948934,
+    "sha256": "564628f32a43c504b2580bb3d7ec41dfa615629b5a7a28bb520bef9d5cc21f35",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/b7c9adf29f417a0bd6ff6a739c4527d22972e468/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/564628f32a43c504b2580bb3d7ec41dfa615629b5a7a28bb520bef9d5cc21f35/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before ROAD_BUILDINGS render-1794060080262526301.tar.gz",
+    "bytes": 25713819,
+    "sha256": "a70b1d7cb830b7b21d490d79bb516b6c1015e489d88ac4788ac898a348f385db",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3dff035724eb56bb9cd6bd656e8b2d6517a779ea/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a70b1d7cb830b7b21d490d79bb516b6c1015e489d88ac4788ac898a348f385db/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-PANIC-M11R02-1794060027776180112.tar.gz",
+    "bytes": 2869222,
+    "sha256": "370a9b79f84be34e3c077fdda3402b42327707e37f9dce3a8214b56c31c0f318",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8f4bebcd4b7a50d04a5d596ef1f513bc26223b48/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/370a9b79f84be34e3c077fdda3402b42327707e37f9dce3a8214b56c31c0f318/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-STAIRS-M11R01-1794059074063957739.tar.gz",
+    "bytes": 9665248,
+    "sha256": "8e28a62c2468aad677e7dadae7ddc62effd9dae1485feaf423efde9a44daf619",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/17c3d7794778d45cb4b41a8777209d395359ebab/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8e28a62c2468aad677e7dadae7ddc62effd9dae1485feaf423efde9a44daf619/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-native rigs and evaluated caches baked and remotely verified-1794061171401921639.tar.gz",
+    "bytes": 34943183,
+    "sha256": "74fc5b0bb516f014d419985a258ddb0936443d9d0214abd56879eef1188a1a75",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/a4a1ac35ad9dc1def8c3c376897f6cf151e9d932/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/74fc5b0bb516f014d419985a258ddb0936443d9d0214abd56879eef1188a1a75/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00000-00059-1794061877868594377.tar.gz",
+    "bytes": 10305945,
+    "sha256": "2e0c26b414d264ef258ea35d4a9caf310594320e3ad292b7c15ff93950b6fec8",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/5e8583c6e84917dee176ec7f22b85b3f00ef058b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/2e0c26b414d264ef258ea35d4a9caf310594320e3ad292b7c15ff93950b6fec8/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before STAIRS render-1794061607488276442.tar.gz",
+    "bytes": 38844807,
+    "sha256": "c3a2817570adc600d91e6e40922e7e6ad917179409406e10d80cf00ccc9f7228",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/46994c77bbac5b49cf91c999096a445da4678d9f/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/c3a2817570adc600d91e6e40922e7e6ad917179409406e10d80cf00ccc9f7228/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-KEY_LOCK-M11R03-1794061028492114865.tar.gz",
+    "bytes": 5438931,
+    "sha256": "132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d7f1ff8259b19237e9cc3c9970b3ab0848a080e0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/132d371a3db73dbfc96958fb1fd2d87a93e9b43ab89607df1db6f50703e68302/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00120-00179-1794062389357087955.tar.gz",
+    "bytes": 14314428,
+    "sha256": "93ffef7b8bd8ae181c990e1e8ecebd439f60f372ecd9fffb326d355ea4702f32",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/e8042c502fb4a21fee7269c9cd80c9c679ad6490/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/93ffef7b8bd8ae181c990e1e8ecebd439f60f372ecd9fffb326d355ea4702f32/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DOOR_ENTRY-M11R03-1794061051654179195.tar.gz",
+    "bytes": 11804232,
+    "sha256": "7cf0373433ce8a39ab12e5d08714857e5ae3fc7ecf849affc19be5c4160bcfd5",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/019e86318d92f2a2fc81a70a7f8d6e9c0c9b845b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7cf0373433ce8a39ab12e5d08714857e5ae3fc7ecf849affc19be5c4160bcfd5/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before native M11R03-1794060961130260883.tar.gz",
+    "bytes": 30814353,
+    "sha256": "2a492c586ad7a10674116ce1c2292d1b0bf3b4bb74a3e46238eaf408508324ad",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/974628dab5e4f5751eb83e4b8d544a5bd5388a67/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/2a492c586ad7a10674116ce1c2292d1b0bf3b4bb74a3e46238eaf408508324ad/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00180-00239-1794062523741690381.tar.gz",
+    "bytes": 14574462,
+    "sha256": "a407f79818f23ea0a769c487752ab2fe86c1e2439c75c656c29cf2054d28ec1d",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/01fd8f40ae5eef4d8fe44b95aa6b44958eb9f1b4/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a407f79818f23ea0a769c487752ab2fe86c1e2439c75c656c29cf2054d28ec1d/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-complete native world and vehicle layout backed up-1794061745904307692.tar.gz",
+    "bytes": 41585184,
+    "sha256": "f88a41d56825553ac6432de6f9116c103072ce67ad4f87d4deca5cda3f09a6fd",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bd9b9ced2a71960b8c7a0fd709c5273b5e642df9/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/f88a41d56825553ac6432de6f9116c103072ce67ad4f87d4deca5cda3f09a6fd/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-native rigs and evaluated caches baked and remotely verified-1794060037474281760.tar.gz",
+    "bytes": 25713771,
+    "sha256": "ad3e0210599ba0ed2f6a1044badddbd3ce90bb7c92c1f41c0c0c3ea7162fa8c7",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/48efb85515cdbdb456ada6732ffc3c262f990842/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/ad3e0210599ba0ed2f6a1044badddbd3ce90bb7c92c1f41c0c0c3ea7162fa8c7/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-source checkpoint before DRIVING_COCKPIT render-1794059344855591499.tar.gz",
+    "bytes": 22632606,
+    "sha256": "19f32dca82e2c7b09268b60c040492966dd41b273b48258f1d5c11408f861e6d",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aeb7f2f89cfc7b18d031628036d7ebb8ba2942ee/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/19f32dca82e2c7b09268b60c040492966dd41b273b48258f1d5c11408f861e6d/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-UNKNOWN_CALLER-M11R02-1794059533236307307.tar.gz",
+    "bytes": 3589862,
+    "sha256": "f32e5c95616a2b12e6d7ae3affee15916d7d8917eb888d93588332d438b4a156",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1caa1e54c078a6da704b61d830d778c9155ea1a6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/f32e5c95616a2b12e6d7ae3affee15916d7d8917eb888d93588332d438b4a156/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-MASTER_LAYOUT-world-1794061559109862594.tar.gz",
+    "bytes": 706600,
+    "sha256": "984ac0e3f3ff9f245999da57d7e1c523fea8dfd9bdc175b91e92f25ec0939576",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/67c005813fc1fec166b824680ec20946e2b287e5/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/984ac0e3f3ff9f245999da57d7e1c523fea8dfd9bdc175b91e92f25ec0939576/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00240-00299-1794062273043857647.tar.gz",
+    "bytes": 5704967,
+    "sha256": "04e37935a19dda7fabf2da028b52dafb0d157769a854035b8e3f5f0b7903e4d6",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d83b0d3d659f10518af312838e23161c1a06dfa4/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/04e37935a19dda7fabf2da028b52dafb0d157769a854035b8e3f5f0b7903e4d6/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00060-00119-1794062015851631652.tar.gz",
+    "bytes": 12582881,
+    "sha256": "7fd2311ef5ed6dab39283eff8b165b7d9f8fd4ef0491d894bb27019d1d47b28c",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/6a73286bd56a50c98d52ec74a4d0f9d1c15c28ea/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/7fd2311ef5ed6dab39283eff8b165b7d9f8fd4ef0491d894bb27019d1d47b28c/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-native rigs and evaluated caches baked and remotely verified-1794059542656457191.tar.gz",
+    "bytes": 23579487,
+    "sha256": "6aeb2bac3d3ca4109f46c4b760b2e5fea55d0d31d9d3e8cea548ab4ade689fd3",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/807d005b3093df4bdaabf46c59784c5c49803cc6/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/6aeb2bac3d3ca4109f46c4b760b2e5fea55d0d31d9d3e8cea548ab4ade689fd3/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_ROAD_BUILDINGS_M11R03_FINAL-00120-00179-1794062234554792419.tar.gz",
+    "bytes": 14416814,
+    "sha256": "6bc6d5c03835c0fdb55eb8348d77345ea31189ee9890c3e0f994a9620e6a7d08",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/96ff901a25a1e7779f6482e60fda1ecb87d46d49/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/6bc6d5c03835c0fdb55eb8348d77345ea31189ee9890c3e0f994a9620e6a7d08/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-DRIVER_CHASE-M11R02-1794059999246108858.tar.gz",
+    "bytes": 6926737,
+    "sha256": "4baad4b4f07ad28a8569244293c1e21379ca59ec19be5220a1c973e50f92c5d3",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/95c640276d74c1d6b97d7ae181522498a4cad352/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4baad4b4f07ad28a8569244293c1e21379ca59ec19be5220a1c973e50f92c5d3/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-CAR_CHASE-world-1794061618700250243.tar.gz",
+    "bytes": 887526,
+    "sha256": "8f334345a567cfb30fec485fba5210327933448febd3ca5f064aa9ec8a88f914",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c45c478c225dac898ed7f23d301279fbd41b015d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8f334345a567cfb30fec485fba5210327933448febd3ca5f064aa9ec8a88f914/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_CAR_CHASE_M11R03_FINAL-00000-00059-1794062509040829413.tar.gz",
+    "bytes": 21055335,
+    "sha256": "a1a276db08f12f173ea7ce770652c4d916ab0e54b6c0d26cabfb862ac0f080db",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/d737623ea00e8ee26f1bf73ceca11ba122c9e852/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a1a276db08f12f173ea7ce770652c4d916ab0e54b6c0d26cabfb862ac0f080db/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00480-00509-1794062605277939733.tar.gz",
+    "bytes": 2729389,
+    "sha256": "4660bae04a359ec2c6e3bb1c3d65f07710d9e0e46c05c899e710778ed5d31d7f",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/3dea2b8a5f8e242176ef482c935261267b3ef00d/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4660bae04a359ec2c6e3bb1c3d65f07710d9e0e46c05c899e710778ed5d31d7f/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-ARRIVAL-world-1794061700881553866.tar.gz",
+    "bytes": 789877,
+    "sha256": "76868cdf67350b4ed330ef38fcfe2fe6a362cfd07bf2abec36d380100efec793",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/169b25709f1f97ae7ddeb6b5d7be99d73259b831/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/76868cdf67350b4ed330ef38fcfe2fe6a362cfd07bf2abec36d380100efec793/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-M11_STAIRS_M11R03_DIAGNOSTIC-00120-00179-1794061986573902292.tar.gz",
+    "bytes": 5609613,
+    "sha256": "3744b18f84626f42d2e1421ee389621e309d2d9726139244aeb920c63a7b46ea",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/4a7653e01f11909ac7fddfc67267f08640fbf276/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/3744b18f84626f42d2e1421ee389621e309d2d9726139244aeb920c63a7b46ea/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-CAR_CHASE-world-1794060483753511675.tar.gz",
+    "bytes": 876145,
+    "sha256": "79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bce85d89a25d0c261384d63c41abd577ea3fe270/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b/manifest.json"
+  },
+  {
+    "local_archive": "checkpoints/pack-native world export source checkpoint-1794060390847431777.tar.gz",
+    "bytes": 26374586,
+    "sha256": "c05c3794d9dd0a8c9eb5124a9513a84c2465452ba3e6bc30e41de510f3de7448",
+    "remote_manifest": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/37adcf0abe4c3b4636510180e984a02704246d5b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/c05c3794d9dd0a8c9eb5124a9513a84c2465452ba3e6bc30e41de510f3de7448/manifest.json"
+  }
+]

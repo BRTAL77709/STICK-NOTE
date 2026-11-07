@@ -1,0 +1,10 @@
+{
+  "shot": "ARRIVAL",
+  "tag": "M11R03",
+  "sample_rate": 24000,
+  "events": [],
+  "dialogue": [],
+  "peak_dBFS": -22.765556831710576,
+  "RMS_dBFS": -32.129289794914165,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

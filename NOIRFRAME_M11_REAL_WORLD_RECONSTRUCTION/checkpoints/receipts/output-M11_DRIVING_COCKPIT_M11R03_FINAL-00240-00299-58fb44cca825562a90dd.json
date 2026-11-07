@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "M11_DRIVING_COCKPIT_M11R03_FINAL-00240-00299",
+  "local_path": "checkpoints/pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00240-00299-1794062664761564642.tar.gz",
+  "asset_name": "pack-M11_DRIVING_COCKPIT_M11R03_FINAL-00240-00299-1794062664761564642.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/dd049344046b5674695ecf6c2d28a56fa184c852/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/58fb44cca825562a90dd90705f18a584cedc8fc25b50d77cc6314f6f8ff431a7/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/dd049344046b5674695ecf6c2d28a56fa184c852/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/58fb44cca825562a90dd90705f18a584cedc8fc25b50d77cc6314f6f8ff431a7/",
+  "sha256": "58fb44cca825562a90dd90705f18a584cedc8fc25b50d77cc6314f6f8ff431a7",
+  "bytes": 14902807,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "dd049344046b5674695ecf6c2d28a56fa184c852",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:44:41Z"
+}

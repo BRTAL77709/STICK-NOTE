@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/5c8ef4ff6e385a04e2d7730b5654097f4272ad20/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_FINAL_POLL_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_FINAL_POLL_M11R03_PREVIEW_360",
+  "local_path": "renders/M11_FINAL_POLL_M11R03_PREVIEW_360.mp4",
+  "asset_name": "M11_FINAL_POLL_M11R03_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c6dadc968885a202aafbbf6fb08b7beb67711b48/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4b32cf852b8cb594140eaf8f6396b8eb009cb75ebe9779680a803a1667c4fe70/c85ab077d1a8f2f9d228/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/c6dadc968885a202aafbbf6fb08b7beb67711b48/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/4b32cf852b8cb594140eaf8f6396b8eb009cb75ebe9779680a803a1667c4fe70/c85ab077d1a8f2f9d228/",
+  "sha256": "4b32cf852b8cb594140eaf8f6396b8eb009cb75ebe9779680a803a1667c4fe70",
+  "bytes": 180493,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "c6dadc968885a202aafbbf6fb08b7beb67711b48",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:45:26Z"
+}

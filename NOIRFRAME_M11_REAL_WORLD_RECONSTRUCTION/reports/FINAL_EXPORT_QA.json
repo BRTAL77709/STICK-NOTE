@@ -1,0 +1,46 @@
+{
+  "M11_ROAD_BUILDINGS_M11R03_FINAL.mp4": {
+    "file": "renders/M11_ROAD_BUILDINGS_M11R03_FINAL.mp4",
+    "sha256": "018ff63c7d5461c99b374e17c86346a1991781f1c8c8ea75cfa48eafa3391da0",
+    "bytes": 3527670,
+    "duration": 7.0,
+    "frames": 210,
+    "checks": {
+      "h264": true,
+      "resolution": true,
+      "fps": true,
+      "yuv420p": true,
+      "aac": true,
+      "complete_decode": true,
+      "faststart": true,
+      "duration": true,
+      "frame_count": true
+    },
+    "technical_pass": true,
+    "decode_errors": "",
+    "artistic_approval": "PENDING USER REVIEW",
+    "verified_utc": "2026-11-07T14:46:32Z"
+  },
+  "M11_STAIRS_M11R03_DIAGNOSTIC.mp4": {
+    "file": "renders/M11_STAIRS_M11R03_DIAGNOSTIC.mp4",
+    "sha256": "3c629b0f93a77d041a320eac34260e4d8d3f18e8059896c641ac68edb059ef65",
+    "bytes": 924000,
+    "duration": 17.0,
+    "frames": 510,
+    "checks": {
+      "h264": true,
+      "resolution": true,
+      "fps": true,
+      "yuv420p": true,
+      "aac": true,
+      "complete_decode": true,
+      "faststart": true,
+      "duration": true,
+      "frame_count": true
+    },
+    "technical_pass": true,
+    "decode_errors": "",
+    "artistic_approval": "PENDING USER REVIEW",
+    "verified_utc": "2026-11-07T14:46:34Z"
+  }
+}

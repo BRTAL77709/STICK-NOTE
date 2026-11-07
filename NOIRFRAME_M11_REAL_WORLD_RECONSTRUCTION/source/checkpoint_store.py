@@ -45,7 +45,7 @@ def store_asset(path,kind,label):
  Every chunk is reachable from a pushed commit before verification/receipt.
  Chunking is transport only and never changes or re-encodes the production file.
  """
- path=Path(path);digest=sha(path);c=config();head=ensure_branch();oldtree=api('git/commits/'+head)['tree']['sha'];old=api('git/trees/'+oldtree+'?recursive=1');assert not old.get('truncated');known={x['sha'] for x in old['tree'] if x['type']=='blob'};prefix=R.name+'/checkpoint_objects/'+digest+'/';parts=[];rows=[]
+ path=Path(path);digest=sha(path);c=config();head=ensure_branch();oldtree=api('git/commits/'+head)['tree']['sha'];old=api('git/trees/'+oldtree+'?recursive=1');assert not old.get('truncated');known={x['sha'] for x in old['tree'] if x['type']=='blob'};object_key=hashlib.sha256((kind+'\0'+label+'\0'+path.name).encode()).hexdigest()[:20];prefix=R.name+'/checkpoint_objects/'+digest+'/'+object_key+'/';parts=[];rows=[]
  with path.open('rb') as f:
   i=0
   while True:
