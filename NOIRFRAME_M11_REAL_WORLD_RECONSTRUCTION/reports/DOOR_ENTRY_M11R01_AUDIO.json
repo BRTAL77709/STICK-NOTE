@@ -1,0 +1,127 @@
+{
+  "shot": "DOOR_ENTRY",
+  "tag": "M11R01",
+  "sample_rate": 24000,
+  "events": [
+    {
+      "time_s": 1.4,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 2.033333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 2.6666666666666665,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 3.2333333333333334,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 3.8666666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 4.466666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 5.1,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 5.7,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.333333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.966666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 7.566666666666666,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.2,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.8,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 9.433333333333334,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 10.066666666666666,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 10.566666666666666,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 13.9,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 14.633333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 15.3,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 15.966666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 16.666666666666668,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 17.366666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 18.033333333333335,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 18.733333333333334,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 19.5,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 0.58,
+      "kind": "key"
+    },
+    {
+      "time_s": 0.85,
+      "kind": "door"
+    },
+    {
+      "time_s": 9.85,
+      "kind": "latch"
+    },
+    {
+      "time_s": 11.6,
+      "kind": "key"
+    }
+  ],
+  "dialogue": [],
+  "peak_dBFS": -15.316792318890492,
+  "RMS_dBFS": -41.89019287260743,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

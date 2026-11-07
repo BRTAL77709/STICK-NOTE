@@ -1,0 +1,24 @@
+{
+  "shot": "CAR_EXIT_RUNNING",
+  "sampling": "Native evaluated meshes/bones at 30Hz; dense joint cache 60Hz supplied; not continuous collision certification",
+  "max_native_wrist_IK_error_m": 8.319553565667188e-05,
+  "max_native_leg_IK_error_m": 8.788578624180399e-05,
+  "max_native_finger_target_error_m": 3.3347986435563495e-06,
+  "max_limb_length_variation_m": 1.9395273694808313e-06,
+  "max_connected_joint_gap_m": 1.3956271975002402e-06,
+  "max_stance_mesh_drift_m": 6.971758921868549e-05,
+  "max_foot_ground_distance_m": 7.963269948959434e-05,
+  "max_root_frame_displacement_m": 0.060481221393058164,
+  "peak_root_acceleration_m_s2": 42.48602796371102,
+  "root_interpolation": "Native keyed location curves are piecewise linear and position-continuous; frame displacement is reported separately, not labelled a discontinuity",
+  "tolerances": {
+    "native_IK_error_m": 0.0015,
+    "finger_error_m": 0.002,
+    "limb_length_m": 0.0001,
+    "joint_gap_m": 0.0001,
+    "ground_contact_m": 0.0015,
+    "stance_drift_m": 0.0015
+  },
+  "artistic_status": "ARTISTIC REVIEW REQUIRED",
+  "technical_status": "TECHNICAL PASS"
+}

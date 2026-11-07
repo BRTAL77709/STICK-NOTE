@@ -88,7 +88,7 @@ def pack(paths,label):
 
 def git_files():
  files=[]
- for folder in ['source','configuration','assets','blender','reports','checkpoints/receipts']:
+ for folder in ['source','configuration','assets','blender','reports','sound','checkpoints/receipts']:
   for p in (R/folder).rglob('*'):
    if not p.is_file() or p.is_symlink() or '__pycache__' in p.parts or p.suffix in ['.log','.blend1']:continue
    if p.stat().st_size<=40*1024*1024:files.append(p)

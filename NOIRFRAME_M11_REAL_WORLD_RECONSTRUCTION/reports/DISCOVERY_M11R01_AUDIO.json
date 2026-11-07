@@ -1,0 +1,10 @@
+{
+  "shot": "DISCOVERY",
+  "tag": "M11R01",
+  "sample_rate": 24000,
+  "events": [],
+  "dialogue": [],
+  "peak_dBFS": -23.053095646673416,
+  "RMS_dBFS": -31.761359070517827,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

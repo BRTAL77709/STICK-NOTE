@@ -1,0 +1,24 @@
+{
+  "shot": "STAIRS",
+  "sampling": "Native evaluated meshes/bones at 30Hz; dense joint cache 60Hz supplied; not continuous collision certification",
+  "max_native_wrist_IK_error_m": 7.464446040698586e-05,
+  "max_native_leg_IK_error_m": 5.095686339046763e-05,
+  "max_native_finger_target_error_m": 0.0,
+  "max_limb_length_variation_m": 7.90869168265651e-07,
+  "max_connected_joint_gap_m": 1.60047073150844e-06,
+  "max_stance_mesh_drift_m": 2.9055353859916574e-06,
+  "max_foot_ground_distance_m": 2.487500508685514e-06,
+  "max_root_frame_displacement_m": 0.08525785834503208,
+  "peak_root_acceleration_m_s2": 37.50761468393575,
+  "root_interpolation": "Native keyed location curves are piecewise linear and position-continuous; frame displacement is reported separately, not labelled a discontinuity",
+  "tolerances": {
+    "native_IK_error_m": 0.0015,
+    "finger_error_m": 0.002,
+    "limb_length_m": 0.0001,
+    "joint_gap_m": 0.0001,
+    "ground_contact_m": 0.0015,
+    "stance_drift_m": 0.0015
+  },
+  "artistic_status": "ARTISTIC REVIEW REQUIRED",
+  "technical_status": "TECHNICAL PASS"
+}

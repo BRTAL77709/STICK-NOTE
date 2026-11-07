@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "source",
+  "label": "source checkpoint before DRIVING_COCKPIT render",
+  "local_path": "checkpoints/pack-source checkpoint before DRIVING_COCKPIT render-1794059344855591499.tar.gz",
+  "asset_name": "pack-source checkpoint before DRIVING_COCKPIT render-1794059344855591499.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aeb7f2f89cfc7b18d031628036d7ebb8ba2942ee/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/19f32dca82e2c7b09268b60c040492966dd41b273b48258f1d5c11408f861e6d/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/aeb7f2f89cfc7b18d031628036d7ebb8ba2942ee/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/19f32dca82e2c7b09268b60c040492966dd41b273b48258f1d5c11408f861e6d/",
+  "sha256": "19f32dca82e2c7b09268b60c040492966dd41b273b48258f1d5c11408f861e6d",
+  "bytes": 22632606,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "aeb7f2f89cfc7b18d031628036d7ebb8ba2942ee",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T13:49:25Z"
+}

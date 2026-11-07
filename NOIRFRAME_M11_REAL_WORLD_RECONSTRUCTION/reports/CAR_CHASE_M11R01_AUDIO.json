@@ -1,0 +1,10 @@
+{
+  "shot": "CAR_CHASE",
+  "tag": "M11R01",
+  "sample_rate": 24000,
+  "events": [],
+  "dialogue": [],
+  "peak_dBFS": -22.601121286350164,
+  "RMS_dBFS": -31.2288193440164,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

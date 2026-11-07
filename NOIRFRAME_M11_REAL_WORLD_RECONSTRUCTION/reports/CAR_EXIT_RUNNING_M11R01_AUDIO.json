@@ -1,0 +1,79 @@
+{
+  "shot": "CAR_EXIT_RUNNING",
+  "tag": "M11R01",
+  "sample_rate": 24000,
+  "events": [
+    {
+      "time_s": 4.7,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 5.466666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 5.9,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.266666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.6,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 6.933333333333334,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 7.266666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 7.6,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 7.966666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.3,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.633333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 8.966666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 9.3,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 9.733333333333333,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 10.2,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 2.55,
+      "kind": "latch"
+    },
+    {
+      "time_s": 2.8,
+      "kind": "door"
+    }
+  ],
+  "dialogue": [],
+  "peak_dBFS": -15.853181570703253,
+  "RMS_dBFS": -33.47638817674935,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}
