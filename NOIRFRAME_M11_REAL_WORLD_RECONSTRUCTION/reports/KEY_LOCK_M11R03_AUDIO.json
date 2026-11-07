@@ -1,0 +1,39 @@
+{
+  "shot": "KEY_LOCK",
+  "tag": "M11R03",
+  "sample_rate": 24000,
+  "events": [
+    {
+      "time_s": 0.7666666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 1.0666666666666667,
+      "kind": "footstep"
+    },
+    {
+      "time_s": 3.0,
+      "kind": "key"
+    },
+    {
+      "time_s": 4.0,
+      "kind": "key"
+    },
+    {
+      "time_s": 5.35,
+      "kind": "key"
+    },
+    {
+      "time_s": 6.0,
+      "kind": "key"
+    },
+    {
+      "time_s": 7.4,
+      "kind": "key"
+    }
+  ],
+  "dialogue": [],
+  "peak_dBFS": -16.613295482972564,
+  "RMS_dBFS": -47.242777513449056,
+  "audio_scope": "Original local voice WAV files; authored event-based engine/rain/interaction Foley, not acoustic simulation. No human listening approval claimed."
+}

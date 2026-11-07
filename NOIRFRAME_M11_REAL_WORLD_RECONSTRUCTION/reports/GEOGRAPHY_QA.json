@@ -1,0 +1,71 @@
+{
+  "cameras": {
+    "CAR_CHASE": {
+      "minimum_city_building_box_clearance_m": 0.35946265650197695,
+      "collision_flags": [],
+      "technical_status": "TECHNICAL PASS",
+      "scope": "Every output-frame camera origin versus fixed city boxes and House17 bounds; not full ray certification."
+    },
+    "ROAD_BUILDINGS": {
+      "minimum_city_building_box_clearance_m": 0.14010567410558114,
+      "collision_flags": [],
+      "technical_status": "TECHNICAL PASS",
+      "scope": "Every output-frame camera origin versus fixed city boxes and House17 bounds; not full ray certification."
+    },
+    "ARRIVAL": {
+      "minimum_city_building_box_clearance_m": 1.3828042297185472,
+      "collision_flags": [],
+      "technical_status": "TECHNICAL PASS",
+      "scope": "Every output-frame camera origin versus fixed city boxes and House17 bounds; not full ray certification."
+    },
+    "CAR_EXIT_RUNNING": {
+      "minimum_city_building_box_clearance_m": 2.786091339722364,
+      "collision_flags": [],
+      "technical_status": "TECHNICAL PASS",
+      "scope": "Every output-frame camera origin versus fixed city boxes and House17 bounds; not full ray certification."
+    }
+  },
+  "continuity": {
+    "DRIVING_COCKPIT": {
+      "max_native_state_vs_master_world_position_m": 1.7763568394002505e-15,
+      "pass": true
+    },
+    "DRIVER_CHASE": {
+      "max_native_state_vs_master_world_position_m": 1.7763568394002505e-15,
+      "pass": true
+    },
+    "DISCOVERY": {
+      "max_native_state_vs_master_world_position_m": 1.7763568394002505e-15,
+      "pass": true
+    },
+    "PANIC": {
+      "max_native_state_vs_master_world_position_m": 1.7763568394002505e-15,
+      "pass": true
+    },
+    "actual_native_door_to_stairs_root_m": 0.0,
+    "actual_native_stairs_to_bedroom_root_m": 8.429369683337697e-08,
+    "arrival_to_parked_exit_origin_difference_m": 0.0,
+    "parked_witness_world_position_m": [
+      5.0684599504579335,
+      0.0,
+      64.94919657556527
+    ],
+    "parked_black_sedan_world_position_m": [
+      5.861266114432107,
+      0.0,
+      59.972986638101865
+    ]
+  },
+  "real_window_aperture": {
+    "bedroom_window_clear_through_facade": true,
+    "solid_wall_control_ray_has_hit": true,
+    "window_ray_hits": [],
+    "wall_control_hits": [
+      {
+        "distance_m": 0.9,
+        "object": "House17 solid facade around real apertures"
+      }
+    ],
+    "technical_status": "TECHNICAL PASS"
+  }
+}

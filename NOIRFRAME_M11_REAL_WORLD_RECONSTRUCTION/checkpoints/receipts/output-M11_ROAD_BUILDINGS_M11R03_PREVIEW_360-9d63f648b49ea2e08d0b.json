@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/54bbf6a33c8df04a53ab633a8711bdf4bca6bc2b/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_ROAD_BUILDINGS_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_ROAD_BUILDINGS_M11R03_PREVIEW_360",
+  "local_path": "renders/M11_ROAD_BUILDINGS_M11R03_PREVIEW_360.mp4",
+  "asset_name": "M11_ROAD_BUILDINGS_M11R03_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1015e79f07efa93b83c2ca01076e3c704f952e31/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/9d63f648b49ea2e08d0b5f5ab5312292a7ea9d6a7169ffe7baae25b4581b91b6/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/1015e79f07efa93b83c2ca01076e3c704f952e31/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/9d63f648b49ea2e08d0b5f5ab5312292a7ea9d6a7169ffe7baae25b4581b91b6/",
+  "sha256": "9d63f648b49ea2e08d0b5f5ab5312292a7ea9d6a7169ffe7baae25b4581b91b6",
+  "bytes": 1254981,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "1015e79f07efa93b83c2ca01076e3c704f952e31",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:22:26Z"
+}

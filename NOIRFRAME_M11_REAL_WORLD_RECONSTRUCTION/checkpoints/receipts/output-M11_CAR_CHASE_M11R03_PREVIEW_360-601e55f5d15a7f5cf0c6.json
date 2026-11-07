@@ -1,0 +1,15 @@
+{
+  "direct_download_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/e93c367438980f8dbb1ec8ab90684f3d81e663db/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/renders/M11_CAR_CHASE_M11R03_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_CAR_CHASE_M11R03_PREVIEW_360",
+  "local_path": "renders/M11_CAR_CHASE_M11R03_PREVIEW_360.mp4",
+  "asset_name": "M11_CAR_CHASE_M11R03_PREVIEW_360.mp4",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/0207834e3e7caa8f1ec8afd04890c3a1bd8ebdc5/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/601e55f5d15a7f5cf0c6953afcef74ead376f07b2f0b6ac9443ab218baaa483a/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/0207834e3e7caa8f1ec8afd04890c3a1bd8ebdc5/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/601e55f5d15a7f5cf0c6953afcef74ead376f07b2f0b6ac9443ab218baaa483a/",
+  "sha256": "601e55f5d15a7f5cf0c6953afcef74ead376f07b2f0b6ac9443ab218baaa483a",
+  "bytes": 1801263,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "0207834e3e7caa8f1ec8afd04890c3a1bd8ebdc5",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:24:28Z"
+}
