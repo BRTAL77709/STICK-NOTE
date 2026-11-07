@@ -1,0 +1,22 @@
+{
+  "filename": "pack-PHONE_CALL-M11R03-1794061142866072808.tar.gz",
+  "kind": "output",
+  "label": "PHONE_CALL-M11R03",
+  "sha256": "5da5f7d3d82b08d286443bb87af8c4602491bfa66b28fa7abf0c45cd90803d9e",
+  "bytes": 9412532,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "adff4c8f6ec7ae4d037e398eb0d68d6aabe5d81a2f284f30752f2348f2c13e18",
+      "git_sha": "996af8cfb36cab7367626b1baf0e075bd1f0bea1"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 1023924,
+      "sha256": "c343fad4200b5600a31220f961def1b8508e25b921373d0181a35a964f106dec",
+      "git_sha": "4ceca2423679b3c6fc54d88f509889a3fd9fab16"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
