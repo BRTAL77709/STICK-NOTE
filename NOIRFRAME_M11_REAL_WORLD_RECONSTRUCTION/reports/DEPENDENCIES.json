@@ -1,0 +1,45 @@
+{
+  "blender": {
+    "path": "/usr/bin/blender",
+    "available": true
+  },
+  "ffmpeg": {
+    "path": "/usr/bin/ffmpeg",
+    "available": true
+  },
+  "ffprobe": {
+    "path": "/usr/bin/ffprobe",
+    "available": true
+  },
+  "gh": {
+    "path": "/usr/bin/gh",
+    "available": true
+  },
+  "g++": {
+    "path": "/usr/bin/g++",
+    "available": true
+  },
+  "chromium": {
+    "path": "/usr/bin/chromium",
+    "available": true
+  },
+  "numpy": {
+    "available": true,
+    "version": "2.3.5"
+  },
+  "scipy": {
+    "available": true,
+    "version": "1.17.0"
+  },
+  "PIL": {
+    "available": true,
+    "version": "12.3.0"
+  },
+  "playwright": {
+    "available": true,
+    "version": null
+  },
+  "cv2": {
+    "available": false
+  }
+}

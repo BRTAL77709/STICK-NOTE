@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "DISCOVERY-M11R02",
+  "local_path": "checkpoints/pack-DISCOVERY-M11R02-1794060013911847709.tar.gz",
+  "asset_name": "pack-DISCOVERY-M11R02-1794060013911847709.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8582d8c2c809e5633506c84badb7636c5473eeb0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/002248ef5eea48ed7c7d76e8ab77da635c4a8179353aaa4b7b572811a4327300/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/8582d8c2c809e5633506c84badb7636c5473eeb0/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/002248ef5eea48ed7c7d76e8ab77da635c4a8179353aaa4b7b572811a4327300/",
+  "sha256": "002248ef5eea48ed7c7d76e8ab77da635c4a8179353aaa4b7b572811a4327300",
+  "bytes": 2710679,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "8582d8c2c809e5633506c84badb7636c5473eeb0",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:00:23Z"
+}

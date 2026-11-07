@@ -1,0 +1,302 @@
+[
+  {
+    "scene": 1,
+    "title": "2:17 AM",
+    "narrative_start": 0.0,
+    "narrative_end": 4.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "ROAD_BUILDINGS",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 2,
+    "title": "The driver",
+    "narrative_start": 4.0,
+    "narrative_end": 8.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "DRIVING_COCKPIT",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 3,
+    "title": "Something wrong",
+    "narrative_start": 8.0,
+    "narrative_end": 12.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "DISCOVERY",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 4,
+    "title": "The crime",
+    "narrative_start": 12.0,
+    "narrative_end": 18.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/v10_trunk.py",
+    "M11_sequence": null,
+    "protected_V10": true,
+    "timing_conflicts": [],
+    "status": "USER APPROVED \u2014 existing V10 protected per instruction",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 5,
+    "title": "The trunk",
+    "narrative_start": 18.0,
+    "narrative_end": 24.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/v10_trunk.py",
+    "M11_sequence": null,
+    "protected_V10": true,
+    "timing_conflicts": [],
+    "status": "USER APPROVED \u2014 existing V10 protected per instruction",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 6,
+    "title": "They saw him",
+    "narrative_start": 24.0,
+    "narrative_end": 28.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/v10_trunk.py",
+    "M11_sequence": null,
+    "protected_V10": true,
+    "timing_conflicts": [],
+    "status": "USER APPROVED \u2014 existing V10 protected per instruction",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 7,
+    "title": "Panic",
+    "narrative_start": 28.0,
+    "narrative_end": 32.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "PANIC",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 8,
+    "title": "Pursuit",
+    "narrative_start": 32.0,
+    "narrative_end": 37.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "CAR_CHASE",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 9,
+    "title": "Escape",
+    "narrative_start": 37.0,
+    "narrative_end": 42.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "CAR_CHASE",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 10,
+    "title": "Safe?",
+    "narrative_start": 42.0,
+    "narrative_end": 47.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "ARRIVAL",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 11,
+    "title": "House 17",
+    "narrative_start": 47.0,
+    "narrative_end": 51.0,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "CAR_EXIT_RUNNING",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 12,
+    "title": "Locked door / key retrieval and unlock",
+    "narrative_start": 51,
+    "narrative_end": 57,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "KEY_LOCK",
+    "protected_V10": false,
+    "timing_conflicts": [],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 13,
+    "title": "Open / enter / close / lock",
+    "narrative_start": 57,
+    "narrative_end": 61.4,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "DOOR_ENTRY",
+    "protected_V10": false,
+    "timing_conflicts": [
+      {
+        "action": "complete entry",
+        "start": 55,
+        "end": 55.36,
+        "cause_contact_followthrough": "World feet carry the body through a doorway taller/wider than the approved rig; camera switches after the body crosses inside."
+      },
+      {
+        "action": "close / latch / lock / check",
+        "start": 55.35,
+        "end": 57.18,
+        "cause_contact_followthrough": "Inside hand pulls the same hinged leaf; thumbturn and wrist rotate together; lever check releases into spring return."
+      }
+    ],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 14,
+    "title": "Three upper stair steps",
+    "narrative_start": 61.4,
+    "narrative_end": 65.4,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "STAIRS",
+    "protected_V10": false,
+    "timing_conflicts": [
+      {
+        "action": "upper flight and trailing foot",
+        "start": 59.35,
+        "end": 60.85,
+        "cause_contact_followthrough": "Seven more .18 m risers complete 2.7 m floor rise; opposite foot follows onto the landing."
+      },
+      {
+        "action": "approach window",
+        "start": 60.85,
+        "end": 61.35,
+        "cause_contact_followthrough": "Three deliberate foot moves from actual stair landing to the curtain; nightstand is outside the route."
+      },
+      {
+        "action": "reach / fabric grip / pull",
+        "start": 61.35,
+        "end": 62.35,
+        "cause_contact_followthrough": "Right hand grips the actual curtain edge; two sidesteps transfer weight as folds lag the hand."
+      }
+    ],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 15,
+    "title": "Curtain grip / reveal / reaction",
+    "narrative_start": 65.4,
+    "narrative_end": 69.4,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "WINDOW_CURTAIN",
+    "protected_V10": false,
+    "timing_conflicts": [
+      {
+        "action": "ring / attention",
+        "start": 63.1,
+        "end": 63.6,
+        "cause_contact_followthrough": "Device vibrates on its support; eyes turn before the head."
+      },
+      {
+        "action": "reach / grip / lift",
+        "start": 63.6,
+        "end": 64.95,
+        "cause_contact_followthrough": "Left hand contacts before the phone leaves its table; size/angle change continuously with the lift."
+      },
+      {
+        "action": "answer / listen",
+        "start": 64.95,
+        "end": 67,
+        "cause_contact_followthrough": "Elbow flexes to place the panel against the ear-side face point below the cap; no temple-level hold."
+      }
+    ],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 16,
+    "title": "Phone acquisition / lift / million-dollar offer",
+    "narrative_start": 69.4,
+    "narrative_end": 77.3,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "PHONE_CALL",
+    "protected_V10": false,
+    "timing_conflicts": [
+      {
+        "action": "offer reaction",
+        "start": 67.7,
+        "end": 69.1,
+        "cause_contact_followthrough": "Knees flex, torso withdraws, free palm reaches the chest; phone grip follows the head."
+      },
+      {
+        "action": "window glance / temptation",
+        "start": 69.05,
+        "end": 72.4,
+        "cause_contact_followthrough": "Eyes lead a return glance; free hand opens into a restrained hesitation gesture and returns."
+      }
+    ],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 17,
+    "title": "Threat / recoil / backward foot plants",
+    "narrative_start": 77.3,
+    "narrative_end": 81.5,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "UNKNOWN_CALLER",
+    "protected_V10": false,
+    "timing_conflicts": [
+      {
+        "action": "threat reaction",
+        "start": 74.95,
+        "end": 76.9,
+        "cause_contact_followthrough": "Attention/neck/torso and knee response follows the caller onset; free hand protects chest while the device stays attached."
+      },
+      {
+        "action": "back away",
+        "start": 77,
+        "end": 77.6,
+        "cause_contact_followthrough": "Two actual backward steps clear the nightstand; world root moves deeper into the room."
+      }
+    ],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  },
+  {
+    "scene": 18,
+    "title": "Final choice",
+    "narrative_start": 81.5,
+    "narrative_end": 86,
+    "existing_source": "/workspace/STICK-NOTE/full-film-real-motion-rebuild/engine/animation/film_performance.py",
+    "M11_sequence": "FINAL_POLL",
+    "protected_V10": false,
+    "timing_conflicts": [
+      {
+        "action": "preserved choice graphics",
+        "start": 80,
+        "end": 86,
+        "cause_contact_followthrough": "No new character action claimed. Preserve A/B design, timed reveal and narration; rain background remains animated."
+      }
+    ],
+    "status": "ARTISTIC REVIEW REQUIRED",
+    "audit_scope": "Movement/contact/camera/geometry/sound reports supplied per standalone sequence; exact 86s edit/conform is deferred. New durations intentionally expand actions and some coverage overlaps world-clock ranges. No full-film assembly."
+  }
+]
