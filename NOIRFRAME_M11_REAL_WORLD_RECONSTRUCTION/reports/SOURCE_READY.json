@@ -1,6 +1,6 @@
 {
   "source_sha256": {
-    "source/actions.py": "0499037e40f47f35a8b92540760ec626e87de7f6f8f4341d987d095ad9caa935",
+    "source/actions.py": "8dd79874db8ed191ca9f8d94da7745dc9023bb63dee7bedf42c4a1e9fddd7d2d",
     "source/actions_M08.py": "f49ce4046bf6f54836e006bc357966bec6b307b1c976e9f24e89cbee3e3662ac",
     "source/actions_M08B.py": "33497cf96c51b4098ebe21c79d70b50930c181eefb71dde115ca78bc6ab2c689",
     "source/actions_M08C.py": "33497cf96c51b4098ebe21c79d70b50930c181eefb71dde115ca78bc6ab2c689",
@@ -132,7 +132,7 @@
     "source/native_pov_presentation.py": "f7facdd3840bdd409d4b6150c39a788626882d6764b2616558869ed5176476bb",
     "source/native_reopen_check.py": "c5765c585341aaa2a1efb4f49b4f99c2c41b41b6ba0bdabedff04a95b4c1f5ad",
     "source/native_style.py": "729dd8ed1a50a3a27d9fdde8cbbde7fa0bdafd2dc6829e8fc2e6d012162a1f6d",
-    "source/native_world_m11.py": "7f3894e826a774fff07e97ef8262c2124db840cf5cf03021de286b3e15750468",
+    "source/native_world_m11.py": "c1648ca267be36071903b8910acc31cd2f0f0ecf6727aad8b6ac1523e7f3fb9e",
     "source/overlays_m11.py": "c8fdf901f57f70ee999b1a67546923c5937b0df5c46435eb5e30cbf27192a59f",
     "source/package_m08.py": "49ec480927dc8972947302cc95123cc98fa6903ed452a5070445b861de631181",
     "source/package_m09.py": "6159ac60b00e552232f5c15374049eb9511f0b4b5b6be706920daf84e01e7aa1",
@@ -145,7 +145,7 @@
     "source/produce_m09.py": "e763a973b7672eab6c6f16696a8b2ccccfbc60c26137173706fa1fd8c7bab02d",
     "source/produce_m09d.py": "91620300c9720da5987a99194d4c7946c700c82f9836eb8b6e1dd13caae2d22d",
     "source/produce_m10.py": "70ca1fa5fcbee0c90853b86a0dbf620e04d7889df31a4509d864794641c4bd1b",
-    "source/produce_m11.py": "ebde19848870c4ec4020d153d075bbb8a7043320cc3308b0c01b7c860a814911",
+    "source/produce_m11.py": "783b1cdaa0e75d7baf93774cfe0a20984e284dfbe0bf6bf3a76591a17a89f050",
     "source/producer_provenance.py": "e0364ec4679f10547695aaefb25f32ace4c51390f8d501343a35cad781d684bb",
     "source/production_guard.py": "a8fbd560b82ee5ec6c7067910a2b8a87b1cb2b6a1816ec080afa0032d97e18af",
     "source/reframe_exit_m09.py": "4d8628de1b4dbab3d1ecc1c4af3dabfd56898b8cfb21a2c2150de9a4891402ef",
@@ -154,7 +154,7 @@
     "source/render_clips.py": "cb58d3dc8133410c1586a2deea93f5ece4482b4befc12243b6932e521500ac83",
     "source/render_clips_before_head_view.py": "13682530e7f904eaed7a41907456e28aa47d45e38d500a8b1fd7666ad6f6b847",
     "source/render_clips_before_lock_POV.py": "74b539418c863fd539d653ea14ff7fca60bdd04d860cd29eb9fbe5e4eac53c6e",
-    "source/render_m11.py": "4869a767c2fc2d3155ee6b53543f2468a08bffeb3a6111eaee5144f4bcff7b2f",
+    "source/render_m11.py": "283986e1243568ab702085c49e8823d0c99d2e5e6c30c2b1960c93f3a4ee5a98",
     "source/reuse_exit_frames_m10.py": "9f168b2ee0012d5a02ba8626ef9ed1122a6623385e6a51dc2fb7dba13ffdb2ed",
     "source/reuse_exit_frames_m10i.py": "d76bbbb012d415e39316d58d8633a0c41ea77fae3c25b578f10805a659d21144",
     "source/review_playback.py": "720c2b2697f4167e0793e3fae5d4c16963df212ceac3d545fef837552b320804",
@@ -190,6 +190,6 @@
     "source/view_head.py": "225c9b04a4e66f02f02dba5dffdc9dcfd2f652d414404a3479d297066c8be7f4",
     "source/world.py": "51c1d23a7188f51e2f22c018526007b9c1aa1c46bf32df7ec14206f95f7f2212"
   },
-  "verified_source_commit": "0bda5fc42702f3179ae350e25cda6dc30f79e063",
+  "verified_source_commit": "ee9afa60b8e924a036182e4ecfa6ac5e2964baa9",
   "branch": "noirframe/m11-safe-rebuild"
 }

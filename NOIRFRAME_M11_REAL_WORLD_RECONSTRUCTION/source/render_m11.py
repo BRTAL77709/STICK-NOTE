@@ -70,6 +70,12 @@ def backup_batch(directory,paths,start,end,fingerprint):
   old=json.loads(report.read_text());assert old['fingerprint']==fingerprint and old['verified'];return
  manifest=directory/f'BATCH_{start:05d}_{end:05d}.json';manifest.write_text(json.dumps({'fingerprint':fingerprint,'start':start,'end':end,'files':[{'path':str(p.relative_to(R)),'sha256':hashlib.sha256(p.read_bytes()).hexdigest()} for p in paths]},indent=2));archive,_=pack([directory/'PRODUCER.json',manifest,*paths],label)
  subprocess.run([sys.executable,str(R/'source/checkpoint_store.py'),'asset','--path',str(archive.relative_to(R)),'--label',label],check=True)
+ if not (R/'reports/FRAME_BACKUP_RESTORE_DRILL.json').exists():
+  from restore_checkpoint import restore
+  receipts=[json.loads(p.read_text()) for p in (R/'checkpoints/receipts').glob('*.json')];receipt=next(x for x in receipts if x['label']==label and x.get('download_SHA256_verified'));dest=R/'checkpoints/restore_tests/first_frame_batch';result=restore(receipt['url'],dest)
+  png=next(dest.rglob('*.png'))
+  with Image.open(png) as check:assert check.size==(1080,1920);check.verify()
+  (R/'reports/FRAME_BACKUP_RESTORE_DRILL.json').write_text(json.dumps(result,indent=2))
  report.write_text(json.dumps({'label':label,'fingerprint':fingerprint,'verified':True,'archive':str(archive.relative_to(R)),'sha256':hashlib.sha256(archive.read_bytes()).hexdigest()},indent=2))
 
 def main():
