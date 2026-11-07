@@ -1,0 +1,16 @@
+{
+  "filename": "M11_CAR_CHASE_M11R01_PREVIEW_360.mp4",
+  "kind": "output",
+  "label": "M11_CAR_CHASE_M11R01_PREVIEW_360",
+  "sha256": "2d3861a750330e0f2325eefe532ca270d2691b0f05ccdda47abb47084f338ee7",
+  "bytes": 1802623,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 1802623,
+      "sha256": "2d3861a750330e0f2325eefe532ca270d2691b0f05ccdda47abb47084f338ee7",
+      "git_sha": "e7d7593a51da0dd8674ce22e7783eb2d86d96a1b"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
