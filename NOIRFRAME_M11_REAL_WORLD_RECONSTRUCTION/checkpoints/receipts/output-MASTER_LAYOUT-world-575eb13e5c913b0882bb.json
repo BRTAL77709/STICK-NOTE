@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "MASTER_LAYOUT-world",
+  "local_path": "checkpoints/pack-MASTER_LAYOUT-world-1794060440797618942.tar.gz",
+  "asset_name": "pack-MASTER_LAYOUT-world-1794060440797618942.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cfc0a760ef8d0f8917005c37bb126a2e66c54464/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/575eb13e5c913b0882bb160dc4a992202a46695f5fb56c9552de4c350f0e7377/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/cfc0a760ef8d0f8917005c37bb126a2e66c54464/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/575eb13e5c913b0882bb160dc4a992202a46695f5fb56c9552de4c350f0e7377/",
+  "sha256": "575eb13e5c913b0882bb160dc4a992202a46695f5fb56c9552de4c350f0e7377",
+  "bytes": 687318,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "cfc0a760ef8d0f8917005c37bb126a2e66c54464",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:07:37Z"
+}

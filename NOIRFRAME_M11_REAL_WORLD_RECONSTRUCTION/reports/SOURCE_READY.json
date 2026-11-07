@@ -84,6 +84,8 @@
     "source/export_vehicle_scene.py": "e6fad4843bc727234ba4d5f81f5a3ff71908427205cce3fa9dd8b81115d19997",
     "source/export_vehicle_scene_m09.py": "c6cdda19b76869b59a7ea5bf6253c031cba98ebc9e18efd87b82cc24fbd1c187",
     "source/export_vehicle_scene_m10.py": "b604b3f163d06b5d42db4fcd8167d29d69fe236957134a13f0b52e8e0f3abe0b",
+    "source/export_world_m11.py": "c6440141627701c4394d30a19c7816e63306bf4a046b92db2f5a4c38f30e3eca",
+    "source/export_worlds_backed_up.py": "68970c04a47adeafd632e55e314e3ff337440d88cf26def4e7a6b2e14364852b",
     "source/fast_depth.py": "e1e023c1c886b67200d0e6bbf1e19686e78e1491059f3cb200aef95df2e1d3b2",
     "source/fast_depth_M08_UNCACHED.py": "a7769cffe44a05267d0aa617dd0d5ed6ee87d607b4071c8b369a850ad5d38e6e",
     "source/fast_raster.cpp": "afa6b7ab734668e0bc8d6c706e83078241771ccb5337130e2c72b53531929458",
@@ -156,7 +158,7 @@
     "source/render_clips.py": "cb58d3dc8133410c1586a2deea93f5ece4482b4befc12243b6932e521500ac83",
     "source/render_clips_before_head_view.py": "13682530e7f904eaed7a41907456e28aa47d45e38d500a8b1fd7666ad6f6b847",
     "source/render_clips_before_lock_POV.py": "74b539418c863fd539d653ea14ff7fca60bdd04d860cd29eb9fbe5e4eac53c6e",
-    "source/render_m11.py": "e2044008643f40e06ba417c0a31f152af66825630927c8dc12408c986f8a2521",
+    "source/render_m11.py": "878c3aa654f7045a3c69ff607fa437493127b6a8fdfadc207ccfff2e84047cd8",
     "source/restore_checkpoint.py": "c55f83bba50348b2515fe00065b560ef489948b9da5fe926a8a1fec44143c3ca",
     "source/reuse_exit_frames_m10.py": "9f168b2ee0012d5a02ba8626ef9ed1122a6623385e6a51dc2fb7dba13ffdb2ed",
     "source/reuse_exit_frames_m10i.py": "d76bbbb012d415e39316d58d8633a0c41ea77fae3c25b578f10805a659d21144",
@@ -195,6 +197,6 @@
     "source/view_head.py": "225c9b04a4e66f02f02dba5dffdc9dcfd2f652d414404a3479d297066c8be7f4",
     "source/world.py": "51c1d23a7188f51e2f22c018526007b9c1aa1c46bf32df7ec14206f95f7f2212"
   },
-  "verified_source_commit": "635278db5f327a7af2d557b5c23c02c8894cb9a9",
+  "verified_source_commit": "f380282436b4bb4762087bf464da76f8240ea0c4",
   "branch": "noirframe/m11-safe-rebuild"
 }

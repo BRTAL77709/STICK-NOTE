@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "ROAD_BUILDINGS-world",
+  "local_path": "checkpoints/pack-ROAD_BUILDINGS-world-1794060461651298295.tar.gz",
+  "asset_name": "pack-ROAD_BUILDINGS-world-1794060461651298295.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/997ce05add8b221bf6cd3d555a0289d7d511af80/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/997ce05add8b221bf6cd3d555a0289d7d511af80/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46/",
+  "sha256": "8084ee304972ab5745d7f56e1ca3671337dab9e82745dac5b00f07ff2f649a46",
+  "bytes": 814314,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "997ce05add8b221bf6cd3d555a0289d7d511af80",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:07:58Z"
+}

@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "ARRIVAL-world",
+  "local_path": "checkpoints/pack-ARRIVAL-world-1794060497661635308.tar.gz",
+  "asset_name": "pack-ARRIVAL-world-1794060497661635308.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/263311f7a237ce1eb6428eb3c2a08ee03a0aa2c7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a6cf5d5a3ef85730f70ada1d4ced022cbb5710f74c3e85c4cf612bd5aecf45cd/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/263311f7a237ce1eb6428eb3c2a08ee03a0aa2c7/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/a6cf5d5a3ef85730f70ada1d4ced022cbb5710f74c3e85c4cf612bd5aecf45cd/",
+  "sha256": "a6cf5d5a3ef85730f70ada1d4ced022cbb5710f74c3e85c4cf612bd5aecf45cd",
+  "bytes": 775560,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "263311f7a237ce1eb6428eb3c2a08ee03a0aa2c7",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:08:27Z"
+}

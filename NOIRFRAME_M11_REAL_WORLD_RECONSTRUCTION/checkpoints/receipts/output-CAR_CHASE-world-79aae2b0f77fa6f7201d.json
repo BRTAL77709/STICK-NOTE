@@ -1,0 +1,15 @@
+{
+  "direct_download_url": null,
+  "kind": "output",
+  "label": "CAR_CHASE-world",
+  "local_path": "checkpoints/pack-CAR_CHASE-world-1794060483753511675.tar.gz",
+  "asset_name": "pack-CAR_CHASE-world-1794060483753511675.tar.gz",
+  "url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bce85d89a25d0c261384d63c41abd577ea3fe270/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b/manifest.json",
+  "parts_base_url": "https://raw.githubusercontent.com/BRTAL77709/STICK-NOTE/bce85d89a25d0c261384d63c41abd577ea3fe270/NOIRFRAME_M11_REAL_WORLD_RECONSTRUCTION/checkpoint_objects/79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b/",
+  "sha256": "79aae2b0f77fa6f7201d8d057cfbb62a2794d650b30dc56a9bc56bb54dbce15b",
+  "bytes": 876145,
+  "backend": "GitHub committed immutable chunks",
+  "commit": "bce85d89a25d0c261384d63c41abd577ea3fe270",
+  "download_SHA256_verified": true,
+  "verified_at_utc": "2026-11-07T14:08:12Z"
+}
