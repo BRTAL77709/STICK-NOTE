@@ -1,0 +1,22 @@
+{
+  "filename": "pack-M11_WINDOW_CURTAIN_M11R03_FINAL-00240-00299-1794064576796783091.tar.gz",
+  "kind": "output",
+  "label": "M11_WINDOW_CURTAIN_M11R03_FINAL-00240-00299",
+  "sha256": "0aac762dfb658f9d8c292a30d226ef631f5c3000145d148fa2487014ceca6a5e",
+  "bytes": 13166686,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "eda5d43c2601a3a4930c0c40f1190cf8e29025afd774f6e22e3710edd15282d5",
+      "git_sha": "79d27e38cc2447653c2b6ce6f69b93d0f214f188"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 4778078,
+      "sha256": "f1529280bb7de27475eeecefd7a2123cbbe8ad73a74bdb3418468baef707beab",
+      "git_sha": "062649ece2d7947bb2fd3576d954b787811adf14"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
