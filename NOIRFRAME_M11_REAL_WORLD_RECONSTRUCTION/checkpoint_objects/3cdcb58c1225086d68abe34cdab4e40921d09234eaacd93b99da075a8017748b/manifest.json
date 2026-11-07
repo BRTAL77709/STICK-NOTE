@@ -1,0 +1,16 @@
+{
+  "filename": "pack-DRIVING_COCKPIT-M11R01-1794058971779806646.tar.gz",
+  "kind": "output",
+  "label": "DRIVING_COCKPIT-M11R01",
+  "sha256": "3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b",
+  "bytes": 7422684,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 7422684,
+      "sha256": "3cdcb58c1225086d68abe34cdab4e40921d09234eaacd93b99da075a8017748b",
+      "git_sha": "27115443786b2aa0528eae3b5f3b69167e2f1d2a"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
