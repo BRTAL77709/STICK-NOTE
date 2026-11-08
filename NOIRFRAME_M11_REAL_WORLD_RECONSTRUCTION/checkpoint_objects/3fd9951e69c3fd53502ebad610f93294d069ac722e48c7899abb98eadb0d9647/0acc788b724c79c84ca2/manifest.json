@@ -1,0 +1,64 @@
+{
+  "filename": "pack-Runtime resumed; six completed scene exports and recoverable partial frames verified-1794143581501589257.tar.gz",
+  "kind": "source",
+  "label": "Runtime resumed; six completed scene exports and recoverable partial frames verified",
+  "sha256": "3fd9951e69c3fd53502ebad610f93294d069ac722e48c7899abb98eadb0d9647",
+  "bytes": 72390404,
+  "parts": [
+    {
+      "name": "part-00000.bin",
+      "bytes": 8388608,
+      "sha256": "07d5eccdcd02ed9a81da3926b8389eacc22d870aa5c70f779d2e5c3ef44804ef",
+      "git_sha": "f8f0f0f3af18e193ee406ac74e64782806b8fa2f"
+    },
+    {
+      "name": "part-00001.bin",
+      "bytes": 8388608,
+      "sha256": "77ae547f8518c47e1803f182b0d30eeea898c1d1fa0583b171b9a827edb1ed1f",
+      "git_sha": "268099825cea632a425e5817233e6f97a2124870"
+    },
+    {
+      "name": "part-00002.bin",
+      "bytes": 8388608,
+      "sha256": "3a4cde00b365d86af4fca46d383264e41db18dab24ae852e65aaee7e9c45e988",
+      "git_sha": "0d2d69477556add61eed90e70b003b9a98971004"
+    },
+    {
+      "name": "part-00003.bin",
+      "bytes": 8388608,
+      "sha256": "44c4a898826424c448d88c537d8ddfc60a3c5e87a69e243b4d6502f2ddb1abf2",
+      "git_sha": "7eb2b935da8963b5ac784c0790a2a26a091384d3"
+    },
+    {
+      "name": "part-00004.bin",
+      "bytes": 8388608,
+      "sha256": "e19693cda1fee0d9a20cb6de8c6517e4a911549f8dee01d37a035eb2c325901e",
+      "git_sha": "0c67627794eaf56e186c10805f11eb7d48bf39d7"
+    },
+    {
+      "name": "part-00005.bin",
+      "bytes": 8388608,
+      "sha256": "0ef8adf8784807bb2f218978f083dd13bea303457a3586749ae2c2f2782b09ec",
+      "git_sha": "8bef86046fc43cbf21f3782fb7be00f075b426fe"
+    },
+    {
+      "name": "part-00006.bin",
+      "bytes": 8388608,
+      "sha256": "83d815dd0d67fe27ee3249eeb8958295e462f3b1e9a25fe246556cc5af79776b",
+      "git_sha": "5d7c503e68a9e28bdcf14db943b7f91a8ab2120a"
+    },
+    {
+      "name": "part-00007.bin",
+      "bytes": 8388608,
+      "sha256": "ba50f4ab6fb74acb693203ed9fd302357cf855af7978a39416e0f94fc4486a4f",
+      "git_sha": "c6c362e876b969368d6dd27126d1066643c77685"
+    },
+    {
+      "name": "part-00008.bin",
+      "bytes": 5281540,
+      "sha256": "9cc1798d1e5b2b0d3888eda1b835191db432832b8c4e9971d9b5bc42700d4ec0",
+      "git_sha": "f41ab6c6be3103c9d6f43223000b764f47a7620a"
+    }
+  ],
+  "format": "Concatenate parts in numeric order; no compression/quality transformation"
+}
